@@ -14,12 +14,34 @@ List originally comprised by [@closebracket](https://github.com/closebracket), v
 3. [The Yellow Book](https://www.robmiles.com/s/CSharp-Book-2019-Refresh.pdf) - A fantastic intro to C# from former Hull Lecturer, [Rob Miles](robmiles.com). He also has other publications available [here](https://www.amazon.co.uk/s?i=stripbooks&rh=p_27:Rob%20Miles&s=relevancerank&text=Rob%20Miles&ref=dp_byline_sr_book_1).
 4. [Rob Miles Youtube](https://www.youtube.com/channel/UC4OEadKEwxD7TxR9hKhxtuQ).
 5. [CSBlogs](http://csblogs.com/) - A collection of blogs from UoH staff, alumni and current students.
+6. [Freeside Discord](https://discord.gg/qAZ8dAp).
+7. [#HullCSS Discord](https://discord.gg/gzx4nee).
+8. [Hull Gaming Society Discord](https://discord.gg/agaf92a).
+9. [Hull Robotics Society Discord](https://discord.gg/pYP5kqE).
 
 ## Hull Related
 1. [For Entrepreneurs Only](https://forentrepreneursonly.co.uk/) - Headquartered on UoH campus providing business mentoring and support.
 2. [C4Di](https://www.c4di.co.uk/) (Hull Based)
 3. [Connected Humber Hardware Meetups](https://www.connectedhumber.org/meetups.html)
 4. [Hull Central Library Makerspace](https://www.hcandl.co.uk/libraries/makerspace/about-makerspacehull)
+
+## Student/Alumni Sites
+1. [Antony Leons](https://blog.leons.dev/).
+2. [Adam Boyne](https://adamboyne.wordpress.com).
+3. [Adam Tunnicliffe](https://adamt3d.com).
+4. [Danny Brown](https://dannybrown.io).
+5. [David Mortiboy](https://www.davidmortiboy.com).
+6. [Edward Charles](https://mr.edwardcharl.es).
+7. [Harry Gwinnell](https://harrygwinnell.co.uk).
+8. [Jacob Morris](https://jamorris.co.uk).
+9. [James Croft](https://www.jamescroft.co.uk).
+10. [Nathaniel Read](https://nathaniel.work).
+11. [Paul Adams](https://paulhub.uk).
+12. [Richard Bamford](https://www.richardbamford.io).
+13. [Sara Payne](https://sarapayne.co.uk).
+14. [Rob Crocombe](https://robcrocombe.com).
+15. [Lydia Bryan-Smith](https://starbeamrainbowlabs.com).
+16. [Tom Fosdick](https://www.tomfosdick.com).
 
 ## Business / Career 
 1. [Google Campus](https://www.campus.co/) (London Based)
@@ -64,7 +86,7 @@ List originally comprised by [@closebracket](https://github.com/closebracket), v
 13. [Kattis](https://open.kattis.com/) - Programming problems to help you improve your skills. Compete against staff/students.
 14. [Code Academy](https://www.codecademy.com/) - Improve your programming knowledge.
 
-# Linux Distributions
+## Linux Distributions
 1. [Ubuntu](https://ubuntu.com/).
 2. [Fedora](https://getfedora.org/).
 3. [Arch](https://www.archlinux.org/).
