@@ -67,7 +67,7 @@ List originally comprised by [@closebracket](https://github.com/closebracket), v
 6. [Doctl](https://github.com/digitalocean/doctl)
 7. [The Big Warehouse](https://github.com/sbrl/thebigwarehouse) - A collection of resources for programmers from [@starbeamrainbowlabs](https://starbeamrainbowlabs.com/).
 
-##Law and Standards
+## Law and Standards
 1. [W3](https://www.w3.org/standards/) - Standards for web design and applications, devices, architecture, XML, web services and other technology.
 2. [GDPR Compliance Checklist](https://gdprchecklist.io/)
 3. [ICO Guide to GDPR](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/)
@@ -119,7 +119,7 @@ List originally comprised by [@closebracket](https://github.com/closebracket), v
 12. [Cyber Essentials Certificaton](https://www.ncsc.gov.uk/cyberessentials/overview)
 13. [Privacy Tools](https://privacytools.io)
 
-##Other interesting stuff
+## Other interesting stuff
 1. [How to install and configure VMWare VSphere Hypervisor on a Raspberry Pi](https://www.experts-exchange.com/articles/34931/HOW-TO-Install-and-Configure-VMware-vSphere-Hypervisor-7-0-ESXi-7-0-ARM-on-a-Raspberry-Pi-4.html)
 2. [Platform.uno](https://platform.uno) - Multi platform applications, one code base.
 3. [D Sharp Plus](https://github.com/DSharpPlus/DSharpPlus) - An unofficial .NET wrapper for the Discord API
