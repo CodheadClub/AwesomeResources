@@ -67,6 +67,12 @@ List originally comprised by [@closebracket](https://github.com/closebracket), v
 6. [Doctl](https://github.com/digitalocean/doctl)
 7. [The Big Warehouse](https://github.com/sbrl/thebigwarehouse) - A collection of resources for programmers from [@starbeamrainbowlabs](https://starbeamrainbowlabs.com/).
 
+##Law and Standards
+1. [W3](https://www.w3.org/standards/) - Standards for web design and applications, devices, architecture, XML, web services and other technology.
+2. [GDPR Compliance Checklist](https://gdprchecklist.io/)
+3. [ICO Guide to GDPR](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/)
+4. [Government overview of Data Protection](https://www.gov.uk/data-protection)
+
 ## Learning Resources
 1. [Math Talks to Blow Your Mind Playlist](https://www.youtube.com/playlist?list=PLOGi5-fAu8bEIw_xkj1FgKr7QY_Sahswy)
 2. [Data Structures Playlist](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P).
@@ -85,6 +91,9 @@ List originally comprised by [@closebracket](https://github.com/closebracket), v
 12. [CSBlogs](http://csblogs.com/) - A collection of blogs from UoH staff, alumni and current students.
 13. [Kattis](https://open.kattis.com/) - Programming problems to help you improve your skills. Compete against staff/students.
 14. [Code Academy](https://www.codecademy.com/) - Improve your programming knowledge.
+15. [Devdocs](https://devdocs.io/) - Searchable developer docs
+16. [Aweomesheet](https://zombiefox.github.io/awesomeSheet/) - CSS Generator
+17. [Install LAMP on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-20-04-quickstart) - Tutorial on installing LAMP on Ubuntu
 
 ## Linux Distributions
 1. [Ubuntu](https://ubuntu.com/).
@@ -106,3 +115,11 @@ List originally comprised by [@closebracket](https://github.com/closebracket), v
 8. [Authy](https://authy.com)
 9. [GCHQ Cyberchef](https://github.com/gchq/CyberChef)
 10. [DuckDuckGo Smarter Encryption](https://github.com/duckduckgo/smarter-encryption)
+11. [CIS Benchmarking](https://www.cisecurity.org/cis-benchmarks/) - Benchmarking tools to protect your environment
+12. [Cyber Essentials Certificaton](https://www.ncsc.gov.uk/cyberessentials/overview)
+13. [Privacy Tools](https://privacytools.io)
+
+##Other interesting stuff
+1. [How to install and configure VMWare VSphere Hypervisor on a Raspberry Pi](https://www.experts-exchange.com/articles/34931/HOW-TO-Install-and-Configure-VMware-vSphere-Hypervisor-7-0-ESXi-7-0-ARM-on-a-Raspberry-Pi-4.html)
+2. [Platform.uno](https://platform.uno) - Multi platform applications, one code base.
+3. [D Sharp Plus](https://github.com/DSharpPlus/DSharpPlus) - An unofficial .NET wrapper for the Discord API
