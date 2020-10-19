@@ -7,6 +7,8 @@ List originally comprised by [@closebracket](https://github.com/closebracket), v
 ## Student Discount / Free stuff
 1. [Github Student Pack](https://education.github.com/pack).
 2. [Azure for Students](https://azure.microsoft.com/en-gb/free/students/).
+3. [VMware Academic Software Licensing Program] e.g. VMware Workstation, VMware vSphere, VMware Fusion((https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?ws=b7344511-bb8b-e011-969d-0030487d8897&vsro=8) - Request access via http://support.hull.ac.uk and mention Andy Hancock VMware vExpert PRO! 
+
 
 ## Hull University Related
 1. [On the Hub](https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?ws=b7344511-bb8b-e011-969d-0030487d8897&vsro=8) - Free software for University of Hull Students
@@ -120,6 +122,7 @@ List originally comprised by [@closebracket](https://github.com/closebracket), v
 13. [Privacy Tools](https://privacytools.io)
 
 ## Other interesting stuff
-1. [How to install and configure VMWare VSphere Hypervisor on a Raspberry Pi](https://www.experts-exchange.com/articles/34931/HOW-TO-Install-and-Configure-VMware-vSphere-Hypervisor-7-0-ESXi-7-0-ARM-on-a-Raspberry-Pi-4.html)
-2. [Platform.uno](https://platform.uno) - Multi platform applications, one code base.
-3. [D Sharp Plus](https://github.com/DSharpPlus/DSharpPlus) - An unofficial .NET wrapper for the Discord API
+1. [HOW TO: Install and Configure VMware vSphere Hypervisor 7.0 (ESXi 7.0 ARM) on a Raspberry Pi 4](https://www.experts-exchange.com/articles/34931/HOW-TO-Install-and-Configure-VMware-vSphere-Hypervisor-7-0-ESXi-7-0-ARM-on-a-Raspberry-Pi-4.html)
+2. [HOW TO: BOOT VMware vSphere Hypervisor 7.0 (ESXi 7.0 ARM) from an iSCSI LUN for the Raspberry Pi 4] (https://www.experts-exchange.com/articles/35132/HOW-TO-BOOT-VMware-vSphere-Hypervisor-7-0-ESXi-7-0-ARM-from-an-iSCSI-LUN-for-the-Raspberry-Pi-4.html)
+3. [Platform.uno](https://platform.uno) - Multi platform applications, one code base.
+4. [D Sharp Plus](https://github.com/DSharpPlus/DSharpPlus) - An unofficial .NET wrapper for the Discord API
