@@ -16,7 +16,7 @@
 13. [Cyber Security Resources](#cyber)
 14. [Other Interesting Stuff](#misc)
 
-# Introduction <a name="introduction"></a>
+## Introduction <a name="introduction"></a>
 This list comprises resources contributed by staff and students at the [University of Hull](https://hull.ac.uk) across a variety of abilities, levels and degree disciplines.
 List originally comprised by [@closebracket](https://github.com/closebracket), visit his website [here](https://edwardcharl.es).
 
