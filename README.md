@@ -27,7 +27,10 @@ If you feel something is missing from the list, please feel free to fork the rep
 1. [Github Student Pack](https://education.github.com/pack).
 2. [Azure for Students](https://azure.microsoft.com/en-gb/free/students/).
 3. [VMware Academic Software Licensing Program](https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?ws=b7344511-bb8b-e011-969d-0030487d8897&vsro=8) e.g. VMware Workstation, VMware vSphere, VMware Fusion - Request access via http://support.hull.ac.uk and mention Andy Hancock VMware vExpert PRO! 
-
+4. [Free Books on Robotics](https://github.com/StevenShiChina/books)
+5. [Learning Python Book](https://cfm.ehu.es/ricardo/docs/python/Learning_Python.pdf)
+6. [Free books on CS related subjects](https://github.com/MrAlex6204/Books/)
+7. [Data Science Handbook](https://tanthiamhuat.files.wordpress.com/2018/04/pythondatasciencehandbook.pdf)
 
 ## Hull University Related <a name="hulluniversity"></a>
 1. [On the Hub](https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?ws=b7344511-bb8b-e011-969d-0030487d8897&vsro=8) - Free software for University of Hull Students
@@ -69,6 +72,14 @@ If you feel something is missing from the list, please feel free to fork the rep
 2. [Barclays Eagle Labs](https://labs.uk.barclays/) (Nationwide)
 3. [For Entrepreneurs Only](https://forentrepreneursonly.co.uk/) - Headquartered on UoH campus providing business mentoring and support. 
 4. [C4Di](https://www.c4di.co.uk/) (Hull Based)
+5. [5 ways to help get into the games industry](https://www.linkedin.com/pulse/5-ways-help-you-get-job-games-industry-beginners-guy-derosa/)
+6. [Writing the ideal CV for the games industry](https://www.linkedin.com/pulse/writing-ideal-cv-games-industry-guy-derosa-1c/)
+7. [University of Hull Computer Science Linkedin Group](https://www.linkedin.com/groups/5117767/)
+8. [Network Yorkshire Linkedin Group](https://www.linkedin.com/groups/97127/)
+9. [One Hull Business Forum Linkedin Group](https://www.linkedin.com/groups/3700459/)
+10. [The Yorkshire Mafia Linkedin Group](https://www.linkedin.com/groups/1260737/)
+11. [Yorkshire Enterprise Network Linkedin Group](https://www.linkedin.com/groups/64954/)
+12. [York & Yorkshire Local Enterprise Partnership Linkedin Group](https://www.linkedin.com/groups/4217871/)
 
 ## Services <a name="services"></a>
 1. [Migadu.com](https://migadu.com) - Unlimited cheap email for lots of domains.
@@ -87,6 +98,7 @@ If you feel something is missing from the list, please feel free to fork the rep
 5. [Bashmarks](https://github.com/huyng/bashmarks)
 6. [Doctl](https://github.com/digitalocean/doctl)
 7. [The Big Warehouse](https://github.com/sbrl/thebigwarehouse) - A collection of resources for programmers from [@starbeamrainbowlabs](https://starbeamrainbowlabs.com/).
+8. [Dockstation](https://dockstation.io/) - Docker GUI for Windows, Mac and Linux
 
 ## Law and Standards <a name="standards"></a>
 1. [W3](https://www.w3.org/standards/) - Standards for web design and applications, devices, architecture, XML, web services and other technology.
