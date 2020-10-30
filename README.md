@@ -158,6 +158,9 @@ If you feel something is missing from the list, please feel free to fork the rep
 ## Other interesting stuff <a name="misc"></a>
 1. [HOW TO: Install and Configure VMware vSphere Hypervisor 7.0 (ESXi 7.0 ARM) on a Raspberry Pi 4](http://vexpert.me/ESXi-ARM)
 2. [HOW TO: BOOT VMware vSphere Hypervisor 7.0 (ESXi 7.0 ARM) from an iSCSI LUN for the Raspberry Pi 4](http://vexpert.me/iSCSI-BOOT-from-ESXi-ARM)
-3. [How to Backup an ESXi installation on an USB Flash Drive or SD card for security or redundancy.] (http://vexpert.me/BackupESXi)
-4. [Platform.uno](https://platform.uno) - Multi platform applications, one code base.
-5. [D Sharp Plus](https://github.com/DSharpPlus/DSharpPlus) - An unofficial .NET wrapper for the Discord API
+3. [Platform.uno](https://platform.uno) - Multi platform applications, one code base.
+4. [D Sharp Plus](https://github.com/DSharpPlus/DSharpPlus) - An unofficial .NET wrapper for the Discord API
+
+## Andrew Hancock, Department of Computer Science & Technology - Systems] <a name="andrewhancock"></a>
+Andrew is the IT Specialist based in Computer Science and Technology, responsible for watering and feeding the Computer Science and Technology infrastructure. He also has a long list of VMware and Virtulisations articles, reproduced here for your reading pleasure.
+1. [How to Backup an ESXi installation on an USB Flash Drive or SD card for security or redundancy.] (http://vexpert.me/BackupESXi)
