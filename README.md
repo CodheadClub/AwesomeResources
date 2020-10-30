@@ -153,7 +153,12 @@ If you feel something is missing from the list, please feel free to fork the rep
 13. [Privacy Tools](https://privacytools.io)
 
 ## Other interesting stuff <a name="misc"></a>
-1. [HOW TO: Install and Configure VMware vSphere Hypervisor 7.0 (ESXi 7.0 ARM) on a Raspberry Pi 4](https://www.experts-exchange.com/articles/34931/HOW-TO-Install-and-Configure-VMware-vSphere-Hypervisor-7-0-ESXi-7-0-ARM-on-a-Raspberry-Pi-4.html)
-2. [HOW TO: BOOT VMware vSphere Hypervisor 7.0 (ESXi 7.0 ARM) from an iSCSI LUN for the Raspberry Pi 4](https://www.experts-exchange.com/articles/35132/HOW-TO-BOOT-VMware-vSphere-Hypervisor-7-0-ESXi-7-0-ARM-from-an-iSCSI-LUN-for-the-Raspberry-Pi-4.html)
-3. [Platform.uno](https://platform.uno) - Multi platform applications, one code base.
+1. [HOW TO: Install and Configure VMware vSphere Hypervisor 7.0 (ESXi 7.0 ARM) on a Raspberry Pi 4](http://vexpert.me/ESXi-ARM)
+2. [HOW TO: BOOT VMware vSphere Hypervisor 7.0 (ESXi 7.0 ARM) from an iSCSI LUN for the Raspberry Pi 4](http://vexpert.me/iSCSI-BOOT-from-ESXi-ARM)
+3. [How to Backup an ESXi installation on an USB Flash Drive or SD card for security or redundancy.] (http://vexpert.me/BackupESXi)
+
+
+] 
+
+[Platform.uno](https://platform.uno) - Multi platform applications, one code base.
 4. [D Sharp Plus](https://github.com/DSharpPlus/DSharpPlus) - An unofficial .NET wrapper for the Discord API
