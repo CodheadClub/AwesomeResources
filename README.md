@@ -15,6 +15,7 @@
 12. [Linux Distributions](#linux)
 13. [Cyber Security Resources](#cyber)
 14. [Other Interesting Stuff](#misc)
+15. [Andrew Hancock, Department of Computer Science & Technology - Systems](#andrewhancock)
 
 ## Introduction <a name="introduction"></a>
 This list comprises resources contributed by staff and students at the [University of Hull](https://hull.ac.uk) across a variety of abilities, levels and degree disciplines.
@@ -35,13 +36,15 @@ If you feel something is missing from the list, please feel free to fork the rep
 ## Hull University Related <a name="hulluniversity"></a>
 1. [On the Hub](https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?ws=b7344511-bb8b-e011-969d-0030487d8897&vsro=8) - Free software for University of Hull Students
 2. [Brian Tompsett Youtube Channel](https://www.youtube.com/channel/UCfG7W9cpOp4G4rH-gLgxVdw). Brian is a [lecturer at University of Hull](https://www.hull.ac.uk/staff-directory/brian-tompsett) and has a [long list of published works](https://scholar.google.co.uk/citations?user=4CFnDSAAAAAJ&hl=en). 
-3. [The Yellow Book](https://www.robmiles.com/s/CSharp-Book-2019-Refresh.pdf) - A fantastic intro to C# from former Hull Lecturer, [Rob Miles](robmiles.com). He also has other publications available [here](https://www.amazon.co.uk/s?i=stripbooks&rh=p_27:Rob%20Miles&s=relevancerank&text=Rob%20Miles&ref=dp_byline_sr_book_1).
-4. [Rob Miles Youtube](https://www.youtube.com/channel/UC4OEadKEwxD7TxR9hKhxtuQ).
-5. [CSBlogs](http://csblogs.com/) - A collection of blogs from UoH staff, alumni and current students.
-6. [Freeside Discord](https://discord.gg/qAZ8dAp).
-7. [#HullCSS Discord](https://discord.gg/gzx4nee).
-8. [Hull Gaming Society Discord](https://discord.gg/agaf92a).
-9. [Hull Robotics Society Discord](https://discord.gg/pYP5kqE).
+3. [Andrew Hancock](#andrewhancock). Andrew is the IT Specialist based in Computer Science and Technology, responsible for watering and feeding the Computer Science and Technology infrastructure. He also has a long list of VMware and Virtulisations articles (#andrewhancock) 
+4. [The Yellow Book](https://www.robmiles.com/s/CSharp-Book-2019-Refresh.pdf) - A fantastic intro to C# from former Hull Lecturer, [Rob Miles](robmiles.com). He also has other publications available [here](https://www.amazon.co.uk/s?i=stripbooks&rh=p_27:Rob%20Miles&s=relevancerank&text=Rob%20Miles&ref=dp_byline_sr_book_1).
+5. [Rob Miles Youtube](https://www.youtube.com/channel/UC4OEadKEwxD7TxR9hKhxtuQ).
+6. [CSBlogs](http://csblogs.com/) - A collection of blogs from UoH staff, alumni and current students.
+7. [Freeside Discord](https://discord.gg/qAZ8dAp).
+8. [#HullCSS Discord](https://discord.gg/gzx4nee).
+9. [Hull Gaming Society Discord](https://discord.gg/agaf92a).
+10. [Hull Robotics Society Discord](https://discord.gg/pYP5kqE).
+11. [Department of Computer Science and Technology Twitter] (https://twitter.com/HullCompSci).
 
 ## Hull Related <a name="hull"></a>
 1. [For Entrepreneurs Only](https://forentrepreneursonly.co.uk/) - Headquartered on UoH campus providing business mentoring and support.
@@ -80,6 +83,7 @@ If you feel something is missing from the list, please feel free to fork the rep
 10. [The Yorkshire Mafia Linkedin Group](https://www.linkedin.com/groups/1260737/)
 11. [Yorkshire Enterprise Network Linkedin Group](https://www.linkedin.com/groups/64954/)
 12. [York & Yorkshire Local Enterprise Partnership Linkedin Group](https://www.linkedin.com/groups/4217871/)
+13. [Andrew Hancock talks with friends Randy Redberg and Thomas Bernal at Experts Exchange about Career Growth and VMware](https://www.experts-exchange.com/podcasts/5/Career-Growth-and-VMware.html)
 
 ## Services <a name="services"></a>
 1. [Migadu.com](https://migadu.com) - Unlimited cheap email for lots of domains.
@@ -153,7 +157,12 @@ If you feel something is missing from the list, please feel free to fork the rep
 13. [Privacy Tools](https://privacytools.io)
 
 ## Other interesting stuff <a name="misc"></a>
-1. [HOW TO: Install and Configure VMware vSphere Hypervisor 7.0 (ESXi 7.0 ARM) on a Raspberry Pi 4](https://www.experts-exchange.com/articles/34931/HOW-TO-Install-and-Configure-VMware-vSphere-Hypervisor-7-0-ESXi-7-0-ARM-on-a-Raspberry-Pi-4.html)
-2. [HOW TO: BOOT VMware vSphere Hypervisor 7.0 (ESXi 7.0 ARM) from an iSCSI LUN for the Raspberry Pi 4](https://www.experts-exchange.com/articles/35132/HOW-TO-BOOT-VMware-vSphere-Hypervisor-7-0-ESXi-7-0-ARM-from-an-iSCSI-LUN-for-the-Raspberry-Pi-4.html)
+1. [HOW TO: Install and Configure VMware vSphere Hypervisor 7.0 (ESXi 7.0 ARM) on a Raspberry Pi 4](http://vexpert.me/ESXi-ARM)
+2. [HOW TO: BOOT VMware vSphere Hypervisor 7.0 (ESXi 7.0 ARM) from an iSCSI LUN for the Raspberry Pi 4](http://vexpert.me/iSCSI-BOOT-from-ESXi-ARM)
 3. [Platform.uno](https://platform.uno) - Multi platform applications, one code base.
 4. [D Sharp Plus](https://github.com/DSharpPlus/DSharpPlus) - An unofficial .NET wrapper for the Discord API
+
+## Andrew Hancock, Department of Computer Science & Technology - Systems] <a name="andrewhancock"></a>
+Andrew is the IT Specialist based in Computer Science and Technology, responsible for watering and feeding the Computer Science and Technology infrastructure. He also has a long list of VMware and Virtulisations articles, reproduced here for your reading pleasure.
+1. [How to Backup an ESXi installation on an USB Flash Drive or SD card for security or redundancy.](http://vexpert.me/BackupESXi)
+2. [VMware ESX/ESXi Backup Guide](http://vexpert.me/BackupGuide)
