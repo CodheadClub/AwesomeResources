@@ -160,8 +160,8 @@ If you feel something is missing from the list, please feel free to fork the rep
 1. [Platform.uno](https://platform.uno) - Multi platform applications, one code base.
 2. [D Sharp Plus](https://github.com/DSharpPlus/DSharpPlus) - An unofficial .NET wrapper for the Discord API
 
-## Andrew Hancock, Department of Computer Science & Technology - Systems] <a name="andrewhancock"></a>
-Andrew is the IT Specialist based in Computer Science and Technology, responsible for watering and feeding the Computer Science and Technology infrastructure. (based on VMware vSphere). He also has a long list of VMware and Virtulisations articles, a passionate VMware Technical Architect, and VMware vExpert Pror. His articles are reproduced here for your reading pleasure. If you want to discuss anything VMware, then ask him! He will only be too happy to oblige.
+## Andrew Hancock, Department of Computer Science & Technology - Systems <a name="andrewhancock"></a>
+Andrew is the IT Specialist based in Computer Science and Technology, responsible for watering and feeding the Computer Science and Technology infrastructure. (based on VMware vSphere). He also has a long list of VMware and Virtulisations articles, a passionate VMware Technical Architect, and VMware vExpert Pro. His articles are reproduced here for your reading pleasure. If you want to discuss anything VMware, then ask him! He will only be too happy to oblige.
 1. [How to Backup an ESXi installation on an USB Flash Drive or SD card for security or redundancy.](http://vexpert.me/BackupESXi)
 2. [VMware ESX/ESXi Backup Guide](http://vexpert.me/BackupGuide)
 3. [HOW TO: Improve the transfer rate of a Physical to Virtual (P2V) Virtual to Virtual Conversion (V2V) using VMware vCenter Converter Standalone 5.0](https://www.experts-exchange.com/articles/9131/HOW-TO-Improve-the-transfer-rate-of-a-Physical-to-Virtual-P2V-Virtual-to-Virtual-Conversion-V2V-using-VMware-vCenter-Converter-Standalone-5-0.html)
