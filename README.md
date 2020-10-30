@@ -36,7 +36,7 @@ If you feel something is missing from the list, please feel free to fork the rep
 ## Hull University Related <a name="hulluniversity"></a>
 1. [On the Hub](https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?ws=b7344511-bb8b-e011-969d-0030487d8897&vsro=8) - Free software for University of Hull Students
 2. [Brian Tompsett Youtube Channel](https://www.youtube.com/channel/UCfG7W9cpOp4G4rH-gLgxVdw). Brian is a [lecturer at University of Hull](https://www.hull.ac.uk/staff-directory/brian-tompsett) and has a [long list of published works](https://scholar.google.co.uk/citations?user=4CFnDSAAAAAJ&hl=en). 
-3. [Andrew Hancock](#andrewhancock). Andrew is the VMware Specialist in Computer Science & Technology, responsible for architecure, watering & feeding the Computer Science and Technology VMware infrastructure. He also has a long list of VMware and Virtualisation articles (#andrewhancock) 
+3. [Andrew Hancock](#andrewhancock). Andrew is the VMware Specialist in Computer Science & Technology, responsible for architecure, watering & feeding the Computer Science and Technology VMware infrastructure. He also has a long list of VMware and Virtualisation articles.
 4. [The Yellow Book](https://www.robmiles.com/s/CSharp-Book-2019-Refresh.pdf) - A fantastic intro to C# from former Hull Lecturer, [Rob Miles](robmiles.com). He also has other publications available [here](https://www.amazon.co.uk/s?i=stripbooks&rh=p_27:Rob%20Miles&s=relevancerank&text=Rob%20Miles&ref=dp_byline_sr_book_1).
 5. [Rob Miles Youtube](https://www.youtube.com/channel/UC4OEadKEwxD7TxR9hKhxtuQ).
 6. [CSBlogs](http://csblogs.com/) - A collection of blogs from UoH staff, alumni and current students.
