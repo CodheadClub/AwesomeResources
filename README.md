@@ -42,6 +42,7 @@ If you feel something is missing from the list, please feel free to fork the rep
 7. [#HullCSS Discord](https://discord.gg/gzx4nee).
 8. [Hull Gaming Society Discord](https://discord.gg/agaf92a).
 9. [Hull Robotics Society Discord](https://discord.gg/pYP5kqE).
+10. [Department of Computer Science and Technology Twitter] (https://twitter.com/HullCompSci).
 
 ## Hull Related <a name="hull"></a>
 1. [For Entrepreneurs Only](https://forentrepreneursonly.co.uk/) - Headquartered on UoH campus providing business mentoring and support.
