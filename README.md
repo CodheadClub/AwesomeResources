@@ -83,6 +83,7 @@ If you feel something is missing from the list, please feel free to fork the rep
 10. [The Yorkshire Mafia Linkedin Group](https://www.linkedin.com/groups/1260737/)
 11. [Yorkshire Enterprise Network Linkedin Group](https://www.linkedin.com/groups/64954/)
 12. [York & Yorkshire Local Enterprise Partnership Linkedin Group](https://www.linkedin.com/groups/4217871/)
+13. [Andrew Hancock talks with friends Randy Redberg and Thomas Bernal at Experts Exchange about Career Growth and VMware](https://www.experts-exchange.com/podcasts/5/Career-Growth-and-VMware.html)
 
 ## Services <a name="services"></a>
 1. [Migadu.com](https://migadu.com) - Unlimited cheap email for lots of domains.
@@ -164,3 +165,4 @@ If you feel something is missing from the list, please feel free to fork the rep
 ## Andrew Hancock, Department of Computer Science & Technology - Systems] <a name="andrewhancock"></a>
 Andrew is the IT Specialist based in Computer Science and Technology, responsible for watering and feeding the Computer Science and Technology infrastructure. He also has a long list of VMware and Virtulisations articles, reproduced here for your reading pleasure.
 1. [How to Backup an ESXi installation on an USB Flash Drive or SD card for security or redundancy.](http://vexpert.me/BackupESXi)
+2. [VMware ESX/ESXi Backup Guide](http://vexpert.me/BackupGuide)
