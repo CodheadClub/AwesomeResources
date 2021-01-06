@@ -19,7 +19,7 @@
 
 ## Introduction <a name="introduction"></a>
 This list comprises resources contributed by staff and students at the [University of Hull](https://hull.ac.uk) across a variety of abilities, levels and degree disciplines.
-List originally comprised by [@closebracket](https://github.com/closebracket), visit his website [here](https://edwardcharl.es).
+List originally comprised by [@closebracket](https://github.com/closebracket), visit his website [here](https://love.edwardcharl.es).
 
 ## Contributing <a name="contributing"></a>
 If you feel something is missing from the list, please feel free to fork the repository and submit a pull request with your changes. This will increase your skills with git, markdown and show that you can contribute to projects voluntarily.
@@ -51,6 +51,7 @@ If you feel something is missing from the list, please feel free to fork the rep
 2. [C4Di](https://www.c4di.co.uk/) (Hull Based)
 3. [Connected Humber Hardware Meetups](https://www.connectedhumber.org/meetups.html)
 4. [Hull Central Library Makerspace](https://www.hcandl.co.uk/libraries/makerspace/about-makerspacehull)
+5. [Hull Chamber of Commerce](https://www.hull-humber-chamber.co.uk/)
 
 ## Student/Alumni Sites <a name="studentsites"></a>
 1. [Antony Leons](https://blog.leons.dev/).
@@ -58,7 +59,7 @@ If you feel something is missing from the list, please feel free to fork the rep
 3. [Adam Tunnicliffe](https://adamt3d.com).
 4. [Danny Brown](https://dannybrown.io).
 5. [David Mortiboy](https://www.davidmortiboy.com).
-6. [Edward Charles](https://mr.edwardcharl.es).
+6. [Edward Charles](https://love.edwardcharl.es).
 7. [Harry Gwinnell](https://harrygwinnell.co.uk).
 8. [Jacob Morris](https://jamorris.co.uk).
 9. [James Croft](https://www.jamescroft.co.uk).
@@ -103,6 +104,7 @@ If you feel something is missing from the list, please feel free to fork the rep
 6. [Doctl](https://github.com/digitalocean/doctl)
 7. [The Big Warehouse](https://github.com/sbrl/thebigwarehouse) - A collection of resources for programmers from [@starbeamrainbowlabs](https://starbeamrainbowlabs.com/).
 8. [Dockstation](https://dockstation.io/) - Docker GUI for Windows, Mac and Linux
+9. [Tush](https://github.com/darius/tush/) - a literate testing shell
 
 ## Law and Standards <a name="standards"></a>
 1. [W3](https://www.w3.org/standards/) - Standards for web design and applications, devices, architecture, XML, web services and other technology.
@@ -131,6 +133,7 @@ If you feel something is missing from the list, please feel free to fork the rep
 15. [Devdocs](https://devdocs.io/) - Searchable developer docs
 16. [Aweomesheet](https://zombiefox.github.io/awesomeSheet/) - CSS Generator
 17. [Install LAMP on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-20-04-quickstart) - Tutorial on installing LAMP on Ubuntu
+18. [CRISP-DM PyData 2015](https://www.youtube.com/watch?v=civLio11SjQ)
 
 ## Linux Distributions <a name="linux"></a>
 1. [Ubuntu](https://ubuntu.com/).
@@ -158,10 +161,12 @@ If you feel something is missing from the list, please feel free to fork the rep
 14. [Syclla.sh](https://scylla.sh/) - community-oriented database leak community that is a useful tool for security researchers.
 15. [h8mail](https://github.com/khast3x/h8mail) - Email OSINT & Password breach hunting tool, locally or using premium services. Supports chasing down related email
 16. [TryHackMe](https://tryhackme.com/) - is an online platform for learning cyber security, using hands-on exercises and labs!
+17. [Awesome OSINT](https://github.com/jivoi/awesome-osint) - List of OSINT Tools and resources
 
 ## Other interesting stuff <a name="misc"></a>
 1. [Platform.uno](https://platform.uno) - Multi platform applications, one code base.
 2. [D Sharp Plus](https://github.com/DSharpPlus/DSharpPlus) - An unofficial .NET wrapper for the Discord API
+3. [E Foundation](https://e.foundation)
 
 ## Andrew Hancock, Department of Computer Science & Technology - Systems <a name="andrewhancock"></a>
 Andrew is the VMware Specialist in Computer Science & Technology, responsible for the VMware architecture, watering & feeding the Computer Science & Technology VMware vSphere infrastructure. (based on VMware vSphere). He also has a long list of VMware and Virtualisations articles, a passionate VMware Technical Architect, and VMware vExpert Pro. His articles are reproduced here for your reading pleasure. If you want to discuss anything VMware, then ask him! He will only be too happy to oblige.
