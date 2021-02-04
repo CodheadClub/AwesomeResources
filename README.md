@@ -19,10 +19,11 @@
 
 ## Introduction <a name="introduction"></a>
 This list comprises resources contributed by staff and students at the [University of Hull](https://hull.ac.uk) across a variety of abilities, levels and degree disciplines.
-List originally comprised by [@closebracket](https://github.com/closebracket), visit his website [here](https://love.edwardcharl.es).
+
+List originally comprised by [@closebracket](https://github.com/closebracket), visit his website [here](https://love.edwardcharl.es). 
 
 ## Contributing <a name="contributing"></a>
-If you feel something is missing from the list, please feel free to fork the repository and submit a pull request with your changes. This will increase your skills with git, markdown and show that you can contribute to projects voluntarily.
+If you feel something is missing from the list, please feel free to fork the repository and submit a pull request with your changes. This will increase your skills with git, markdown and show that you can contribute to projects voluntarily. Students and staff at the University of Hull are particularly encouraged to contribute.
 
 ## Student Discount / Free stuff <a name="freestuff"></a>
 1. [Github Student Pack](https://education.github.com/pack).
@@ -94,6 +95,8 @@ If you feel something is missing from the list, please feel free to fork the rep
 5. [Wekan](https://wekan.github.io/) - Opensource Kanban.
 6. [Shodan](https://www.shodan.io/) - Create an account with your University email address to get free membership.
 7. [The Things Network](https://www.thethingsnetwork.org/)
+8. [Programmable Web APIs](https://www.programmableweb.com/)
+9. [A list of publically available APIs](https://github.com/public-apis/public-apis)
    
 ## Software <a name="software"></a>
 1. [Atom Editor](https://atom.io/) 
@@ -105,12 +108,15 @@ If you feel something is missing from the list, please feel free to fork the rep
 7. [The Big Warehouse](https://github.com/sbrl/thebigwarehouse) - A collection of resources for programmers from [@starbeamrainbowlabs](https://starbeamrainbowlabs.com/).
 8. [Dockstation](https://dockstation.io/) - Docker GUI for Windows, Mac and Linux
 9. [Tush](https://github.com/darius/tush/) - a literate testing shell
+10. [Haven Self Hosted Blog](https://github.com/havenweb/haven) - A self hosted private blog built with ruby on rails.
 
 ## Law and Standards <a name="standards"></a>
 1. [W3](https://www.w3.org/standards/) - Standards for web design and applications, devices, architecture, XML, web services and other technology.
 2. [GDPR Compliance Checklist](https://gdprchecklist.io/)
 3. [ICO Guide to GDPR](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/)
 4. [Government overview of Data Protection](https://www.gov.uk/data-protection)
+5. [The Chartered Institute for IT](https://www.bcs.org/)
+6. [Computer Misuse Act 1990](https://www.legislation.gov.uk/ukpga/1990/18/contents)
 
 ## Learning Resources <a name="education"></a>
 1. [Math Talks to Blow Your Mind Playlist](https://www.youtube.com/playlist?list=PLOGi5-fAu8bEIw_xkj1FgKr7QY_Sahswy)
@@ -134,6 +140,7 @@ If you feel something is missing from the list, please feel free to fork the rep
 16. [Aweomesheet](https://zombiefox.github.io/awesomeSheet/) - CSS Generator
 17. [Install LAMP on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-20-04-quickstart) - Tutorial on installing LAMP on Ubuntu
 18. [CRISP-DM PyData 2015](https://www.youtube.com/watch?v=civLio11SjQ)
+19. [Tackling Imposter Syndrome, a cambridge students perspective](https://youtu.be/Zd7t9vKsiiA).
 
 ## Linux Distributions <a name="linux"></a>
 1. [Ubuntu](https://ubuntu.com/).
@@ -162,11 +169,20 @@ If you feel something is missing from the list, please feel free to fork the rep
 15. [h8mail](https://github.com/khast3x/h8mail) - Email OSINT & Password breach hunting tool, locally or using premium services. Supports chasing down related email
 16. [TryHackMe](https://tryhackme.com/) - is an online platform for learning cyber security, using hands-on exercises and labs!
 17. [Awesome OSINT](https://github.com/jivoi/awesome-osint) - List of OSINT Tools and resources
+18. [Dark Reading](https://www.darkreading.com/) - Cyber Security News. 
+19. [Data Breach Today](https://www.databreachtoday.com/) - Data Breach News.
+20. [Help Net Security](https://www.helpnetsecurity.com/) - Cyber Security News.
+21. [Hackaday](https://hackaday.com/) - New hacks every day & interesting projects.
+22. [Infosec Institute](https://www.infosecinstitute.com/resource-center/) - Info sec best practices & updates.
+23. [Wireshark Packet Analysis](https://youtu.be/ZO46H_kI1bc)
 
 ## Other interesting stuff <a name="misc"></a>
 1. [Platform.uno](https://platform.uno) - Multi platform applications, one code base.
 2. [D Sharp Plus](https://github.com/DSharpPlus/DSharpPlus) - An unofficial .NET wrapper for the Discord API
 3. [E Foundation](https://e.foundation)
+4. [Satyr](https://git.waldn.net/git/knotteye/satyr) - Self hosted media streaming
+5. [File Stash](https://www.filestash.app/)
+6. [MIT Press: Reading code != Reading Language](https://news.mit.edu/2020/brain-reading-computer-code-1215)
 
 ## Andrew Hancock, Department of Computer Science & Technology - Systems <a name="andrewhancock"></a>
 Andrew is the VMware Specialist in Computer Science & Technology, responsible for the VMware architecture, watering & feeding the Computer Science & Technology VMware vSphere infrastructure. (based on VMware vSphere). He also has a long list of VMware and Virtualisations articles, a passionate VMware Technical Architect, and VMware vExpert Pro. His articles are reproduced here for your reading pleasure. If you want to discuss anything VMware, then ask him! He will only be too happy to oblige.
@@ -301,12 +317,3 @@ Andrew is the VMware Specialist in Computer Science & Technology, responsible fo
 129. [HOW TO: Deploy and Install VMware vSphere vCenter Server 7.0 (VCSA 7.0)](https://www.experts-exchange.com/articles/35011/HOW-TO-Deploy-and-Install-VMware-vSphere-vCenter-Server-7-0-VCSA-7-0.html)
 130. [HOW TO: Install and Connect a VMware vCenter Server 7.0 in linked mode.](https://www.experts-exchange.com/articles/35052/HOW-TO-Install-and-Connect-a-VMware-vCenter-Server-7-0-in-linked-mode.html)
 131. [HOW TO: BOOT VMware vSphere Hypervisor 7.0 (ESXi 7.0 ARM) from an iSCSI LUN for the Raspberry Pi 4](http://vexpert.me/iSCSI-BOOT-from-ESXi-ARM)
-
-
-
-
-
-
-
-
-
