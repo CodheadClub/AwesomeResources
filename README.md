@@ -16,6 +16,7 @@
 13. [Cyber Security Resources](#cyber)
 14. [Other Interesting Stuff](#misc)
 15. [Andrew Hancock, Department of Computer Science & Technology - Systems](#andrewhancock)
+16. [Hypervisors and non VMWare VM Stuff](#vmstuff)
 
 ## Introduction <a name="introduction"></a>
 This list comprises resources contributed by staff and students at the [University of Hull](https://hull.ac.uk) across a variety of abilities, levels and degree disciplines.
@@ -323,3 +324,11 @@ Andrew is the VMware Specialist in Computer Science & Technology, responsible fo
 129. [HOW TO: Deploy and Install VMware vSphere vCenter Server 7.0 (VCSA 7.0)](https://www.experts-exchange.com/articles/35011/HOW-TO-Deploy-and-Install-VMware-vSphere-vCenter-Server-7-0-VCSA-7-0.html)
 130. [HOW TO: Install and Connect a VMware vCenter Server 7.0 in linked mode.](https://www.experts-exchange.com/articles/35052/HOW-TO-Install-and-Connect-a-VMware-vCenter-Server-7-0-in-linked-mode.html)
 131. [HOW TO: BOOT VMware vSphere Hypervisor 7.0 (ESXi 7.0 ARM) from an iSCSI LUN for the Raspberry Pi 4](http://vexpert.me/iSCSI-BOOT-from-ESXi-ARM)
+
+## Hypervisors and vms <a name="vmstuff"></a>
+
+Ontop of the great vmware resources above there are other hypervisors for running containers / vm platforms
+
+1. [Proxmox](http://www.proxmox.com) - A Free version of the comerial proxmox hypervisor
+2. [Nutanix CE](https://www.nutanix.com/products/community-edition) - A free version of the nutanix HCI platform
+
