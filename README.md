@@ -342,18 +342,18 @@ Type 1 (Bare Metal Hypervisors)
 
 1. [Proxmox](http://www.proxmox.com) - A Free version of the commercial Proxmox hypervisor
 2. [Nutanix CE](https://www.nutanix.com/products/community-edition) - A free version of the Nutanix HCI platform
-3. [Oracle VM Server] (https://www.oracle.com/virtualization/vm-server-for-x86/) - Commercial Type 1 hypervisor 
-4. [XCP-ng] (https://xcp-ng.org/) - Based on Xen Server - Available on GitHub.
-5. [Citrix Hypervisor] (https://www.citrix.com/en-gb/products/citrix-hypervisor/) - Originally based on Xen Server. Commercial version by Citrix.
+3. [Oracle VM Server](https://www.oracle.com/virtualization/vm-server-for-x86/) - Commercial Type 1 hypervisor 
+4. [XCP-ng](https://xcp-ng.org/) - Based on Xen Server - Available on GitHub.
+5. [Citrix Hypervisor](https://www.citrix.com/en-gb/products/citrix-hypervisor/) - Originally based on Xen Server. Commercial version by Citrix.
 6. [Microsoft Windows Server 2019](https://www.microsoft.com/en-gb/windows-server) - Hyper-V can be enabled as a role in Windows Server. This is a Type 1 hypervisor. - Available for free if a Student of The Department of Computer Science and Technology.
-7. [Microsoft Hyper-V Server] (https://www.microsoft.com/en-us/evalcenter/evaluate-hyper-v-server-2019_ - Not to be confused with Windows Server. This is a Type 1 Hypervisor, and is just server core Hyper-V with no GUI. - Available for free if a Student of The Department of Computer Science and Technology.
-8. [Microsoft Windows 10 Client Hyper-V] (https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/) - Hyper-V can be enabled in Windows 10 Pro and above. This is a Type 1 Hypervisor. - Available for free if a Student of The Department of Computer Science and Technology.
-9. [VMware vSphere HYpervisor (ESXi)] (https://my.vmware.com/en/web/vmware/evalcenter?p=free-esxi7) - Available for free, or full version - Available for free if a Student of The Department of Computer Science and Technology.
+7. [Microsoft Hyper-V Server](https://www.microsoft.com/en-us/evalcenter/evaluate-hyper-v-server-2019_ - Not to be confused with Windows Server. This is a Type 1 Hypervisor, and is just server core Hyper-V with no GUI. - Available for free if a Student of The Department of Computer Science and Technology.
+8. [Microsoft Windows 10 Client Hyper-V](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/) - Hyper-V can be enabled in Windows 10 Pro and above. This is a Type 1 Hypervisor. - Available for free if a Student of The Department of Computer Science and Technology.
+9. [VMware vSphere HYpervisor (ESXi)](https://my.vmware.com/en/web/vmware/evalcenter?p=free-esxi7) - Available for free, or full version - Available for free if a Student of The Department of Computer Science and Technology.
 
 Type 2
 
-1. [Oracle Virtualbox] (https://www.virtualbox.org/) - A Free alternative to VMware Workstation for all platforms
-2. [VMware Fusion for Apple Mac] (https://www.vmware.com/uk/products/fusion.html) - Type 2 Hypervisor for Apple Mac - Available for free if a Student of The Department of Computer Science and Technology.
-3. [VMware Workstation] (https://www.vmware.com/uk/products/workstation-pro.html) - Type 2 Hypervisor for Linux and Windows - Available for free if a Student of The Department of Computer Science and Technology.
-4. [VMware Player] (https://www.vmware.com/uk/products/workstation-player.html) - Type 2 Hypervosor for Linux and Windows - Available for free if a Student of The Department of Computer Science and Technology.
-5. [Parallels Desktop 16 for Mac] (https://www.parallels.com/uk/products/desktop/) - Type 2 Hypervisor for Mac.
+1. [Oracle Virtualbox](https://www.virtualbox.org/) - A Free alternative to VMware Workstation for all platforms
+2. [VMware Fusion for Apple Mac](https://www.vmware.com/uk/products/fusion.html) - Type 2 Hypervisor for Apple Mac - Available for free if a Student of The Department of Computer Science and Technology.
+3. [VMware Workstation](https://www.vmware.com/uk/products/workstation-pro.html) - Type 2 Hypervisor for Linux and Windows - Available for free if a Student of The Department of Computer Science and Technology.
+4. [VMware Player](https://www.vmware.com/uk/products/workstation-player.html) - Type 2 Hypervosor for Linux and Windows - Available for free if a Student of The Department of Computer Science and Technology.
+5. [Parallels Desktop 16 for Mac](https://www.parallels.com/uk/products/desktop/) - Type 2 Hypervisor for Mac.
