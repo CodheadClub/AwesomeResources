@@ -136,19 +136,25 @@ If you feel something is missing from the list, please feel free to fork the rep
 12. [CSBlogs](http://csblogs.com/) - A collection of blogs from UoH staff, alumni and current students.
 13. [Kattis](https://open.kattis.com/) - Programming problems to help you improve your skills. Compete against staff/students.
 14. [Code Academy](https://www.codecademy.com/) - Improve your programming knowledge.
-15. [Devdocs](https://devdocs.io/) - Searchable developer docs
+15. [DevDocs](https://devdocs.io/) - Searchable developer docs
 16. [Aweomesheet](https://zombiefox.github.io/awesomeSheet/) - CSS Generator
 17. [Install LAMP on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-20-04-quickstart) - Tutorial on installing LAMP on Ubuntu
 18. [CRISP-DM PyData 2015](https://www.youtube.com/watch?v=civLio11SjQ)
 19. [Tackling Imposter Syndrome, a cambridge students perspective](https://youtu.be/Zd7t9vKsiiA).
 
 ## Linux Distributions <a name="linux"></a>
-1. [Ubuntu](https://ubuntu.com/).
-2. [Fedora](https://getfedora.org/).
-3. [Arch](https://www.archlinux.org/).
-4. [Kubuntu](https://kubuntu.org/).
-5. [Mint](https://linuxmint.com/).
-6. [Tails](https://tails.boum.org/index.en.html).
+1. [Ubuntu](https://ubuntu.com/) - Great starting distributions for beginners as lots of support is available.
+2. [Fedora](https://getfedora.org/) - Freeside uses this in our Lab!
+3. [Arch](https://www.archlinux.org/) - Advanced distribution for those looking to expand their knowledge of Linux.
+4. [Kubuntu](https://kubuntu.org/) - Ubuntu with an alternative desktop environment.
+5. [Mint](https://linuxmint.com/) - Another variant of Ubuntu, great for those familiar with Windows.
+6. [Tails](https://tails.boum.org/index.en.html) - A portable distribution that runs only in memory, for the ultimate privacy protection.
+
+## Help and Support <a name="support"></a>
+There are lots of lovely people ready to help you out in [Freeside's Discord server](http://discord.freeside.co.uk/), but these places may be helpful too.
+
+1. [Ask Ubuntu](https://askubuntu.com/) - Ubuntu Q&A site. Part of Stack Exchange.
+2. [Unix & Linux Stack Exchange](https://unix.stackexchange.com/) - For more general Linux-related questions.
 
 ## Cyber Security Resources <a name="cyber"></a>
 #### Disclaimer: Hacking without authorisation is illegal. Links to these materials are provided for reference only. You should not engage in illegal acts. Freeside will report malicious hacking to the University.
