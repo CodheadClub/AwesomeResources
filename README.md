@@ -329,6 +329,6 @@ Andrew is the VMware Specialist in Computer Science & Technology, responsible fo
 
 Ontop of the great vmware resources above there are other hypervisors for running containers / vm platforms
 
-1. [Proxmox](http://www.proxmox.com)
-2. [Nutanix CE](https://www.nutanix.com/products/community-edition)
+1. [Proxmox](http://www.proxmox.com) - A Free version of the comerial proxmox hypervisor
+2. [Nutanix CE](https://www.nutanix.com/products/community-edition) A free version of the nutanix HCI platform
 
