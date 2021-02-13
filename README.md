@@ -346,7 +346,7 @@ Type 1 (Bare Metal Hypervisors)
 4. [XCP-ng](https://xcp-ng.org/) - Based on Xen Server - Available on GitHub.
 5. [Citrix Hypervisor](https://www.citrix.com/en-gb/products/citrix-hypervisor/) - Originally based on Xen Server. Commercial version by Citrix.
 6. [Microsoft Windows Server 2019](https://www.microsoft.com/en-gb/windows-server) - Hyper-V can be enabled as a role in Windows Server. This is a Type 1 hypervisor. - Available for free if a Student of The Department of Computer Science and Technology.
-7. [Microsoft Hyper-V Server](https://www.microsoft.com/en-us/evalcenter/evaluate-hyper-v-server-2019_ - Not to be confused with Windows Server. This is a Type 1 Hypervisor, and is just server core Hyper-V with no GUI. - Available for free if a Student of The Department of Computer Science and Technology.
+7. [Microsoft Hyper-V Server](https://www.microsoft.com/en-us/evalcenter/evaluate-hyper-v-server-2019_) - Not to be confused with Windows Server. This is a Type 1 Hypervisor, and is just server core Hyper-V with no GUI. - Available for free if a Student of The Department of Computer Science and Technology.
 8. [Microsoft Windows 10 Client Hyper-V](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/) - Hyper-V can be enabled in Windows 10 Pro and above. This is a Type 1 Hypervisor. - Available for free if a Student of The Department of Computer Science and Technology.
 9. [VMware vSphere HYpervisor (ESXi)](https://my.vmware.com/en/web/vmware/evalcenter?p=free-esxi7) - Available for free, or full version - Available for free if a Student of The Department of Computer Science and Technology.
 
