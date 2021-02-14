@@ -154,7 +154,7 @@ If you feel something is missing from the list, please feel free to fork the rep
 
 ## Hypervisors and virtual machines  <a name="vmstuff"></a>
 
-Ontop of the great VMware resources above there are other hypervisors for running containers and virtual machines.
+Ontop of the great VMware resources below there are other hypervisors for running containers and virtual machines.
 
 Hypervisors are classified as Type 1 or Type 2 hypervisors. Type 1 are often known as bare metal hypervisors. It's installed on bare metal, e.g. it is not installed as an application on top of an operating system. A Type 2 hypervisor is an application which is installed on the operating system.
 Type 2 Hypervisors can be SLOW.  In most reviews and experience, they perform at roughly 30-40% hardware capability.  That means an Guest Operating Systems in a virtual machine hosted on a Type 2 hyperviosor will likely perform at best like it has an 800 MHz CPU if you have 2 GHz physical CPU. 
