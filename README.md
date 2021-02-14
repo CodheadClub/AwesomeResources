@@ -16,7 +16,7 @@
 13. [Cyber Security Resources](#cyber)
 14. [Other Interesting Stuff](#misc)
 15. [Andrew Hancock, Department of Computer Science & Technology - Systems](#andrewhancock)
-16. [Hypervisors and non VMWare VM Stuff](#vmstuff)
+16. [Hypervisors and virtual machines](#vmstuff)
 
 ## Introduction <a name="introduction"></a>
 This list comprises resources contributed by staff and students at the [University of Hull](https://hull.ac.uk) across a variety of abilities, levels and degree disciplines.
@@ -87,6 +87,7 @@ If you feel something is missing from the list, please feel free to fork the rep
 11. [Yorkshire Enterprise Network Linkedin Group](https://www.linkedin.com/groups/64954/)
 12. [York & Yorkshire Local Enterprise Partnership Linkedin Group](https://www.linkedin.com/groups/4217871/)
 13. [Andrew Hancock talks with friends Randy Redberg and Thomas Bernal at Experts Exchange about Career Growth and VMware](https://www.experts-exchange.com/podcasts/5/Career-Growth-and-VMware.html)
+14. [Andrew Hancock talks with friends Randy Redberg and Thomas Bernal at Experts Exchange about being an IT Author and British Beekeeper](https://www.experts-exchange.com/podcasts/241/EP-19-Buzz-Words-IT-Author-and-Beekeeper-Andrew-Hancock.html)
 
 ## Services <a name="services"></a>
 1. [Migadu.com](https://migadu.com) - Unlimited cheap email for lots of domains.
@@ -150,6 +151,7 @@ If you feel something is missing from the list, please feel free to fork the rep
 4. [Kubuntu](https://kubuntu.org/) - Ubuntu with an alternative desktop environment.
 5. [Mint](https://linuxmint.com/) - Another variant of Ubuntu, great for those familiar with Windows.
 6. [Tails](https://tails.boum.org/index.en.html) - A portable distribution that runs only in memory, for the ultimate privacy protection.
+
 
 ## Help and Support <a name="support"></a>
 There are lots of lovely people ready to help you out in [Freeside's Discord server](http://discord.freeside.co.uk/), but these places may be helpful too.
@@ -325,10 +327,33 @@ Andrew is the VMware Specialist in Computer Science & Technology, responsible fo
 130. [HOW TO: Install and Connect a VMware vCenter Server 7.0 in linked mode.](https://www.experts-exchange.com/articles/35052/HOW-TO-Install-and-Connect-a-VMware-vCenter-Server-7-0-in-linked-mode.html)
 131. [HOW TO: BOOT VMware vSphere Hypervisor 7.0 (ESXi 7.0 ARM) from an iSCSI LUN for the Raspberry Pi 4](http://vexpert.me/iSCSI-BOOT-from-ESXi-ARM)
 
-## Hypervisors and vms <a name="vmstuff"></a>
+## Hypervisors and virtual machines  <a name="vmstuff"></a>
 
-Ontop of the great vmware resources above there are other hypervisors for running containers / vm platforms
+Ontop of the great VMware resources above there are other hypervisors for running containers and virtual machines.
 
-1. [Proxmox](http://www.proxmox.com) - A Free version of the comerial proxmox hypervisor
-2. [Nutanix CE](https://www.nutanix.com/products/community-edition) - A free version of the nutanix HCI platform
+Hypervisors are classified as Type 1 or Type 2 hypervisors. Type 1 are often known as bare metal hypervisors. It's installed on bare metal, e.g. it is not installed as an application on top of an operating system. A Type 2 hypervisor is an application which is installed on the operating system.
+Type 2 Hypervisors can be SLOW.  In most reviews and experience, they perform at roughly 30-40% hardware capability.  That means an Guest Operating Systems in a virtual machine hosted on a Type 2 hyperviosor will likely perform at best like it has an 800 MHz CPU if you have 2 GHz physical CPU. 
 
+If you use a Type 1 Hypervisor, you get much better performance (based on experience and reviews) typically get 80-90% hardware capability - so that same virtual machines hosted on the same 2 GHz CPU should operate more like it has a 1.6 GHz CPU instead of 800 Mhz. 
+
+Here are some type 1 and type 2 hypervisors.
+
+Type 1 (Bare Metal Hypervisors)
+
+1. [Proxmox](http://www.proxmox.com) - A Free version of the commercial Proxmox hypervisor
+2. [Nutanix CE](https://www.nutanix.com/products/community-edition) - A free version of the Nutanix HCI platform
+3. [Oracle VM Server](https://www.oracle.com/virtualization/vm-server-for-x86/) - Commercial Type 1 hypervisor 
+4. [XCP-ng](https://xcp-ng.org/) - Based on Xen Server - Available on GitHub.
+5. [Citrix Hypervisor](https://www.citrix.com/en-gb/products/citrix-hypervisor/) - Originally based on Xen Server. Commercial version by Citrix.
+6. [Microsoft Windows Server 2019](https://www.microsoft.com/en-gb/windows-server) - Hyper-V can be enabled as a role in Windows Server. This is a Type 1 hypervisor. - Available for free if a Student of The Department of Computer Science and Technology.
+7. [Microsoft Hyper-V Server](https://www.microsoft.com/en-us/evalcenter/evaluate-hyper-v-server-2019_) - Not to be confused with Windows Server. This is a Type 1 Hypervisor, and is just server core Hyper-V with no GUI. - Available for free if a Student of The Department of Computer Science and Technology.
+8. [Microsoft Windows 10 Client Hyper-V](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/) - Hyper-V can be enabled in Windows 10 Pro and above. This is a Type 1 Hypervisor. - Available for free if a Student of The Department of Computer Science and Technology.
+9. [VMware vSphere Hypervisor (ESXi)](https://my.vmware.com/en/web/vmware/evalcenter?p=free-esxi7) - Available for free, or full version - Available for free if a Student of The Department of Computer Science and Technology.
+
+Type 2
+
+1. [Oracle Virtualbox](https://www.virtualbox.org/) - A Free alternative to VMware Workstation for all platforms
+2. [VMware Fusion for Apple Mac](https://www.vmware.com/uk/products/fusion.html) - Type 2 Hypervisor for Apple Mac - Available for free if a Student of The Department of Computer Science and Technology.
+3. [VMware Workstation](https://www.vmware.com/uk/products/workstation-pro.html) - Type 2 Hypervisor for Linux and Windows - Available for free if a Student of The Department of Computer Science and Technology.
+4. [VMware Player](https://www.vmware.com/uk/products/workstation-player.html) - Type 2 Hypervosor for Linux and Windows - Available for free if a Student of The Department of Computer Science and Technology.
+5. [Parallels Desktop 16 for Mac](https://www.parallels.com/uk/products/desktop/) - Type 2 Hypervisor for Mac.
