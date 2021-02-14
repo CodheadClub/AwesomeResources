@@ -176,10 +176,14 @@ Type 1 (Bare Metal Hypervisors)
 9. [VMware vSphere Hypervisor (ESXi)](https://my.vmware.com/en/web/vmware/evalcenter?p=free-esxi7) - Available for free, or full version - Available for free if a Student of The Department of Computer Science and Technology.
 10. [KVM/QEmu](https://www.linux-kvm.org/page/Main_Page) - KVM is built into the linux kernel, just like Hyper-V in Windows
 
-There are many frontends for KVM, including but not limited to
+There are many frontends / management tools for KVM, including but not limited to
 
 1. [Gnome Boxes](https://wiki.gnome.org/Apps/Boxes)
 2. [virt-manager](https://virt-manager.org/)
+
+furthermore, if you're system supports VT-d you can pass through your video card, or other pci device to use within your vm
+
+1. [GPU Passthrough](https://github.com/bryansteiner/gpu-passthrough-tutorial)
 
 Type 2
 
