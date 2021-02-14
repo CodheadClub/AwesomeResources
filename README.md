@@ -16,7 +16,7 @@
 13. [Cyber Security Resources](#cyber)
 14. [Other Interesting Stuff](#misc)
 15. [Andrew Hancock, Department of Computer Science & Technology - Systems](#andrewhancock)
-16. [Hypervisors and non VMware VM Stuff](#vmstuff)
+16. [Hypervisors and virtual machines](#vmstuff)
 
 ## Introduction <a name="introduction"></a>
 This list comprises resources contributed by staff and students at the [University of Hull](https://hull.ac.uk) across a variety of abilities, levels and degree disciplines.
