@@ -349,7 +349,12 @@ Type 1 (Bare Metal Hypervisors)
 7. [Microsoft Hyper-V Server](https://www.microsoft.com/en-us/evalcenter/evaluate-hyper-v-server-2019_) - Not to be confused with Windows Server. This is a Type 1 Hypervisor, and is just server core Hyper-V with no GUI. - Available for free if a Student of The Department of Computer Science and Technology.
 8. [Microsoft Windows 10 Client Hyper-V](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/) - Hyper-V can be enabled in Windows 10 Pro and above. This is a Type 1 Hypervisor. - Available for free if a Student of The Department of Computer Science and Technology.
 9. [VMware vSphere Hypervisor (ESXi)](https://my.vmware.com/en/web/vmware/evalcenter?p=free-esxi7) - Available for free, or full version - Available for free if a Student of The Department of Computer Science and Technology.
+10.[KVM/QEmu](https://www.linux-kvm.org/page/Main_Page) - KVM is built into the linux kernel, just like Hyper-V in Windows
 
+There are many frontends for KVM, including but not limited to
+
+1. [Gnome Boxes](https://wiki.gnome.org/Apps/Boxes)
+2. [virt-manager](https://virt-manager.org/)
 Type 2
 
 1. [Oracle Virtualbox](https://www.virtualbox.org/) - A Free alternative to VMware Workstation for all platforms
@@ -358,11 +363,4 @@ Type 2
 4. [VMware Player](https://www.vmware.com/uk/products/workstation-player.html) - Type 2 Hypervosor for Linux and Windows - Available for free if a Student of The Department of Computer Science and Technology.
 5. [Parallels Desktop 16 for Mac](https://www.parallels.com/uk/products/desktop/) - Type 2 Hypervisor for Mac.
 
-Muddy Ground
 
-KVM for linux fits in a strange land where the KVM kernel module turns Linux kernel into a type 1 bare-metal hypervisor, while the overall system could be categorized to type 2 because the host OS is still fully functional and the other VM's are standard Linux processes from its perspective.
-
-There are many frontends for KVM, including but not limited to
-
-1. [Gnome Boxes](https://wiki.gnome.org/Apps/Boxes)
-2. [virt-manager](https://virt-manager.org/)
