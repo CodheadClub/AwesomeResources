@@ -357,3 +357,12 @@ Type 2
 3. [VMware Workstation](https://www.vmware.com/uk/products/workstation-pro.html) - Type 2 Hypervisor for Linux and Windows - Available for free if a Student of The Department of Computer Science and Technology.
 4. [VMware Player](https://www.vmware.com/uk/products/workstation-player.html) - Type 2 Hypervosor for Linux and Windows - Available for free if a Student of The Department of Computer Science and Technology.
 5. [Parallels Desktop 16 for Mac](https://www.parallels.com/uk/products/desktop/) - Type 2 Hypervisor for Mac.
+
+Muddy Ground
+
+KVM for linux fits in a strange land where the KVM kernel module turns Linux kernel into a type 1 bare-metal hypervisor, while the overall system could be categorized to type 2 because the host OS is still fully functional and the other VM's are standard Linux processes from its perspective.
+
+There are many frontends for KVM, including but not limited to
+
+1. [Gnome Boxes](https://wiki.gnome.org/Apps/Boxes)
+2. [virt-manager](https://virt-manager.org/)
