@@ -6,17 +6,16 @@
 3. [Student Discount/Free Stuff](#freestuff)
 4. [Hull University Related](#hulluniversity)
 5. [Hull Related](#hull)
-6. [Student Sites](#studentsites)
-7. [Business/Career](#business)
-8. [Services](#services)
-9. [Software](#software)
-10. [Law and Standards](#standards)
-11. [Learning Resources](#education)
-12. [Linux Distributions](#linux)
-13. [Hypervisors and virtual machines](#vmstuff)
-14. [Cyber Security Resources](#cyber)
-15. [Other Interesting Stuff](#misc)
-16. [Andrew Hancock, Department of Computer Science & Technology - Systems](#andrewhancock)
+6. [Business/Career](#business)
+7. [Services](#services)
+8. [Software](#software)
+9. [Law and Standards](#standards)
+10. [Learning Resources](#education)
+11. [Linux Distributions](#linux)
+12. [Hypervisors and virtual machines](#vmstuff)
+13. [Cyber Security Resources](#cyber)
+14. [Other Interesting Stuff](#misc)
+15. [Andrew Hancock, Department of Computer Science & Technology - Systems](#andrewhancock)
 
 ## Introduction <a name="introduction"></a>
 This list comprises resources contributed by staff and students at the [University of Hull](https://hull.ac.uk) across a variety of abilities, levels and degree disciplines.
@@ -54,24 +53,6 @@ If you feel something is missing from the list, please feel free to fork the rep
 3. [Connected Humber Hardware Meetups](https://www.connectedhumber.org/meetups.html)
 4. [Hull Central Library Makerspace](https://www.hcandl.co.uk/libraries/makerspace/about-makerspacehull)
 5. [Hull Chamber of Commerce](https://www.hull-humber-chamber.co.uk/)
-
-## Student/Alumni Sites <a name="studentsites"></a>
-1. [Antony Leons](https://blog.leons.dev/).
-2. [Adam Boyne](https://adamboyne.wordpress.com).
-3. [Adam Tunnicliffe](https://adamt3d.com).
-4. [Danny Brown](https://dannybrown.io).
-5. [David Mortiboy](https://www.davidmortiboy.com).
-6. [Edward Charles](https://love.edwardcharl.es).
-7. [Harry Gwinnell](https://harrygwinnell.co.uk).
-8. [Jacob Morris](https://jamorris.co.uk).
-9. [James Croft](https://www.jamescroft.co.uk).
-10. [Nathaniel Read](https://nathaniel.work).
-11. [Paul Adams](https://paulhub.uk).
-12. [Richard Bamford](https://www.richardbamford.io).
-13. [Sara Payne](https://sarapayne.co.uk).
-14. [Rob Crocombe](https://robcrocombe.com).
-15. [Lydia Bryan-Smith](https://starbeamrainbowlabs.com).
-16. [Tom Fosdick](https://www.tomfosdick.com).
 
 ## Business / Career <a name="business"></a>
 1. [Google Campus](https://www.campus.co/) (London Based)
@@ -143,7 +124,8 @@ If you feel something is missing from the list, please feel free to fork the rep
 17. [Install LAMP on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-20-04-quickstart) - Tutorial on installing LAMP on Ubuntu
 18. [CRISP-DM PyData 2015](https://www.youtube.com/watch?v=civLio11SjQ)
 19. [Tackling Imposter Syndrome, a cambridge students perspective](https://youtu.be/Zd7t9vKsiiA).
-
+20. [Shaping the Future of Connected Policing](https://www.youtube.com/watch?v=24FaeP_Zv_8)
+21. [Enabling Digital Policing: Computacenter and VMWare](https://www.youtube.com/watch?v=wwJyKUv3rcs)
 ## Linux Distributions <a name="linux"></a>
 1. [Ubuntu](https://ubuntu.com/) - Great starting distributions for beginners as lots of support is available.
 2. [Fedora](https://getfedora.org/) - Freeside uses this in our Lab!
@@ -192,7 +174,6 @@ Type 2
 3. [VMware Workstation](https://www.vmware.com/uk/products/workstation-pro.html) - Type 2 Hypervisor for Linux and Windows - Available for free if a Student of The Department of Computer Science and Technology.
 4. [VMware Player](https://www.vmware.com/uk/products/workstation-player.html) - Type 2 Hypervosor for Linux and Windows - Available for free if a Student of The Department of Computer Science and Technology.
 5. [Parallels Desktop 16 for Mac](https://www.parallels.com/uk/products/desktop/) - Type 2 Hypervisor for Mac.
-
 
 ## Help and Support <a name="support"></a>
 There are lots of lovely people ready to help you out in [Freeside's Discord server](http://discord.freeside.co.uk/), but these places may be helpful too.
