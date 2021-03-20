@@ -126,6 +126,8 @@ If you feel something is missing from the list, please feel free to fork the rep
 19. [Tackling Imposter Syndrome, a cambridge students perspective](https://youtu.be/Zd7t9vKsiiA).
 20. [Shaping the Future of Connected Policing](https://www.youtube.com/watch?v=24FaeP_Zv_8)
 21. [Enabling Digital Policing: Computacenter and VMWare](https://www.youtube.com/watch?v=wwJyKUv3rcs)
+22. [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials?primary_filter=popular) - System Administration tutorials from Digital Ocean. Can be followed on any Linux machine.
+
 ## Linux Distributions <a name="linux"></a>
 1. [Ubuntu](https://ubuntu.com/) - Great starting distributions for beginners as lots of support is available.
 2. [Fedora](https://getfedora.org/) - Freeside uses this in our Lab!
@@ -206,6 +208,8 @@ There are lots of lovely people ready to help you out in [Freeside's Discord ser
 21. [Hackaday](https://hackaday.com/) - New hacks every day & interesting projects.
 22. [Infosec Institute](https://www.infosecinstitute.com/resource-center/) - Info sec best practices & updates.
 23. [Wireshark Packet Analysis](https://youtu.be/ZO46H_kI1bc)
+24. [SSL Labs](https://ssllabs.com) - Test the HTTPS configuration of your web server online
+25. [testssl.sh](https://testssl.sh/) - TLS configuration tester like SSL Labs, but runs locally
 
 ## Other interesting stuff <a name="misc"></a>
 1. [Platform.uno](https://platform.uno) - Multi platform applications, one code base.
