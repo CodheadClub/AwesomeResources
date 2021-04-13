@@ -128,6 +128,7 @@ If you feel something is missing from the list, please feel free to fork the rep
 21. [Enabling Digital Policing: Computacenter and VMWare](https://www.youtube.com/watch?v=wwJyKUv3rcs)
 22. [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials?primary_filter=popular) - System Administration tutorials from Digital Ocean. Can be followed on any Linux machine.
 23. [Two Decades of C#: A Reference](https://benbowen.blog/post/two_decades_of_csharp_i/) - A reference of which C# version introduced which features. Linked is the first blog; later versions are covered under later blogs.
+24. [Refactoring.guru](https://refactoring.guru/) - Learn about design patterns and refactoring.
 
 ## Linux Distributions <a name="linux"></a>
 1. [Ubuntu](https://ubuntu.com/) - Great starting distributions for beginners as lots of support is available.
