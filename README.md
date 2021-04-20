@@ -12,10 +12,10 @@
 9. [Law and Standards](#standards)
 10. [Learning Resources](#education)
 11. [Linux Distributions](#linux)
-12. [Hypervisors and virtual machines](#vmstuff)
+12. [Hypervisors and virtual machines](Virtualisation.md#virtualisation)
 13. [Cyber Security Resources](#cyber)
 14. [Other Interesting Stuff](#misc)
-15. [Andrew Hancock, Department of Computer Science & Technology - Systems](#andrewhancock)
+15. [Andrew Hancock, Department of Computer Science & Technology - Systems](Virtualisation.md#andrewhancock)
 
 ## Introduction <a name="introduction"></a>
 This list comprises resources contributed by staff and students at the [University of Hull](https://hull.ac.uk) across a variety of abilities, levels and degree disciplines.
