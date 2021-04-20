@@ -114,21 +114,15 @@ If you feel something is missing from the list, please feel free to fork the rep
 7. [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA) (Youtube Channel).
 8. [Docker's Official Youtube](https://www.youtube.com/channel/UC76AVf2JkrwjxNKMuPpscHQ).
 9. [Brian Tompsett Youtube Channel](https://www.youtube.com/channel/UCfG7W9cpOp4G4rH-gLgxVdw). Brian is a [lecturer at University of Hull](https://www.hull.ac.uk/staff-directory/brian-tompsett) and has a [long list of published works](https://scholar.google.co.uk/citations?user=4CFnDSAAAAAJ&hl=en). 
-10. [The Yellow Book](https://www.robmiles.com/s/CSharp-Book-2019-Refresh.pdf) - A fantastic intro to C# from former Hull Lecturer, [Rob Miles](robmiles.com). He also has other publications available [here](https://www.amazon.co.uk/s?i=stripbooks&rh=p_27:Rob%20Miles&s=relevancerank&text=Rob%20Miles&ref=dp_byline_sr_book_1).
-11. [Rob Miles Youtube](https://www.youtube.com/channel/UC4OEadKEwxD7TxR9hKhxtuQ) .
-12. [CSBlogs](http://csblogs.com/) - A collection of blogs from UoH staff, alumni and current students.
-13. [Kattis](https://open.kattis.com/) - Programming problems to help you improve your skills. Compete against staff/students.
-14. [Code Academy](https://www.codecademy.com/) - Improve your programming knowledge.
-15. [DevDocs](https://devdocs.io/) - Searchable developer docs
-16. [Aweomesheet](https://zombiefox.github.io/awesomeSheet/) - CSS Generator
-17. [Install LAMP on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-20-04-quickstart) - Tutorial on installing LAMP on Ubuntu
-18. [CRISP-DM PyData 2015](https://www.youtube.com/watch?v=civLio11SjQ)
-19. [Tackling Imposter Syndrome, a cambridge students perspective](https://youtu.be/Zd7t9vKsiiA).
-20. [Shaping the Future of Connected Policing](https://www.youtube.com/watch?v=24FaeP_Zv_8)
-21. [Enabling Digital Policing: Computacenter and VMWare](https://www.youtube.com/watch?v=wwJyKUv3rcs)
-22. [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials?primary_filter=popular) - System Administration tutorials from Digital Ocean. Can be followed on any Linux machine.
-23. [Two Decades of C#: A Reference](https://benbowen.blog/post/two_decades_of_csharp_i/) - A reference of which C# version introduced which features. Linked is the first blog; later versions are covered under later blogs.
-24. [Refactoring.guru](https://refactoring.guru/) - Learn about design patterns and refactoring.
+10. [Rob Miles Youtube](https://www.youtube.com/channel/UC4OEadKEwxD7TxR9hKhxtuQ) .
+11. [CSBlogs](http://csblogs.com/) - A collection of blogs from UoH staff, alumni and current students.
+12. [Install LAMP on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-20-04-quickstart) - Tutorial on installing LAMP on Ubuntu
+13. [CRISP-DM PyData 2015](https://www.youtube.com/watch?v=civLio11SjQ)
+14. [Tackling Imposter Syndrome, a cambridge students perspective](https://youtu.be/Zd7t9vKsiiA).
+15. [Shaping the Future of Connected Policing](https://www.youtube.com/watch?v=24FaeP_Zv_8)
+16. [Enabling Digital Policing: Computacenter and VMWare](https://www.youtube.com/watch?v=wwJyKUv3rcs)
+17. [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials?primary_filter=popular) - System Administration tutorials from Digital Ocean. Can be followed on any Linux machine.
+
 
 ## Linux Distributions <a name="linux"></a>
 1. [Ubuntu](https://ubuntu.com/) - Great starting distributions for beginners as lots of support is available.
@@ -173,12 +167,10 @@ There are lots of lovely people ready to help you out in [Freeside's Discord ser
 25. [testssl.sh](https://testssl.sh/) - TLS configuration tester like SSL Labs, but runs locally
 
 ## Other interesting stuff <a name="misc"></a>
-1. [Platform.uno](https://platform.uno) - Multi platform applications, one code base.
-2. [D Sharp Plus](https://github.com/DSharpPlus/DSharpPlus) - An unofficial .NET wrapper for the Discord API
-3. [E Foundation](https://e.foundation)
-4. [Satyr](https://git.waldn.net/git/knotteye/satyr) - Self hosted media streaming
-5. [File Stash](https://www.filestash.app/)
-6. [MIT Press: Reading code != Reading Language](https://news.mit.edu/2020/brain-reading-computer-code-1215)
+1. [E Foundation](https://e.foundation)
+2. [Satyr](https://git.waldn.net/git/knotteye/satyr) - Self hosted media streaming
+3. [File Stash](https://www.filestash.app/)
+4. [MIT Press: Reading code != Reading Language](https://news.mit.edu/2020/brain-reading-computer-code-1215)
 
 
 
