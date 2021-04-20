@@ -16,3 +16,15 @@
 13. [Cyber Security Resources](README.md#cyber)
 14. [Other Interesting Stuff](README.md#misc)
 15. [Andrew Hancock, Department of Computer Science & Technology - Systems](Virtualisation.md#andrewhancock)
+
+# Programming List
+
+1. [Platform.uno](https://platform.uno) - Multi platform applications, one code base.
+2. [D Sharp Plus](https://github.com/DSharpPlus/DSharpPlus) - An unofficial .NET wrapper for the Discord API
+3. [The Yellow Book](https://www.robmiles.com/s/CSharp-Book-2019-Refresh.pdf) - A fantastic intro to C# from former Hull Lecturer, [Rob Miles](robmiles.com). He also has other publications available [here](https://www.amazon.co.uk/s?i=stripbooks&rh=p_27:Rob%20Miles&s=relevancerank&text=Rob%20Miles&ref=dp_byline_sr_book_1).
+4. [Kattis](https://open.kattis.com/) - Programming problems to help you improve your skills. Compete against staff/students.
+5. [Code Academy](https://www.codecademy.com/) - Improve your programming knowledge.
+6. [DevDocs](https://devdocs.io/) - Searchable developer docs
+7. [Aweomesheet](https://zombiefox.github.io/awesomeSheet/) - CSS Generator]
+8. [Two Decades of C#: A Reference](https://benbowen.blog/post/two_decades_of_csharp_i/) - A reference of which C# version introduced which features. Linked is the first blog; later versions are covered under later blogs.
+9. [Refactoring.guru](https://refactoring.guru/) - Learn about design patterns and refactoring.
