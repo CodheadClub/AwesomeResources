@@ -138,8 +138,6 @@ If you feel something is missing from the list, please feel free to fork the rep
 5. [Mint](https://linuxmint.com/) - Another variant of Ubuntu, great for those familiar with Windows.
 6. [Tails](https://tails.boum.org/index.en.html) - A portable distribution that runs only in memory, for the ultimate privacy protection.
 
-
-
 ## Help and Support <a name="support"></a>
 There are lots of lovely people ready to help you out in [Freeside's Discord server](http://discord.freeside.co.uk/), but these places may be helpful too.
 
