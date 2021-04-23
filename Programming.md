@@ -13,7 +13,7 @@
 10. [Learning Resources](README.md#education)
 11. [Linux Distributions](README.md#linux)
 12. [Hypervisors and virtual machines](Virtualisation.md#virtualisation)
-13. [Cyber Security Resources](README.md#cyber)
+13. [Cyber Security Resources](CyberSecurity.md#cyber)
 14. [Other Interesting Stuff](README.md#misc)
 15. [Andrew Hancock, Department of Computer Science & Technology - Systems](Virtualisation.md#andrewhancock)
 
