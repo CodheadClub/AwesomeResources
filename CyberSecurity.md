@@ -17,7 +17,7 @@
 14. [Other Interesting Stuff](README.md#misc)
 15. [Andrew Hancock, Department of Computer Science & Technology - Systems](Virtualisation.md#andrewhancock)
 
-# Cyber Security List
+# Cyber Security List <a name="cyber"></a>
 
 #### Disclaimer: 
 
@@ -25,8 +25,6 @@ Hacking without authorisation is illegal.
 
 Links to these materials are provided for reference only. You should not engage in illegal acts. Freeside will report malicious hacking to the University.
 
-
-## Cyber Security Resources <a name="cyber"></a>
 1. [Hackersploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) (Youtube Channel) - ***'hacking' without permission is illegal. Don't act without written consent.***
 2. [Capture the Flag Playlist](https://www.youtube.com/playlist?list=PLBf0hzazHTGOyRReqMyE-CDMWAQ5AgXO-). ***'hacking' without permission is illegal. Don't act without written consent.***
 3. [Metasploit Introduction Playlist](https://www.youtube.com/playlist?list=PLBf0hzazHTGN31ZPTzBbk70bohTYT7HSm). ***'hacking' without permission is illegal. Don't act without written consent.***
