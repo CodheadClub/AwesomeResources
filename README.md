@@ -18,21 +18,25 @@
 15. [Andrew Hancock, Department of Computer Science & Technology - Systems](Virtualisation.md#andrewhancock)
 
 ## Introduction <a name="introduction"></a>
-This list comprises resources contributed by staff and students at the [University of Hull](https://hull.ac.uk) across a variety of abilities, levels and degree disciplines.
+The Freeside Student Resources list consists of multiple categories of professional and academic resources which are aimed at aiding University of Hull Computer Science students to gain further knowledge; however, most resources will be able to help learners from outside the university.
 
 List originally comprised by [@closebracket](https://github.com/closebracket), visit his website [here](https://love.edwardcharl.es). 
 
 ## Contributing <a name="contributing"></a>
-If you feel something is missing from the list, please feel free to fork the repository and submit a pull request with your changes. This will increase your skills with git, markdown and show that you can contribute to projects voluntarily. Students and staff at the University of Hull are particularly encouraged to contribute.
+Freeside welcome contributions to these lists from staff and students at the University of Hull, as well as members of the public. If you wish to contribute, please abide by the following rules:
+
+- Fork the repository, look at the markdown and understand it. 
+- Make your changes and double check that nothing is broken.
+- Make a pull request and request a review from the Freeside team.
 
 ## Student Discount / Free stuff <a name="freestuff"></a>
 1. [Github Student Pack](https://education.github.com/pack).
 2. [Azure for Students](https://azure.microsoft.com/en-gb/free/students/).
-3. [VMware Academic Software Licensing Program](https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?ws=b7344511-bb8b-e011-969d-0030487d8897&vsro=8) e.g. VMware Workstation, VMware vSphere, VMware Fusion - Request access via http://support.hull.ac.uk and mention Andy Hancock VMware vExpert PRO! 
+3. [VMware Academic Software Licensing Program](https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?ws=b7344511-bb8b-e011-969d-0030487d8897&vsro=8) e.g. VMware Workstation, VMware vSphere, VMware Fusion - Request access via http://support.hull.ac.uk and mention Andy Hancock.
 4. [Free Books on Robotics](https://github.com/StevenShiChina/books)
 5. [Learning Python Book](https://cfm.ehu.es/ricardo/docs/python/Learning_Python.pdf)
 6. [Free books on CS related subjects](https://github.com/MrAlex6204/Books/)
-7. [Data Science Handbook](https://tanthiamhuat.files.wordpress.com/2018/04/pythondatasciencehandbook.pdf)
+
 
 ## Hull University Related <a name="hulluniversity"></a>
 1. [On the Hub](https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?ws=b7344511-bb8b-e011-969d-0030487d8897&vsro=8) - Free software for University of Hull Students
@@ -122,7 +126,7 @@ If you feel something is missing from the list, please feel free to fork the rep
 15. [Shaping the Future of Connected Policing](https://www.youtube.com/watch?v=24FaeP_Zv_8)
 16. [Enabling Digital Policing: Computacenter and VMWare](https://www.youtube.com/watch?v=wwJyKUv3rcs)
 17. [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials?primary_filter=popular) - System Administration tutorials from Digital Ocean. Can be followed on any Linux machine.
-
+18. [Data Science Handbook](https://tanthiamhuat.files.wordpress.com/2018/04/pythondatasciencehandbook.pdf)
 
 ## Linux Distributions <a name="linux"></a>
 1. [Ubuntu](https://ubuntu.com/) - Great starting distributions for beginners as lots of support is available.
