@@ -41,17 +41,16 @@ If you require any support, either whilst contributing or with linux, programmin
 6. [Free books on CS related subjects](https://github.com/MrAlex6204/Books/)
 
 ## Hull University Related <a name="hulluniversity"></a>
-1. [On the Hub](https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?ws=b7344511-bb8b-e011-969d-0030487d8897&vsro=8) - Free software for University of Hull Students
-2. [Brian Tompsett Youtube Channel](https://www.youtube.com/channel/UCfG7W9cpOp4G4rH-gLgxVdw). Brian is a [lecturer at University of Hull](https://www.hull.ac.uk/staff-directory/brian-tompsett) and has a [long list of published works](https://scholar.google.co.uk/citations?user=4CFnDSAAAAAJ&hl=en). 
-3. [Andrew Hancock](#andrewhancock). Andrew is the VMware Specialist in Computer Science & Technology, responsible for architecure, watering & feeding the Computer Science and Technology VMware infrastructure. He also has a long list of VMware and Virtualisation articles.
-4. [The Yellow Book](https://www.robmiles.com/s/CSharp-Book-2019-Refresh.pdf) - A fantastic intro to C# from former Hull Lecturer, [Rob Miles](robmiles.com). He also has other publications available [here](https://www.amazon.co.uk/s?i=stripbooks&rh=p_27:Rob%20Miles&s=relevancerank&text=Rob%20Miles&ref=dp_byline_sr_book_1).
-5. [Rob Miles Youtube](https://www.youtube.com/channel/UC4OEadKEwxD7TxR9hKhxtuQ).
-6. [CSBlogs](http://csblogs.com/) - A collection of blogs from UoH staff, alumni and current students.
-7. [Freeside Discord](https://discord.gg/qAZ8dAp).
-8. [#HullCSS Discord](https://discord.gg/gzx4nee).
-9. [Hull Gaming Society Discord](https://discord.gg/agaf92a).
-10. [Hull Robotics Society Discord](https://discord.gg/pYP5kqE).
-11. [Department of Computer Science and Technology Twitter](https://twitter.com/HullCompSci).
+1. [Brian Tompsett Youtube Channel](https://www.youtube.com/channel/UCfG7W9cpOp4G4rH-gLgxVdw). Brian is a [lecturer at University of Hull](https://www.hull.ac.uk/staff-directory/brian-tompsett) and has a [long list of published works](https://scholar.google.co.uk/citations?user=4CFnDSAAAAAJ&hl=en). 
+2. [Andrew Hancock](#andrewhancock). Andrew is the VMware Specialist in Computer Science & Technology, responsible for architecure, watering & feeding the Computer Science and Technology VMware infrastructure. He also has a long list of VMware and Virtualisation articles.
+3. [The Yellow Book](https://www.robmiles.com/s/CSharp-Book-2019-Refresh.pdf) - A fantastic intro to C# from former Hull Lecturer, [Rob Miles](robmiles.com). He also has other publications available [here](https://www.amazon.co.uk/s?i=stripbooks&rh=p_27:Rob%20Miles&s=relevancerank&text=Rob%20Miles&ref=dp_byline_sr_book_1).
+4. [Rob Miles Youtube](https://www.youtube.com/channel/UC4OEadKEwxD7TxR9hKhxtuQ).
+5. [CSBlogs](http://csblogs.com/) - A collection of blogs from UoH staff, alumni and current students.
+6. [Freeside Discord](https://discord.gg/qAZ8dAp).
+7. [#HullCSS Discord](https://discord.gg/gzx4nee).
+8. [Hull Gaming Society Discord](https://discord.gg/agaf92a).
+9. [Hull Robotics Society Discord](https://discord.gg/pYP5kqE).
+10. [Department of Computer Science and Technology Twitter](https://twitter.com/HullCompSci).
 
 ## Hull Related <a name="hull"></a>
 1. [For Entrepreneurs Only](https://forentrepreneursonly.co.uk/) - Headquartered on UoH campus providing business mentoring and support.
