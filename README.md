@@ -29,6 +29,9 @@ Freeside welcome contributions to these lists from staff and students at the Uni
 - Make your changes and double check that nothing is broken.
 - Make a pull request and request a review from the Freeside team.
 
+#### Help and Support 
+If you require any support, either whilst contributing or with linux, programming or otherwise, feel free to join [Freeside's Discord server](http://discord.freeside.co.uk/) where our members will be more than willing to help.
+
 ## Student Discount / Free stuff <a name="freestuff"></a>
 1. [Github Student Pack](https://education.github.com/pack).
 2. [Azure for Students](https://azure.microsoft.com/en-gb/free/students/).
@@ -36,7 +39,6 @@ Freeside welcome contributions to these lists from staff and students at the Uni
 4. [Free Books on Robotics](https://github.com/StevenShiChina/books)
 5. [Learning Python Book](https://cfm.ehu.es/ricardo/docs/python/Learning_Python.pdf)
 6. [Free books on CS related subjects](https://github.com/MrAlex6204/Books/)
-
 
 ## Hull University Related <a name="hulluniversity"></a>
 1. [On the Hub](https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?ws=b7344511-bb8b-e011-969d-0030487d8897&vsro=8) - Free software for University of Hull Students
@@ -88,11 +90,10 @@ Freeside welcome contributions to these lists from staff and students at the Uni
 ## Software <a name="software"></a>
 1. [Atom Editor](https://atom.io/) 
 2. [Jetbrains Editors](https://www.jetbrains.com/).
-3. [The Awesome Self-Hosted List](https://github.com/awesome-selfhosted/awesome-selfhosted) - a list of open source projects which can be self-hosted. The list comprises an amazing range of fascinating tools and projects. Thanks to [@starbeamrainbowlabs](https://starbeamrainbowlabs.com/) for pointing it out.
-4. [Postman](https://www.postman.com/).
+3. [The Awesome Self-Hosted List](https://github.com/awesome-selfhosted/awesome-selfhosted) - a list of open source projects which can be self-hosted. The list comprises an amazing range of fascinating tools and projects. 
 5. [Bashmarks](https://github.com/huyng/bashmarks)
 6. [Doctl](https://github.com/digitalocean/doctl)
-7. [The Big Warehouse](https://github.com/sbrl/thebigwarehouse) - A collection of resources for programmers from [@starbeamrainbowlabs](https://starbeamrainbowlabs.com/).
+7. [The Big Warehouse](https://github.com/sbrl/thebigwarehouse) - A collection of resources for programmers.
 8. [Dockstation](https://dockstation.io/) - Docker GUI for Windows, Mac and Linux
 9. [Tush](https://github.com/darius/tush/) - a literate testing shell
 10. [Haven Self Hosted Blog](https://github.com/havenweb/haven) - A self hosted private blog built with ruby on rails.
@@ -136,9 +137,7 @@ Freeside welcome contributions to these lists from staff and students at the Uni
 5. [Mint](https://linuxmint.com/) - Another variant of Ubuntu, great for those familiar with Windows.
 6. [Tails](https://tails.boum.org/index.en.html) - A portable distribution that runs only in memory, for the ultimate privacy protection.
 
-## Help and Support <a name="support"></a>
-There are lots of lovely people ready to help you out in [Freeside's Discord server](http://discord.freeside.co.uk/), but these places may be helpful too.
-
+#### Supporting learning Linux
 1. [Ask Ubuntu](https://askubuntu.com/) - Ubuntu Q&A site. Part of Stack Exchange.
 2. [Unix & Linux Stack Exchange](https://unix.stackexchange.com/) - For more general Linux-related questions.
 
@@ -147,6 +146,3 @@ There are lots of lovely people ready to help you out in [Freeside's Discord ser
 2. [Satyr](https://git.waldn.net/git/knotteye/satyr) - Self hosted media streaming
 3. [File Stash](https://www.filestash.app/)
 4. [MIT Press: Reading code != Reading Language](https://news.mit.edu/2020/brain-reading-computer-code-1215)
-
-
-
