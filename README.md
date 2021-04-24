@@ -9,13 +9,14 @@
 6. [Business/Career](#business)
 7. [Services](#services)
 8. [Software](#software)
-9. [Law and Standards](#standards)
-10. [Learning Resources](#education)
-11. [Linux Distributions](#linux)
-12. [Hypervisors and virtual machines](Virtualisation.md#virtualisation)
-13. [Cyber Security Resources](CyberSecurity.md#cyber)
-14. [Other Interesting Stuff](#misc)
-15. [Andrew Hancock, Department of Computer Science & Technology - Systems](Virtualisation.md#andrewhancock)
+9. [Programming](Programming.md)
+10. [Law and Standards](#education)
+11. [Learning Resources](#education)
+12. [Linux Distributions](#linux)
+13. [Hypervisors and virtual machines](Virtualisation.md#virtualisation)
+14. [Cyber Security Resources](CyberSecurity.md#cyber)
+15. [Other Interesting Stuff](#misc)
+16. [Andrew Hancock, Department of Computer Science & Technology - Systems](Virtualisation.md#andrewhancock)
 
 ## Introduction <a name="introduction"></a>
 The Freeside Student Resources list consists of multiple categories of professional and academic resources which are aimed at aiding University of Hull Computer Science students to gain further knowledge; however, most resources will be able to help learners from outside the university.
