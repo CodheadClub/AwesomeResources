@@ -200,7 +200,9 @@ Andrew is the VMware Specialist in Computer Science & Technology, responsible fo
 132. [HOW TO: Update VMware ESXi 7.0U2 to ESXi 7.0U2a direct from VMware.](http://vexpert.me/1dW)
 133. [HOW TO: Update VMware ESXi 7.0U2 to ESXi 7.0U2a in 5 easy steps](http://vexpert.me/1dX)
 
-Hancock's VMware Half Hour HOW TO Video Series compliments the written articles above, and all these videos are based on the previous written content at Experts Exchange.
+### Hancock's VMware Half Hour HOW TO Video Series
+
+In this series, which compliments the written articles above, Andy Hancock demonstrates "How To" on a variety of topics. All these videos are based on the previous written content at Experts Exchange.
 
 1. [HOW TO: Install and Configure VMware vSphere Hypervisor 7.0 U2 (ESXi 7.0.2)](http://vexpert.me/1dY)
 2. [HOW TO: Connect to the VMware vSphere Hypervisor 7.0 U2 (ESXi 7.0.2) using the vSphere Host Client](http://vexpert.me/1dZ)
