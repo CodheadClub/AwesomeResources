@@ -20,6 +20,11 @@
 
 # Virtualisation List
 
+#### Networking
+1. [What is Mesh Topology?](https://fossbytes.com/what-is-mesh-topology-advantages-and-disadvantages-of-mesh-topology/)
+2. [Types of Network Topology](https://www.educba.com/types-of-network-topology/)
+3. [Network topologies, protocols and layers](https://www.bbc.co.uk/bitesize/guides/z666pbk/revision/2)
+
 ## Hypervisors and virtual machines  <a name="virtualisation"></a>
 
 Ontop of the great VMware resources below there are other hypervisors for running containers and virtual machines.
