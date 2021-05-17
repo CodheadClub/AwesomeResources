@@ -207,4 +207,4 @@ In this series, which compliments the written articles above, Andy Hancock demon
 
 1. [HOW TO: Install and Configure VMware vSphere Hypervisor 7.0 U2 (ESXi 7.0.2)](http://vexpert.me/1dY)
 2. [HOW TO: Connect to the VMware vSphere Hypervisor 7.0 U2 (ESXi 7.0.2) using the vSphere Host Client](http://vexpert.me/1dZ)
-3. [HOW TO: Rollback VMware vSphere Hypervisor 7.0 U2a using VMware Hypervisor Recovery Mode] (http://vexpert.me/1e5)
+3. [HOW TO: Rollback VMware vSphere Hypervisor 7.0 U2a using VMware Hypervisor Recovery Mode](http://vexpert.me/1e5)
