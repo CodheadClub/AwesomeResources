@@ -199,7 +199,7 @@ Andrew is the VMware Specialist in Computer Science & Technology, responsible fo
 131. [HOW TO: BOOT VMware vSphere Hypervisor 7.0 (ESXi 7.0 ARM) from an iSCSI LUN for the Raspberry Pi 4](http://vexpert.me/iSCSI-BOOT-from-ESXi-ARM)
 132. [HOW TO: Update VMware ESXi 7.0U2 to ESXi 7.0U2a direct from VMware.](http://vexpert.me/1dW)
 133. [HOW TO: Update VMware ESXi 7.0U2 to ESXi 7.0U2a in 5 easy steps](http://vexpert.me/1dX)
-134. [HOW TO: Rollback VMware vSphere Hypervisor 7.0 U2a using VMware Hypervisor Recovery Mode] (http://vexpert.me/1e5)
+
 
 ### Hancock's VMware Half Hour HOW TO Video Series
 
@@ -207,3 +207,4 @@ In this series, which compliments the written articles above, Andy Hancock demon
 
 1. [HOW TO: Install and Configure VMware vSphere Hypervisor 7.0 U2 (ESXi 7.0.2)](http://vexpert.me/1dY)
 2. [HOW TO: Connect to the VMware vSphere Hypervisor 7.0 U2 (ESXi 7.0.2) using the vSphere Host Client](http://vexpert.me/1dZ)
+3. [HOW TO: Rollback VMware vSphere Hypervisor 7.0 U2a using VMware Hypervisor Recovery Mode] (http://vexpert.me/1e5)
