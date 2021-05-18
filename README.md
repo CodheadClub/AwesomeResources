@@ -43,8 +43,8 @@ If you require any support, either whilst contributing or with linux, programmin
 
 ## Hull University Related <a name="hulluniversity"></a>
 1. [Brian Tompsett Youtube Channel](https://www.youtube.com/channel/UCfG7W9cpOp4G4rH-gLgxVdw). Brian is a [lecturer at University of Hull](https://www.hull.ac.uk/staff-directory/brian-tompsett) and has a [long list of published works](https://scholar.google.co.uk/citations?user=4CFnDSAAAAAJ&hl=en). 
-2. [Andrew Hancock](#andrewhancock). Andrew is the VMware Specialist in Computer Science & Technology, responsible for architecure, watering & feeding the Computer Science and Technology VMware infrastructure. He also has a long list of VMware and Virtualisation articles.
-3. [The Yellow Book](https://www.robmiles.com/s/CSharp-Book-2019-Refresh.pdf) - A fantastic intro to C# from former Hull Lecturer, [Rob Miles](robmiles.com). He also has other publications available [here](https://www.amazon.co.uk/s?i=stripbooks&rh=p_27:Rob%20Miles&s=relevancerank&text=Rob%20Miles&ref=dp_byline_sr_book_1).
+2. [Andrew Hancock](Virtualisation.md#andrewhancock). Andrew is the VMware Specialist in Computer Science & Technology, responsible for architecure, watering & feeding the Computer Science and Technology VMware infrastructure. He also has a long list of VMware and Virtualisation articles.
+3. [The Yellow Book](https://www.robmiles.com/s/CSharp-Book-2019-Refresh.pdf) - A fantastic intro to C# from former Hull Lecturer, [Rob Miles](https://www.robmiles.com/). He also has other publications available [here](https://www.amazon.co.uk/s?i=stripbooks&rh=p_27:Rob%20Miles&s=relevancerank&text=Rob%20Miles&ref=dp_byline_sr_book_1).
 4. [Rob Miles Youtube](https://www.youtube.com/channel/UC4OEadKEwxD7TxR9hKhxtuQ).
 5. [CSBlogs](http://csblogs.com/) - A collection of blogs from UoH staff, alumni and current students.
 6. [Freeside Discord](https://discord.gg/qAZ8dAp).
@@ -125,7 +125,7 @@ If you require any support, either whilst contributing or with linux, programmin
 13. [CRISP-DM PyData 2015](https://www.youtube.com/watch?v=civLio11SjQ)
 14. [Tackling Imposter Syndrome, a cambridge students perspective](https://youtu.be/Zd7t9vKsiiA).
 15. [Shaping the Future of Connected Policing](https://www.youtube.com/watch?v=24FaeP_Zv_8)
-16. [Enabling Digital Policing: Computacenter and VMWare](https://www.youtube.com/watch?v=wwJyKUv3rcs)
+16. [Enabling Digital Policing: Computacenter and VMware](https://www.youtube.com/watch?v=wwJyKUv3rcs)
 17. [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials?primary_filter=popular) - System Administration tutorials from Digital Ocean. Can be followed on any Linux machine.
 18. [Data Science Handbook](https://tanthiamhuat.files.wordpress.com/2018/04/pythondatasciencehandbook.pdf)
 
