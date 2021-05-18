@@ -125,7 +125,7 @@ If you require any support, either whilst contributing or with linux, programmin
 13. [CRISP-DM PyData 2015](https://www.youtube.com/watch?v=civLio11SjQ)
 14. [Tackling Imposter Syndrome, a cambridge students perspective](https://youtu.be/Zd7t9vKsiiA).
 15. [Shaping the Future of Connected Policing](https://www.youtube.com/watch?v=24FaeP_Zv_8)
-16. [Enabling Digital Policing: Computacenter and VMWare](https://www.youtube.com/watch?v=wwJyKUv3rcs)
+16. [Enabling Digital Policing: Computacenter and VMware](https://www.youtube.com/watch?v=wwJyKUv3rcs)
 17. [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials?primary_filter=popular) - System Administration tutorials from Digital Ocean. Can be followed on any Linux machine.
 18. [Data Science Handbook](https://tanthiamhuat.files.wordpress.com/2018/04/pythondatasciencehandbook.pdf)
 
