@@ -213,7 +213,7 @@ In this series, which compliments the written articles above, Andy Hancock demon
 1. [HOW TO: Install and Configure VMware vSphere Hypervisor 7.0 U2 (ESXi 7.0.2).](http://vexpert.me/1dY)
 2. [HOW TO: Connect to the VMware vSphere Hypervisor 7.0 U2 (ESXi 7.0.2) using the vSphere Host Client.](http://vexpert.me/1dZ)
 3. [HOW TO: Rollback VMware vSphere Hypervisor 7.0 U2a using VMware Hypervisor Recovery Mode.](http://vexpert.me/1e5)
-4. [HOW TO: Update VMware ESXi 7.0U2 to ESXi 7.0U2a direct from VMware.](http://vexpert.me/1e7)
+4. [HOW TO: Update VMware ESXi 7.0U2 to ESXi 7.0U2a direct from VMware.](http://vexpert.me/1eb)
 5. [HOW TO: Update VMware ESXi 7.0U2 to ESXi 7.0U2a in 5 easy steps.](http://vexpert.me/1e8)
 6. [HOW TO: Upgrade VMware ESXi 7U1 (7.0.1) to VMware ESXi 7U2a (7.0.2) using an ISO image.](http://vexpert.me/1e9)
 7. [HOW TO Update VMware ESXi 7.0U1 to ESXi 7.0U2a using VMware vSphere Lifecycle Manager.(vLCM)](http://vexpert.me/1ea)
