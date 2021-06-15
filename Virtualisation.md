@@ -212,12 +212,21 @@ In this series, which compliments the written articles above, Andy Hancock demon
 
 1. [Part 1: HOW TO: Install and Configure VMware vSphere Hypervisor 7.0 U2 (ESXi 7.0.2).](http://vexpert.me/1dY)
 2. [Part 2: HOW TO: Connect to the VMware vSphere Hypervisor 7.0 U2 (ESXi 7.0.2) using the vSphere Host Client.](http://vexpert.me/1dZ)
-3. [Part 3: HOW TO: HOW TO: Create an ISO CD-ROMDVD-ROM image (.iso), and MD5 checksum signature, for use with ESXi 7.0.](http://vexpert.me/1eb)
+3. [Part 3: HOW TO: HOW TO: Create an ISO CD-ROMDVD-ROM image (.iso), and MD5 checksum signature, for use with ESXi 7.0.](http://vexpert.me/1eg)
 4. [Part 4: HOW TO: Upload an ISO image to a VMware datastore for use with VMware vSphere Hypervisor 7.0.](http://vexpert.me/1ec)
 5. [Part 5: HOW TO: Enable SSH Remote Access on a VMware vSphere Hypervisor 7.0 (ESXi 7.0).](http://vexpert.me/1ed)
 6. [Part 6: HOW TO: Suppress Configuration Issues and Warnings Alert displayed in Summary status for ESXi 7.0.](http://vexpert.me/1ee)
-4. [Part 16: HOW TO: Update VMware ESXi 7.0U2 to ESXi 7.0U2a direct from VMware.](http://vexpert.me/1eb)
-5. [Part 17: HOW TO: Update VMware ESXi 7.0U2 to ESXi 7.0U2a in 5 easy steps.](http://vexpert.me/1e8)
-6. [Part 18: HOW TO: Update VMware ESXi 7U1 (7.0.1) to VMware ESXi 7U2a (7.0.2) using an ISO image.](http://vexpert.me/1e9)
-7. [Part 19: HOW TO: Update VMware ESXi 7.0U1 to ESXi 7.0U2a using VMware vSphere Lifecycle Manager.(vLCM)](http://vexpert.me/1ea)
-8. [Part 20: HOW TO: Rollback VMware vSphere Hypervisor 7.0 U2a using VMware Hypervisor Recovery Mode.](http://vexpert.me/1e5)
+7. [Part 7: HOW TO: Create your first Windows Virtual Machine on a VMware vSphere Hypervisor 7.0 (ESXi 7.0) Host Server.](http://vexpert.me/1eh)
+8. [Part 8: HOW TO: Create your first Windows Virtual Machine on a VMware vSphere Hypervisor 7.0 (ESXi 7.0) Host Server.](http://vexpert.me/1ei)
+9. [Part 9: HOW TO: Create your first Linux Virtual Machine Ubuntu 20.04 LTS Server on a VMware vSphere Hypervisor 7.0 (ESXi 7.0) Host Server.](http://vexpert.me/1ej)
+10. [Part 10: HOW TO: Create your first second Virtual Machine Ubuntu 20.04 LTS Desktop on a VMware vSphere Hypervisor 7.0 (ESXi 7.0) Host Server.](http://vexpert.me/1ek)
+11. [Part 11: Coming Soon - In Production Placeholder - cutting room floor]
+12. [Part 12: Coming Soon - In Production Placeholder - cutting room floor]
+13. [Part 13: Coming Soon - In Production Placeholder - cutting room floor]
+14. [Part 14: Coming Soon - In Production Placeholder - cutting room floor]
+15. [Part 15: Coming Soon - In Production Placeholder - cutting room floor]
+16. [Part 16: HOW TO: Update VMware ESXi 7.0U2 to ESXi 7.0U2a direct from VMware.](http://vexpert.me/1eb)
+17. [Part 17: HOW TO: Update VMware ESXi 7.0U2 to ESXi 7.0U2a in 5 easy steps.](http://vexpert.me/1e8)
+18. [Part 18: HOW TO: Update VMware ESXi 7U1 (7.0.1) to VMware ESXi 7U2a (7.0.2) using an ISO image.](http://vexpert.me/1e9)
+19. [Part 19: HOW TO: Update VMware ESXi 7.0U1 to ESXi 7.0U2a using VMware vSphere Lifecycle Manager.(vLCM)](http://vexpert.me/1ea)
+20. Part 20: HOW TO: Rollback VMware vSphere Hypervisor 7.0 U2a using VMware Hypervisor Recovery Mode.](http://vexpert.me/1e5)
