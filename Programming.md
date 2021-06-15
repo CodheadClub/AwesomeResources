@@ -26,6 +26,8 @@
 4. [Kattis](https://open.kattis.com/) - Programming problems to help you improve your skills. Compete against staff/students.
 5. [Code Academy](https://www.codecademy.com/) - Improve your programming knowledge.
 6. [DevDocs](https://devdocs.io/) - Searchable developer docs
-7. [Aweomesheet](https://zombiefox.github.io/awesomeSheet/) - CSS Generator]
-8. [Two Decades of C#: A Reference](https://benbowen.blog/post/two_decades_of_csharp_i/) - A reference of which C# version introduced which features. Linked is the first blog; later versions are covered under later blogs.
-9. [Refactoring.guru](https://refactoring.guru/) - Learn about design patterns and refactoring.
+7. [Aweomesheet](https://zombiefox.github.io/awesomeSheet/) - CSS Generator
+8. [Learn CSS](https://web.dev/learn/css/) - Free Google course on CSS
+9. [Tailwind CSS](https://tailwindcss.com/) - CSS styling without the pain of writing CSS
+10. [Two Decades of C#: A Reference](https://benbowen.blog/post/two_decades_of_csharp_i/) - A reference of which C# version introduced which features. Linked is the first blog; later versions are covered under later blogs.
+11. [Refactoring.guru](https://refactoring.guru/) - Learn about design patterns and refactoring.
