@@ -83,9 +83,10 @@ If you require any support, either whilst contributing or with linux, programmin
 4. [Matomo](https://matomo.org) - Self hosted Google Analytics alternative.
 5. [Wekan](https://wekan.github.io/) - Opensource Kanban.
 6. [Shodan](https://www.shodan.io/) - Create an account with your University email address to get free membership.
-7. [The Things Network](https://www.thethingsnetwork.org/)
-8. [Programmable Web APIs](https://www.programmableweb.com/)
-9. [A list of publically available APIs](https://github.com/public-apis/public-apis)
+7. [Spyse](https://spyse.com/) - Can be used for free or with standard subscription if registered with University email. 
+8. [The Things Network](https://www.thethingsnetwork.org/)
+9. [Programmable Web APIs](https://www.programmableweb.com/)
+10. [A list of publically available APIs](https://github.com/public-apis/public-apis)
    
 ## Software <a name="software"></a>
 1. [Atom Editor](https://atom.io/) 
@@ -128,6 +129,7 @@ If you require any support, either whilst contributing or with linux, programmin
 16. [Enabling Digital Policing: Computacenter and VMware](https://www.youtube.com/watch?v=wwJyKUv3rcs)
 17. [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials?primary_filter=popular) - System Administration tutorials from Digital Ocean. Can be followed on any Linux machine.
 18. [Data Science Handbook](https://tanthiamhuat.files.wordpress.com/2018/04/pythondatasciencehandbook.pdf)
+19. [Naham Sec udemy course](https://www.udemy.com/course/intro-to-bug-bounty-by-nahamsec) - Bug Bounty Hunting and Web Application Hacking from well known bug bounty hunter. Cost only $12 for tons of valuable content.
 
 ## Linux Distributions <a name="linux"></a>
 1. [Ubuntu](https://ubuntu.com/) - Great starting distributions for beginners as lots of support is available.
