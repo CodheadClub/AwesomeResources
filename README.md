@@ -83,9 +83,10 @@ If you require any support, either whilst contributing or with linux, programmin
 4. [Matomo](https://matomo.org) - Self hosted Google Analytics alternative.
 5. [Wekan](https://wekan.github.io/) - Opensource Kanban.
 6. [Shodan](https://www.shodan.io/) - Create an account with your University email address to get free membership.
-7. [The Things Network](https://www.thethingsnetwork.org/)
-8. [Programmable Web APIs](https://www.programmableweb.com/)
-9. [A list of publically available APIs](https://github.com/public-apis/public-apis)
+7. [Spyse](https://spyse.com/) – Internet assets registry that scan, collect, analyze, and provide information on internet entities💰.
+8. [The Things Network](https://www.thethingsnetwork.org/)
+9. [Programmable Web APIs](https://www.programmableweb.com/)
+10. [A list of publically available APIs](https://github.com/public-apis/public-apis)
    
 ## Software <a name="software"></a>
 1. [Atom Editor](https://atom.io/) 
@@ -128,6 +129,12 @@ If you require any support, either whilst contributing or with linux, programmin
 16. [Enabling Digital Policing: Computacenter and VMware](https://www.youtube.com/watch?v=wwJyKUv3rcs)
 17. [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials?primary_filter=popular) - System Administration tutorials from Digital Ocean. Can be followed on any Linux machine.
 18. [Data Science Handbook](https://tanthiamhuat.files.wordpress.com/2018/04/pythondatasciencehandbook.pdf)
+19. [Hacker Sploit](https://www.youtube.com/c/HackerSploit/) (Youtube Channel).
+20. [Pentestlab](https://pentestlab.blog/) Blog.
+21. [Securityaffairs](https://securityaffairs.co/wordpress/) Blog of Pierluigi Paganini.
+22. [University of Maryland - Hardware Security](https://www.coursera.org/learn/hardware-security)
+23. [University of Maryland - Software Security](https://www.coursera.org/learn/software-security)
+24. [University of Maryland - Usable Security](https://www.coursera.org/learn/usable-security)
 
 ## Linux Distributions <a name="linux"></a>
 1. [Ubuntu](https://ubuntu.com/) - Great starting distributions for beginners as lots of support is available.
