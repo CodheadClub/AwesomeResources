@@ -31,3 +31,4 @@
 9. [Tailwind CSS](https://tailwindcss.com/) - CSS styling without the pain of writing CSS
 10. [Two Decades of C#: A Reference](https://benbowen.blog/post/two_decades_of_csharp_i/) - A reference of which C# version introduced which features. Linked is the first blog; later versions are covered under later blogs.
 11. [Refactoring.guru](https://refactoring.guru/) - Learn about design patterns and refactoring.
+12. [Awesome Markdown Editors & (Pre)Viewers](https://github.com/mundimark/awesome-markdown-editors)
