@@ -30,6 +30,8 @@ Freeside welcome contributions to these lists from staff and students at the Uni
 - Make your changes and double check that nothing is broken.
 - Make a pull request and request a review from the Freeside team.
 
+If you're not sure how to contribute, please follow [this handy tutorial](https://love.edwardcharl.es/contributing-to-the-freeside-srl/).
+
 #### Help and Support 
 If you require any support, either whilst contributing or with linux, programming or otherwise, feel free to join [Freeside's Discord server](http://discord.freeside.co.uk/) where our members will be more than willing to help.
 
