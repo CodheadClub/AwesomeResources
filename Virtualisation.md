@@ -232,3 +232,5 @@ There is 6.5 hours of recorded videos here, split over 20 parts!
 18. [Part 18: HOW TO: Update VMware ESXi 7U1 (7.0.1) to VMware ESXi 7U2a (7.0.2) using an ISO image.](http://vexpert.me/1e9)
 19. [Part 19: HOW TO: Update VMware ESXi 7.0U1 to ESXi 7.0U2a using VMware vSphere Lifecycle Manager.(vLCM)](http://vexpert.me/1ea)
 20. [Part 20: HOW TO: Rollback VMware vSphere Hypervisor 7.0 U2a using VMware Hypervisor Recovery Mode.](http://vexpert.me/1e5)
+21. [Part 21: HOW TO: Deploy and Install VMware vSphere vCenter Server 7.0 (VCSA 7.0)](http://vexpert.me/1er)
+22. [Part 22: HOW TO: Add VMware vSphere Hypervisor ESXi 7.0 Hosts to VMware vSphere vCenter Server 7.0](http://vexpert.me/1es)
