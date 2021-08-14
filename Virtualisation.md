@@ -210,7 +210,8 @@ Andrew is the VMware Specialist in Computer Science & Technology, responsible fo
 
 In this series, which compliments the written articles above, Andy Hancock demonstrates "HOW TO" on a variety of topics. All these videos are based on the previous written content at Experts Exchange.
 
-There is 6.5 hours of recorded videos here, split over 20 parts! 
+In this short online course, there is a total of 7.5 hours of online videos from Part 1 to Part 22, taking you through the basics of VMware vSphere 7.0, from installation of the hypervisor (ESXi), creating Windows and Linux virtual machines, updating the ESXi hosts and installing and adding ESXi hosts to vCenter Server (the management server.)
+This course is split over 22 parts, in bit size chunks, hosted by Andy Hancock. If you have any questions or issues, then please reach out to me.
 
 1. [Part 1: HOW TO: Install and Configure VMware vSphere Hypervisor 7.0 U2 (ESXi 7.0.2).](http://vexpert.me/1dY)
 2. [Part 2: HOW TO: Connect to the VMware vSphere Hypervisor 7.0 U2 (ESXi 7.0.2) using the vSphere Host Client.](http://vexpert.me/1dZ)
