@@ -210,7 +210,7 @@ Andrew is the VMware Specialist in Computer Science & Technology, responsible fo
 
 In this series, which compliments the written articles above, Andy Hancock demonstrates "HOW TO" on a variety of topics. All these videos are based on the previous written content at Experts Exchange.
 
-There is 6.5 hours of recorded videos here, split over 20 parts! 
+There is 7.5 hours of recorded videos here, split over 22 parts! VMware vSphere Onlibne Learning by a VMware vExpert PRO
 
 1. [Part 1: HOW TO: Install and Configure VMware vSphere Hypervisor 7.0 U2 (ESXi 7.0.2).](http://vexpert.me/1dY)
 2. [Part 2: HOW TO: Connect to the VMware vSphere Hypervisor 7.0 U2 (ESXi 7.0.2) using the vSphere Host Client.](http://vexpert.me/1dZ)
