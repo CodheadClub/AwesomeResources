@@ -50,10 +50,11 @@ If you require any support, either whilst contributing or with linux, programmin
 4. [Rob Miles Youtube](https://www.youtube.com/channel/UC4OEadKEwxD7TxR9hKhxtuQ).
 5. [CSBlogs](http://csblogs.com/) - A collection of blogs from UoH staff, alumni and current students.
 6. [Freeside Discord](https://discord.gg/qAZ8dAp).
-7. [#HullCSS Discord](https://discord.gg/gzx4nee).
-8. [Hull Gaming Society Discord](https://discord.gg/agaf92a).
+7. [#HullCSS Discord](https://hullcss.org/discord).
+8. [Hull Gaming Society Discord](https://discord.gg/Rm5gepFQWA).
 9. [Hull Robotics Society Discord](https://discord.gg/pYP5kqE).
 10. [Department of Computer Science and Technology Twitter](https://twitter.com/HullCompSci).
+11. [University of Hull Hub](https://discord.gg/WsEy47d9j8)
 
 ## Hull Related <a name="hull"></a>
 1. [For Entrepreneurs Only](https://forentrepreneursonly.co.uk/) - Headquartered on UoH campus providing business mentoring and support.
