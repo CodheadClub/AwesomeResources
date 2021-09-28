@@ -37,15 +37,15 @@ If you require any support, either whilst contributing or with linux, programmin
 
 ## Student Discount / Free stuff <a name="freestuff"></a>
 1. [Github Student Pack](https://education.github.com/pack).
-2. [Azure for Students](https://azure.microsoft.com/en-gb/free/students/).
-3. [VMware Academic Software Licensing Program](https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?ws=b7344511-bb8b-e011-969d-0030487d8897&vsro=8) e.g. VMware Workstation, VMware vSphere, VMware Fusion - Request access via http://support.hull.ac.uk and mention Andy Hancock.
+2. [Microsoft Azure Dev Tools for Teaching](https://azure.microsoft.com/en-gb/free/students/). FREE Microsoft licenses for Windows 10 and 11, Visual Studio and other Windows server operating systems, excludes Micresoft Office!
+3. [VMware IT Academy Program](https://www.vmware.com/uk/company/it-academy.html) This is a similar program to the [Microsoft Azure Dev Tools for Teaching](https://azure.microsoft.com/en-gb/free/students/), and allows you to obtain Software Products and Licensing for most of the VMware Products for FREE e.g. VMware Workstation, VMware vSphere, VMware Fusion. If you are a student of The Department of Computer science and Technology you would have been enrolled automatically. However sometimes your information may have "fallen through the cracks!", if so please reach out to me Andy Hancock via http://support.hull.ac.uk and mention Andy Hancock!
 4. [Free Books on Robotics](https://github.com/StevenShiChina/books)
 5. [Learning Python Book](https://cfm.ehu.es/ricardo/docs/python/Learning_Python.pdf)
 6. [Free books on CS related subjects](https://github.com/MrAlex6204/Books/)
 
 ## Hull University Related <a name="hulluniversity"></a>
 1. [Brian Tompsett Youtube Channel](https://www.youtube.com/channel/UCfG7W9cpOp4G4rH-gLgxVdw). Brian is a [lecturer at University of Hull](https://www.hull.ac.uk/staff-directory/brian-tompsett) and has a [long list of published works](https://scholar.google.co.uk/citations?user=4CFnDSAAAAAJ&hl=en). 
-2. [Andrew Hancock](Virtualisation.md#andrewhancock). Andrew is the VMware Specialist in Computer Science & Technology, responsible for architecure, watering & feeding the Computer Science and Technology VMware infrastructure. He also has a long list of VMware and Virtualisation articles.
+2. [Andrew Hancock](Virtualisation.md#andrewhancock). Andrew is the VMware Specialist in Computer Science & Technology, responsible for architecure, watering & feeding the Computer Science and Technology VMware infrastructure. He also has a long list of VMware and Virtualisation articles. Please also see [VMware IT Academy Program](https://www.vmware.com/uk/company/it-academy.html) 
 3. [The Yellow Book](https://www.robmiles.com/s/CSharp-Book-2019-Refresh.pdf) - A fantastic intro to C# from former Hull Lecturer, [Rob Miles](https://www.robmiles.com/). He also has other publications available [here](https://www.amazon.co.uk/s?i=stripbooks&rh=p_27:Rob%20Miles&s=relevancerank&text=Rob%20Miles&ref=dp_byline_sr_book_1).
 4. [Rob Miles Youtube](https://www.youtube.com/channel/UC4OEadKEwxD7TxR9hKhxtuQ).
 5. [CSBlogs](http://csblogs.com/) - A collection of blogs from UoH staff, alumni and current students.

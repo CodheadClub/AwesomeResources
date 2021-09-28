@@ -46,7 +46,7 @@ Type 1 (Bare Metal Hypervisors)
 6. [Microsoft Windows Server 2019](https://www.microsoft.com/en-gb/windows-server) - Hyper-V can be enabled as a role in Windows Server. This is a Type 1 hypervisor. - Available for free if a Student of The Department of Computer Science and Technology.
 7. [Microsoft Hyper-V Server](https://www.microsoft.com/en-us/evalcenter/evaluate-hyper-v-server-2019_) - Not to be confused with Windows Server. This is a Type 1 Hypervisor, and is just server core Hyper-V with no GUI. - Available for free if a Student of The Department of Computer Science and Technology.
 8. [Microsoft Windows 10 Client Hyper-V](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/) - Hyper-V can be enabled in Windows 10 Pro and above. This is a Type 1 Hypervisor. - Available for free if a Student of The Department of Computer Science and Technology.
-9. [VMware vSphere Hypervisor (ESXi)](https://my.vmware.com/en/web/vmware/evalcenter?p=free-esxi7) - Available for free, or full version - Available for free if a Student of The Department of Computer Science and Technology.
+9. [VMware vSphere Hypervisor (ESXi)](https://my.vmware.com/en/web/vmware/evalcenter?p=free-esxi7) - Available for free, or full version - Available for free if a Student of The Department of Computer Science and Technology. All this software is FREE here - [VMware IT Academy Program](https://www.vmware.com/uk/company/it-academy.html) 
 10. [KVM/QEmu](https://www.linux-kvm.org/page/Main_Page) - KVM is built into the linux kernel, just like Hyper-V in Windows
 
 There are many frontends / management tools for KVM, including but not limited to
@@ -61,16 +61,16 @@ furthermore, if you're system supports VT-d you can pass through your video card
 Type 2
 
 1. [Oracle Virtualbox](https://www.virtualbox.org/) - A Free alternative to VMware Workstation for all platforms
-2. [VMware Fusion for Apple Mac](https://www.vmware.com/uk/products/fusion.html) - Type 2 Hypervisor for Apple Mac - Available for free if a Student of The Department of Computer Science and Technology.
-3. [VMware Workstation](https://www.vmware.com/uk/products/workstation-pro.html) - Type 2 Hypervisor for Linux and Windows - Available for free if a Student of The Department of Computer Science and Technology.
-4. [VMware Player](https://www.vmware.com/uk/products/workstation-player.html) - Type 2 Hypervosor for Linux and Windows - Available for free if a Student of The Department of Computer Science and Technology.
+2. [VMware Fusion for Apple Mac](https://www.vmware.com/uk/products/fusion.html) - Type 2 Hypervisor for Apple Mac - Available for free if a Student of The Department of Computer Science and Technology. All this software is FREE here - [VMware IT Academy Program](https://www.vmware.com/uk/company/it-academy.html) 
+3. [VMware Workstation](https://www.vmware.com/uk/products/workstation-pro.html) - Type 2 Hypervisor for Linux and Windows - Available for free if a Student of The Department of Computer Science and Technology. All this software is FREE here - [VMware IT Academy Program](https://www.vmware.com/uk/company/it-academy.html) 
+4. [VMware Player](https://www.vmware.com/uk/products/workstation-player.html) - Type 2 Hypervosor for Linux and Windows - Available for free if a Student of The Department of Computer Science and Technology. All this software is FREE here - [VMware IT Academy Program](https://www.vmware.com/uk/company/it-academy.html) 
 5. [Parallels Desktop 16 for Mac](https://www.parallels.com/uk/products/desktop/) - Type 2 Hypervisor for Mac.
 
 
 
 
 ## Andrew Hancock, Department of Computer Science & Technology - Systems <a name="andrewhancock"></a>
-Andrew is the VMware Specialist in Computer Science & Technology, responsible for the VMware architecture, watering & feeding the Computer Science & Technology VMware vSphere infrastructure. (based on VMware vSphere). He also has a long list of VMware and Virtualisations articles, a passionate VMware Technical Architect, and VMware vExpert Pro. His articles are reproduced here for your reading pleasure. If you want to discuss anything VMware, then ask him! He will only be too happy to oblige.
+Andrew is the VMware Specialist in Computer Science & Technology, responsible for the VMware architecture, watering & feeding the Computer Science & Technology VMware vSphere infrastructure. (based on VMware vSphere). He also has a long list of VMware and Virtualisations articles, a passionate VMware Technical Architect, and VMware vExpert Pro. His articles are reproduced here for your reading pleasure. If you want to discuss anything VMware, then ask him! He will only be too happy to oblige. All this software is FREE here - [VMware IT Academy Program](https://www.vmware.com/uk/company/it-academy.html) 
 1. [How to Backup an ESXi installation on an USB Flash Drive or SD card for security or redundancy.](http://vexpert.me/BackupESXi)
 2. [VMware ESX/ESXi Backup Guide](http://vexpert.me/BackupGuide)
 3. [HOW TO: Improve the transfer rate of a Physical to Virtual (P2V) Virtual to Virtual Conversion (V2V) using VMware vCenter Converter Standalone 5.0](https://www.experts-exchange.com/articles/9131/HOW-TO-Improve-the-transfer-rate-of-a-Physical-to-Virtual-P2V-Virtual-to-Virtual-Conversion-V2V-using-VMware-vCenter-Converter-Standalone-5-0.html)
