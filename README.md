@@ -35,7 +35,7 @@ If you require any support, either whilst contributing or with linux, programmin
 
 ## Student Discount / Free stuff <a name="freestuff"></a>
 1. [Github Student Pack](https://education.github.com/pack).
-2. [Microsoft Azure Dev Tools for Teaching](https://azure.microsoft.com/en-gb/free/students/).
+2. [Microsoft Azure Dev Tools for Teaching](https://azure.microsoft.com/en-gb/free/students/). FREE Microsoft licenses for Windows 10 and 11, Visual Studio and other Windows server operating systems, excludes Micresoft Office!
 3. [VMware IT Academy Program](https://www.vmware.com/uk/company/it-academy.html) This is a similar program to the Microsoft Azure Dev Tools for Teaching (see 2. above), and allows you to obtain Software Products and Licensing for most of the VMware Products for FREE e.g. VMware Workstation, VMware vSphere, VMware Fusion. If you are a student of The Department of Computer science and Technology you would have been enrolled automatically. However sometimes your information may have "fallen through the cracks!", if so please reach out to me Andy Hancock via http://support.hull.ac.uk and mention Andy Hancock!
 4. [Free Books on Robotics](https://github.com/StevenShiChina/books)
 5. [Learning Python Book](https://cfm.ehu.es/ricardo/docs/python/Learning_Python.pdf)
