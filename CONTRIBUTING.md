@@ -10,6 +10,7 @@ If you're not sure how to contribute, please follow [this handy tutorial](https:
 #### Hacktoberfest Rules
 If you're contributing as part of Hacktoberfest, your contributions should meet the Hacktoberfest rules as well as the below:
 
+- Contributors **MUST** identify that they're submitting as part of hacktoberfest. Any submissions made without identifying they are part of hacktoberfest will be reviewed **AFTER** Hacktoberfest.
 - Contributions **MUST** add resources of academic or professional quality (e.g. Academic papers, other university/student resources, professional training pathways/exchanges).
 - Contributions **MUST** improve upon or enhance explainations of topics.
 - Contributions **MUST NOT** link to resources requiring payment or be hidden behind a paywall.
