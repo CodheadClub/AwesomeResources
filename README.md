@@ -50,7 +50,7 @@ If you require any support, either whilst contributing or with linux, programmin
 2. [Andrew Hancock](Virtualisation.md#andrewhancock). Andrew is the VMware Specialist in Computer Science & Technology, responsible for architecure, watering & feeding the Computer Science and Technology VMware infrastructure. He also has a long list of VMware and Virtualisation articles. Please also see [VMware IT Academy Program](https://www.vmware.com/uk/company/it-academy.html) 
 3. [The Yellow Book](https://www.robmiles.com/s/CSharp-Book-2019-Refresh.pdf) - A fantastic intro to C# from former Hull Lecturer, [Rob Miles](https://www.robmiles.com/). He also has other publications available [here](https://www.amazon.co.uk/s?i=stripbooks&rh=p_27:Rob%20Miles&s=relevancerank&text=Rob%20Miles&ref=dp_byline_sr_book_1).
 4. [Rob Miles Youtube](https://www.youtube.com/channel/UC4OEadKEwxD7TxR9hKhxtuQ).
-5. [CSBlogs](http://csblogs.com/) - A collection of blogs from UoH staff, alumni and current students.
+5. [HullBlogs](https://hullblogs.com/) - A collection of blogs from UoH staff, alumni and current students.
 6. [Freeside Discord](https://discord.gg/qAZ8dAp).
 7. [#HullCSS Discord](https://hullcss.org/discord).
 8. [Hull Gaming Society Discord](https://discord.gg/Rm5gepFQWA).
