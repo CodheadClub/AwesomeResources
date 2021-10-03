@@ -15,8 +15,9 @@
 12. [Linux Distributions](#linux)
 13. [Hypervisors and virtual machines](Virtualisation.md#virtualisation)
 14. [Cyber Security Resources](CyberSecurity.md#cyber)
-15. [Other Interesting Stuff](#misc)
-16. [Andrew Hancock, Department of Computer Science & Technology - Systems](Virtualisation.md#andrewhancock)
+15. [Campus Ambassador Programs](#Campus Ambassador Programs)
+16. [Other Interesting Stuff](#misc)
+17. [Andrew Hancock, Department of Computer Science & Technology - Systems](Virtualisation.md#andrewhancock)
 
 ## Introduction <a name="introduction"></a>
 The Freeside Student Resources list consists of multiple categories of professional and academic resources which are aimed at aiding University of Hull Computer Science students to gain further knowledge; however, most resources will be able to help learners from outside the university.
@@ -162,6 +163,25 @@ If you require any support, either whilst contributing or with linux, programmin
 5. [Install and Configure SSH Server on Arch Linux](https://linuxhint.com/install_ssh_server_on_arch_linux/)
 6. [OpenSSH Manual](https://www.openssh.com/manual.html)
 7. [Principle of Least Privilege](https://techcommunity.microsoft.com/t5/azure-sql/security-the-principle-of-least-privilege-polp/ba-p/2067390)
+
+## Campus Ambassador Programs <a name="Campus Ambassador Programs"></a>
+1. [Microsoft Learn Student Ambassadors](https://studentambassadors.microsoft.com/) 
+2. [GitHub Campus Experts](https://githubcampus.expert/)
+3. [College Representative  - E-Cell IITB](https://www.ecell.in/cr/)
+4. [Internshala Student Partner  -   | ISP](https://internshala.com/)
+5. [Progate Student Ambassador](http://progate.com/)
+6. [ISB - YLP Campus Ambassador Program ](http://www.isb.edu/ylp/CAP)
+7. [GeeksforGeeks Campus Ambassador](https://www.geeksforgeeks.org/)
+8. [HackerEarth Campus Ambassador](https://hackerearth.com)
+9. [HackerRank Campus Ambassador](https://hackerrank.com)
+10. [Interviewbit Campus Ambassador](https://www.interviewbit.com/pages/campus-ambassador/)
+11. [Dell Campassadors Program](https://dellfuturist.com/the-dell-campassadors-program)
+12. [Intel Ambassador Program](https://software.intel.com/en-us/ai-academy/ambassadors/apply)
+13. [Codechef Campus Ambassador](https://www.codechef.com/)
+14. [Ingressive Campus Ambassador](https://www.ingressive.co/ingressive-campus-ambassadors/)
+15. [Mozilla Student Ambassador](https://www.mozilla.org/en-US/contribute/studentambassadors/)
+16. [Frontbench Campus Ambassador](https://frontbench.xyz/campus-connect)
+17. [Codechef Campus Ambassador](https://www.codechef.com/college-chapter/about)
 
 ## Other interesting stuff <a name="misc"></a>
 1. [E Foundation](https://e.foundation)
