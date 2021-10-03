@@ -17,7 +17,7 @@ If you're contributing as part of Hacktoberfest, your contributions should meet 
 - Contributions **MAY** begin a new topic / category but **MUST** provide background and a minimum of 5 resources for that category.
 - Contributions **MIGHT** be accepted if linking to other repos, software, opensource projects etc depending on quality.
 
-All contributuons will be checked. Malicious links will be reported. No exceptions.
+All contributions will be checked. Malicious links will be reported. No exceptions.
 
 #### Help and Support 
 If you require any support, either whilst contributing or with linux, programming or otherwise, feel free to join [Freeside's Discord server](http://discord.freeside.co.uk/) where our members will be more than willing to help.
