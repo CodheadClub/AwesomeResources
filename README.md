@@ -26,6 +26,8 @@ List originally comprised by [@closebracket](https://github.com/closebracket), v
 ## Contributing <a name="contributing"></a>
 Freeside welcome contributions to these lists from staff and students at the University of Hull, as well as members of the public. If you wish to contribute, please abide by the following rules:
 
+**Contributing as part of Hacktoberfest?** [Read this](CONTRIBUTING.md)
+
 - Fork the repository, look at the markdown and understand it. 
 - Make your changes and double check that nothing is broken.
 - Make a pull request and request a review from the Freeside team.
