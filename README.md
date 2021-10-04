@@ -149,6 +149,7 @@ If you require any support, either whilst contributing or with linux, programmin
 5. [Mint](https://linuxmint.com/) - Another variant of Ubuntu, great for those familiar with Windows.
 6. [Tails](https://tails.boum.org/index.en.html) - A portable distribution that runs only in memory, for the ultimate privacy protection.
 7. [Qubes OS](https://www.qubes-os.org/intro/)
+8. [Raspberry Pi OS]("https://www.raspberrypi.org/") - For use with the range of Raspberry Pi single board computers. A great distribution if you're looking to get into programming (and don't mind spending a bit of money on the hardware to run it), especially involving Python or electronics (the Pis can come with GPIO pins for use with electronics). There are some beginner projects listed on the site but there are a lot of projects made by the Pi community.
 
 #### Supporting learning Linux
 1. [Ask Ubuntu](https://askubuntu.com/) - Ubuntu Q&A site. Part of Stack Exchange.
