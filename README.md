@@ -170,6 +170,7 @@ If you require any support, either whilst contributing or with linux, programmin
 ## Electronics
 
 ### Raspberry Pi
+1. [An introduction to the Raspberry Pi](https://crimsontome.github.io/2021/10/04/introduction-to-raspberry-pi) - A blog post by Matt Clark
 
 ## Other interesting stuff <a name="misc"></a>
 1. [E Foundation](https://e.foundation)
