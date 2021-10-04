@@ -140,6 +140,9 @@ If you require any support, either whilst contributing or with linux, programmin
 22. [University of Maryland - Hardware Security](https://www.coursera.org/learn/hardware-security)
 23. [University of Maryland - Software Security](https://www.coursera.org/learn/software-security)
 24. [University of Maryland - Usable Security](https://www.coursera.org/learn/usable-security)
+25. [The Basics by Tom Scott](https://youtube.com/playlist?list=PL96C35uN7xGLLeET0dOWaKHkAlPsrkcha)
+26. [How To Build An App: Everything You Didn't Know You Needed To Know](https://youtube.com/playlist?list=PL96C35uN7xGJu6skU4TBYrIWxggkZBrF5)
+27. [Jeff Geerling] - YouTube channel with lots of Raspberry Pi projects and tests, along with resources on Kubernetes, Ansible and more.
 
 ## Linux Distributions <a name="linux"></a>
 1. [Ubuntu](https://ubuntu.com/) - Great starting distributions for beginners as lots of support is available.
