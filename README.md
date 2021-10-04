@@ -167,6 +167,10 @@ If you require any support, either whilst contributing or with linux, programmin
 6. [OpenSSH Manual](https://www.openssh.com/manual.html)
 7. [Principle of Least Privilege](https://techcommunity.microsoft.com/t5/azure-sql/security-the-principle-of-least-privilege-polp/ba-p/2067390)
 
+## Electronics
+
+### Raspberry Pi
+
 ## Other interesting stuff <a name="misc"></a>
 1. [E Foundation](https://e.foundation)
 2. [Satyr](https://git.waldn.net/git/knotteye/satyr) - Self hosted media streaming
