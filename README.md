@@ -13,10 +13,11 @@
 10. [Law and Standards](#education)
 11. [Learning Resources](#education)
 12. [Linux Distributions](#linux)
-13. [Hypervisors and virtual machines](Virtualisation.md#virtualisation)
-14. [Cyber Security Resources](CyberSecurity.md#cyber)
-15. [Other Interesting Stuff](#misc)
-16. [Andrew Hancock, Department of Computer Science & Technology - Systems](Virtualisation.md#andrewhancock)
+13. [Electronics](#electronics)
+14. [Hypervisors and virtual machines](Virtualisation.md#virtualisation)
+15. [Cyber Security Resources](CyberSecurity.md#cyber)
+16. [Other Interesting Stuff](#misc)
+17. [Andrew Hancock, Department of Computer Science & Technology - Systems](Virtualisation.md#andrewhancock)
 
 ## Introduction <a name="introduction"></a>
 The Freeside Student Resources list consists of multiple categories of professional and academic resources which are aimed at aiding University of Hull Computer Science students to gain further knowledge; however, most resources will be able to help learners from outside the university.
@@ -167,7 +168,7 @@ If you require any support, either whilst contributing or with linux, programmin
 6. [OpenSSH Manual](https://www.openssh.com/manual.html)
 7. [Principle of Least Privilege](https://techcommunity.microsoft.com/t5/azure-sql/security-the-principle-of-least-privilege-polp/ba-p/2067390)
 
-## Electronics
+## Electronics <a name="electronics"></a>
 
 ### Raspberry Pi
 1. [An introduction to the Raspberry Pi](https://crimsontome.github.io/2021/10/04/introduction-to-raspberry-pi) - A blog post by Matt Clark
