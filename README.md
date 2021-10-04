@@ -50,7 +50,7 @@ If you require any support, either whilst contributing or with linux, programmin
 2. [Andrew Hancock](Virtualisation.md#andrewhancock). Andrew is the VMware Specialist in Computer Science & Technology, responsible for architecure, watering & feeding the Computer Science and Technology VMware infrastructure. He also has a long list of VMware and Virtualisation articles. Please also see [VMware IT Academy Program](https://www.vmware.com/uk/company/it-academy.html) 
 3. [The Yellow Book](https://www.robmiles.com/s/CSharp-Book-2019-Refresh.pdf) - A fantastic intro to C# from former Hull Lecturer, [Rob Miles](https://www.robmiles.com/). He also has other publications available [here](https://www.amazon.co.uk/s?i=stripbooks&rh=p_27:Rob%20Miles&s=relevancerank&text=Rob%20Miles&ref=dp_byline_sr_book_1).
 4. [Rob Miles Youtube](https://www.youtube.com/channel/UC4OEadKEwxD7TxR9hKhxtuQ).
-5. [CSBlogs](http://csblogs.com/) - A collection of blogs from UoH staff, alumni and current students.
+5. [HullBlogs](https://hullblogs.com/) - A collection of blogs from UoH staff, alumni and current students.
 6. [Freeside Discord](https://discord.gg/qAZ8dAp).
 7. [#HullCSS Discord](https://hullcss.org/discord).
 8. [Hull Gaming Society Discord](https://discord.gg/Rm5gepFQWA).
@@ -140,6 +140,9 @@ If you require any support, either whilst contributing or with linux, programmin
 22. [University of Maryland - Hardware Security](https://www.coursera.org/learn/hardware-security)
 23. [University of Maryland - Software Security](https://www.coursera.org/learn/software-security)
 24. [University of Maryland - Usable Security](https://www.coursera.org/learn/usable-security)
+25. [The Basics by Tom Scott](https://youtube.com/playlist?list=PL96C35uN7xGLLeET0dOWaKHkAlPsrkcha)
+26. [How To Build An App: Everything You Didn't Know You Needed To Know](https://youtube.com/playlist?list=PL96C35uN7xGJu6skU4TBYrIWxggkZBrF5)
+27. [Jeff Geerling](https://www.youtube.com/c/JeffGeerling) - YouTube channel with lots of Raspberry Pi projects and tests, along with resources on Kubernetes, Ansible and more.
 
 ## Linux Distributions <a name="linux"></a>
 1. [Ubuntu](https://ubuntu.com/) - Great starting distributions for beginners as lots of support is available.
@@ -149,6 +152,7 @@ If you require any support, either whilst contributing or with linux, programmin
 5. [Mint](https://linuxmint.com/) - Another variant of Ubuntu, great for those familiar with Windows.
 6. [Tails](https://tails.boum.org/index.en.html) - A portable distribution that runs only in memory, for the ultimate privacy protection.
 7. [Qubes OS](https://www.qubes-os.org/intro/)
+8. [Raspberry Pi OS](https://www.raspberrypi.org) - For use with the range of Raspberry Pi single board computers. A great distribution if you're looking to get into programming (and don't mind spending a bit of money on the hardware to run it), especially involving Python or electronics (the Pis can come with GPIO pins for use with electronics). There are some beginner projects listed on the site but there are a lot of projects made by the Pi community.
 
 #### Supporting learning Linux
 1. [Ask Ubuntu](https://askubuntu.com/) - Ubuntu Q&A site. Part of Stack Exchange.
