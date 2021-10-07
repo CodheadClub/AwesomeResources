@@ -147,7 +147,7 @@ If you require any support, either whilst contributing or with linux, programmin
 26. [How To Build An App: Everything You Didn't Know You Needed To Know](https://youtube.com/playlist?list=PL96C35uN7xGJu6skU4TBYrIWxggkZBrF5)
 27. [Jeff Geerling](https://www.youtube.com/c/JeffGeerling) - YouTube channel with lots of Raspberry Pi projects and tests, along with resources on Kubernetes, Ansible and more.
 28. [Data Structures and Algorithms Visualiser](https://visualgo.net/en) - Provides visulation for different data structures and algorithms like sorting, linked lists, hash table etc. Also allows some customizations.
-29. [Scihub]([https://](https://sci-hub.se/)) - To remove all barriers in the way of science. Gives access to research papers to students and researchers to study and learn. 
+29. [Scihub]([https://](https://sci-hub.se/) - To remove all barriers in the way of science. Gives access to research papers to students and researchers to study and learn. 
 
 ## Linux Distributions <a name="linux"></a>
 1. [Ubuntu](https://ubuntu.com/) - Great starting distributions for beginners as lots of support is available.
