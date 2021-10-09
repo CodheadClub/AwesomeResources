@@ -2,22 +2,22 @@
 
 ## Contents
 1. [Introduction](#introduction)
-2. [Contributing](#contributing)
-3. [Student Discount/Free Stuff](#freestuff)
-4. [Hull University Related](#hulluniversity)
-5. [Hull Related](#hull)
+   - [Contributing](#contributing)
+4. [Hull University Resources](#hulluniversity)
+   - [Student Discount/Free Stuff](#freestuff)
+5. [Hull Resources (Non University)](#hull)
 6. [Business/Career](#business)
 7. [Services](#services)
 8. [Software](#software)
 9. [Programming](Programming.md)
-10. [Law and Standards](#education)
+10. [Ethics, Law & Professionalism](Ethics_Law_Professionalism.md)
 11. [Learning Resources](#education)
 12. [Linux Distributions](#linux)
 13. [Electronics](#electronics)
 14. [Hypervisors and virtual machines](Virtualisation.md#virtualisation)
+       - [Andrew Hancock, VMware Expert](Virtualisation.md#andrewhancock)
 15. [Cyber Security Resources](CyberSecurity.md#cyber)
 16. [Other Interesting Stuff](#misc)
-17. [Andrew Hancock, Department of Computer Science & Technology - Systems](Virtualisation.md#andrewhancock)
 
 ## Introduction <a name="introduction"></a>
 The Freeside Student Resources list consists of multiple categories of professional and academic resources which are aimed at aiding University of Hull Computer Science students to gain further knowledge; however, most resources will be able to help learners from outside the university.
@@ -35,8 +35,10 @@ Freeside welcome contributions to these lists from staff and students at the Uni
 
 If you're not sure how to contribute, please follow [this handy tutorial](https://love.edwardcharl.es/contributing-to-the-freeside-srl/) alternatively, [jump straight in with VS Code for Github](https://github.dev/FreesideHull/StudentResources). See [here](https://docs.github.com/en/codespaces/developing-in-codespaces/web-based-editor) for more info.
 
-#### Help and Support 
+### Help and Support 
 If you require any support, either whilst contributing or with linux, programming or otherwise, feel free to join [Freeside's Discord server](http://discord.freeside.co.uk/) where our members will be more than willing to help.
+
+If you need help with University of Hull assignments/coursework, you should contact the Hub through [Evision](https://evision.hull.ac.uk). Alternatively, for tech issues, ICTD can be contacted via [The Support Portal](https://support.hull.ac.uk).
 
 ## Student Discount / Free stuff <a name="freestuff"></a>
 1. [Github Student Pack](https://education.github.com/pack).
