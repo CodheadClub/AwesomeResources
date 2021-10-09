@@ -2,22 +2,22 @@
 
 ## Contents
 1. [Introduction](README.md#introduction)
-2. [Contributing](README.md#contributing)
-3. [Student Discount/Free Stuff](README.md#freestuff)
-4. [Hull University Related](README.md#hulluniversity)
-5. [Hull Related](README.md#hull)
+   - [Contributing](README.md#contributing)
+4. [Hull University Resources](README.md#hulluniversity)
+   - [Student Discount/Free Stuff](README.md#freestuff)
+5. [Hull Resources (Non University)](README.md#hull)
 6. [Business/Career](README.md#business)
 7. [Services](README.md#services)
 8. [Software](README.md#software)
 9. [Programming](Programming.md)
-10. [Law and Standards](README.md#education)
-11. [Learning Resources](#education)
+10. [Ethics, Law & Professionalism](Ethics_Law_Professionalism.md)
+11. [Learning Resources](README.md#education)
 12. [Linux Distributions](README.md#linux)
-13. [Hypervisors and virtual machines](Virtualisation.md#virtualisation)
-14. [Cyber Security Resources](CyberSecurity.md#cyber)
-15. [Other Interesting Stuff](README.md#misc)
-16. [Andrew Hancock, Department of Computer Science & Technology - Systems](Virtualisation.md#andrewhancock)
-
+13. [Electronics](Electronics.md)
+14. [Hypervisors and virtual machines](Virtualisation.md#virtualisation)
+       - [Andrew Hancock, VMware Expert](Virtualisation.md#andrewhancock)
+15. [Cyber Security Resources](CyberSecurity.md)
+16. [Other Interesting Stuff](README.md#misc)
 # Programming List
 
 1. [Platform.uno](https://platform.uno) - Multi platform applications, one code base.
