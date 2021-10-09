@@ -45,8 +45,7 @@ If you require any support, either whilst contributing or with linux, programmin
 3. [VMware IT Academy Program](https://www.vmware.com/uk/company/it-academy.html) This is a similar program to the [Microsoft Azure Dev Tools for Teaching](https://azure.microsoft.com/en-gb/free/students/), and allows you to obtain Software Products and Licensing for most of the VMware Products for FREE e.g. VMware Workstation, VMware vSphere, VMware Fusion. If you are a student of The Department of Computer science and Technology you would have been enrolled automatically. However sometimes your information may have "fallen through the cracks!", if so please reach out to me Andy Hancock via http://support.hull.ac.uk and mention Andy Hancock!
 4. [Free Books on Robotics](https://github.com/StevenShiChina/books)
 5. [Learning Python Book](https://cfm.ehu.es/ricardo/docs/python/Learning_Python.pdf)
-6. [Free books on CS related subjects](https://github.com/MrAlex6204/Books/)
-7. [Google Workspace for Education](https://edu.google.com/intl/ALL_in/products/workspace-for-education/) Gives students and teachers access to all premium Google Workspace tools. With access to various colaboration and productivity tools, it provides extra cloud storage to all authorised users.
+6. [Google Workspace for Education](https://edu.google.com/intl/ALL_in/products/workspace-for-education/) Gives students and teachers access to all premium Google Workspace tools. With access to various colaboration and productivity tools, it provides extra cloud storage to all authorised users.
 
 ## Hull University Related <a name="hulluniversity"></a>
 1. [Brian Tompsett Youtube Channel](https://www.youtube.com/channel/UCfG7W9cpOp4G4rH-gLgxVdw). Brian is a [lecturer at University of Hull](https://www.hull.ac.uk/staff-directory/brian-tompsett) and has a [long list of published works](https://scholar.google.co.uk/citations?user=4CFnDSAAAAAJ&hl=en). 
