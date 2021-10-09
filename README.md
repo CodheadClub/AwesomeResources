@@ -1,24 +1,23 @@
 ![Freeeside Logo](https://camo.githubusercontent.com/8824210474b9586405f0b11e210ea266599c9f83/68747470733a2f2f63646e2e7261776769742e636f6d2f467265657369646548756c6c2f4c6f676f732f6d61737465722f66726565736964655f7371756172655f706174682e737667 "Freeside Logo")
 
 ## Contents
-- [Contents](#contents)
-- [Introduction <a name="introduction"></a>](#introduction-)
-- [Contributing <a name="contributing"></a>](#contributing-)
-    - [Help and Support](#help-and-support)
-- [Student Discount / Free stuff <a name="freestuff"></a>](#student-discount--free-stuff-)
-- [Hull University Related <a name="hulluniversity"></a>](#hull-university-related-)
-- [Hull Related <a name="hull"></a>](#hull-related-)
-- [Business / Career <a name="business"></a>](#business--career-)
-- [Services <a name="services"></a>](#services-)
-- [Software <a name="software"></a>](#software-)
-- [Law and Standards <a name="standards"></a>](#law-and-standards-)
-- [Learning Resources <a name="education"></a>](#learning-resources-)
-- [Linux Distributions <a name="linux"></a>](#linux-distributions-)
-    - [Supporting learning Linux](#supporting-learning-linux)
-    - [Linux Resources](#linux-resources)
-- [Electronics <a name="electronics"></a>](#electronics-)
-  - [Raspberry Pi](#raspberry-pi)
-- [Other interesting stuff <a name="misc"></a>](#other-interesting-stuff-)
+1. [Introduction](#introduction)
+2. [Contributing](#contributing)
+3. [Student Discount/Free Stuff](#freestuff)
+4. [Hull University Related](#hulluniversity)
+5. [Hull Related](#hull)
+6. [Business/Career](#business)
+7. [Services](#services)
+8. [Software](#software)
+9. [Programming](Programming.md)
+10. [Law and Standards](#education)
+11. [Learning Resources](#education)
+12. [Linux Distributions](#linux)
+13. [Electronics](#electronics)
+14. [Hypervisors and virtual machines](Virtualisation.md#virtualisation)
+15. [Cyber Security Resources](CyberSecurity.md#cyber)
+16. [Other Interesting Stuff](#misc)
+17. [Andrew Hancock, Department of Computer Science & Technology - Systems](Virtualisation.md#andrewhancock)
 
 ## Introduction <a name="introduction"></a>
 The Freeside Student Resources list consists of multiple categories of professional and academic resources which are aimed at aiding University of Hull Computer Science students to gain further knowledge; however, most resources will be able to help learners from outside the university.
@@ -105,6 +104,7 @@ If you require any support, either whilst contributing or with linux, programmin
 8. [Dockstation](https://dockstation.io/) - Docker GUI for Windows, Mac and Linux
 9. [Tush](https://github.com/darius/tush/) - a literate testing shell
 10. [Haven Self Hosted Blog](https://github.com/havenweb/haven) - A self hosted private blog built with ruby on rails.
+11. [Fritzing](https://fritzing.org/) - A software for desinging circuits, PCBs and testing them virtually.
 
 ## Law and Standards <a name="standards"></a>
 1. [W3](https://www.w3.org/standards/) - Standards for web design and applications, devices, architecture, XML, web services and other technology.
@@ -146,7 +146,6 @@ If you require any support, either whilst contributing or with linux, programmin
 26. [How To Build An App: Everything You Didn't Know You Needed To Know](https://youtube.com/playlist?list=PL96C35uN7xGJu6skU4TBYrIWxggkZBrF5)
 27. [Jeff Geerling](https://www.youtube.com/c/JeffGeerling) - YouTube channel with lots of Raspberry Pi projects and tests, along with resources on Kubernetes, Ansible and more.
 28. [Data Structures and Algorithms Visualiser](https://visualgo.net/en) - Provides visulation for different data structures and algorithms like sorting, linked lists, hash table etc. Also allows some customizations.
-29. [Scihub](https://sci-hub.se/) - To remove all barriers in the way of science. Gives access to research papers to students and researchers to study and learn. 
 
 ## Linux Distributions <a name="linux"></a>
 1. [Ubuntu](https://ubuntu.com/) - Great starting distributions for beginners as lots of support is available.
