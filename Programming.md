@@ -2,33 +2,50 @@
 
 ## Contents
 1. [Introduction](README.md#introduction)
-2. [Contributing](README.md#contributing)
-3. [Student Discount/Free Stuff](README.md#freestuff)
-4. [Hull University Related](README.md#hulluniversity)
-5. [Hull Related](README.md#hull)
-6. [Business/Career](README.md#business)
-7. [Services](README.md#services)
-8. [Software](README.md#software)
-9. [Programming](Programming.md)
-10. [Law and Standards](README.md#education)
-11. [Learning Resources](#education)
-12. [Linux Distributions](README.md#linux)
-13. [Hypervisors and virtual machines](Virtualisation.md#virtualisation)
-14. [Cyber Security Resources](CyberSecurity.md#cyber)
-15. [Other Interesting Stuff](README.md#misc)
-16. [Andrew Hancock, Department of Computer Science & Technology - Systems](Virtualisation.md#andrewhancock)
+   - [Contributing](README.md#contributing)
+2. [Hull University Resources](README.md#hulluniversity)
+   - [Student Discount/Free Stuff](README.md#freestuff)
+3. [Hull Resources (Non University)](README.md#hull)
+4. [Business/Career](README.md#business)
+5. [Services](README.md#services)
+6. [Software](README.md#software)
+7. [Programming](Programming.md)
+8. [Ethics, Law & Professionalism](Ethics_Law_Professionalism.md)
+    - [Ethics](Ethics_Law_Professionalism.md#ethics)
+    - [Professionalism & Standards](Ethics_Law_Professionalism.md#standards)
+    - [Law](Ethics_Law_Professionalism.md#law)
+9. [Learning Resources](README.md#education)
+10. [Linux Distributions](README.md#linux)
+11. [Electronics](Electronics.md)
+12. [Hypervisors and virtual machines](Virtualisation.md#virtualisation)
+       - [Andrew Hancock, VMware Expert](Virtualisation.md#andrewhancock)
+13. [Cyber Security Resources](CyberSecurity.md)
+14. [Other Interesting Stuff](README.md#misc)
+# Programming 
+### Blazor
+1. [Pre-Render Blazor WebAssembly at buildtime to optimise for search engines](https://swimburger.net/blog/dotnet/pre-render-blazor-webassembly-at-build-time-to-optimize-for-search-engines)
+2. [Blazor Project Structure](https://www.pragimtech.com/blog/blazor/blazor-project-structure/)
+3. [Official Blazor Docs](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
+### C#
+1. [The Yellow Book](https://www.robmiles.com/s/CSharp-Book-2019-Refresh.pdf) - A fantastic intro to C# from former Hull Lecturer, [Rob Miles](robmiles.com). He also has other publications available [here](https://www.amazon.co.uk/s?i=stripbooks&rh=p_27:Rob%20Miles&s=relevancerank&text=Rob%20Miles&ref=dp_byline_sr_book_1).
+2. [Two Decades of C#: A Reference](https://benbowen.blog/post/two_decades_of_csharp_i/) - A reference of which C# version introduced which features. Linked is the first blog; later versions are covered under later blogs.
+### CSS
+1. [Awesome TailwindCSS](https://github.com/aniftyco/awesome-tailwindcss)
+2. [Tailwind CSS Docs](https://tailwindcss.com/docs/)
+3. [Aweomesheet](https://zombiefox.github.io/awesomeSheet/) - CSS Generator
+4. [Learn CSS](https://web.dev/learn/css/) - Free Google course on CSS
+### DSharp
+1. [D Sharp Plus](https://github.com/DSharpPlus/DSharpPlus) - An unofficial .NET wrapper for the Discord API
+### HTML
+1. [W3 HTML Introduction](https://www.w3schools.com/html/)
 
-# Programming List
-
+### Cross-Platform
 1. [Platform.uno](https://platform.uno) - Multi platform applications, one code base.
-2. [D Sharp Plus](https://github.com/DSharpPlus/DSharpPlus) - An unofficial .NET wrapper for the Discord API
-3. [The Yellow Book](https://www.robmiles.com/s/CSharp-Book-2019-Refresh.pdf) - A fantastic intro to C# from former Hull Lecturer, [Rob Miles](robmiles.com). He also has other publications available [here](https://www.amazon.co.uk/s?i=stripbooks&rh=p_27:Rob%20Miles&s=relevancerank&text=Rob%20Miles&ref=dp_byline_sr_book_1).
-4. [Kattis](https://open.kattis.com/) - Programming problems to help you improve your skills. Compete against staff/students.
-5. [Code Academy](https://www.codecademy.com/) - Improve your programming knowledge.
-6. [DevDocs](https://devdocs.io/) - Searchable developer docs
-7. [Aweomesheet](https://zombiefox.github.io/awesomeSheet/) - CSS Generator
-8. [Learn CSS](https://web.dev/learn/css/) - Free Google course on CSS
-9. [Tailwind CSS](https://tailwindcss.com/) - CSS styling without the pain of writing CSS
-10. [Two Decades of C#: A Reference](https://benbowen.blog/post/two_decades_of_csharp_i/) - A reference of which C# version introduced which features. Linked is the first blog; later versions are covered under later blogs.
-11. [Refactoring.guru](https://refactoring.guru/) - Learn about design patterns and refactoring.
-12. [Awesome Markdown Editors & (Pre)Viewers](https://github.com/mundimark/awesome-markdown-editors)
+2. [Flutter](https://flutter.dev/)
+3. [React Native](https://reactnative.dev/)
+### Documentation
+1. [DevDocs](https://devdocs.io/) - Searchable developer docs
+2. [Refactoring.guru](https://refactoring.guru/) - Learn about design patterns and refactoring.
+### Coding Practice
+1. [Kattis](https://open.kattis.com/) - Programming problems to help you improve your skills. Compete against staff/students.
+2. [Code Academy](https://www.codecademy.com/) - Improve your programming knowledge.
