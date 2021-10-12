@@ -136,6 +136,8 @@ If you're not sure how to contribute, please follow **[this handy tutorial](http
 18. [How To Build An App: Everything You Didn't Know You Needed To Know](https://youtube.com/playlist?list=PL96C35uN7xGJu6skU4TBYrIWxggkZBrF5)
 19. [Jeff Geerling](https://www.youtube.com/c/JeffGeerling) - YouTube channel with lots of Raspberry Pi projects and tests, along with resources on Kubernetes, Ansible and more.
 20. [Data Structures and Algorithms Visualiser](https://visualgo.net/en) - Provides visulation for different data structures and algorithms like sorting, linked lists, hash table etc. Also allows some customizations.
+21. [Learn Neural Networks Using Tensorflow](https://www.youtube.com/watch?v=tPYj3fFJGjk&t=24031s) - A 6h course to teach you from the very basics of Deep Neural Networks to topics like Recurrent Learning and Reinforcement Learning.
+
 ## Linux Distributions <a name="linux"></a>
 1. [Ubuntu](https://ubuntu.com/) - Great starting distributions for beginners as lots of support is available.
 2. [Fedora](https://getfedora.org/) - Freeside uses this in our Lab!
