@@ -49,3 +49,12 @@
 ### Coding Practice
 1. [Kattis](https://open.kattis.com/) - Programming problems to help you improve your skills. Compete against staff/students.
 2. [Code Academy](https://www.codecademy.com/) - Improve your programming knowledge.
+### Competitive Programming
+1. [Codechef](https://www.codechef.com/) - A platform for participating in coding contests and also learn new Algorithms and Data Structures. They have a set of challenges every month for competitive coding.
+2. [Codeforces](https://codeforces.com/) - A widely used platform where top programmers compete. There are various contests every week.
+3. [HackerRank](https://www.hackerrank.com/) - A good learning resource with paths and problems to get into the world of programming.
+4. [Interview Bit](https://www.interviewbit.com/practice/) - A platform to learn and practice coding interview questions. Has learning paths for various roles as well.
+5. [Leetcode](https://leetcode.com/) - A great platform for mastering Data Structures and Algorithms. An essential part of the preparation for SDE interviews.
+6. [DMOJ](https://dmoj.ca/) - An Archive of great coding problems. Also there are contest on this site.
+7. [CSES](https://cses.fi/problemset/) - A problem set reknowned to be a one set package for getting ready for competitive programming.
+8. [CP Algorithms](https://cp-algorithms.com/) - A collection of important algorithms written in C++.
