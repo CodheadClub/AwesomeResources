@@ -136,6 +136,11 @@ If you're not sure how to contribute, please follow **[this handy tutorial](http
 18. [How To Build An App: Everything You Didn't Know You Needed To Know](https://youtube.com/playlist?list=PL96C35uN7xGJu6skU4TBYrIWxggkZBrF5)
 19. [Jeff Geerling](https://www.youtube.com/c/JeffGeerling) - YouTube channel with lots of Raspberry Pi projects and tests, along with resources on Kubernetes, Ansible and more.
 20. [Data Structures and Algorithms Visualiser](https://visualgo.net/en) - Provides visulation for different data structures and algorithms like sorting, linked lists, hash table etc. Also allows some customizations.
+21. [Semantic Scholar](https://www.semanticscholar.org/) - An artificial-intelligence backed search engine for academic publications.
+22. [arXiv](https://arxiv.org/) -  Open-access repository of scientific papers in the fields of mathematics, computer science, quantitative biology, statistics and more.
+23. [The Collection of Computer Science Bibliographies](https://liinwww.ira.uka.de/bibliography/index.html) - Collection of bibliographies of scientific literature in computer science from various sources.
+24. [dblp](https://dblp.uni-trier.de/) - Provides open bibliographic information on major computer science journals and proceedings.
+25. [ScienceDirect](https://www.sciencedirect.com) - A large bibliographic database of scientific publications.
 ## Linux Distributions <a name="linux"></a>
 1. [Ubuntu](https://ubuntu.com/) - Great starting distributions for beginners as lots of support is available.
 2. [Fedora](https://getfedora.org/) - Freeside uses this in our Lab!
