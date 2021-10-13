@@ -140,6 +140,7 @@ If you require any support, either whilst contributing or with linux, programmin
 22. [University of Maryland - Hardware Security](https://www.coursera.org/learn/hardware-security)
 23. [University of Maryland - Software Security](https://www.coursera.org/learn/software-security)
 24. [University of Maryland - Usable Security](https://www.coursera.org/learn/usable-security)
+25. [University of Hull - Hull's digital repository, Hydra](https://hydra.hull.ac.uk/)
 
 ## Linux Distributions <a name="linux"></a>
 1. [Ubuntu](https://ubuntu.com/) - Great starting distributions for beginners as lots of support is available.
