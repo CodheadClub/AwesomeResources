@@ -18,7 +18,7 @@
 10. [Linux Distributions](#linux)
 11. [Electronics](Electronics.md)
 12. [Hypervisors and virtual machines](Virtualisation.md#virtualisation)
-       - [Andrew Hancock, VMware Expert](Virtualisation.md#andrewhancock)
+       - [Andrew Hancock, VMware vExpert](Virtualisation.md#andrewhancock)
 13. [Cyber Security Resources](CyberSecurity.md)
 14. [Other Interesting Stuff](#misc)
 
@@ -71,6 +71,7 @@ If you're not sure how to contribute, please follow **[this handy tutorial](http
 9. [Hull Robotics Society Discord](https://discord.gg/pYP5kqE).
 10. [Department of Computer Science and Technology Twitter](https://twitter.com/HullCompSci).
 11. [University of Hull Hub](https://discord.gg/WsEy47d9j8)
+12. [University of Hull - Hull's digital repository, Hydra](https://hydra.hull.ac.uk/)
 
 ## Hull Related <a name="hull"></a>
 1. [For Entrepreneurs Only](https://forentrepreneursonly.co.uk/) - Headquartered on UoH campus providing business mentoring and support.
@@ -141,6 +142,7 @@ If you're not sure how to contribute, please follow **[this handy tutorial](http
 23. [The Collection of Computer Science Bibliographies](https://liinwww.ira.uka.de/bibliography/index.html) - Collection of bibliographies of scientific literature in computer science from various sources.
 24. [dblp](https://dblp.uni-trier.de/) - Provides open bibliographic information on major computer science journals and proceedings.
 25. [ScienceDirect](https://www.sciencedirect.com) - A large bibliographic database of scientific publications.
+26. [University of Hull - Hull's digital repository, Hydra](https://hydra.hull.ac.uk/)
 ## Linux Distributions <a name="linux"></a>
 1. [Ubuntu](https://ubuntu.com/) - Great starting distributions for beginners as lots of support is available.
 2. [Fedora](https://getfedora.org/) - Freeside uses this in our Lab!
