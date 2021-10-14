@@ -72,6 +72,7 @@ If you're not sure how to contribute, please follow **[this handy tutorial](http
 10. [Department of Computer Science and Technology Twitter](https://twitter.com/HullCompSci).
 11. [University of Hull Hub](https://discord.gg/WsEy47d9j8)
 12. [University of Hull - Hull's digital repository, Hydra](https://hydra.hull.ac.uk/)
+13. [LaTeX Dissertation / Report Templates](https://git.starbeamrainbowlabs.com/Demos/latex-templates) (unofficial edit of an official template)
 
 ## Hull Related <a name="hull"></a>
 1. [For Entrepreneurs Only](https://forentrepreneursonly.co.uk/) - Headquartered on UoH campus providing business mentoring and support.
