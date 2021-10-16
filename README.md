@@ -17,11 +17,10 @@
 9. [Learning Resources](#education)
 10. [Linux Distributions](#linux)
 11. [Electronics](Electronics.md)
-12. [Web Development](#web)
-13. [Hypervisors and virtual machines](Virtualisation.md#virtualisation)
+12. [Hypervisors and virtual machines](Virtualisation.md#virtualisation)
        - [Andrew Hancock, VMware vExpert](Virtualisation.md#andrewhancock)
-14. [Cyber Security Resources](CyberSecurity.md)
-15. [Other Interesting Stuff](#misc)
+13. [Cyber Security Resources](CyberSecurity.md)
+14. [Other Interesting Stuff](#misc)
 
 ## Introduction <a name="introduction"></a>
 The Freeside Student Resources list consists of multiple categories of professional and academic resources which are aimed at aiding University of Hull  students to gain further knowledge.
@@ -154,19 +153,6 @@ If you're not sure how to contribute, please follow **[this handy tutorial](http
 6. [Tails](https://tails.boum.org/index.en.html) - A portable distribution that runs only in memory, for the ultimate privacy protection.
 7. [Qubes OS](https://www.qubes-os.org/intro/) - A reasonably secure operating system. _Recommended by Edward Snowden_
 8. [Raspberry Pi OS](https://www.raspberrypi.org) - For use with the range of Raspberry Pi single board computers. A great distribution if you're looking to get into programming (and don't mind spending a bit of money on the hardware to run it), especially involving Python or electronics (the Pis can come with GPIO pins for use with electronics). There are some beginner projects listed on the site but there are a lot of projects made by the Pi community.
-## Web Development <a name="web"></a>
-### Static site generators
-1. [Jekyll](https://jekyllrb.com/)
-2. [GitHub Pages](https://pages.github.com)
-3. [Netlify](https://app.netlify.com/signup) - Starter is free for personal use
-4. [Hugo](https://gohugo.io/)
-5. [Eleventy](https://www.11ty.dev/)
-6. [Pelican](https://github.com/getpelican/pelican)
-7. [WP2Static](https://wp2static.com/)
-8. [Nikola](https://getnikola.com/getting-started.html)
-9. [Gatsby](https://www.gatsbyjs.com/docs/tutorial/part-0/)
-10. [Statiq Web](https://www.statiq.dev/web/) - Still under development, use if you want to get involved with the community to help develop
-11. [Publii](https://getpublii.com/) - Desktop app rather than CLI
 #### Supporting learning Linux
 1. [Ask Ubuntu](https://askubuntu.com/) - Ubuntu Q&A site. Part of Stack Exchange.
 2. [Unix & Linux Stack Exchange](https://unix.stackexchange.com/) - For more general Linux-related questions.
