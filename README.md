@@ -104,7 +104,7 @@ If you're not sure how to contribute, please follow **[this handy tutorial](http
 7. [Spyse](https://spyse.com/) – Internet assets registry that scan, collect, analyze, and provide information on internet entities💰.
 8. [The Things Network](https://www.thethingsnetwork.org/)
 9. [Programmable Web APIs](https://www.programmableweb.com/)
-10. [A list of publically available APIs](https://github.com/public-apis/public-apis)
+10. [A list of publically available APIs](https://github.com/public-apis/public-apis) 
 ## Software <a name="software"></a>
 1. [Atom Editor](https://atom.io/) 
 2. [Jetbrains Editors](https://www.jetbrains.com/).
@@ -116,6 +116,9 @@ If you're not sure how to contribute, please follow **[this handy tutorial](http
 9. [Tush](https://github.com/darius/tush/) - a literate testing shell
 10. [Haven Self Hosted Blog](https://github.com/havenweb/haven) - A self hosted private blog built with ruby on rails.
 11. [Fritzing](https://fritzing.org/) - A software for desinging circuits, PCBs and testing them virtually.
+12. [Katakoda](https://www.katacoda.com/) - Katacoda provides a platform to build live interactive demo and training environments.
+13. [CodeSandbox](https://codesandbox.io/) - CodeSandbox is an online code editor and prototyping tool that makes creating and sharing web apps faster.
+14. [VSCode Editor](https://code.visualstudio.com/)
 ## Educational Resources <a name="education"></a>
 1. [Math Talks to Blow Your Mind Playlist](https://www.youtube.com/playlist?list=PLOGi5-fAu8bEIw_xkj1FgKr7QY_Sahswy)
 2. [Data Structures Playlist](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P).
@@ -144,6 +147,8 @@ If you're not sure how to contribute, please follow **[this handy tutorial](http
 24. [dblp](https://dblp.uni-trier.de/) - Provides open bibliographic information on major computer science journals and proceedings.
 25. [ScienceDirect](https://www.sciencedirect.com) - A large bibliographic database of scientific publications.
 26. [University of Hull - Hull's digital repository, Hydra](https://hydra.hull.ac.uk/)
+27. [Visualisation and Audibilization of Sorting Algorithms](https://panthema.net/2013/sound-of-sorting/) - Visualize different sorting algorithms and listen the sound of sorting.
+28. [Sentdex Youtube Channel](https://www.youtube.com/c/sentdex) - Youtube channel to learn Machine learning, Deep Learning, Natural Language Processing and python.
 ## Linux Distributions <a name="linux"></a>
 1. [Ubuntu](https://ubuntu.com/) - Great starting distributions for beginners as lots of support is available.
 2. [Fedora](https://getfedora.org/) - Freeside uses this in our Lab!
@@ -164,6 +169,7 @@ If you're not sure how to contribute, please follow **[this handy tutorial](http
 5. [Install and Configure SSH Server on Arch Linux](https://linuxhint.com/install_ssh_server_on_arch_linux/)
 6. [OpenSSH Manual](https://www.openssh.com/manual.html)
 7. [Principle of Least Privilege](https://techcommunity.microsoft.com/t5/azure-sql/security-the-principle-of-least-privilege-polp/ba-p/2067390)
+8. [Introduction to Linux](http://ftp.wayne.edu/ldp/en/Intro-Linux/Intro-Linux.pdf) - Hands on guide to learn Linux.
 ## Other interesting stuff <a name="misc"></a>
 1. [E Foundation](https://e.foundation)
 2. [Satyr](https://git.waldn.net/git/knotteye/satyr) - Self hosted media streaming
