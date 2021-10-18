@@ -18,7 +18,7 @@
 10. [Linux Distributions](#linux)
 11. [Electronics](Electronics.md)
 12. [Hypervisors and virtual machines](Virtualisation.md#virtualisation)
-       - [Andrew Hancock, VMware Expert](Virtualisation.md#andrewhancock)
+       - [Andrew Hancock, VMware vExpert](Virtualisation.md#andrewhancock)
 13. [Cyber Security Resources](CyberSecurity.md)
 14. [Other Interesting Stuff](#misc)
 
@@ -71,6 +71,8 @@ If you're not sure how to contribute, please follow **[this handy tutorial](http
 9. [Hull Robotics Society Discord](https://discord.gg/pYP5kqE).
 10. [Department of Computer Science and Technology Twitter](https://twitter.com/HullCompSci).
 11. [University of Hull Hub](https://discord.gg/WsEy47d9j8)
+12. [University of Hull - Hull's digital repository, Hydra](https://hydra.hull.ac.uk/)
+13. [LaTeX Dissertation / Report Templates](https://git.starbeamrainbowlabs.com/Demos/latex-templates) (unofficial edit of an official template)
 
 ## Hull Related <a name="hull"></a>
 1. [For Entrepreneurs Only](https://forentrepreneursonly.co.uk/) - Headquartered on UoH campus providing business mentoring and support.
@@ -136,11 +138,20 @@ If you're not sure how to contribute, please follow **[this handy tutorial](http
 18. [How To Build An App: Everything You Didn't Know You Needed To Know](https://youtube.com/playlist?list=PL96C35uN7xGJu6skU4TBYrIWxggkZBrF5)
 19. [Jeff Geerling](https://www.youtube.com/c/JeffGeerling) - YouTube channel with lots of Raspberry Pi projects and tests, along with resources on Kubernetes, Ansible and more.
 20. [Data Structures and Algorithms Visualiser](https://visualgo.net/en) - Provides visulation for different data structures and algorithms like sorting, linked lists, hash table etc. Also allows some customizations.
-21. [Build a professional Chat App using React and Node JS](https://www.youtube.com/watch?v=MJzbJQLGehs&list=RDCMUCmXmlB4-HJytD7wek0Uo97A&start_radio=1) Learn to professionally build a chat app using React and Node JS.
-22. [Dev Ed - Great YT channel for learning amazing frontend design and such](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q) Good YT channel with videos from amazing frontend design builts to color theory tutorials and more.
-23. [CS Dojo - Great YT channel resource for Data structures and Algorithms](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A) Good video resources from topics like Linked List, Binary Search trees to Dynamic Programming.
-24. [Krish Naik - Great YT channel Resource for learning Data Science and Machine Learning](https://www.youtube.com/user/krishnaik06) Great explnation videos on topics from Neural Networks, Reinforcement Learning and such to tutorials on building models as such.
-25. [Dapp University - Best YT channel resource for Blockchain Development](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ) Great tutorials from basics of solidarity to  building Dapps like todo list and such.
+
+
+21. [Semantic Scholar](https://www.semanticscholar.org/) - An artificial-intelligence backed search engine for academic publications.
+22. [arXiv](https://arxiv.org/) -  Open-access repository of scientific papers in the fields of mathematics, computer science, quantitative biology, statistics and more.
+23. [The Collection of Computer Science Bibliographies](https://liinwww.ira.uka.de/bibliography/index.html) - Collection of bibliographies of scientific literature in computer science from various sources.
+24. [dblp](https://dblp.uni-trier.de/) - Provides open bibliographic information on major computer science journals and proceedings.
+25. [ScienceDirect](https://www.sciencedirect.com) - A large bibliographic database of scientific publications.
+26. [University of Hull - Hull's digital repository, Hydra](https://hydra.hull.ac.uk/)
+27. [Build a professional Chat App using React and Node JS](https://www.youtube.com/watch?v=MJzbJQLGehs&list=RDCMUCmXmlB4-HJytD7wek0Uo97A&start_radio=1) Learn to professionally build a chat app using React and Node JS.
+28. [Dev Ed - Great YT channel for learning amazing frontend design and such](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q) Good YT channel with videos from amazing frontend design builts to color theory tutorials and more.
+29. [CS Dojo - Great YT channel resource for Data structures and Algorithms](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A) Good video resources from topics like Linked List, Binary Search trees to Dynamic Programming.
+30. [Krish Naik - Great YT channel Resource for learning Data Science and Machine Learning](https://www.youtube.com/user/krishnaik06) Great explnation videos on topics from Neural Networks, Reinforcement Learning and such to tutorials on building models as such.
+31. [Dapp University - Best YT channel resource for Blockchain Development](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ) Great tutorials from basics of solidarity to  building Dapps like todo list and such.
+
 ## Linux Distributions <a name="linux"></a>
 1. [Ubuntu](https://ubuntu.com/) - Great starting distributions for beginners as lots of support is available.
 2. [Fedora](https://getfedora.org/) - Freeside uses this in our Lab!

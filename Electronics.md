@@ -28,4 +28,4 @@
 2. [Free Books on Robotics](https://github.com/StevenShiChina/books)
 
 ### Raspberry Pi
-1. [An introduction to the Raspberry Pi](e.github.io/2021/10/04/introduction-to-raspberry-pi) - A blog post by Matt Clark
+1. [An introduction to the Raspberry Pi](https://crimsontome.netlify.app/posts/raspi-intro/) - A blog post by Matt Clark

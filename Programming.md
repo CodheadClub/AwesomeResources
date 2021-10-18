@@ -38,7 +38,18 @@
 1. [D Sharp Plus](https://github.com/DSharpPlus/DSharpPlus) - An unofficial .NET wrapper for the Discord API
 ### HTML
 1. [W3 HTML Introduction](https://www.w3schools.com/html/)
-
+### Static site generators
+1. [Jekyll](https://jekyllrb.com/)
+2. [GitHub Pages](https://pages.github.com)
+3. [Netlify](https://app.netlify.com/signup) - Starter is free for personal use
+4. [Hugo](https://gohugo.io/)
+5. [Eleventy](https://www.11ty.dev/)
+6. [Pelican](https://github.com/getpelican/pelican)
+7. [WP2Static](https://wp2static.com/)
+8. [Nikola](https://getnikola.com/getting-started.html)
+9. [Gatsby](https://www.gatsbyjs.com/docs/tutorial/part-0/)
+10. [Statiq Web](https://www.statiq.dev/web/) - Still under development, use if you want to get involved with the community to help develop
+11. [Publii](https://getpublii.com/) - Desktop app rather than CLI
 ### Cross-Platform
 1. [Platform.uno](https://platform.uno) - Multi platform applications, one code base.
 2. [Flutter](https://flutter.dev/)
