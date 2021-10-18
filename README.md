@@ -192,8 +192,7 @@ If you're not sure how to contribute, please follow **[this handy tutorial](http
 6. [OpenSSH Manual](https://www.openssh.com/manual.html)
 7. [Principle of Least Privilege](https://techcommunity.microsoft.com/t5/azure-sql/security-the-principle-of-least-privilege-polp/ba-p/2067390)
 8. [Introduction to Linux](http://ftp.wayne.edu/ldp/en/Intro-Linux/Intro-Linux.pdf) - Hands on guide to learn Linux.
-9. [Learn Bash shell](https://www.learnshell.org/) - learn programming with Unix/Linux shell interpreters.
-
+9. [Learn Shell](https://www.learnshell.org/) - learn programming with Unix/Linux shell interpreters.
 ## Other interesting stuff <a name="misc"></a>
 
 1. [E Foundation](https://e.foundation)

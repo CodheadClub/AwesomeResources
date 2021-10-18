@@ -91,5 +91,5 @@
 6. [DMOJ](https://dmoj.ca/) - An Archive of great coding problems. Also there are contest on this site.
 7. [CSES](https://cses.fi/problemset/) - A problem set reknowned to be a one set package for getting ready for competitive programming.
 8. [CP Algorithms](https://cp-algorithms.com/) - A collection of important algorithms written in C++.
-9. [Atcoder](https://atcoder.jp/) - A programming contest site for anyone from beginners to experts.
-10. [Clist.by](https://clist.by/) - Get updates on all CP contests happening online.
+9. [Atcoder](https://atcoder.jp/) - AtCoder is a programming contest site for anyone from beginners to experts.
+10. [Clist.by](https://clist.by/) - Get updates of upcoming competetive programming contests.
