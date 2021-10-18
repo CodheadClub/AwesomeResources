@@ -118,7 +118,6 @@ If you're not sure how to contribute, please follow **[this handy tutorial](http
 11. [Fritzing](https://fritzing.org/) - A software for desinging circuits, PCBs and testing them virtually.
 12. [Katakoda](https://www.katacoda.com/) - Katacoda provides a platform to build live interactive demo and training environments.
 13. [CodeSandbox](https://codesandbox.io/) - CodeSandbox is an online code editor and prototyping tool that makes creating and sharing web apps faster.
-14. [VSCode Editor](https://code.visualstudio.com/)
 ## Educational Resources <a name="education"></a>
 1. [Math Talks to Blow Your Mind Playlist](https://www.youtube.com/playlist?list=PLOGi5-fAu8bEIw_xkj1FgKr7QY_Sahswy)
 2. [Data Structures Playlist](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P).
@@ -170,6 +169,7 @@ If you're not sure how to contribute, please follow **[this handy tutorial](http
 6. [OpenSSH Manual](https://www.openssh.com/manual.html)
 7. [Principle of Least Privilege](https://techcommunity.microsoft.com/t5/azure-sql/security-the-principle-of-least-privilege-polp/ba-p/2067390)
 8. [Introduction to Linux](http://ftp.wayne.edu/ldp/en/Intro-Linux/Intro-Linux.pdf) - Hands on guide to learn Linux.
+9. [Learn Shell](https://www.learnshell.org/) - learn programming with Unix/Linux shell interpreters.
 ## Other interesting stuff <a name="misc"></a>
 1. [E Foundation](https://e.foundation)
 2. [Satyr](https://git.waldn.net/git/knotteye/satyr) - Self hosted media streaming
