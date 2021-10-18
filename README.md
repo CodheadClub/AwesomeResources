@@ -136,6 +136,11 @@ If you're not sure how to contribute, please follow **[this handy tutorial](http
 18. [How To Build An App: Everything You Didn't Know You Needed To Know](https://youtube.com/playlist?list=PL96C35uN7xGJu6skU4TBYrIWxggkZBrF5)
 19. [Jeff Geerling](https://www.youtube.com/c/JeffGeerling) - YouTube channel with lots of Raspberry Pi projects and tests, along with resources on Kubernetes, Ansible and more.
 20. [Data Structures and Algorithms Visualiser](https://visualgo.net/en) - Provides visulation for different data structures and algorithms like sorting, linked lists, hash table etc. Also allows some customizations.
+21. [Build a professional Chat App using React and Node JS](https://www.youtube.com/watch?v=MJzbJQLGehs&list=RDCMUCmXmlB4-HJytD7wek0Uo97A&start_radio=1) Learn to professionally build a chat app using React and Node JS.
+22. [Dev Ed - Great YT channel for learning amazing frontend design and such](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q) Good YT channel with videos from amazing frontend design builts to color theory tutorials and more.
+23. [CS Dojo - Great YT channel resource for Data structures and Algorithms](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A) Good video resources from topics like Linked List, Binary Search trees to Dynamic Programming.
+24. [Krish Naik - Great YT channel Resource for learning Data Science and Machine Learning](https://www.youtube.com/user/krishnaik06) Great explnation videos on topics from Neural Networks, Reinforcement Learning and such to tutorials on building models as such.
+25. [Dapp University - Best YT channel resource for Blockchain Development](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ) Great tutorials from basics of solidarity to  building Dapps like todo list and such.
 ## Linux Distributions <a name="linux"></a>
 1. [Ubuntu](https://ubuntu.com/) - Great starting distributions for beginners as lots of support is available.
 2. [Fedora](https://getfedora.org/) - Freeside uses this in our Lab!
