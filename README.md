@@ -67,6 +67,8 @@ If you're not sure how to contribute, please follow **[this handy tutorial](http
 5. [Learning Python Book](https://cfm.ehu.es/ricardo/docs/python/Learning_Python.pdf)
 6. [Google Workspace for Education](https://edu.google.com/intl/ALL_in/products/workspace-for-education/) Gives students and teachers access to all premium Google Workspace tools. With access to various colaboration and productivity tools, it provides extra cloud storage to all authorised users.
 
+7. [Free JetBrains Educational Licenses](https://www.jetbrains.com/community/education/#students) Get free access to the state-of-the-art JetBrains IDEs for personal use at school or at home. Students and faculty from educational institutions(High Schools,Colleges,Universities) can apply for this.
+
 ## Hull University Related <a name="hulluniversity"></a>
 
 1. [Brian Tompsett Youtube Channel](https://www.youtube.com/channel/UCfG7W9cpOp4G4rH-gLgxVdw). Brian is a [lecturer at University of Hull](https://www.hull.ac.uk/staff-directory/brian-tompsett) and has a [long list of published works](https://scholar.google.co.uk/citations?user=4CFnDSAAAAAJ&hl=en).
