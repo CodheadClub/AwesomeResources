@@ -93,3 +93,17 @@
 8. [CP Algorithms](https://cp-algorithms.com/) - A collection of important algorithms written in C++.
 9. [Atcoder](https://atcoder.jp/) - AtCoder is a programming contest site for anyone from beginners to experts.
 10. [Clist.by](https://clist.by/) - Get updates of upcoming competetive programming contests.
+11. [TopCoder](https://www.topcoder.com/) - All in one site for CP , ML/AI , Developement 
+12. [SPOJ](https://www.spoj.com/) - Beginner friendly website for CP 
+13. [HackerEarth] (https://www.hackerearth.com/) - Great free-site for Developement and Coding 
+14. [Codedrills] (https://codedrills.io/) - Best site for ACM-ICPC Mock Rounds (Indian Regionals and Prelims)
+
+## Mathematics and Programming 
+
+1. [ProjectEuler](https://projecteuler.net/about) - Best site for Maths Problems which are easily solved using programming.
+
+## Useful Codeforces Blogs 
+
+1. [C++Tricks](https://codeforces.com/blog/entry/15643) - Many Tricks are explained well. 
+2. [DSA](https://codeforces.com/blog/entry/13529) - Best blog for resources like Data Structures and Algorithms.
+3. [CP-Blogs](https://www.topcoder.com/thrive/search?tags[]=Competitive%20Programming%20Tutorials) - TopCoders CP Blogs
