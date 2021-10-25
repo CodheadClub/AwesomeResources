@@ -95,8 +95,8 @@
 10. [Clist.by](https://clist.by/) - Get updates of upcoming competetive programming contests.
 11. [TopCoder](https://www.topcoder.com/) - All in one site for CP , ML/AI , Developement 
 12. [SPOJ](https://www.spoj.com/) - Beginner friendly website for CP 
-13. [HackerEarth] (https://www.hackerearth.com/) - Great free-site for Developement and Coding 
-14. [Codedrills] (https://codedrills.io/) - Best site for ACM-ICPC Mock Rounds (Indian Regionals and Prelims)
+13. [HackerEarth](https://www.hackerearth.com/) - Great free-site for Developement and Coding 
+14. [Codedrills](https://codedrills.io/) - Best site for ACM-ICPC Mock Rounds (Indian Regionals and Prelims)
 15. [USACO](https://usaco.guide/) - American Website for CP
 
 ## Mathematics and Programming 
@@ -104,8 +104,8 @@
 1. [ProjectEuler](https://projecteuler.net/about) - Best site for Maths Problems which are easily solved using programming.
 2. [Erdos]-(https://erdos.sdslabs.co/) - IIT Roorkee's Maths Practice site. 
 3. [Maths-Stackexchange](https://math.stackexchange.com/) - Ask and Answer maths questions
-4. [Mathometer]  (http://mathometer.weebly.com/) -  Maths Website from an IIT Bombay senior
-5. [MathBlog]  (https://www.mathblog.dk/) - Good Reading blog for Maths. 
+4. [Mathometer](http://mathometer.weebly.com/) -  Maths Website from an IIT Bombay senior
+5. [MathBlog](https://www.mathblog.dk/) - Good Reading blog for Maths. 
 
 ## Useful Codeforces Blogs 
 
