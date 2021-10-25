@@ -97,13 +97,20 @@
 12. [SPOJ](https://www.spoj.com/) - Beginner friendly website for CP 
 13. [HackerEarth] (https://www.hackerearth.com/) - Great free-site for Developement and Coding 
 14. [Codedrills] (https://codedrills.io/) - Best site for ACM-ICPC Mock Rounds (Indian Regionals and Prelims)
+15. [USACO](https://usaco.guide/) - American Website for CP
 
 ## Mathematics and Programming 
 
 1. [ProjectEuler](https://projecteuler.net/about) - Best site for Maths Problems which are easily solved using programming.
+2. [Erdos]-(https://erdos.sdslabs.co/) - IIT Roorkee's Maths Practice site. 
+3. [Maths-Stackexchange](https://math.stackexchange.com/) - Ask and Answer maths questions
+4. [Mathometer]  (http://mathometer.weebly.com/) -  Maths Website from an IIT Bombay senior
+5. [MathBlog]  (https://www.mathblog.dk/) - Good Reading blog for Maths. 
 
 ## Useful Codeforces Blogs 
 
 1. [C++Tricks](https://codeforces.com/blog/entry/15643) - Many Tricks are explained well. 
 2. [DSA](https://codeforces.com/blog/entry/13529) - Best blog for resources like Data Structures and Algorithms.
-3. [CP-Blogs](https://www.topcoder.com/thrive/search?tags[]=Competitive%20Programming%20Tutorials) - TopCoders CP Blogs
+3. [Way-To-Practice-CP](https://codeforces.com/blog/entry/66909) - Guide to Improve Ratings
+4. [YouTube-Tutorial-For-CP](https://codeforces.com/blog/entry/43578) - Nicee YT Tutorials
+5. [Almost-all-Algo-and-Practice-Problems](https://codeforces.com/blog/entry/90912) - Best Blog to learn and practice simultaneously
