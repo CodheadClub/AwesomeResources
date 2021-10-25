@@ -102,7 +102,7 @@
 ## Mathematics and Programming 
 
 1. [ProjectEuler](https://projecteuler.net/about) - Best site for Maths Problems which are easily solved using programming.
-2. [Erdos]-(https://erdos.sdslabs.co/) - IIT Roorkee's Maths Practice site. 
+2. [Erdos](https://erdos.sdslabs.co/) - IIT Roorkee's Maths Practice site. 
 3. [Maths-Stackexchange](https://math.stackexchange.com/) - Ask and Answer maths questions
 4. [Mathometer](http://mathometer.weebly.com/) -  Maths Website from an IIT Bombay senior
 5. [MathBlog](https://www.mathblog.dk/) - Good Reading blog for Maths. 
