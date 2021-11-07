@@ -7,18 +7,5 @@ Freeside welcome contributions to these lists from staff and students at the Uni
 
 If you're not sure how to contribute, please follow [this handy tutorial](https://love.edwardcharl.es/contributing-to-the-freeside-srl/) alternatively, [jump straight in with VS Code for Github](https://github.dev/FreesideHull/StudentResources). See [here](https://docs.github.com/en/codespaces/developing-in-codespaces/web-based-editor) for more info.
 
-#### Hacktoberfest Rules
-If you're contributing as part of Hacktoberfest, your contributions should meet the Hacktoberfest rules as well as the below:
-
-- Contributors **MUST** identify that they're submitting as part of hacktoberfest. Any submissions made without identifying they are part of hacktoberfest will be reviewed **AFTER** Hacktoberfest.
-- Contributions **MUST** add resources of academic or professional quality (e.g. Academic papers, other university/student resources, professional training pathways/exchanges).
-- Contributions **MUST** submit a minimum of 5 new resources.
-- Contributions **MUST** improve upon or enhance explainations of topics.
-- Contributions **MUST NOT** link to resources requiring payment or be hidden behind a paywall.
-- Contributions **MAY** begin a new topic / category but **MUST** provide background and a minimum of 5 resources for that category.
-- Contributions **MIGHT** be accepted if linking to other repos, software, opensource projects etc depending on quality.
-
-All contributions will be checked. Malicious links will be reported. No exceptions.
-
 #### Help and Support 
 If you require any support, either whilst contributing or with linux, programming or otherwise, feel free to join [Freeside's Discord server](http://discord.freeside.co.uk/) where our members will be more than willing to help.

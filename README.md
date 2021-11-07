@@ -33,8 +33,6 @@ List originally comprised by [@closebracket](https://github.com/closebracket), v
 
 Freeside welcome contributions to these lists from staff and students at the University of Hull, as well as members of the public. If you wish to contribute, please abide by the following rules:
 
-**Contributing as part of Hacktoberfest?** **[Read this](CONTRIBUTING.md)**
-
 - Fork the repository, look at the markdown and understand it.
 - Make your changes and double check that nothing is broken.
 - Make a pull request and request a review from the Freeside team.
@@ -45,11 +43,11 @@ If you're not sure how to contribute, please follow **[this handy tutorial](http
 
 **Contributing to Freeside**
 
-> Help is available on the **[Freeside's Discord server](http://discord.freeside.co.uk/)** if you have questions in relation to contributing to Freeside in any capacity.
+> Help is available on the **[Freeside's Discord server](https://discord.freeside.co.uk/)** if you have questions in relation to contributing to Freeside in any capacity.
 
 **Help with Linux**
 
-> Resources to Learn Linux are available further down the list. You should try to do some basic research and troubleshooting yourself prior to asking for help. If you cannot solve an issue, help is available on the **[Freeside's Discord server](http://discord.freeside.co.uk/)**.
+> Resources to Learn Linux are available further down the list. You should try to do some basic research and troubleshooting yourself prior to asking for help. If you cannot solve an issue, help is available on the **[Freeside's Discord server](https://discord.freeside.co.uk/)**.
 
 **Help for University of Hull Students**
 
