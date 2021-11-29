@@ -38,6 +38,10 @@
 12. [Enabling Digital Policing: Computacenter and VMware](https://www.youtube.com/watch?v=wwJyKUv3rcs)
 13. [NSA Files Decoded: Snowden's surveillance revelations explained](https://www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surveillance-revelations-decoded#section/1)
 14. [Surveillance Technologies under review](https://www.seattle.gov/tech/initiatives/privacy/surveillance-technologies)
+15. [I don't know how to count that low](https://acesounderglass.com/2021/10/20/i-dont-know-how-to-count-that-low/) - Dismissing smaller problems doesn't mean they don't exist or that they don't need solving.
+16. [Hackers turning to exotic programming languages](https://thehackernews.com/2021/07/hackers-turning-to-exotic-programming.html?m=1)
+17. [Don't talk to Police](https://www.youtube.com/watch?v=d-7o9xYp7eE) - An American Law School lecture with a police officer in attendance exploring why it is never a good idea to talk to police.
+18. [Right to be offended does not exist - High Court Judge](https://www.dailymail.co.uk/news/article-7710009/Right-offended-does-not-exist-says-High-Court-judge.html) - High court Judge on why the right to be offended does not exist.
 ## Professionalism & Standards <a name="standards"></a>
 1. [W3](https://www.w3.org/standards/) - Standards for web design and applications, devices, architecture, XML, web services and other technology.
 guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/)
