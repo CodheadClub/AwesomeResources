@@ -42,6 +42,7 @@
 16. [Hackers turning to exotic programming languages](https://thehackernews.com/2021/07/hackers-turning-to-exotic-programming.html?m=1)
 17. [Don't talk to Police](https://www.youtube.com/watch?v=d-7o9xYp7eE) - An American Law School lecture with a police officer in attendance exploring why it is never a good idea to talk to police.
 18. [Right to be offended does not exist - High Court Judge](https://www.dailymail.co.uk/news/article-7710009/Right-offended-does-not-exist-says-High-Court-judge.html) - High court Judge on why the right to be offended does not exist.
+
 ## Professionalism & Standards <a name="standards"></a>
 1. [W3](https://www.w3.org/standards/) - Standards for web design and applications, devices, architecture, XML, web services and other technology.
 guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/)
@@ -49,6 +50,11 @@ guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/)
 3. [The Chartered Institute for IT](https://www.bcs.org/)
 4. [GDPR Compliance Checklist](https://gdprchecklist.io/)
 5. [ICO Guide to GDPR](https://ico.org.uk/for-organisations/)
+6. [ICO Children's Code](https://ico.org.uk/for-organisations/guide-to-data-protection/ico-codes-of-practice/age-appropriate-design-a-code-of-practice-for-online-services/)
+7. [Code of Practice for Consumer IoT Security](https://www.gov.uk/government/publications/code-of-practice-for-consumer-iot-security)
+8. [ETSI Industry standard Code of Practice](https://www.gov.uk/government/publications/etsi-industry-standard-based-on-the-code-of-practice)
+9. [Electronic Communications Code](https://www.ofcom.org.uk/phones-telecoms-and-internet/information-for-industry/policy/electronic-comm-code)
+
 ## Law <a name="law"></a>
 ### Legal Definitions
 1. [Actus Reus](https://e-lawresources.co.uk/Actus-reus.php) - The Act (Physical)
@@ -84,14 +90,3 @@ guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/)
 4. [Consultation on regulatory proposals on consumer IoT Security](https://www.gov.uk/government/consultations/consultation-on-regulatory-proposals-on-consumer-iot-security)
 5. [New Cyber Laws to Protect People's personal tech from hackers](https://www.gov.uk/government/news/new-cyber-laws-to-protect-peoples-personal-tech-from-hackers)
 6. [Huge fines and a ban on default passwords in new UK law](https://www.bbc.co.uk/news/technology-59400762)
-
-
-## Professionalism
-1. [BCS](https://www.bcs.org/)
-   -  1.1. [BCS Code of Conduct](https://www.bcs.org/membership/become-a-member/bcs-code-of-conduct/)
-2. [Data Protection for Organisations](https://ico.org.uk/for-organisations/)
-    - 2.1 [GDPR Checklist](https://gdprchecklist.io/)
-3. [ICO Children's Code](https://ico.org.uk/for-organisations/guide-to-data-protection/ico-codes-of-practice/age-appropriate-design-a-code-of-practice-for-online-services/)
-4. [Code of Practice for Consumer IoT Security](https://www.gov.uk/government/publications/code-of-practice-for-consumer-iot-security)
-5. [ETSI Industry standard Code of Practice](https://www.gov.uk/government/publications/etsi-industry-standard-based-on-the-code-of-practice)
-6. [Electronic Communications Code](https://www.ofcom.org.uk/phones-telecoms-and-internet/information-for-industry/policy/electronic-comm-code)
