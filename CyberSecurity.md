@@ -61,3 +61,6 @@
 28. [University of Maryland - Hardware Security](https://www.coursera.org/learn/hardware-security)
 29. [University of Maryland - Software Security](https://www.coursera.org/learn/software-security)
 30. [University of Maryland - Usable Security](https://www.coursera.org/learn/usable-security)
+31. [GFTOBins](https://gtfobins.github.io/) - a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems.
+32. [LOLBAS](https://lolbas-project.github.io/) - Living off the land binaries, scripts and libraries.
+33. [Attack Navigator](https://github.com/mitre-attack/attack-navigator) - Provides basic navigation and annotation of ATT&CK matrices.
