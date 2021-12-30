@@ -41,7 +41,7 @@ If you're not sure how to contribute, please follow **[this handy tutorial](http
 
 ### Help and Support
 
-[SittingBanana01](https://github.com/SittingBanana01/), a Computer Science student at Hull, has developed a Chrome Browser extension to help students navigate around University Resources quicker. [Download here](https://cdn.humberhost.co.uk/UoH_Website_Links_Browser_Ext.zip). Installation instructions included in the .ZIP.
+[SittingBanana01](https://github.com/SittingBanana01/), a Computer Science student at Hull, has developed a Chrome Browser extension to help students navigate around University Resources quicker. [Download here](https://cdn.humberhost.co.uk/UoH_Website_Links_Browser_Ext.zip). Installation instructions are included in the zip. If you are interested in contributing to the development of the extension, please get in touch with [SittingBanana01](https://github.com/SittingBanana01/).
 
 **Contributing to Freeside**
 
