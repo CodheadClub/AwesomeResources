@@ -27,7 +27,6 @@
 > 
 >Links to these materials are provided for reference only. Freeside is not responsible for your use of resources and you should seek permission before performing testing or exploitation systems not owned by yourself.
 >
->Freeside will report malicious hacking to the University and/or legal bodies where appropriate.
 
 1. [Hackersploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) (Youtube Channel) 
 2. [Capture the Flag Playlist](https://www.youtube.com/playlist?list=PLBf0hzazHTGOyRReqMyE-CDMWAQ5AgXO-). 
