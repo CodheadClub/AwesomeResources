@@ -1,88 +1,37 @@
-![Freeeside Logo](https://camo.githubusercontent.com/8824210474b9586405f0b11e210ea266599c9f83/68747470733a2f2f63646e2e7261776769742e636f6d2f467265657369646548756c6c2f4c6f676f732f6d61737465722f66726565736964655f7371756172655f706174682e737667 "Freeside Logo")
-
 ## Contents
 
 1. [Introduction](#introduction)
    - [Contributing](#contributing)
-2. [Hull University Resources](#hulluniversity)
-   - [Student Discount/Free Stuff](#freestuff)
-3. [Hull Resources (Non University)](#hull)
-4. [Business/Career](#business)
-5. [Services](#services)
-6. [Software](#software)
-7. [Programming](Programming.md)
-8. [Ethics, Law & Professionalism](Ethics_Law_Professionalism.md)
+2. [Hull Resources (Non University)](#hull)
+3. [Business/Career](#business)
+4. [Services](#services)
+5. [Software](#software)
+6. [Programming](Programming.md)
+7. [Ethics, Law & Professionalism](Ethics_Law_Professionalism.md)
    - [Ethics](Ethics_Law_Professionalism.md#ethics)
    - [Professionalism & Standards](Ethics_Law_Professionalism.md#standards)
    - [Law](Ethics_Law_Professionalism.md#law)
-9. [Learning Resources](#education)
-10. [Linux Distributions](#linux)
-11. [Electronics](Electronics.md)
-12. [Hypervisors and virtual machines](Virtualisation.md#virtualisation)
+8. [Learning Resources](#education)
+9. [Linux Distributions](#linux)
+10. [Electronics](Electronics.md)
+11. [Hypervisors and virtual machines](Virtualisation.md#virtualisation)
     - [Andrew Hancock, VMware vExpert](Virtualisation.md#andrewhancock)
-13. [Cyber Security Resources](CyberSecurity.md)
-14. [Other Interesting Stuff](#misc)
+12. [Cyber Security Resources](CyberSecurity.md)
+13. [Other Interesting Stuff](#misc)
 
 ## Introduction <a name="introduction"></a>
-
-The Freeside Student Resources list consists of multiple categories of professional and academic resources which are aimed at aiding University of Hull students to gain further knowledge.
 
 List originally comprised by [@closebracket](https://github.com/closebracket), visit his website [here](https://love.edwardcharl.es).
 
 ## Contributing <a name="contributing"></a>
 
-Freeside welcome contributions to these lists from staff and students at the University of Hull, as well as members of the public. If you wish to contribute, please abide by the following rules:
+Contributions welcome. If you wish to contribute, please abide by the following rules:
 
 - Fork the repository, look at the markdown and understand it.
 - Make your changes and double check that nothing is broken.
 - Make a pull request and request a review from the Freeside team.
 
-If you're not sure how to contribute, please follow **[this handy tutorial](https://love.edwardcharl.es/contributing-to-the-freeside-srl/)** alternatively, [jump straight in with VS Code for Github](https://github.dev/FreesideHull/StudentResources). See [here](https://docs.github.com/en/codespaces/developing-in-codespaces/web-based-editor) for more info.
-
-### Help and Support
-
-[SittingBanana01](https://github.com/SittingBanana01/), a Computer Science student at Hull, has developed a Chrome Browser extension to help students navigate around University Resources quicker. [Download here](https://chrome.google.com/webstore/detail/hull-university-buddy/jnppmhcoifoohipnnhdabhnolnilncbk). Installation instructions are included in the zip. If you are interested in contributing to the development of the extension, please get in touch with [SittingBanana01](https://github.com/SittingBanana01/).
-
-**Contributing to Freeside**
-
-> Help is available on the **[Freeside's Discord server](https://discord.freeside.co.uk/)** if you have questions in relation to contributing to Freeside in any capacity.
-
-**Help with Linux**
-
-> Resources to Learn Linux are available further down the list. You should try to do some basic research and troubleshooting yourself prior to asking for help. If you cannot solve an issue, help is available on the **[Freeside's Discord server](https://discord.freeside.co.uk/)**.
-
-**Help for University of Hull Students**
-
-> If you need help with University of Hull assignments/coursework, you should contact the Hub through **[Evision](https://evision.hull.ac.uk)**. Alternatively, for tech issues, ICTD can be contacted via **[The Support Portal](https://support.hull.ac.uk)**.
-
-## Student Discount / Free stuff <a name="freestuff"></a>
-
-1. [Github Student Pack](https://education.github.com/pack).
-2. [Microsoft Azure Dev Tools for Teaching](https://azure.microsoft.com/en-gb/free/students/). FREE Microsoft licenses for Windows 10 and 11, Visual Studio and other Windows server operating systems, excludes Micresoft Office!
-3. [VMware IT Academy Program](https://www.vmware.com/uk/company/it-academy.html)
-
-> VMware IT Academy is a similar program to the [Microsoft Azure Dev Tools for Teaching](https://azure.microsoft.com/en-gb/free/students/), and allows students to obtain Software Products and Licensing for most of the VMware Products for FREE e.g. VMware Workstation, VMware vSphere, VMware Fusion.
-> If you are a student of The Department of Computer science and Technology you would have been enrolled automatically. However sometimes your information may have "fallen through the cracks!", if so please reach out to me Andy Hancock via http://support.hull.ac.uk and mention Andy Hancock!
-
-5. [Learning Python Book](https://cfm.ehu.es/ricardo/docs/python/Learning_Python.pdf)
-6. [Google Workspace for Education](https://edu.google.com/intl/ALL_in/products/workspace-for-education/) Gives students and teachers access to all premium Google Workspace tools. With access to various colaboration and productivity tools, it provides extra cloud storage to all authorised users.
-
-## Hull University Related <a name="hulluniversity"></a>
-
-1. [Brian Tompsett Youtube Channel](https://www.youtube.com/channel/UCfG7W9cpOp4G4rH-gLgxVdw). Brian is a [lecturer at University of Hull](https://www.hull.ac.uk/staff-directory/brian-tompsett) and has a [long list of published works](https://scholar.google.co.uk/citations?user=4CFnDSAAAAAJ&hl=en).
-2. [Andrew Hancock](Virtualisation.md#andrewhancock). Andrew is the VMware Specialist in Computer Science & Technology, responsible for architecure, watering & feeding the Computer Science and Technology VMware infrastructure. He also has a long list of VMware and Virtualisation articles. Please also see [VMware IT Academy Program](https://www.vmware.com/uk/company/it-academy.html)
-3. [The Yellow Book](https://www.robmiles.com/s/CSharp-Book-2019-Refresh.pdf) - A fantastic intro to C# from former Hull Lecturer, [Rob Miles](https://www.robmiles.com/). He also has other publications available [here](https://www.amazon.co.uk/s?i=stripbooks&rh=p_27:Rob%20Miles&s=relevancerank&text=Rob%20Miles&ref=dp_byline_sr_book_1).
-4. [Rob Miles Youtube](https://www.youtube.com/channel/UC4OEadKEwxD7TxR9hKhxtuQ).
-5. [HullBlogs](https://hullblogs.com/) - A collection of blogs from UoH staff, alumni and current students.
-6. [Freeside Discord](https://discord.gg/qAZ8dAp).
-7. [#HullCSS Discord](https://hullcss.org/discord).
-8. [Hull Gaming Society Discord](https://discord.gg/Rm5gepFQWA).
-9. [Hull Robotics Society Discord](https://discord.gg/pYP5kqE).
-10. [Department of Computer Science and Technology Twitter](https://twitter.com/HullCompSci).
-11. [University of Hull Hub](https://discord.gg/WsEy47d9j8)
-12. [University of Hull - Hull's digital repository, Hydra](https://hydra.hull.ac.uk/)
-13. [LaTeX Dissertation / Report Templates](https://git.starbeamrainbowlabs.com/Demos/latex-templates) (unofficial edit of an official template)
-
+If you're not sure how to contribute, Fork the repo and make a PR or [jump straight in with VS Code for Github](https://github.dev/closebracket/StudentResources). See [here](https://docs.github.com/en/codespaces/developing-in-codespaces/web-based-editor) for more info.
 ## Hull Related <a name="hull"></a>
 
 1. [For Entrepreneurs Only](https://forentrepreneursonly.co.uk/) - Headquartered on UoH campus providing business mentoring and support.
@@ -207,7 +156,3 @@ If you're not sure how to contribute, please follow **[this handy tutorial](http
 4. [MIT Press: Reading code != Reading Language](https://news.mit.edu/2020/brain-reading-computer-code-1215)
 5. [Andrew Hancock talks with Experts Exchange about Career Growth and VMware](https://www.experts-exchange.com/podcasts/5/Career-Growth-and-VMware.html)
 6. [Andrew Hancock talks with Experts Exchange about being an IT Author and British Beekeeper](https://www.experts-exchange.com/podcasts/241/EP-19-Buzz-Words-IT-Author-and-Beekeeper-Andrew-Hancock.html)
-
-Copyright 2021 Freeside. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
