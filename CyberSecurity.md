@@ -1,23 +1,23 @@
 ## Contents
 
-1. [Introduction](#introduction)
-   - [Contributing](#contributing)
-2. [Hull Resources (Non University)](#hull)
-3. [Business/Career](#business)
-4. [Services](#services)
-5. [Software](#software)
+1. [Introduction](README.md#introduction)
+   - [Contributing](README.md##contributing)
+2. [Hull Resources (Non University)](README.md#hull)
+3. [Business/Career](README.md#business)
+4. [Services](README.md#services)
+5. [Software](README.md#software)
 6. [Programming](Programming.md)
 7. [Ethics, Law & Professionalism](Ethics_Law_Professionalism.md)
    - [Ethics](Ethics_Law_Professionalism.md#ethics)
    - [Professionalism & Standards](Ethics_Law_Professionalism.md#standards)
    - [Law](Ethics_Law_Professionalism.md#law)
-8. [Learning Resources](#education)
-9. [Linux Distributions](#linux)
+8. [Learning Resources](README.md#education)
+9. [Linux Distributions](README.md#linux)
 10. [Electronics](Electronics.md)
 11. [Hypervisors and virtual machines](Virtualisation.md#virtualisation)
     - [Andrew Hancock, VMware vExpert](Virtualisation.md#andrewhancock)
 12. [Cyber Security Resources](CyberSecurity.md)
-13. [Other Interesting Stuff](#misc)
+13. [Other Interesting Stuff](README.md#misc)
 
 
 # Cyber Security List <a name="cyber"></a>
@@ -25,7 +25,7 @@
 > ## Disclaimer: 
 >Hacking without authorisation is illegal.
 > 
->Links to these materials are provided for reference only. Freeside is not responsible for your use of resources and you should seek permission before performing testing or exploitation systems not owned by yourself.
+>Links to these materials are provided for reference only. Parentull is not responsible for your use of resources and you should seek permission before performing testing or exploitation systems not owned by yourself.
 >
 
 1. [Hackersploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) (Youtube Channel) 

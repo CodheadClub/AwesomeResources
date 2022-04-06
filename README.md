@@ -21,17 +21,17 @@
 
 ## Introduction <a name="introduction"></a>
 
-List originally comprised by [@closebracket](https://github.com/closebracket), visit his website [here](https://love.edwardcharl.es).
+This is an Awesome List of Computer Science, Technology, Programming and Educational resources for the benefit of all who care to use it. Some resources may be tailored towards specific localities or niche subjects; but that doesn't mean that the list is just for those people. The list is made available by [Closebracket](https://github.com/closebracket), the director of Parentull as he believes that everyone in society should benefit from techology and life long learning.
 
 ## Contributing <a name="contributing"></a>
 
-Contributions welcome. If you wish to contribute, please abide by the following rules:
+Contributions welcome. If you have a resource that you wish to contribute, please abide by the following rules:
 
 - Fork the repository, look at the markdown and understand it.
 - Make your changes and double check that nothing is broken.
-- Make a pull request and request a review from the Freeside team.
+- Make a pull request and request a review from the Parentull team.
 
-If you're not sure how to contribute, Fork the repo and make a PR or [jump straight in with VS Code for Github](https://github.dev/closebracket/StudentResources). See [here](https://docs.github.com/en/codespaces/developing-in-codespaces/web-based-editor) for more info.
+If you're not sure how to contribute, you can [email](hello@parentull.org) for more clarification. Alternatively, Fork the repo and make a PR or [jump straight in with VS Code for Github](https://github.dev/Parentull/AwesomeResources). See [here](https://docs.github.com/en/codespaces/developing-in-codespaces/web-based-editor) for more info.
 ## Hull Related <a name="hull"></a>
 
 1. [For Entrepreneurs Only](https://forentrepreneursonly.co.uk/) - Headquartered on UoH campus providing business mentoring and support.
@@ -48,12 +48,11 @@ If you're not sure how to contribute, Fork the repo and make a PR or [jump strai
 4. [C4Di](https://www.c4di.co.uk/) (Hull Based)
 5. [5 ways to help get into the games industry](https://www.linkedin.com/pulse/5-ways-help-you-get-job-games-industry-beginners-guy-derosa/)
 6. [Writing the ideal CV for the games industry](https://www.linkedin.com/pulse/writing-ideal-cv-games-industry-guy-derosa-1c/)
-7. [University of Hull Computer Science Linkedin Group](https://www.linkedin.com/groups/5117767/)
-8. [Network Yorkshire Linkedin Group](https://www.linkedin.com/groups/97127/)
-9. [One Hull Business Forum Linkedin Group](https://www.linkedin.com/groups/3700459/)
-10. [The Yorkshire Mafia Linkedin Group](https://www.linkedin.com/groups/1260737/)
-11. [Yorkshire Enterprise Network Linkedin Group](https://www.linkedin.com/groups/64954/)
-12. [York & Yorkshire Local Enterprise Partnership Linkedin Group](https://www.linkedin.com/groups/4217871/)
+7. [Network Yorkshire Linkedin Group](https://www.linkedin.com/groups/97127/)
+8. [One Hull Business Forum Linkedin Group](https://www.linkedin.com/groups/3700459/)
+9. [The Yorkshire Mafia Linkedin Group](https://www.linkedin.com/groups/1260737/)
+10. [Yorkshire Enterprise Network Linkedin Group](https://www.linkedin.com/groups/64954/)
+11. [York & Yorkshire Local Enterprise Partnership Linkedin Group](https://www.linkedin.com/groups/4217871/)
 
 ## Services <a name="services"></a>
 
@@ -111,14 +110,13 @@ If you're not sure how to contribute, Fork the repo and make a PR or [jump strai
 21. [The Collection of Computer Science Bibliographies](https://liinwww.ira.uka.de/bibliography/index.html) - Collection of bibliographies of scientific literature in computer science from various sources.
 22. [dblp](https://dblp.uni-trier.de/) - Provides open bibliographic information on major computer science journals and proceedings.
 23. [ScienceDirect](https://www.sciencedirect.com) - A large bibliographic database of scientific publications.
-24. [University of Hull - Hull's digital repository, Hydra](https://hydra.hull.ac.uk/)
-25. [Visualisation and Audibilization of Sorting Algorithms](https://panthema.net/2013/sound-of-sorting/) - Visualize different sorting algorithms and listen the sound of sorting.
-26. [Sentdex Youtube Channel](https://www.youtube.com/c/sentdex) - Youtube channel to learn Machine learning, Deep Learning, Natural Language Processing and python.
+24. [Visualisation and Audibilization of Sorting Algorithms](https://panthema.net/2013/sound-of-sorting/) - Visualize different sorting algorithms and listen the sound of sorting.
+25. [Sentdex Youtube Channel](https://www.youtube.com/c/sentdex) - Youtube channel to learn Machine learning, Deep Learning, Natural Language Processing and python.
 
 ## Linux Distributions <a name="linux"></a>
 
 1. [Ubuntu](https://ubuntu.com/) - Great starting distributions for beginners as lots of support is available.
-2. [Fedora](https://getfedora.org/) - Freeside uses this in our Lab!
+2. [Fedora](https://getfedora.org/)
 3. [Arch](https://www.archlinux.org/) - Advanced distribution for those looking to expand their knowledge of Linux.
 4. [Anarchy](https://anarchyinstaller.gitlab.io/) and [ALG](https://archlinuxgui.in/download.html) - These are menu/graphical installers for Arch linux, can be useful for those wanting to try out Arch without doing everything from the command line.
 5. [Artix](https://artixlinux.org/) - A systemd-free alternative to Arch.
