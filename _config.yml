@@ -10,3 +10,4 @@ include:
   - Ethics_Law_Professionalism.md
   - Programming.md
   - Virtualisation.md
+theme: jekyll-theme-slate
