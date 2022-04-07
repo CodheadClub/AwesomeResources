@@ -1,0 +1,12 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+  - CyberSecurity.md
+  - Electronics.md
+  - Ethics_Law_Professionalism.md
+  - Programming.md
+  - Virtualisation.md
