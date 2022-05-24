@@ -112,7 +112,9 @@ If you're not sure how to contribute, you can [email](hello@parentull.org) for m
 23. [ScienceDirect](https://www.sciencedirect.com) - A large bibliographic database of scientific publications.
 24. [Visualisation and Audibilization of Sorting Algorithms](https://panthema.net/2013/sound-of-sorting/) - Visualize different sorting algorithms and listen the sound of sorting.
 25. [Sentdex Youtube Channel](https://www.youtube.com/c/sentdex) - Youtube channel to learn Machine learning, Deep Learning, Natural Language Processing and python.
-
+26. [C# Player's Guide](https://csharpplayersguide.com/) - The ultimate way to learn C# by gamifying the learning journey. Link includes the first 60 pages of the book as a sample!
+27. [Learn C# - English Guide](https://www.youtube.com/playlist?list=PLAC325451207E3105) - Youtube playlist to learn C# (narrated in English)
+28. [Learn C# - Arabic Guide](https://youtu.be/5Zgj7X7l_Dk) - Youtube playlist to learn C# (narrated in Arabic)
 ## Linux Distributions <a name="linux"></a>
 
 1. [Ubuntu](https://ubuntu.com/) - Great starting distributions for beginners as lots of support is available.
