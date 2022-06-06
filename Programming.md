@@ -2,8 +2,8 @@
 
 1. [Introduction](README.md#introduction)
    - [Contributing](README.md##contributing)
-2. [Hull Resources (Non University)](README.md#hull)
-3. [Business/Career](README.md#business)
+2. [Communities](Communities.md)
+3. [Business/Career](Communities.md#business)
 4. [Services](README.md#services)
 5. [Software](README.md#software)
 6. [Programming](Programming.md)

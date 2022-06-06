@@ -2,8 +2,8 @@
 
 1. [Introduction](#introduction)
    - [Contributing](#contributing)
-2. [Hull Resources (Non University)](#hull)
-3. [Business/Career](#business)
+2. [Communities](Communities.md)
+3. [Business/Career](Communities.md#business)
 4. [Services](#services)
 5. [Software](#software)
 6. [Programming](Programming.md)
@@ -21,7 +21,9 @@
 
 ## Introduction <a name="introduction"></a>
 
-This is an Awesome List of Computer Science, Technology, Programming and Educational resources for the benefit of all who care to use it. Some resources may be tailored towards specific localities or niche subjects; but that doesn't mean that the list is just for those people. The list is made available by [Closebracket](https://github.com/closebracket), the director of Parentull as he believes that everyone in society should benefit from techology and life long learning.
+This is an Awesome List of Computer Science, Technology, Programming and Educational resources for the benefit of all who care to use it. 
+
+The list was originally created by [Closebracket](https://github.com/closebracket). 
 
 ## Contributing <a name="contributing"></a>
 
@@ -29,30 +31,9 @@ Contributions welcome. If you have a resource that you wish to contribute, pleas
 
 - Fork the repository, look at the markdown and understand it.
 - Make your changes and double check that nothing is broken.
-- Make a pull request and request a review from the Parentull team.
+- Make a pull request and request a review from the The Codhead Club team.
 
-If you're not sure how to contribute, you can [email](hello@parentull.org) for more clarification. Alternatively, Fork the repo and make a PR or [jump straight in with VS Code for Github](https://github.dev/Parentull/AwesomeResources). See [here](https://docs.github.com/en/codespaces/developing-in-codespaces/web-based-editor) for more info.
-## Hull Related <a name="hull"></a>
-
-1. [For Entrepreneurs Only](https://forentrepreneursonly.co.uk/) - Headquartered on UoH campus providing business mentoring and support.
-2. [C4Di](https://www.c4di.co.uk/) (Hull Based)
-3. [Connected Humber Hardware Meetups](https://www.connectedhumber.org/meetups.html)
-4. [Hull Central Library Makerspace](https://www.hcandl.co.uk/libraries/makerspace/about-makerspacehull)
-5. [Hull Chamber of Commerce](https://www.hull-humber-chamber.co.uk/)
-
-## Business / Career <a name="business"></a>
-
-1. [Google Campus](https://www.campus.co/) (London Based)
-2. [Barclays Eagle Labs](https://labs.uk.barclays/) (Nationwide)
-3. [For Entrepreneurs Only](https://forentrepreneursonly.co.uk/) - Headquartered on UoH campus providing business mentoring and support.
-4. [C4Di](https://www.c4di.co.uk/) (Hull Based)
-5. [5 ways to help get into the games industry](https://www.linkedin.com/pulse/5-ways-help-you-get-job-games-industry-beginners-guy-derosa/)
-6. [Writing the ideal CV for the games industry](https://www.linkedin.com/pulse/writing-ideal-cv-games-industry-guy-derosa-1c/)
-7. [Network Yorkshire Linkedin Group](https://www.linkedin.com/groups/97127/)
-8. [One Hull Business Forum Linkedin Group](https://www.linkedin.com/groups/3700459/)
-9. [The Yorkshire Mafia Linkedin Group](https://www.linkedin.com/groups/1260737/)
-10. [Yorkshire Enterprise Network Linkedin Group](https://www.linkedin.com/groups/64954/)
-11. [York & Yorkshire Local Enterprise Partnership Linkedin Group](https://www.linkedin.com/groups/4217871/)
+If you're not sure how to contribute, you can [email](hello@parentull.org) for more clarification. Alternatively, Fork the repo and make a PR or [jump straight in with VS Code for Github](https://github.dev/CodheadClub/AwesomeResources). See [here](https://docs.github.com/en/codespaces/developing-in-codespaces/web-based-editor) for more info.
 
 ## Services <a name="services"></a>
 
