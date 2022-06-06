@@ -3,7 +3,7 @@
 1. [Introduction](#introduction)
    - [Contributing](#contributing)
 2. [Communities](Communities.md)
-3. [Business/Career](#business)
+3. [Business/Career](Communities.md#business)
 4. [Services](#services)
 5. [Software](#software)
 6. [Programming](Programming.md)
