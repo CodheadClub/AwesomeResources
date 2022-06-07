@@ -93,19 +93,18 @@
 
 ## Hull <a name="hull"></a>
 
-1. [For Entrepreneurs Only](https://forentrepreneursonly.co.uk/) - Headquartered on UoH campus providing business mentoring and support.
-2. [C4Di](https://www.c4di.co.uk/) 
-3. [Barclays Eagle Labs](https://labs.uk.barclays/) (Nationwide)
-4. [Connected Humber Hardware Meetups](https://www.connectedhumber.org/meetups.html)
-5. [Hull Central Library Makerspace](https://www.hcandl.co.uk/libraries/makerspace/about-makerspacehull)
-6. [Hull Chamber of Commerce](https://www.hull-humber-chamber.co.uk/)
-
+1. [The Codhead Club Discord](https://discord.gg/DmHbB2PpVn) 
+2. [For Entrepreneurs Only](https://forentrepreneursonly.co.uk/) - Headquartered on UoH campus providing business mentoring and support.
+3. [C4Di](https://www.c4di.co.uk/) 
+4. [Barclays Eagle Labs](https://labs.uk.barclays/) (Nationwide)
+5. [Connected Humber Hardware Meetups](https://www.connectedhumber.org/meetups.html)
+6. [Hull Central Library Makerspace](https://www.hcandl.co.uk/libraries/makerspace/about-makerspacehull)
+7. [Hull Chamber of Commerce](https://www.hull-humber-chamber.co.uk/)
 ## Leeds <a name="leeds"></a>
 
 1. [Leeds Sharp - .NET User Group](https://www.meetup.com/Leeds-Sharp/)
 2. [Umbraco Leeds Meetup](https://www.meetup.com/umbLeeds/)
 3. [M365 North User Group](https://www.meetup.com/m365-north/)
-
 ## Liverpool <a name="liverpool"></a>
 
 1. [Dot NET Liverpool](https://www.meetup.com/Dot-NET-Liverpool/)
