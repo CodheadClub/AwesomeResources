@@ -191,7 +191,7 @@
 ## Worcester <a name="worcester">
 
 1. [DC441905](https://dc441905.org/)
-    1.1 [DC441905 Discord](https://discord.gg/rXvnkav)
+   - 1.1 [DC441905 Discord](https://discord.gg/rXvnkav)
 ## York <a name="york"></a>
 
 1. [dotnet York](https://www.meetup.com/dotnetYork/)
