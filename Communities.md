@@ -47,8 +47,10 @@
 22. [Sheffield](#sheffield)
 23. [Southamption](#southamption)
 24. [Stockton-On-Tees](#stockontees)
-25. [Winnersh](#winnersh)
-26. [York](#york)
+25. [Stockport](#stockport)
+26. [Winnersh](#winnersh)
+27. [Worcester](#worcester)
+28. [York](#york)
 
 ## Aberdeen <a name="aberdeen"></a>
 
@@ -65,6 +67,7 @@
 ## Bristol <a name="bristol"></a>
 
 1. [Data Bristol](https://www.meetup.com/DataBristol/)
+2. [Agile Bath & Bristol](https://www.meetup.com/Agile-Bath-Bristol/)
 
 ## Brighton <a name="brighton"></a>
 
@@ -73,11 +76,13 @@
 ## Cardiff <a name="cardiff"></a>
 
 1. [Data South Wales](https://www.meetup.com/data-south-wales/)
+2. [South Wales Agile Group](https://www.meetup.com/South-Wales-Agile-Group/)
 
 ## Cambridge <a name="cambridge"></a>
 
 1. [.NET Cambridge](https://www.meetup.com/dotnetcambridge/)
     - 1.1 [.NET Cambridge Talk Playlist](https://www.youtube.com/c/AndreaAngella)
+2. [Cambridge Agile Exchange](https://www.meetup.com/cambridge-agile-exchange/)
 
 ## Edinburgh <a name="edinburgh"></a>
 
@@ -100,6 +105,8 @@
 5. [Connected Humber Hardware Meetups](https://www.connectedhumber.org/meetups.html)
 6. [Hull Central Library Makerspace](https://www.hcandl.co.uk/libraries/makerspace/about-makerspacehull)
 7. [Hull Chamber of Commerce](https://www.hull-humber-chamber.co.uk/)
+8. [Lean Agile Hull](https://www.meetup.com/Lean-Agile-Hull/)
+
 ## Leeds <a name="leeds"></a>
 
 1. [Leeds Sharp - .NET User Group](https://www.meetup.com/Leeds-Sharp/)
@@ -118,6 +125,11 @@
 5. [Windows Apps London](https://www.meetup.com/wpuguk/)
 6. [London Microsoft DevOps Meetup](https://www.meetup.com/London-Microsoft-DevOps/)
 7. [London .NET User Group](https://www.meetup.com/London-NET-User-Group/)
+8. [Digital Transformation in London](https://www.meetup.com/digital-transformation-in-london/)
+9. [Lean Agile Delivery & Coaching Network](https://www.meetup.com/Lean-Agile-Coaching-Meetup/)
+10. [London Twitter Developer Community](https://www.meetup.com/london-twitter-developer-community/)
+11. [Central London Data Science](https://www.meetup.com/central_london_data_science/)
+12. [London Data Science Workshop](https://www.meetup.com/London-Data-Science-Workshop/)
 
 ## Manchester <a name="manchester"></a>
 
@@ -128,6 +140,7 @@
 4. [Northern Azure User Group](https://www.meetup.com/Northern-Azure-User-Group/)
 5. [UK Azure Virtual Desktop User Group](https://www.meetup.com/UK-Windows-Virtual-Desktop-User-Group/)
 6. [Manchester Data Platform User Group](https://www.meetup.com/McrDataPlatform/)
+7. [Lean Agile, Manchester](https://www.meetup.com/Lean-Agile-Manchester/)
 
 ## Milton Keynes <a name="miltonkeynes"></a>
 
@@ -168,12 +181,20 @@
 
 1. [HaintonDotNet](https://www.meetup.com/HaintonsDotNetMeetup/)
 
+## Stockport <a name="stockport"></a>
+
+1. [Lean Agile Stockport](https://www.meetup.com/Lean-Agile-Stockport/)
 ## Winnersh <a name="winnersh"></a>
+
 1. [Reading Microsoft Data & AI User Group](https://www.meetup.com/Reading-Microsoft-Data-Platform-User-Group/)
 
-## York <a name="york"></a>
-1. [dotnet York](https://www.meetup.com/dotnetYork/)
+## Worcester <a name="worcester">
 
+1. [DC441905](https://dc441905.org/)
+    1.1 [DC441905 Discord](https://discord.gg/rXvnkav)
+## York <a name="york"></a>
+
+1. [dotnet York](https://www.meetup.com/dotnetYork/)
 
 ## Business / Career <a name="business"></a>
 1. [5 ways to help get into the games industry](https://www.linkedin.com/pulse/5-ways-help-you-get-job-games-industry-beginners-guy-derosa/)
