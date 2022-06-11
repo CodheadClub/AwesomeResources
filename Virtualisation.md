@@ -71,7 +71,7 @@ Type 2
 ## Andrew Hancock, Cyrus Computer Consultants Ltd <a name="andrewhancock"></a>
 Andrew Hancock is VMware & Virtualisation Consultant in Apps, Servers & Storage at [Cyrus Computer Consultants Ltd.](https://www.cyrus-consultants.co.uk/) He also has a long list of VMware and Virtualisations articles, a passionate VMware Technical Architect, and VMware vExpert PRO. He has won over 40 [Experts Exchange Awards](https://www.experts-exchange.com/members/hanccocka.html) and is Overall Leader at [Experts Exchange](https://www.experts-exchange.com/) Experts Exchange - The Original Tech Community™ - Formed in 1996, Experts Exchange (EE) is one of the oldest online communities in the world. For 25 years, tech problem-solvers worldwide have gathered on EE to share knowledge and help each other succeed.
 
-His articles are reproduced here for your reading pleasure. If you want to discuss anything VMware, then ask him! He will only be too happy to oblige. All this software is FREE here - [VMware IT Academy Program](https://www.vmware.com/uk/company/it-academy.html) 
+His articles are reproduced here for your reading pleasure. If you want to discuss anything VMware, then ask him! He will only be too happy to oblige. NFR VMware software is available via the [VMUG Advantage+Program](https://www.vmug.com/membership/vmug-advantage-membership/). If you are a Student in Full Time Education it can be obtained from the [VMware IT Academy Program](https://www.vmware.com/uk/company/it-academy.html) 
 1. [How to Backup an ESXi installation on an USB Flash Drive or SD card for security or redundancy.](https://www.experts-exchange.com/A_5409.html)
 2. [VMware ESX/ESXi Backup Guide](https://www.experts-exchange.com/A_5414.html)
 3. [HOW TO: Improve the transfer rate of a Physical to Virtual (P2V) Virtual to Virtual Conversion (V2V) using VMware vCenter Converter Standalone 5.0](https://www.experts-exchange.com/articles/9131/HOW-TO-Improve-the-transfer-rate-of-a-Physical-to-Virtual-P2V-Virtual-to-Virtual-Conversion-V2V-using-VMware-vCenter-Converter-Standalone-5-0.html)
@@ -209,10 +209,10 @@ His articles are reproduced here for your reading pleasure. If you want to discu
 
 ### Hancock's VMware Half Hour HOW TO Video Series
 
-In this series, which compliments the written articles above, Andy Hancock demonstrates "HOW TO" on a variety of topics. All these videos are based on the previous written content at Experts Exchange.
+In this series, which compliments the written articles above, Andrew Hancock demonstrates "HOW TO" on a variety of topics. All these videos are based on the previous written content at Experts Exchange.
 
 In this short online course, there is a total of 7.5 hours of online videos from Part 1 to Part 22, taking you through the basics of VMware vSphere 7.0, from installation of the hypervisor (ESXi), creating Windows and Linux virtual machines, updating the ESXi hosts and installing and adding ESXi hosts to vCenter Server (the management server.)
-This course is split over 22 parts, in bit size chunks, hosted by Andy Hancock. If you have any questions or issues, then please reach out to me.
+This course is split over 22 parts, in bit size chunks, hosted by Andrew Hancock. If you have any questions or issues, then please consider posting a question on [Experts Exchange](https://www.experts-exchange.com/).
 
 1. [Part 1: HOW TO: Install and Configure VMware vSphere Hypervisor 7.0 U2 (ESXi 7.0.2).](https://www.experts-exchange.com/videos/78972/HOW-TO-Install-and-Configure-VMware-vSphere-Hypervisor-7-0-U2-ESXi-7-0-2.html)
 2. [Part 2: HOW TO: Connect to the VMware vSphere Hypervisor 7.0 U2 (ESXi 7.0.2) using the vSphere Host Client.](https://www.experts-exchange.com/videos/78992/HOW-TO-Connect-to-the-VMware-vSphere-Hypervisor-7-0U2-ESXi-7-0-2-using-the-vSphere-HTML5-Web-Host-Client-7-0.html)
