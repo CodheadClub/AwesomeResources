@@ -15,7 +15,7 @@
 9. [Linux Distributions](README.md#linux)
 10. [Electronics](Electronics.md)
 11. [Hypervisors and virtual machines](Virtualisation.md#virtualisation)
-    - [Andrew Hancock, VMware vExpert PR](Virtualisation.md#andrewhancock)
+    - [Andrew Hancock, VMware vExpert PRO](Virtualisation.md#andrewhancock)
 12. [Cyber Security Resources](CyberSecurity.md)
 13. [Other Interesting Stuff](README.md#misc)
 
