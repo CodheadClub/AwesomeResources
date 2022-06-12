@@ -15,14 +15,14 @@
 9. [Linux Distributions](README.md#linux)
 10. [Electronics](Electronics.md)
 11. [Hypervisors and virtual machines](Virtualisation.md#virtualisation)
-    - [Andrew Hancock, VMware vExpert](Virtualisation.md#andrewhancock)
+    - [Andrew Hancock, VMware vExpert PRO](Virtualisation.md#andrewhancock)
 12. [Cyber Security Resources](CyberSecurity.md)
 13. [Other Interesting Stuff](README.md#misc)
 
 
 # Cyber Security List <a name="cyber"></a>
 
-> ## Disclaimer: 
+> ### Disclaimer: 
 >Hacking without authorisation is illegal.
 > 
 >Links to these materials are provided for reference only. Parentull is not responsible for your use of resources and you should seek permission before performing testing or exploitation systems not owned by yourself.
