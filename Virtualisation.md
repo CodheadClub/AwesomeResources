@@ -2,8 +2,8 @@
 
 1. [Introduction](README.md#introduction)
    - [Contributing](README.md##contributing)
-2. [Communities](Communities.md)
-3. [Business/Career](Communities.md#business)
+2. [Hull Resources (Non University)](README.md#hull)
+3. [Business/Career](README.md#business)
 4. [Services](README.md#services)
 5. [Software](README.md#software)
 6. [Programming](Programming.md)
@@ -237,3 +237,4 @@ This course is split over 22 parts, in bit size chunks, hosted by Andrew Hancock
 21. [Part 21: HOW TO: Deploy and Install VMware vSphere vCenter Server 7.0 (VCSA 7.0)](https://www.experts-exchange.com/videos/79152/HOW-TO-Deploy-and-Install-VMware-vSphere-vCenter-Server-7-0-VCSA-7-0.html)
 22. [Part 22: HOW TO: Add VMware vSphere Hypervisor ESXi 7.0 Hosts to VMware vSphere vCenter Server 7.0](https://www.experts-exchange.com/videos/79192/HOW-TO-Add-VMware-vSphere-Hypervisor-ESXi-7-0-Hosts-to-VMware-vSphere-vCenter-Server-7-0.html)
 23. [Part 23: HOW TO: Update VMware vSphere vCenter Server 7.0 (VCSA 7.0) using the (VAMI) Appliance Management Interface](https://www.experts-exchange.com/videos/79452/HOW-TO-Update-VMware-vSphere-vCenter-Server-7-0-VCSA-7-0-using-the-VAMI-Appliance-Management-Interface.html)
+24. [Part 24: HOW TO: Cross vCenter Server vMotion (export) between standalone vCenter Servers 7.0 not linked to the current SSO domain](https://www.experts-exchange.com/videos/79454/HOW-TO-Cross-vCenter-Server-vMotion-export-between-standalone-vCenter-Servers-7-0-not-linked-to-the-current-SSO-domain.html)
