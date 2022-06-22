@@ -36,6 +36,7 @@
 4. [Learn C# - English Guide](https://www.youtube.com/playlist?list=PLAC325451207E3105) - Youtube playlist to learn C# (narrated in English)
 5. [Learn C# - Arabic Guide](https://youtu.be/5Zgj7X7l_Dk) - Youtube playlist to learn C# (narrated in Arabic)
 
+
 ### CSS
 
 1. [Awesome TailwindCSS](https://github.com/aniftyco/awesome-tailwindcss)
@@ -70,7 +71,7 @@
 1. [Platform.uno](https://platform.uno) - Multi platform applications, one code base.
 2. [Flutter](https://flutter.dev/)
 3. [React Native](https://reactnative.dev/)
-
+3. [Introducing .NET Maui](https://devblogs.microsoft.com/dotnet/introducing-dotnet-maui-one-codebase-many-platforms/)
 ### Documentation
 
 1. [DevDocs](https://devdocs.io/) - Searchable developer docs
