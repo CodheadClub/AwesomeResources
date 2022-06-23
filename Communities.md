@@ -21,6 +21,17 @@
 
 ## Communities
 
+## BCS Communities
+
+1. [Safety Criticial Systems Club](https://scsc.uk/)
+2. [British Colloquium for Theoretical Computer Science](https://www.bctcs.ac.uk/)
+    - 2.1 [Stack Exchange](https://cstheory.stackexchange.com/)
+3. [London Mathematical Society](https://www.lms.ac.uk)
+4. [European Association for Theoretical Computer Science](https://eatcs.org/)
+5. [Open Source Specialist Group](https://ossg.bcs.org/)
+## Events
+
+1. [Electromagnetic Field](https://www.emfcamp.org)
 ## United Kingdom
 
 1. [Aberdeen](#aberdeen)
