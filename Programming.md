@@ -22,6 +22,13 @@
 
 # Programming
 
+### Standards
+
+1. [ISO 4217 - Currency Codes](https://www.iso.org/iso-4217-currency-codes.html)
+2. [ISO 8601 - Date and Time Format](https://www.iso.org/iso-8601-date-and-time-format.html)
+3. [ISO 31000 - Risk Management](https://www.iso.org/iso-31000-risk-management.html)
+4. [ISO/IEC 27001 - Information Security Management](https://www.iso.org/isoiec-27001-information-security.html)
+
 ### Blazor
 
 1. [Pre-Render Blazor WebAssembly at buildtime to optimise for search engines](https://swimburger.net/blog/dotnet/pre-render-blazor-webassembly-at-build-time-to-optimize-for-search-engines)
