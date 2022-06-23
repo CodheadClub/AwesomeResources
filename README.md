@@ -42,8 +42,8 @@ If you're not sure how to contribute, you can [email](hello@parentull.org) for m
 3. [Gitlab](https://about.gitlab.com/)
 4. [Matomo](https://matomo.org) - Self hosted Google Analytics alternative.
 5. [Wekan](https://wekan.github.io/) - Opensource Kanban.
-6. [Shodan](https://www.shodan.io/) - Create an account with your University email address to get free membership.
-7. [Spyse](https://spyse.com/) – Internet assets registry that scan, collect, analyze, and provide information on internet entities💰.
+6. [Shodan](https://www.shodan.io/) 
+7. [Spyse](https://spyse.com/) 
 8. [The Things Network](https://www.thethingsnetwork.org/)
 9. [Programmable Web APIs](https://www.programmableweb.com/)
 10. [A list of publically available APIs](https://github.com/public-apis/public-apis)

@@ -22,9 +22,9 @@
 
 # Cyber Security List <a name="cyber"></a>
 > ###### Disclaimer: 
->Hacking without authorisation is illegal. In the United Kingdom, it is illegal under the computer misuse act.
+>Hacking without authorisation is illegal. In the United Kingdom, it is illegal under the [Computer Misuse Act 1990](https://www.legislation.gov.uk/ukpga/1990/18/contents)
 > 
->Links to these materials are provided for reference only. We are not responsible for your use of resources and you should seek permission before performing testing or exploitation systems not owned by yourself.
+>Links to these materials are provided for reference only. We are not responsible for your use of resources and you should seek permission before performing testing or exploitation on systems not owned by yourself.
 
 ## News 
 1. [Dark Reading](https://www.darkreading.com/) - Cyber Security News. 
@@ -57,6 +57,7 @@
 18. [2022 Mobile Threat Landscape](https://www.threatfabric.com/blogs/h1-2022-mobile-threat-landscape.html)
 19. [Bluetooth Signals can be used to identify and track smartphones](https://jacobsschool.ucsd.edu/news/release/3461)
 20. [How I reversed a NodeJS malware and found the author](https://itnext.io/how-i-reversed-a-nodejs-malware-and-found-the-author-7dd9531b389f?gi=7e8591da3435)
+21. [Data Breaches - Guidance for individuals and families](https://www.ncsc.gov.uk/guidance/data-breaches)
 ## Tools 
 1. [Hunchly](https://www.hunch.ly/) - The Only Web Capture Tool Designed For Online Investigations.
 2. [Have I Been Pwned](https://haveibeenpwned.com/)
@@ -75,6 +76,8 @@
 1. [CIS Benchmarking](https://www.cisecurity.org/cis-benchmarks/) - Benchmarking tools to protect your environment
 2. [Cyber Essentials Certificaton](https://www.ncsc.gov.uk/cyberessentials/overview)
 3. [Infosec Institute](https://www.infosecinstitute.com/resource-center/) - Info sec best practices & updates.
+4. [ISO - ISO/IEC 27001 — Information security management](https://www.iso.org/isoiec-27001-information-security.html)
+
 
 ## Code Reference
 > ###### Disclaimer: 
@@ -91,3 +94,4 @@
 9. [Yes, I can connect to a Db in CSS](https://www.leemeichin.com/posts/yes-i-can-connect-to-a-db-in-css.html)
    - 9.1 [Github Repo](https://github.com/leemeichin/sqlcss.xyz)
    - 9.2 [sqlcss.xyz](https://www.sqlcss.xyz/)
+10. [Botnets](https://github.com/maestron/botnets) - A collection of botnet source codes. 
