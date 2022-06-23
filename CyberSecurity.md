@@ -22,9 +22,9 @@
 
 # Cyber Security List <a name="cyber"></a>
 > ###### Disclaimer: 
->Hacking without authorisation is illegal. In the United Kingdom, it is illegal under the computer misuse act.
+>Hacking without authorisation is illegal. In the United Kingdom, it is illegal under the [Computer Misuse Act 1990](https://www.legislation.gov.uk/ukpga/1990/18/contents)
 > 
->Links to these materials are provided for reference only. We are not responsible for your use of resources and you should seek permission before performing testing or exploitation systems not owned by yourself.
+>Links to these materials are provided for reference only. We are not responsible for your use of resources and you should seek permission before performing testing or exploitation on systems not owned by yourself.
 
 ## News 
 1. [Dark Reading](https://www.darkreading.com/) - Cyber Security News. 
@@ -91,3 +91,4 @@
 9. [Yes, I can connect to a Db in CSS](https://www.leemeichin.com/posts/yes-i-can-connect-to-a-db-in-css.html)
    - 9.1 [Github Repo](https://github.com/leemeichin/sqlcss.xyz)
    - 9.2 [sqlcss.xyz](https://www.sqlcss.xyz/)
+10. [Botnets](https://github.com/maestron/botnets) - A collection of botnet source codes. 
