@@ -57,6 +57,7 @@
 18. [2022 Mobile Threat Landscape](https://www.threatfabric.com/blogs/h1-2022-mobile-threat-landscape.html)
 19. [Bluetooth Signals can be used to identify and track smartphones](https://jacobsschool.ucsd.edu/news/release/3461)
 20. [How I reversed a NodeJS malware and found the author](https://itnext.io/how-i-reversed-a-nodejs-malware-and-found-the-author-7dd9531b389f?gi=7e8591da3435)
+21. [Data Breaches - Guidance for individuals and families](https://www.ncsc.gov.uk/guidance/data-breaches)
 ## Tools 
 1. [Hunchly](https://www.hunch.ly/) - The Only Web Capture Tool Designed For Online Investigations.
 2. [Have I Been Pwned](https://haveibeenpwned.com/)
@@ -75,6 +76,8 @@
 1. [CIS Benchmarking](https://www.cisecurity.org/cis-benchmarks/) - Benchmarking tools to protect your environment
 2. [Cyber Essentials Certificaton](https://www.ncsc.gov.uk/cyberessentials/overview)
 3. [Infosec Institute](https://www.infosecinstitute.com/resource-center/) - Info sec best practices & updates.
+4. [ISO - ISO/IEC 27001 — Information security management](https://www.iso.org/isoiec-27001-information-security.html)
+
 
 ## Code Reference
 > ###### Disclaimer: 
