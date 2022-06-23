@@ -27,7 +27,8 @@
 1. [Pre-Render Blazor WebAssembly at buildtime to optimise for search engines](https://swimburger.net/blog/dotnet/pre-render-blazor-webassembly-at-build-time-to-optimize-for-search-engines)
 2. [Blazor Project Structure](https://www.pragimtech.com/blog/blazor/blazor-project-structure/)
 3. [Official Blazor Docs](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
-
+4. [GPS Tracking in Blazor Web Assembly](https://morioh.com/p/59923468d2b3)
+5. [Consuming REST APIs](https://learn-blazor.com/architecture/rest-api/)
 ### C#
 
 1. [The Yellow Book](https://www.robmiles.com/s/CSharp-Book-2019-Refresh.pdf) - A fantastic intro to C# from former Hull Lecturer, [Rob Miles](robmiles.com). He also has other publications available [here](https://www.amazon.co.uk/s?i=stripbooks&rh=p_27:Rob%20Miles&s=relevancerank&text=Rob%20Miles&ref=dp_byline_sr_book_1).
@@ -35,6 +36,11 @@
 3. [C# Player's Guide](https://csharpplayersguide.com/) - The ultimate way to learn C# by gamifying the learning journey. Link includes the first 60 pages of the book as a sample!
 4. [Learn C# - English Guide](https://www.youtube.com/playlist?list=PLAC325451207E3105) - Youtube playlist to learn C# (narrated in English)
 5. [Learn C# - Arabic Guide](https://youtu.be/5Zgj7X7l_Dk) - Youtube playlist to learn C# (narrated in Arabic)
+6. [Write your own .NET RSS feed in C#](https://www.jameshbyrd.com/write-your-own-net-rss-feed-in-c-2/)
+
+## JS
+
+1. [Discord JS](https://github.com/discordjs/discord.js)
 
 
 ### CSS
@@ -64,6 +70,7 @@
 8. [Nikola](https://getnikola.com/getting-started.html)
 9. [Gatsby](https://www.gatsbyjs.com/docs/tutorial/part-0/)
 10. [Statiq Web](https://www.statiq.dev/web/) - Still under development, use if you want to get involved with the community to help develop
+   - 10.1 [On .NET Live - Generating static web applications with Statiq](https://www.youtube.com/watch?v=43oQTRZqK9g)
 11. [Publii](https://getpublii.com/) - Desktop app rather than CLI
 
 ### Cross-Platform
