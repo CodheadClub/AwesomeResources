@@ -1,3 +1,9 @@
+<div align="center">
+<img style="width:45%" src="imgs/tcclogo.jpg" />
+
+# Awesome Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+</div>
+
 ## Contents
 
 1. [Introduction](#introduction)
