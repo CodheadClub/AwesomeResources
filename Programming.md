@@ -82,6 +82,16 @@
 3. [Java Bootcamp by Kunal Kushwaha on Github](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
 4. [Official Java Docs](https://docs.oracle.com/en/java/)
 
+### Python
+1. [Intro to Python](https://www.geeksforgeeks.org/introduction-to-python/)
+2. [Install Python](https://www.python.org/downloads/)
+3. [Basics](https://www.tutorialspoint.com/python/python_basic_syntax.htm)
+4. [Decision Making](https://www.tutorialspoint.com/python/python_decision_making.htm)
+5. [Loops](https://www.tutorialspoint.com/python/python_loops.htm)
+6. [List](https://www.tutorialspoint.com/python/python_lists.htm)
+7. [Tuples](https://www.tutorialspoint.com/python/python_tuples.htm)
+8. [Dictionary](https://www.tutorialspoint.com/python/python_dictionary.htm)
+9. [Functions](https://www.tutorialspoint.com/python/python_functions.htm)
 
 ### Static site generators
 
