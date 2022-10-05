@@ -52,6 +52,7 @@
 ## JS
 
 1. [Discord JS](https://github.com/discordjs/discord.js)
+2. [Intro to JS](https://www.geeksforgeeks.org/introduction-to-javascript/)
 
 
 ### CSS
@@ -60,6 +61,7 @@
 2. [Tailwind CSS Docs](https://tailwindcss.com/docs/)
 3. [Aweomesheet](https://zombiefox.github.io/awesomeSheet/) - CSS Generator
 4. [Learn CSS](https://web.dev/learn/css/) - Free Google course on CSS
+5. [CSS Units](https://www.geeksforgeeks.org/css-units/)
 
 ### DSharp
 
@@ -68,6 +70,15 @@
 ### HTML
 
 1. [W3 HTML Introduction](https://www.w3schools.com/html/)
+2. [GFG HTML Basics](https://www.geeksforgeeks.org/html-basics/)
+3. [MDN HTML Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+### Java
+1. [w3 schools Java Info](https://www.w3schools.com/java/default.asp)
+2. [w3 schools Java Examples(Beginners & Intermediates)](https://www.w3schools.com/java/java_examples.asp)
+3. [Java-Projects-For-Beginners](https://github.com/KrishGaur1354/Java-Projects-for-Beginners)
+4. [GeeksForGeeks Java documentation](https://www.geeksforgeeks.org/java/)
+5. [Java Bootcamp by Kunal Kushwaha on Github](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
 
 ### Static site generators
 
