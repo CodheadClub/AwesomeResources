@@ -1,74 +1,75 @@
 <div align="center">
 <img style="width:45%" src="imgs/tcclogo.jpg" />
 
-# Awesome Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+# Wspaniałe Zasoby [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 </div>
 
 ## Contents
 
-1. [Introduction](#introduction)
-   - [Contributing](#contributing)
-2. [Communities](Communities.md)
-3. [Business/Career](Communities.md#business)
-4. [Services](#services)
-5. [Software](#software)
-6. [Programming](Programming.md)
-7. [Ethics, Law & Professionalism](Ethics_Law_Professionalism.md)
-   - [Ethics](Ethics_Law_Professionalism.md#ethics)
-   - [Professionalism & Standards](Ethics_Law_Professionalism.md#standards)
-   - [Law](Ethics_Law_Professionalism.md#law)
-8. [Learning Resources](#education)
-9. [Linux Distributions](#linux)
-10. [Electronics](Electronics.md)
-11. [Hypervisors and virtual machines](Virtualisation.md#virtualisation)
+1. [Wprowadzenie](#introduction)
+   - [Kontrybucja](#contributing)
+2. [Społeczności](Communities.md)
+3. [Biznes/Kariera](Communities.md#business)
+4. [Usługi](#services)
+5. [Oprogramowanie](#software)
+6. [Programowanie](Programming.md)
+7. [Etyka, Prawo i Profesjonalizm](Ethics_Law_Professionalism.md)
+   - [Etyka](Ethics_Law_Professionalism.md#ethics)
+   - [Profesjonalizm i Standardy](Ethics_Law_Professionalism.md#standards)
+   - [Prawo](Ethics_Law_Professionalism.md#law)
+8. [Materiały Edukacyjne](#education)
+9. [Dystrybucje GNU/Linux](#linux)
+10. [Elektronika](Electronics.md)
+11. [Hipernadzorcy i maszyny wirtualne](Virtualisation.md#virtualisation)
     - [Andrew Hancock, VMware vExpert PRO](Virtualisation.md#andrewhancock)
-12. [Cyber Security Resources](CyberSecurity.md)
-13. [Other Interesting Stuff](#misc)
+12. [Materiały na temat Cyberbezpieczeństwa](CyberSecurity.md)
+13. [Inne Interesujące Rzeczy](#misc)
 
-## Introduction <a name="introduction"></a>
+## Wprowadzenie <a name="introduction"></a>
 
-This is an Awesome List of Computer Science, Technology, Programming and Educational resources for the benefit of all who care to use it.
+Oto Wspaniała Lista z zasobami na temat Informatyki, Technologii, Programowania i edukacji dla dobra wszystkich.
 
-The list was originally created by [Closebracket](https://github.com/closebracket).
-## Contributing <a name="contributing"></a>
+Lista została oryginalnie stworzona przez [Closebracket](https://github.com/closebracket).
 
-Contributions welcome. If you have a resource that you wish to contribute, please abide by the following rules:
+## Kontrybucja <a name="contributing"></a>
 
-- Fork the repository, look at the markdown and understand it.
-- Make your changes and double check that nothing is broken.
-- Make a pull request and request a review from the The Codhead Club team.
+Ulepszanie listy jest mile widziane. Jeśli znalazłeś/aś jakiś zasób, który chcesz dodać, przestrzegaj zasady poniżej:
 
-If you're not sure how to contribute, you can join our [discord](https://discord.gg/DmHbB2PpVn) or [telegram](https://t.me/codheadclub) for more clarification. Alternatively, Fork the repo and make a PR or [jump straight in with VS Code for Github](https://github.dev/CodheadClub/AwesomeResources). See [here](https://docs.github.com/en/codespaces/developing-in-codespaces/web-based-editor) for more info.
+- Sklonuj repozytorium, spójrz na tekst w markdown i postaraj się go zrozumieć.
+- Dokonaj zmian, sprawdź dwukrotnie czy nie ma w nich żadnych błędów.
+- Stwórz "Pull Request" i zapytaj o recencję od The Codhead Club.
 
-## Services <a name="services"></a>
+Jeśli nie wiesz co robić dołącz na nasz serwer [discord](https://discord.gg/DmHbB2PpVn) lub [telegram](https://t.me/codheadclub) po wyjaśnienia. Możesz też sklonować repozytorium i stworzyć "Pull Request" [przez githubowego VSCode'a](https://github.dev/CodheadClub/AwesomeResources). Kliknij [tutaj](https://docs.github.com/en/codespaces/developing-in-codespaces/web-based-editor) po więcej informacji.
 
-1. [Migadu.com](https://migadu.com) - Unlimited cheap email for lots of domains.
+## Usługi <a name="services"></a>
+
+1. [Migadu.com](https://migadu.com) - Nielimitowane tanie adresy email na wielu domenach.
 2. [Github Pages](https://pages.github.com/)
-3. [Gitlab](https://about.gitlab.com/)
-4. [Matomo](https://matomo.org) - Self hosted Google Analytics alternative.
-5. [Wekan](https://wekan.github.io/) - Opensource Kanban.
+3. [Gitlab](https://about.gitlab.com/) - Bardziej wolna alternatywa dla GitHub. Możesz również hostować ją samodzielnie.
+4. [Matomo](https://matomo.org) - Alternatywa dla Google Analitycs, możesz hostować ją samodzielnie.
+5. [Wekan](https://wekan.github.io/) - Otwartoźródłowy Kanban.
 6. [Shodan](https://www.shodan.io/) 
 7. [Spyse](https://spyse.com/) 
 8. [The Things Network](https://www.thethingsnetwork.org/)
 9. [Programmable Web APIs](https://www.programmableweb.com/)
-10. [A list of publically available APIs](https://github.com/public-apis/public-apis)
+10. [Lista dostępnych publicznie API](https://github.com/public-apis/public-apis)
 
-## Software <a name="software"></a>
+## Oprogramowanie <a name="software"></a>
 
 1. [Atom Editor](https://atom.io/)
-2. [Jetbrains Editors](https://www.jetbrains.com/).
-3. [The Awesome Self-Hosted List](https://github.com/awesome-selfhosted/awesome-selfhosted) - a list of open source projects which can be self-hosted. The list comprises an amazing range of fascinating tools and projects.
+2. [Jetbrains Editors](https://www.jetbrains.com/) - Rodzina IDE od firmy JetBrains, zawiera m.in. program IntelliJ (Java) oraz PyCharm (Python).
+3. [The Awesome Self-Hosted List](https://github.com/awesome-selfhosted/awesome-selfhosted) - Lista otwartoźródłowych projektów, które możesz samodzielnie hostować. Ta lista zawiera ogromną ilość fascynujących narzędzi i projektów.
 4. [Bashmarks](https://github.com/huyng/bashmarks)
 5. [Doctl](https://github.com/digitalocean/doctl)
-6. [The Big Warehouse](https://github.com/sbrl/thebigwarehouse) - A collection of resources for programmers.
-7. [Dockstation](https://dockstation.io/) - Docker GUI for Windows, Mac and Linux
-8. [Tush](https://github.com/darius/tush/) - a literate testing shell
-9. [Haven Self Hosted Blog](https://github.com/havenweb/haven) - A self hosted private blog built with ruby on rails.
-10. [Fritzing](https://fritzing.org/) - A software for desinging circuits, PCBs and testing them virtually.
-11. [Katakoda](https://www.katacoda.com/) - Katacoda provides a platform to build live interactive demo and training environments.
-12. [CodeSandbox](https://codesandbox.io/) - CodeSandbox is an online code editor and prototyping tool that makes creating and sharing web apps faster.
+6. [The Big Warehouse](https://github.com/sbrl/thebigwarehouse) - Kolekcja zasobów dla programistów.
+7. [Dockstation](https://dockstation.io/) - GUI dla Dockera na systemy Windows, Mac, GNU/Linux.
+8. [Tush](https://github.com/darius/tush/) - Powłoka do testowania skryptów.
+9. [Haven Self Hosted Blog](https://github.com/havenweb/haven) - Samodzielnie hostowany prywatny blog na Ruby on Rails.
+10. [Fritzing](https://fritzing.org/) - Oprogramowanie do projektowania obwodów, płytek drukowanych i ich wirtualnego testowania.
+11. [Katakoda](https://www.katacoda.com/) - Katacoda to platforma do budowania interaktywnych środowisk demonstracyjnych i szkoleniowych.
+12. [CodeSandbox](https://codesandbox.io/) - CodeSandbox jest internetowym edytorem kodu i narzędziem do prototypów, który sprawia, że tworzenie i udostępnianie aplikacji internetowych jest łatwiejsze.
 
-## Educational Resources <a name="education"></a>
+## Materiały Edukacyjne <a name="education"></a>
 
 1. [Math Talks to Blow Your Mind Playlist](https://www.youtube.com/playlist?list=PLOGi5-fAu8bEIw_xkj1FgKr7QY_Sahswy)
 2. [Data Structures Playlist](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P).
@@ -76,66 +77,66 @@ If you're not sure how to contribute, you can join our [discord](https://discord
    - 3.1 [Harvard CS50 2018 Lectures Playlist](https://www.youtube.com/playlist?list=PLhQjrBD2T382eX9-tF75Wa4lmlC7sxNDH).
    - 3.2 [Harvard CS50 for Lawyers Playlist](https://www.youtube.com/playlist?list=PLvD71Eu17WEDRgEDTYH3MfKaG5lySs1dp).
    - 3.3 ([CS50 Youtube Channel](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)).
-4. [NullByte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g) (Youtube Channel).
-5. [NumberPhile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A) (Youtube Channel).
-6. [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA) (Youtube Channel).
+4. [NullByte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g) (Kanał YouTube).
+5. [NumberPhile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A) (Kanał YouTube).
+6. [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA) (Kanał YouTube).
 7. [Docker's Official Youtube](https://www.youtube.com/channel/UC76AVf2JkrwjxNKMuPpscHQ).
-8. [Brian Tompsett Youtube Channel](https://www.youtube.com/channel/UCfG7W9cpOp4G4rH-gLgxVdw). Brian is a [lecturer at University of Hull](https://www.hull.ac.uk/staff-directory/brian-tompsett) and has a [long list of published works](https://scholar.google.co.uk/citations?user=4CFnDSAAAAAJ&hl=en).
-9. [Rob Miles Youtube](https://www.youtube.com/channel/UC4OEadKEwxD7TxR9hKhxtuQ) .
-10. [Install LAMP on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-20-04-quickstart) - Tutorial on installing LAMP on Ubuntu
+8. [Brian Tompsett Youtube Channel](https://www.youtube.com/channel/UCfG7W9cpOp4G4rH-gLgxVdw). Brian jest [wykładowcą na Uniwesytecie Hull](https://www.hull.ac.uk/staff-directory/brian-tompsett) i posiada [długą listę prac](https://scholar.google.co.uk/citations?user=4CFnDSAAAAAJ&hl=en).
+9. [Rob Miles Youtube](https://www.youtube.com/channel/UC4OEadKEwxD7TxR9hKhxtuQ).
+10. [Zainstaluj LAMP na Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-20-04-quickstart) - Poradnik instalacji LAMP na dystrybucji Ubuntu.
 11. [CRISP-DM PyData 2015](https://www.youtube.com/watch?v=civLio11SjQ)
 12. [Tackling Imposter Syndrome, a cambridge students perspective](https://youtu.be/Zd7t9vKsiiA).
-13. [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials?primary_filter=popular) - System Administration tutorials from Digital Ocean. Can be followed on any Linux machine.
+13. [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials?primary_filter=popular) - Poradniki administracyjne od Digital Ocean. Działają na każdej maszynie z GNU/Linux.
 14. [Data Science Handbook](https://tanthiamhuat.files.wordpress.com/2018/04/pythondatasciencehandbook.pdf)
 15. [The Basics by Tom Scott](https://youtube.com/playlist?list=PL96C35uN7xGLLeET0dOWaKHkAlPsrkcha)
 16. [How To Build An App: Everything You Didn't Know You Needed To Know](https://youtube.com/playlist?list=PL96C35uN7xGJu6skU4TBYrIWxggkZBrF5)
-17. [Jeff Geerling](https://www.youtube.com/c/JeffGeerling) - YouTube channel with lots of Raspberry Pi projects and tests, along with resources on Kubernetes, Ansible and more.
-18. [Data Structures and Algorithms Visualiser](https://visualgo.net/en) - Provides visulation for different data structures and algorithms like sorting, linked lists, hash table etc. Also allows some customizations.
-19. [Semantic Scholar](https://www.semanticscholar.org/) - An artificial-intelligence backed search engine for academic publications.
+17. [Jeff Geerling](https://www.youtube.com/c/JeffGeerling) - Kanał YouTube z dużą ilością projektów i testów na Raspberry Pi wraz z materiałami o Kubernetes, Ansible i wiele więcej.
+18. [Data Structures and Algorithms Visualiser](https://visualgo.net/en) - Wizualizator dla struktur danych i algorytmów np. sortowania, łączonych list, tabel hashowania itp. Pozwala też na trochę personalizacji.
+19. [Semantic Scholar](https://www.semanticscholar.org/) - Wyszukiwarka publikacji akademickich oparta na sztucznej inteligencji.
 20. [arXiv](https://arxiv.org/) - Open-access repository of scientific papers in the fields of mathematics, computer science, quantitative biology, statistics and more.
 21. [The Collection of Computer Science Bibliographies](https://liinwww.ira.uka.de/bibliography/index.html) - Collection of bibliographies of scientific literature in computer science from various sources.
 22. [dblp](https://dblp.uni-trier.de/) - Provides open bibliographic information on major computer science journals and proceedings.
 23. [ScienceDirect](https://www.sciencedirect.com) - A large bibliographic database of scientific publications.
 24. [Visualisation and Audibilization of Sorting Algorithms](https://panthema.net/2013/sound-of-sorting/) - Visualize different sorting algorithms and listen the sound of sorting.
-25. [Sentdex Youtube Channel](https://www.youtube.com/c/sentdex) - Youtube channel to learn Machine learning, Deep Learning, Natural Language Processing and python.
+25. [Sentdex Youtube Channel](https://www.youtube.com/c/sentdex) - Kanał YouTube do nauki nauczania Maszyn, Deep learning-u, Naturalnego przetwarzania języka, pythona.
 
-## Linux Distributions <a name="linux"></a>
+## Dystrybucje GNU/Linux <a name="linux"></a>
 
-1. [Ubuntu](https://ubuntu.com/) - Great starting distributions for beginners as lots of support is available.
-2. [Fedora](https://getfedora.org/)
-3. [Arch](https://www.archlinux.org/) - Advanced distribution for those looking to expand their knowledge of Linux.
-4. [Anarchy](https://anarchyinstaller.gitlab.io/) and [ALG](https://archlinuxgui.in/download.html) - These are menu/graphical installers for Arch linux, can be useful for those wanting to try out Arch without doing everything from the command line.
-5. [Artix](https://artixlinux.org/) - A systemd-free alternative to Arch.
-6. [Kubuntu](https://kubuntu.org/) - Ubuntu with an alternative desktop environment (KDE).
-7. [Lubuntu](https://lubuntu.me) - Ubuntu using LXQT, a lightweight alternative to other desktop environments.
-8. [Mint](https://linuxmint.com/) - Another variant of Ubuntu, great for those familiar with Windows.
-9. [Tails](https://tails.boum.org/index.en.html) - A portable distribution that runs only in memory, for the ultimate privacy protection.
-10. [Qubes OS](https://www.qubes-os.org/intro/) - A reasonably secure operating system. _Recommended by Edward Snowden_
-11. [Raspberry Pi OS](https://www.raspberrypi.org) - For use with the range of Raspberry Pi single board computers. A great distribution if you're looking to get into programming (and don't mind spending a bit of money on the hardware to run it), especially involving Python or electronics (the Pis can come with GPIO pins for use with electronics). There are some beginner projects listed on the site but there are a lot of projects made by the Pi community.
-12. [Rescatux](https://www.supergrubdisk.org/rescatux/) - An Debian based os which has utilities to help repair potentially broken Linux or Windows systems as well as boot loaders.
+1. [Ubuntu](https://ubuntu.com/) - Dystrybucja dla początkujących, posiada ogromną społeczność i wiele wsparcia.
+2. [Fedora](https://getfedora.org/) - Wolna dystrybucja głównie finansowana przez Red Hat.
+3. [Arch](https://www.archlinux.org/) - Dystrybucja dla zaawansowanych użytkowników, posiada bardzo dużą społeczność.
+4. [Anarchy](https://anarchyinstaller.gitlab.io/) oraz [ALG](https://archlinuxgui.in/download.html) - Instalatory dla Arch Linux, przydatne dla użytkowników, którzy nie przepadają za procesem instalacji lub za trybem tekstowym systemu.
+5. [Artix](https://artixlinux.org/) - Dystrybucja oparta na Arch Linux, nie używa systemd.
+6. [Kubuntu](https://kubuntu.org/) - Ubuntu ze środowiskiem graficznym KDE Plasma.
+7. [Lubuntu](https://lubuntu.me) - Ubuntu ze środowiskiem LXQT, lekka alternatywa dla innych środowisk graficznych.
+8. [Mint](https://linuxmint.com/) - Dystrybucja oparta na Ubuntu, układem środowisk przypomina system Windows.
+9. [Tails](https://tails.boum.org/index.en.html) - Dystrybucja, która działa tylko na pamięci RAM, pozwala na maksymalną prywatność.
+10. [Qubes OS](https://www.qubes-os.org/intro/) - Całkiem bezpieczna dystrybucja GNU/Linux. _Polecana przez Edwarda Snowdena_
+11. [Raspberry Pi OS](https://www.raspberrypi.org) - Do użytku na wielu urządeniach typu Raspberry Pi. Dobra dystrybucja jeśli chcesz zacząć programować (i posiadasz trochę budżetu na sprzęt). Bardzo przydatna np. w języku Python lub elektronice (Raspberry może posiadać piny GPIO do użytku w elektronice). Strona dystrybucji posiada listę projektów dla początkujących.
+12. [Rescatux](https://www.supergrubdisk.org/rescatux/) - System oparty o Debiana, posiada narzędzia do naprawy potencjalnie zepsutej instalacji GNU/Linux lub Windows. Posiada również ich boot-loadery.
 
-#### Supporting learning Linux
+#### Wsparcie GNU/Linux
 
-1. [Ask Ubuntu](https://askubuntu.com/) - Ubuntu Q&A site. Part of Stack Exchange.
-2. [Unix & Linux Stack Exchange](https://unix.stackexchange.com/) - For more general Linux-related questions.
+1. [Ask Ubuntu](https://askubuntu.com/) - Strona typu Q&A dla ubuntu. Część Stack Exchange.
+2. [Unix & Linux Stack Exchange](https://unix.stackexchange.com/) - Dla bardziej ogólnych pytań dotyczących GNU/Linux.
 
-#### Linux Resources
+#### Zasoby dla GNU/Linux
 
-1. [Arch Linux Wiki - Permissions](https://wiki.archlinux.org/title/File_permissions_and_attributes)
-2. [Arch Linux Docs - SSH](https://wiki.archlinux.org/title/OpenSSH#Installation)
-3. [Configure 2FA on SSH](https://ubuntu.com/tutorials/configure-ssh-2fa#1-overview)
-4. [Desktop Environments](https://wiki.archlinux.org/title/Desktop_environment)
-5. [Install and Configure SSH Server on Arch Linux](https://linuxhint.com/install_ssh_server_on_arch_linux/)
-6. [OpenSSH Manual](https://www.openssh.com/manual.html)
-7. [Principle of Least Privilege](https://techcommunity.microsoft.com/t5/azure-sql/security-the-principle-of-least-privilege-polp/ba-p/2067390)
-8. [Introduction to Linux](http://ftp.wayne.edu/ldp/en/Intro-Linux/Intro-Linux.pdf) - Hands on guide to learn Linux.
-9. [Learn Shell](https://www.learnshell.org/) - Learn programming with Unix/Linux shell interpreters.
-10. [Linux Upskill Challenge](https://linuxupskillchallenge.org/) - Learn the Linux terminal with a free and open source 21 day course
+1. [Wiki Arch Linux - Uprawnienia](https://wiki.archlinux.org/title/File_permissions_and_attributes)
+2. [Wiki Arch Linux - SSH](https://wiki.archlinux.org/title/OpenSSH#Installation)
+3. [Konfiguruj 2FA na SSH](https://ubuntu.com/tutorials/configure-ssh-2fa#1-overview)
+4. [Środowiska Graficzne](https://wiki.archlinux.org/title/Desktop_environment)
+5. [Zainstaluj serwer SSH na dystrybucji Arch](https://linuxhint.com/install_ssh_server_on_arch_linux/)
+6. [Instrukcja OpenSSH](https://www.openssh.com/manual.html)
+7. [Zasada najmniejszych przywilejów](https://techcommunity.microsoft.com/t5/azure-sql/security-the-principle-of-least-privilege-polp/ba-p/2067390)
+8. [Introduction to Linux](http://ftp.wayne.edu/ldp/en/Intro-Linux/Intro-Linux.pdf) - Poradnik do nauki Linuxa.
+9. [Learn Shell](https://www.learnshell.org/) - Naucz się programowania w powłokach Uniksowych.
+10. [Linux Upskill Challenge](https://linuxupskillchallenge.org/) - Naucz się terminala na GNU/Linux z darmowym w otwartym 21-dniowym kursie.
 
-## Other interesting stuff <a name="misc"></a>
+## Inne interesujące zasoby <a name="misc"></a>
 
 1. [E Foundation](https://e.foundation)
-2. [Satyr](https://git.waldn.net/git/knotteye/satyr) - Self hosted media streaming
+2. [Satyr](https://git.waldn.net/git/knotteye/satyr) - Samodzielnie hostowany serwis do Streamingu.
 3. [File Stash](https://www.filestash.app/)
 4. [MIT Press: Reading code != Reading Language](https://news.mit.edu/2020/brain-reading-computer-code-1215)
 5. [Andrew Hancock talks with Experts Exchange about Career Growth and VMware](https://www.experts-exchange.com/podcasts/5/Career-Growth-and-VMware.html)
