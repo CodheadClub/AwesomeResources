@@ -209,6 +209,7 @@ His articles are reproduced here for your reading pleasure. If you want to discu
 131. [Part 23: HOW TO: BOOT VMware vSphere Hypervisor 7.0 (ESXi 7.0 ARM) from an iSCSI LUN for the Raspberry Pi 4](https://www.experts-exchange.com/articles/35132/HOW-TO-BOOT-VMware-vSphere-Hypervisor-7-0-ESXi-7-0-ARM-from-an-iSCSI-LUN-for-the-Raspberry-Pi-4.html)
 132. [Part 24: HOW TO: Update VMware ESXi 7.0U2 to ESXi 7.0U2a direct from VMware.](https://www.experts-exchange.com/videos/79032/HOW-TO-Update-VMware-ESXi-7-0U2-to-ESXi-7-0U2a-direct-from-VMware.html)
 133. [Part 25: HOW TO: Update VMware ESXi 7.0U2 to ESXi 7.0U2a in 5 easy steps.](https://www.experts-exchange.com/articles/36038/HOW-TO-Update-VMware-ESXi-7-0U2-to-ESXi-7-0U2a-in-5-easy-steps.html)
+134. [Part 26: HOW TO:  P2V, V2V for FREE - VMware vCenter Converter Standalone 6.3.](https://www.experts-exchange.com/articles/37531/HOW-TO-P2V-V2V-for-FREE-VMware-vCenter-Converter-Standalone-6-3.html) 
 
 
 ### Hancock's VMware Half Hour HOW TO Video Series
