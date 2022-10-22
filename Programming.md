@@ -34,18 +34,18 @@
 
 ### Blazor
 
-1. [Pre-Render Blazor WebAssembly at buildtime to optimise for search engines](https://swimburger.net/blog/dotnet/pre-render-blazor-webassembly-at-build-time-to-optimize-for-search-engines)
-2. [Blazor Project Structure](https://www.pragimtech.com/blog/blazor/blazor-project-structure/)
-3. [Official Blazor Docs](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
-4. [GPS Tracking in Blazor Web Assembly](https://morioh.com/p/59923468d2b3)
-5. [Consuming REST APIs](https://learn-blazor.com/architecture/rest-api/)
+1. [Prerenderuj Blazor WebAssembly w czasie budowania w celu SEO](https://swimburger.net/blog/dotnet/pre-render-blazor-webassembly-at-build-time-to-optimize-for-search-engines)
+2. [Struktura Projektu Blazor](https://www.pragimtech.com/blog/blazor/blazor-project-structure/)
+3. [Oficjalna Dokumentacja Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
+4. [Śledzenie GPS w Blazor Web Assembly](https://morioh.com/p/59923468d2b3)
+5. [Korzystanie z interfejsów API REST](https://learn-blazor.com/architecture/rest-api/)
 
 ### C#
 
 1. [The Yellow Book](https://www.robmiles.com/s/CSharp-Book-2019-Refresh.pdf) - Wstęp do C# autorstwa [Roba Milesa](robmiles.com). Posiada on również inne publikacje, które znajdziesz [tutaj](https://www.amazon.co.uk/s?i=stripbooks&rh=p_27:Rob%20Miles&s=relevancerank&text=Rob%20Miles&ref=dp_byline_sr_book_1).
-2. [Two Decades of C#: A Reference](https://benbowen.blog/post/two_decades_of_csharp_i/) - A reference of which C# version introduced which features. Linked is the first blog; later versions are covered under later blogs.
+2. [Two Decades of C#: A Reference](https://benbowen.blog/post/two_decades_of_csharp_i/) - Odwołanie do której wersji C# wprowadzono jakie funkcje. Załączony to pierwszy blog; późniejsze wersje są omówione w późniejszych blogach.
 3. [C# Player's Guide](https://csharpplayersguide.com/) - The ultimate way to learn C# by gamifying the learning journey. Link includes the first 60 pages of the book as a sample!
-4. [Learn C# - English Guide](https://www.youtube.com/playlist?list=PLAC325451207E3105) - Youtube playlist to learn C# (narracja po Angielsku)
+4. [Learn C# - English Guide](https://www.youtube.com/playlist?list=PLAC325451207E3105) - Playlista YouTube do nauki C# (narracja po Angielsku)
 5. [Learn C# - Arabic Guide](https://youtu.be/5Zgj7X7l_Dk) - Playlista YouTube do nauki C# (narracja po Arabsku)
 6. [Write your own .NET RSS feed in C#](https://www.jameshbyrd.com/write-your-own-net-rss-feed-in-c-2/)
 
@@ -128,13 +128,13 @@
 
 ### Programowanie Konkurencyjne
 
-1. [Codechef](https://www.codechef.com/) - A platform for participating in coding contests and also learn new Algorithms and Data Structures. They have a set of challenges every month for competitive coding.
-2. [Codeforces](https://codeforces.com/) - A widely used platform where top programmers compete. There are various contests every week.
-3. [HackerRank](https://www.hackerrank.com/) - A good learning resource with paths and problems to get into the world of programming.
-4. [Interview Bit](https://www.interviewbit.com/practice/) - A platform to learn and practice coding interview questions. Has learning paths for various roles as well.
-5. [Leetcode](https://leetcode.com/) - A great platform for mastering Data Structures and Algorithms. An essential part of the preparation for SDE interviews.
-6. [DMOJ](https://dmoj.ca/) - An Archive of great coding problems. Also there are contest on this site.
-7. [CSES](https://cses.fi/problemset/) - A problem set reknowned to be a one set package for getting ready for competitive programming.
+1. [Codechef](https://www.codechef.com/) - Platforma do udziału w konkursach programowania, a także do nauki nowych Algorytmów i Struktur Danych. Każdego miesiąca mają zestaw wyzwań związanych z konkurencyjnym programowaniem.
+2. [Codeforces](https://codeforces.com/) - Szeroko używana platforma do rywalizacji topowych programistów. A widely used platform where top programmers compete. Co tydzień odbywają się różne konkursy.
+3. [HackerRank](https://www.hackerrank.com/) - Dobry materiał edukacyjny ze ścieżkami i problemami umożliwiającymi wejście w świat programowania.
+4. [Interview Bit](https://www.interviewbit.com/practice/) - Platforma do nauki i praktyki pytań z wywiadów. Posiada również ścieżki edukacyjne dla różnych ról.
+5. [Leetcode](https://leetcode.com/) - Świetna platforma do nauki Struktur Danych i Algorytmów. Niezbędna część przygotowania do wywiadów SDE.
+6. [DMOJ](https://dmoj.ca/) - Archiwum świetnych problemów programistycznych. Strona posiada również konkursy.
+7. [CSES](https://cses.fi/problemset/) - Zestaw problemów znany jako jeden zestaw do przygotowania się do konkurencyjnego programowania.
 8. [CP Algorithms](https://cp-algorithms.com/) - Lista ważnych algorytmów w języku C++.
 9. [Atcoder](https://atcoder.jp/) - AtCoder to strona z konkursami programistycznymi dla każdego, od początkujących po ekspertów.
 10. [Clist.by](https://clist.by/) - Wiadomości na temat nadchodzących konkursów programistycznych.
