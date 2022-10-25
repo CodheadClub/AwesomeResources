@@ -1,3 +1,7 @@
+<div align="center">
+<img style="width:45%" src="imgs/tcclogo.jpg" />
+</div>
+
 ## Contents
 
 1. [Introduction](README.md#introduction)
@@ -15,19 +19,27 @@
 9. [Linux Distributions](README.md#linux)
 10. [Electronics](Electronics.md)
 11. [Hypervisors and virtual machines](Virtualisation.md#virtualisation)
-    - [Andrew Hancock, VMware vExpert](Virtualisation.md#andrewhancock)
+    - [Andrew Hancock, VMware vExpert PRO](Virtualisation.md#andrewhancock)
 12. [Cyber Security Resources](CyberSecurity.md)
 13. [Other Interesting Stuff](README.md#misc)
 
 
 # Programming
 
+### Standards
+
+1. [ISO 4217 - Currency Codes](https://www.iso.org/iso-4217-currency-codes.html)
+2. [ISO 8601 - Date and Time Format](https://www.iso.org/iso-8601-date-and-time-format.html)
+3. [ISO 31000 - Risk Management](https://www.iso.org/iso-31000-risk-management.html)
+4. [ISO/IEC 27001 - Information Security Management](https://www.iso.org/isoiec-27001-information-security.html)
+
 ### Blazor
 
 1. [Pre-Render Blazor WebAssembly at buildtime to optimise for search engines](https://swimburger.net/blog/dotnet/pre-render-blazor-webassembly-at-build-time-to-optimize-for-search-engines)
 2. [Blazor Project Structure](https://www.pragimtech.com/blog/blazor/blazor-project-structure/)
 3. [Official Blazor Docs](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
-
+4. [GPS Tracking in Blazor Web Assembly](https://morioh.com/p/59923468d2b3)
+5. [Consuming REST APIs](https://learn-blazor.com/architecture/rest-api/)
 ### C#
 
 1. [The Yellow Book](https://www.robmiles.com/s/CSharp-Book-2019-Refresh.pdf) - A fantastic intro to C# from former Hull Lecturer, [Rob Miles](robmiles.com). He also has other publications available [here](https://www.amazon.co.uk/s?i=stripbooks&rh=p_27:Rob%20Miles&s=relevancerank&text=Rob%20Miles&ref=dp_byline_sr_book_1).
@@ -35,6 +47,14 @@
 3. [C# Player's Guide](https://csharpplayersguide.com/) - The ultimate way to learn C# by gamifying the learning journey. Link includes the first 60 pages of the book as a sample!
 4. [Learn C# - English Guide](https://www.youtube.com/playlist?list=PLAC325451207E3105) - Youtube playlist to learn C# (narrated in English)
 5. [Learn C# - Arabic Guide](https://youtu.be/5Zgj7X7l_Dk) - Youtube playlist to learn C# (narrated in Arabic)
+6. [Write your own .NET RSS feed in C#](https://www.jameshbyrd.com/write-your-own-net-rss-feed-in-c-2/)
+
+## JS
+
+1. [Discord JS](https://github.com/discordjs/discord.js)
+2. [Intro to JS](https://www.geeksforgeeks.org/introduction-to-javascript/)
+
+
 
 ### CSS
 
@@ -42,6 +62,8 @@
 2. [Tailwind CSS Docs](https://tailwindcss.com/docs/)
 3. [Aweomesheet](https://zombiefox.github.io/awesomeSheet/) - CSS Generator
 4. [Learn CSS](https://web.dev/learn/css/) - Free Google course on CSS
+5. [CSS Units](https://www.geeksforgeeks.org/css-units/)
+
 
 ### DSharp
 
@@ -50,6 +72,26 @@
 ### HTML
 
 1. [W3 HTML Introduction](https://www.w3schools.com/html/)
+2. [GFG HTML Basics](https://www.geeksforgeeks.org/html-basics/)
+3. [MDN HTML Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
+4. [HTML Basics by Microsoft](https://learn.microsoft.com/en-us/cpp/mfc/html-basics?view=msvc-170)
+
+### Java
+1. [w3 schools Java Info](https://www.w3schools.com/java/default.asp)
+2. [GeeksForGeeks Java documentation](https://www.geeksforgeeks.org/java/)
+3. [Java Bootcamp by Kunal Kushwaha on Github](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
+4. [Official Java Docs](https://docs.oracle.com/en/java/)
+
+### Python
+1. [Intro to Python](https://www.geeksforgeeks.org/introduction-to-python/)
+2. [Install Python](https://www.python.org/downloads/)
+3. [Basics](https://www.tutorialspoint.com/python/python_basic_syntax.htm)
+4. [Decision Making](https://www.w3schools.in/python/decision-making)
+5. [Loops](https://www.javatpoint.com/python-loops)
+6. [List](https://www.programiz.com/python-programming/list)
+7. [Tuples](https://www.scaler.com/topics/python/tuples-in-python/)
+8. [Dictionary](https://docs.python.org/3/tutorial/datastructures.html#dictionaries)
+9. [Functions](https://pynative.com/python-functions/)
 
 ### Static site generators
 
@@ -63,6 +105,7 @@
 8. [Nikola](https://getnikola.com/getting-started.html)
 9. [Gatsby](https://www.gatsbyjs.com/docs/tutorial/part-0/)
 10. [Statiq Web](https://www.statiq.dev/web/) - Still under development, use if you want to get involved with the community to help develop
+   - 10.1 [On .NET Live - Generating static web applications with Statiq](https://www.youtube.com/watch?v=43oQTRZqK9g)
 11. [Publii](https://getpublii.com/) - Desktop app rather than CLI
 
 ### Cross-Platform
@@ -70,7 +113,7 @@
 1. [Platform.uno](https://platform.uno) - Multi platform applications, one code base.
 2. [Flutter](https://flutter.dev/)
 3. [React Native](https://reactnative.dev/)
-
+3. [Introducing .NET Maui](https://devblogs.microsoft.com/dotnet/introducing-dotnet-maui-one-codebase-many-platforms/)
 ### Documentation
 
 1. [DevDocs](https://devdocs.io/) - Searchable developer docs
