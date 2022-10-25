@@ -1,42 +1,46 @@
+<div dir="rtl">
 <div align="center">
 <img style="width:45%" src="imgs/tcclogo.jpg" />
 
 # Awesome Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 </div>
 
-## Contents
+## المحتويات
 
-1. [Introduction](#introduction)
-   - [Contributing](#contributing)
-2. [Communities](Communities.md)
-3. [Business/Career](Communities.md#business)
-4. [Services](#services)
-5. [Software](#software)
-6. [Programming](Programming.md)
-7. [Ethics, Law & Professionalism](Ethics_Law_Professionalism.md)
-   - [Ethics](Ethics_Law_Professionalism.md#ethics)
-   - [Professionalism & Standards](Ethics_Law_Professionalism.md#standards)
-   - [Law](Ethics_Law_Professionalism.md#law)
-8. [Learning Resources](#education)
-9. [Linux Distributions](#linux)
-10. [Electronics](Electronics.md)
-11. [Hypervisors and virtual machines](Virtualisation.md#virtualisation)
-    - [Andrew Hancock, VMware vExpert PRO](Virtualisation.md#andrewhancock)
-12. [Cyber Security Resources](CyberSecurity.md)
-13. [Other Interesting Stuff](#misc)
+1. [مقدمة](#introduction)
+   - [المساهمة](#contributing)
+2. [مجتمعات](Communities.md)
+3. [العمل الوظيفي](Communities.md#business)
+4. [خدمات](#services)
+5. [البرمجيات](#software)
+6. [برمجة](Programming.md)
+7. [الأخلاق والقانون والبرمجة](Ethics_Law_Professionalism.md)
+   - [أخلاق مهنية](Ethics_Law_Professionalism.md#ethics)
+   - [الاحتراف والمعايير](Ethics_Law_Professionalism.md#standards)
+   - [قانون](Ethics_Law_Professionalism.md#law)
+8. [مصادر التعلم](#education)
+9. [توزيعات Linux](#linux)
+10. [إلكترونيات](Electronics.md)
+11. [Hypervisors والأجهزة الافتراضية](Virtualisation.md#virtualisation)
+    - [Andrew Hancock, VMware vExpert](Virtualisation.md#andrewhancock)
+12. [مصادر الامن السيبراني](CyberSecurity.md)
+13. [مصادر أخرى مثيرة للاهتمام](#misc)
 
-## Introduction <a name="introduction"></a>
 
-This is an Awesome List of Computer Science, Technology, Programming and Educational resources for the benefit of all who care to use it.
+## مقدمة <a name="#introduction"></a>
 
-The list was originally created by [Closebracket](https://github.com/closebracket).
-## Contributing <a name="contributing"></a>
+هذه قائمة رائعة من مصادر علوم الكمبيوتر والتكنولوجيا والبرمجة والموارد التعليمية لصالح كل من يهتم باستخدامها.
 
-Contributions welcome. If you have a resource that you wish to contribute, please abide by the following rules:
+تم إنشاء القائمة في الأصل بواسطة [Closebracket]  (https://github.com/closebracket)
 
-- Fork the repository, look at the markdown and understand it.
-- Make your changes and double check that nothing is broken.
-- Make a pull request and request a review from the The Codhead Club team.
+## المساهمة <a name="#contributing"></a>
+
+نرحب بالمساهمات. إذا كان لديك مصادر ترغب في المساهمة بها ، يرجى الالتزام بالقواعد التالية:
+
+
+•  افصل (Fork ) المستودع ، وانظر إلى التخفيضات السوقية وافهمها.
+•  قم بإجراء تغييراتك وتحقق مرة أخرى من عدم تعطل أي شيء.
+•  قم بتقديم طلب سحب واطلب مراجعة من فريق Codhead Club.
 
 If you're not sure how to contribute, you can join our [discord](https://discord.gg/DmHbB2PpVn) or [telegram](https://t.me/codheadclub) for more clarification. Alternatively, Fork the repo and make a PR or [jump straight in with VS Code for Github](https://github.dev/CodheadClub/AwesomeResources). See [here](https://docs.github.com/en/codespaces/developing-in-codespaces/web-based-editor) for more info.
 
@@ -128,7 +132,7 @@ If you're not sure how to contribute, you can join our [discord](https://discord
 5. [Install and Configure SSH Server on Arch Linux](https://linuxhint.com/install_ssh_server_on_arch_linux/)
 6. [OpenSSH Manual](https://www.openssh.com/manual.html)
 7. [Principle of Least Privilege](https://techcommunity.microsoft.com/t5/azure-sql/security-the-principle-of-least-privilege-polp/ba-p/2067390)
-8. [Introduction to Linux](http://ftp.wayne.edu/ldp/en/Intro-Linux/Intro-Linux.pdf) - Hands on guide to learn Linux.
+8. [مقدمة to Linux](http://ftp.wayne.edu/ldp/en/Intro-Linux/Intro-Linux.pdf) - Hands on guide to learn Linux.
 9. [Learn Shell](https://www.learnshell.org/) - Learn programming with Unix/Linux shell interpreters.
 10. [Linux Upskill Challenge](https://linuxupskillchallenge.org/) - Learn the Linux terminal with a free and open source 21 day course
 
@@ -140,3 +144,4 @@ If you're not sure how to contribute, you can join our [discord](https://discord
 4. [MIT Press: Reading code != Reading Language](https://news.mit.edu/2020/brain-reading-computer-code-1215)
 5. [Andrew Hancock talks with Experts Exchange about Career Growth and VMware](https://www.experts-exchange.com/podcasts/5/Career-Growth-and-VMware.html)
 6. [Andrew Hancock talks with Experts Exchange about being an IT Author and British Beekeeper](https://www.experts-exchange.com/podcasts/241/EP-19-Buzz-Words-IT-Author-and-Beekeeper-Andrew-Hancock.html)
+</div>
