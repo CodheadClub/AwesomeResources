@@ -1,22 +1,23 @@
 <div align="center">
 <img style="width:45%" src="imgs/tcclogo.jpg" />
 
-# Wspaniałe Zasoby [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+# Wspaniałe Zasoby [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 </div>
 
-## Contents
+## Spis Treści
 
 1. [Wprowadzenie](#introduction)
-   - [Kontrybucja](#contributing)
+    - [Kontrybucja](#contributing)
 2. [Społeczności](Communities.md)
 3. [Biznes/Kariera](Communities.md#business)
 4. [Usługi](#services)
 5. [Oprogramowanie](#software)
 6. [Programowanie](Programming.md)
 7. [Etyka, Prawo i Profesjonalizm](Ethics_Law_Professionalism.md)
-   - [Etyka](Ethics_Law_Professionalism.md#ethics)
-   - [Profesjonalizm i Standardy](Ethics_Law_Professionalism.md#standards)
-   - [Prawo](Ethics_Law_Professionalism.md#law)
+    - [Etyka](Ethics_Law_Professionalism.md#ethics)
+    - [Profesjonalizm i Standardy](Ethics_Law_Professionalism.md#standards)
+    - [Prawo](Ethics_Law_Professionalism.md#law)
 8. [Materiały Edukacyjne](#education)
 9. [Dystrybucje GNU/Linux](#linux)
 10. [Elektronika](Electronics.md)
@@ -35,9 +36,9 @@ Lista została oryginalnie stworzona przez [Closebracket](https://github.com/clo
 
 Ulepszanie listy jest mile widziane. Jeśli znalazłeś/aś jakiś zasób, który chcesz dodać, przestrzegaj zasady poniżej:
 
-- Sklonuj repozytorium, spójrz na tekst w markdown i postaraj się go zrozumieć.
-- Dokonaj zmian, sprawdź dwukrotnie czy nie ma w nich żadnych błędów.
-- Stwórz "Pull Request" i zapytaj o recencję od The Codhead Club.
+-   Sklonuj repozytorium, spójrz na tekst w markdown i postaraj się go zrozumieć.
+-   Dokonaj zmian, sprawdź dwukrotnie czy nie ma w nich żadnych błędów.
+-   Stwórz "Pull Request" i zapytaj o recencję od The Codhead Club.
 
 Jeśli nie wiesz co robić dołącz na nasz serwer [discord](https://discord.gg/DmHbB2PpVn) lub [telegram](https://t.me/codheadclub) po wyjaśnienia. Możesz też sklonować repozytorium i stworzyć "Pull Request" [przez githubowego VSCode'a](https://github.dev/CodheadClub/AwesomeResources). Kliknij [tutaj](https://docs.github.com/en/codespaces/developing-in-codespaces/web-based-editor) po więcej informacji.
 
@@ -48,8 +49,8 @@ Jeśli nie wiesz co robić dołącz na nasz serwer [discord](https://discord.gg/
 3. [Gitlab](https://about.gitlab.com/) - Bardziej wolna alternatywa dla GitHub. Możesz również hostować ją samodzielnie.
 4. [Matomo](https://matomo.org) - Alternatywa dla Google Analitycs, możesz hostować ją samodzielnie.
 5. [Wekan](https://wekan.github.io/) - Otwartoźródłowy Kanban.
-6. [Shodan](https://www.shodan.io/) 
-7. [Spyse](https://spyse.com/) 
+6. [Shodan](https://www.shodan.io/)
+7. [Spyse](https://spyse.com/)
 8. [The Things Network](https://www.thethingsnetwork.org/)
 9. [Programmable Web APIs](https://www.programmableweb.com/)
 10. [Lista dostępnych publicznie API](https://github.com/public-apis/public-apis)
@@ -74,9 +75,9 @@ Jeśli nie wiesz co robić dołącz na nasz serwer [discord](https://discord.gg/
 1. [Math Talks to Blow Your Mind Playlist](https://www.youtube.com/playlist?list=PLOGi5-fAu8bEIw_xkj1FgKr7QY_Sahswy)
 2. [Data Structures Playlist](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P).
 3. [Harvard CS50x](https://cs50.harvard.edu).
-   - 3.1 [Harvard CS50 2018 Lectures Playlist](https://www.youtube.com/playlist?list=PLhQjrBD2T382eX9-tF75Wa4lmlC7sxNDH).
-   - 3.2 [Harvard CS50 for Lawyers Playlist](https://www.youtube.com/playlist?list=PLvD71Eu17WEDRgEDTYH3MfKaG5lySs1dp).
-   - 3.3 ([CS50 Youtube Channel](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)).
+    - 3.1 [Harvard CS50 2018 Lectures Playlist](https://www.youtube.com/playlist?list=PLhQjrBD2T382eX9-tF75Wa4lmlC7sxNDH).
+    - 3.2 [Harvard CS50 for Lawyers Playlist](https://www.youtube.com/playlist?list=PLvD71Eu17WEDRgEDTYH3MfKaG5lySs1dp).
+    - 3.3 ([CS50 Youtube Channel](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)).
 4. [NullByte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g) (Kanał YouTube).
 5. [NumberPhile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A) (Kanał YouTube).
 6. [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA) (Kanał YouTube).
