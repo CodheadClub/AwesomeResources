@@ -252,5 +252,5 @@ This course is split over 22 parts, in bit size chunks, hosted by Andrew Hancock
 31. [Part 31: HOW TO: Add a Synology NAS providing iSCSI Storage to VMware vSphere Hypervisor ESXi 7.0 Part 1](https://www.experts-exchange.com/videos/79513/HOW-TO-Add-a-Synology-NAS-providing-iSCSI-Storge-to-VMware-vSphere-Hypervisor-ESXi-7-0-Part-1.html)
 32. [Part 32: HOW TO: Add a Synology NAS providing iSCSI Storage to VMware vSphere Hypervisor ESXi 7.0 Part 2](https://www.experts-exchange.com/videos/79514/HOW-TO-Add-a-Synology-NAS-providing-iSCSI-Storage-to-VMware-vSphere-Hypervisor-ESXi-7-0-Part-2.html)
 32. [Part 33: HOW TO: Deploy and Use the Synology Storage Console for VMware to Add iSCSI LUNs and NFS exports to VMware vSphere Cluster ESXi Hosts](https://www.experts-exchange.com/videos/79512/HOW-TO-Deploy-and-Use-the-Synology-Storage-Console-for-VMware-to-Add-iSCSI-LUNs-and-NFS-exports-to-VMware-vSphere-Cluster-ESXi-Hosts.html)
-
+33. [Part 34: HOW TO: Select VMware vCenter Converter Standalone 6.2 or 6.3 to complete a P2V for Windows XP or Windows 2003 Server](https://www.experts-exchange.com/videos/79632/HOW-TO-Select-VMware-vCenter-Converter-Standalone-6-2-or-6-3-to-complete-a-P2V-for-Windows-XP-or-Windows-2003-Server.html)
 
