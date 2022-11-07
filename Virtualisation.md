@@ -210,10 +210,10 @@ His articles are reproduced here for your reading pleasure. If you want to discu
 
 ### Hancock's VMware Half Hour HOW TO Video Series
 
-In this series, which compliments the written articles above, Andrew Hancock demonstrates "HOW TO" on a variety of topics. All these videos are based on the previous written content at Experts Exchange.
+In this series based on VMware vSphere 7.0, which compliments the written articles above, Andrew Hancock demonstrates "HOW TO" on a variety of topics. All these videos are based on the previous written content at Experts Exchange.
 
-In this short online course, there is a total of 7.5 hours of online videos from Part 1 to Part 22, taking you through the basics of VMware vSphere 7.0, from installation of the hypervisor (ESXi), creating Windows and Linux virtual machines, updating the ESXi hosts and installing and adding ESXi hosts to vCenter Server (the management server.)
-This course is split over 22 parts, in bit size chunks, hosted by Andrew Hancock. If you have any questions or issues, then please consider posting a question on [Experts Exchange](https://www.experts-exchange.com/).
+In this short online course, there is a total of 15 hours of online videos from Part 1 to Part 33, taking you through the basics of VMware vSphere 7.0, from installation of the hypervisor (ESXi), creating Windows and Linux virtual machines, updating the ESXi hosts and installing and adding ESXi hosts to vCenter Server (the management server.)
+This course is split over 33 parts, in bit size chunks, hosted by Andrew Hancock. If you have any questions or issues, then please consider posting a question on [Experts Exchange](https://www.experts-exchange.com/).
 
 1. [Part 1: HOW TO: Install and Configure VMware vSphere Hypervisor 7.0 U2 (ESXi 7.0.2).](https://www.experts-exchange.com/videos/78972/HOW-TO-Install-and-Configure-VMware-vSphere-Hypervisor-7-0-U2-ESXi-7-0-2.html)
 2. [Part 2: HOW TO: Connect to the VMware vSphere Hypervisor 7.0 U2 (ESXi 7.0.2) using the vSphere Host Client.](https://www.experts-exchange.com/videos/78992/HOW-TO-Connect-to-the-VMware-vSphere-Hypervisor-7-0U2-ESXi-7-0-2-using-the-vSphere-HTML5-Web-Host-Client-7-0.html)
@@ -249,4 +249,13 @@ This course is split over 22 parts, in bit size chunks, hosted by Andrew Hancock
 32. [Part 32: HOW TO: Add a Synology NAS providing iSCSI Storage to VMware vSphere Hypervisor ESXi 7.0 Part 2](https://www.experts-exchange.com/videos/79514/HOW-TO-Add-a-Synology-NAS-providing-iSCSI-Storage-to-VMware-vSphere-Hypervisor-ESXi-7-0-Part-2.html)
 32. [Part 33: HOW TO: Deploy and Use the Synology Storage Console for VMware to Add iSCSI LUNs and NFS exports to VMware vSphere Cluster ESXi Hosts](https://www.experts-exchange.com/videos/79512/HOW-TO-Deploy-and-Use-the-Synology-Storage-Console-for-VMware-to-Add-iSCSI-LUNs-and-NFS-exports-to-VMware-vSphere-Cluster-ESXi-Hosts.html)
 33. [Part 34: HOW TO: Select VMware vCenter Converter Standalone 6.2 or 6.3 to complete a P2V for Windows XP or Windows 2003 Server](https://www.experts-exchange.com/videos/79632/HOW-TO-Select-VMware-vCenter-Converter-Standalone-6-2-or-6-3-to-complete-a-P2V-for-Windows-XP-or-Windows-2003-Server.html)
-34. [Part 35: HOW TO: Automate and Deploy a VMware vSphere 8.0 and vSAN 8 Lab using a PowerCLI script](https://www.experts-exchange.com/videos/79633/HOW-TO-Automate-and-Deploy-a-VMware-vSphere-8-0-and-vSAN-8-Lab-using-a-PowerCLI-script.html)
+
+
+On 11th October 2022, VMware released VMware vSphere 8.0
+
+Ths series will be focused on VMware vSphere 8.0, and will run along side, the videos created above on VMware vSphere 7.0.
+
+1. [Part 1: HOW TO: Automate and Deploy a VMware vSphere 8.0 and vSAN 8 Lab using a PowerCLI script](https://www.experts-exchange.com/videos/79633/HOW-TO-Automate-and-Deploy-a-VMware-vSphere-8-0-and-vSAN-8-Lab-using-a-PowerCLI-script.html)
+
+
+
