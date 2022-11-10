@@ -1,3 +1,7 @@
+<div align="center">
+<img style="width:45%" src="imgs/tcclogo.jpg" />
+</div>
+
 ## Contents
 
 1. [Introduction](README.md#introduction)
@@ -15,7 +19,7 @@
 9. [Linux Distributions](README.md#linux)
 10. [Electronics](Electronics.md)
 11. [Hypervisors and virtual machines](Virtualisation.md#virtualisation)
-    - [Andrew Hancock, VMware vExpert](Virtualisation.md#andrewhancock)
+    - [Andrew Hancock, VMware vExpert PRO](Virtualisation.md#andrewhancock)
 12. [Cyber Security Resources](CyberSecurity.md)
 13. [Other Interesting Stuff](README.md#misc)
 # Virtualisation List
@@ -44,7 +48,7 @@ Type 1 (Bare Metal Hypervisors)
 4. [XCP-ng](https://xcp-ng.org/) - Based on Xen Server - Available on GitHub.
 5. [Citrix Hypervisor](https://www.citrix.com/en-gb/products/citrix-hypervisor/) - Originally based on Xen Server. Commercial version by Citrix.
 6. [Microsoft Windows Server 2019](https://www.microsoft.com/en-gb/windows-server) - Hyper-V can be enabled as a role in Windows Server. This is a Type 1 hypervisor. - Available for free if a Student of The Department of Computer Science and Technology.
-7. [Microsoft Hyper-V Server](https://www.microsoft.com/en-us/evalcenter/evaluate-hyper-v-server-2019_) - Not to be confused with Windows Server. This is a Type 1 Hypervisor, and is just server core Hyper-V with no GUI. - Available for free if a Student of The Department of Computer Science and Technology.
+7. [Microsoft Hyper-V Server](https://www.microsoft.com/en-us/evalcenter/evaluate-hyper-v-server-2019) - Not to be confused with Windows Server. This is a Type 1 Hypervisor, and is just server core Hyper-V with no GUI. - Available for free if a Student of The Department of Computer Science and Technology.
 8. [Microsoft Windows 10 Client Hyper-V](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/) - Hyper-V can be enabled in Windows 10 Pro and above. This is a Type 1 Hypervisor. - Available for free if a Student of The Department of Computer Science and Technology.
 9. [VMware vSphere Hypervisor (ESXi)](https://my.vmware.com/en/web/vmware/evalcenter?p=free-esxi7) - Available for free, or full version - Available for free if a Student of The Department of Computer Science and Technology. All this software is FREE here - [VMware IT Academy Program](https://www.vmware.com/uk/company/it-academy.html) 
 10. [KVM/QEmu](https://www.linux-kvm.org/page/Main_Page) - KVM is built into the linux kernel, just like Hyper-V in Windows
@@ -68,11 +72,12 @@ Type 2
 
 
 
+## Andrew Hancock, Cyrus Computer Consultants Ltd <a name="andrewhancock"></a>
+Andrew Hancock is VMware & Virtualisation Consultant in Apps, Servers & Storage at [Cyrus Computer Consultants Ltd.](https://www.cyrus-consultants.co.uk/) He also has a long list of VMware and Virtualisations articles, a passionate VMware Technical Architect, and VMware vExpert PRO. He has won over 40 [Experts Exchange Awards](https://www.experts-exchange.com/members/hanccocka.html) and is Overall Leader at [Experts Exchange](https://www.experts-exchange.com/) Experts Exchange - The Original Tech Community™ - Formed in 1996, Experts Exchange (EE) is one of the oldest online communities in the world. For 25 years, tech problem-solvers worldwide have gathered on EE to share knowledge and help each other succeed.
 
-## Andrew Hancock, Department of Computer Science & Technology - Systems <a name="andrewhancock"></a>
-Andrew is the VMware Specialist in Computer Science & Technology, responsible for the VMware architecture, watering & feeding the Computer Science & Technology VMware vSphere infrastructure. (based on VMware vSphere). He also has a long list of VMware and Virtualisations articles, a passionate VMware Technical Architect, and VMware vExpert Pro. His articles are reproduced here for your reading pleasure. If you want to discuss anything VMware, then ask him! He will only be too happy to oblige. All this software is FREE here - [VMware IT Academy Program](https://www.vmware.com/uk/company/it-academy.html) 
-1. [How to Backup an ESXi installation on an USB Flash Drive or SD card for security or redundancy.](http://vexpert.me/BackupESXi)
-2. [VMware ESX/ESXi Backup Guide](http://vexpert.me/BackupGuide)
+His articles are reproduced here for your reading pleasure. If you want to discuss anything VMware, then ask him! He will only be too happy to oblige. NFR VMware software is available via the [VMUG Advantage+Program](https://www.vmug.com/membership/vmug-advantage-membership/). If you are a Student in Full Time Education it can be obtained from the [VMware IT Academy Program](https://www.vmware.com/uk/company/it-academy.html) 
+1. [How to Backup an ESXi installation on an USB Flash Drive or SD card for security or redundancy.](https://www.experts-exchange.com/A_5409.html)
+2. [VMware ESX/ESXi Backup Guide](https://www.experts-exchange.com/A_5414.html)
 3. [HOW TO: Improve the transfer rate of a Physical to Virtual (P2V) Virtual to Virtual Conversion (V2V) using VMware vCenter Converter Standalone 5.0](https://www.experts-exchange.com/articles/9131/HOW-TO-Improve-the-transfer-rate-of-a-Physical-to-Virtual-P2V-Virtual-to-Virtual-Conversion-V2V-using-VMware-vCenter-Converter-Standalone-5-0.html)
 4. [HOW TO: Enable Jumbo Frames on a VMware vSphere Hypervisor (ESXi 5.0) host server using the VMware vSphere Client](https://www.experts-exchange.com/articles/9132/HOW-TO-Enable-Jumbo-Frames-on-a-VMware-vSphere-Hypervisor-ESXi-5-0-host-server-using-the-VMware-vSphere-Client.html)
 5. [HOW TO: Suppress Configuration Issues and Warnings Alert displayed in Summary status for ESXi 4.1 U2 or ESXi 5.0 after enabling SSH or ESXi Shell](https://www.experts-exchange.com/articles/9151/HOW-TO-Suppress-Configuration-Issues-and-Warnings-Alert-displayed-in-Summary-status-for-ESXi-4-1-U2-or-ESXi-5-0-after-enabling-SSH-or-ESXi-Shell.html)
@@ -198,40 +203,65 @@ Andrew is the VMware Specialist in Computer Science & Technology, responsible fo
 125. [Part 17: HOW TO: Update VMware ESXi 7.0 GA to ESXi 7.0b direct from VMware.](https://www.experts-exchange.com/articles/34248/HOW-TO-Update-VMware-ESXi-7-0-GA-to-ESXi-7-0b-direct-from-VMware.html)
 126. [Part 18: HOW TO: Update VMware ESXi 7.0 GA to ESXi 7.0bs in 5 easy steps](https://www.experts-exchange.com/articles/34249/HOW-TO-Update-VMware-ESXi-7-0-GA-to-ESXi-7-0bs-in-5-easy-steps.html)
 127. [Part 19: HOW TO: Update VMware ESXi 7.0 GA to ESXi 7.0b in 5 easy steps](https://www.experts-exchange.com/articles/34250/HOW-TO-Update-VMware-ESXi-7-0-GA-to-ESXi-7-0b-in-5-easy-steps.html)
-128. [Part 20: HOW TO: Install and Configure VMware vSphere Hypervisor 7.0 (ESXi 7.0 ARM) on a Raspberry Pi 4](http://vexpert.me/ESXi-ARM)
+128. [Part 20: HOW TO: Install and Configure VMware vSphere Hypervisor 7.0 (ESXi 7.0 ARM) on a Raspberry Pi 4](https://www.experts-exchange.com/articles/34931/HOW-TO-Install-and-Configure-VMware-vSphere-Hypervisor-7-0-ESXi-7-0-ARM-on-a-Raspberry-Pi-4.html)
 129. [Part 21: HOW TO: Deploy and Install VMware vSphere vCenter Server 7.0 (VCSA 7.0)](https://www.experts-exchange.com/articles/35011/HOW-TO-Deploy-and-Install-VMware-vSphere-vCenter-Server-7-0-VCSA-7-0.html)
 130. [Part 22: HOW TO: Install and Connect a VMware vCenter Server 7.0 in linked mode.](https://www.experts-exchange.com/articles/35052/HOW-TO-Install-and-Connect-a-VMware-vCenter-Server-7-0-in-linked-mode.html)
-131. [Part 23: HOW TO: BOOT VMware vSphere Hypervisor 7.0 (ESXi 7.0 ARM) from an iSCSI LUN for the Raspberry Pi 4](http://vexpert.me/iSCSI-BOOT-from-ESXi-ARM)
-132. [Part 24: HOW TO: Update VMware ESXi 7.0U2 to ESXi 7.0U2a direct from VMware.](http://vexpert.me/1dW)
-133. [Part 25: HOW TO: Update VMware ESXi 7.0U2 to ESXi 7.0U2a in 5 easy steps](http://vexpert.me/1dX)
+131. [Part 23: HOW TO: BOOT VMware vSphere Hypervisor 7.0 (ESXi 7.0 ARM) from an iSCSI LUN for the Raspberry Pi 4](https://www.experts-exchange.com/articles/35132/HOW-TO-BOOT-VMware-vSphere-Hypervisor-7-0-ESXi-7-0-ARM-from-an-iSCSI-LUN-for-the-Raspberry-Pi-4.html)
+132. [Part 24: HOW TO: Update VMware ESXi 7.0U2 to ESXi 7.0U2a direct from VMware.](https://www.experts-exchange.com/videos/79032/HOW-TO-Update-VMware-ESXi-7-0U2-to-ESXi-7-0U2a-direct-from-VMware.html)
+133. [Part 25: HOW TO: Update VMware ESXi 7.0U2 to ESXi 7.0U2a in 5 easy steps.](https://www.experts-exchange.com/articles/36038/HOW-TO-Update-VMware-ESXi-7-0U2-to-ESXi-7-0U2a-in-5-easy-steps.html)
+134. [Part 26: HOW TO:  P2V, V2V for FREE - VMware vCenter Converter Standalone 6.3.](https://www.experts-exchange.com/articles/37531/HOW-TO-P2V-V2V-for-FREE-VMware-vCenter-Converter-Standalone-6-3.html) 
 
 
 ### Hancock's VMware Half Hour HOW TO Video Series
 
-In this series, which compliments the written articles above, Andy Hancock demonstrates "HOW TO" on a variety of topics. All these videos are based on the previous written content at Experts Exchange.
+In this series based on VMware vSphere 7.0, which compliments the written articles above, Andrew Hancock demonstrates "HOW TO" on a variety of topics. All these videos are based on the previous written content at Experts Exchange.
 
-In this short online course, there is a total of 7.5 hours of online videos from Part 1 to Part 22, taking you through the basics of VMware vSphere 7.0, from installation of the hypervisor (ESXi), creating Windows and Linux virtual machines, updating the ESXi hosts and installing and adding ESXi hosts to vCenter Server (the management server.)
-This course is split over 22 parts, in bit size chunks, hosted by Andy Hancock. If you have any questions or issues, then please reach out to me.
+In this short online course, there is a total of 15 hours of online videos from Part 1 to Part 35, taking you through the basics of VMware vSphere 7.0, from installation of the hypervisor (ESXi), creating Windows and Linux virtual machines, updating the ESXi hosts and installing and adding ESXi hosts to vCenter Server (the management server.)
+This course is split over 35 parts, in bit size chunks, hosted by Andrew Hancock. If you have any questions or issues, then please consider posting a question on [Experts Exchange](https://www.experts-exchange.com/).
 
-1. [Part 1: HOW TO: Install and Configure VMware vSphere Hypervisor 7.0 U2 (ESXi 7.0.2).](http://vexpert.me/1dY)
-2. [Part 2: HOW TO: Connect to the VMware vSphere Hypervisor 7.0 U2 (ESXi 7.0.2) using the vSphere Host Client.](http://vexpert.me/1dZ)
-3. [Part 3: HOW TO: HOW TO: Create an ISO CD-ROMDVD-ROM image (.iso), and MD5 checksum signature, for use with ESXi 7.0.](http://vexpert.me/1eg)
-4. [Part 4: HOW TO: Upload an ISO image to a VMware datastore for use with VMware vSphere Hypervisor 7.0.](http://vexpert.me/1ec)
-5. [Part 5: HOW TO: Enable SSH Remote Access on a VMware vSphere Hypervisor 7.0 (ESXi 7.0).](http://vexpert.me/1ed)
-6. [Part 6: HOW TO: Suppress Configuration Issues and Warnings Alert displayed in Summary status for ESXi 7.0.](http://vexpert.me/1ee)
-7. [Part 7: HOW TO: Create your first Windows Virtual Machine on a VMware vSphere Hypervisor 7.0 (ESXi 7.0) Host Server.](http://vexpert.me/1eh)
-8. [Part 8: HOW TO: Install VMware Tools for Windows on a VMware Windows virtual machine on a VMware vSphere Hypervisor 7.0 (ESXi 7.0) Host Server](http://vexpert.me/1ei)
-9. [Part 9: HOW TO: Create your first Linux Virtual Machine Ubuntu 20.04 LTS Server on a VMware vSphere Hypervisor 7.0 (ESXi 7.0) Host Server.](http://vexpert.me/1ej)
-10. [Part 10: HOW TO: Create your second Virtual Machine Ubuntu 20.04 LTS Desktop on a VMware vSphere Hypervisor 7.0 (ESXi 7.0) Host Server.](http://vexpert.me/1ek)
-11. [Part 11: HOW TO: Install VMware Tools for Linux on a VMware Linux virtual machine on a VMware vSphere Hypervisor 7.0 (ESXi 7.0).](http://vexpert.me/1el)
-12. [Part 12: HOW TO: Install open-vm-tools for Linux on a VMware Linux virtual machine on a VMware vSphere Hypervisor 7.0 (ESXi 7.0).](http://vexpert.me/1em)
-13. [Part 13: HOW TO: Backup (Export) and Restore (Import) virtual machines to VMware vSphere Hypervisor 7.0 for free.](http://vexpert.me/1en)
-14. [Part 14: HOW TO: P2V a Windows XP computer to VMware vSphere Hypervisor 7.0 (ESXi 7.0).](http://vexpert.me/1eo)
-15. [Part 15: HOW TO: Shrink or Reduce a VMware Virtual Machine Disk (VMDK) using VMware vCenter Converter Standalone v6.2.0.1.](http://vexpert.me/1ep)
-16. [Part 16: HOW TO: Update VMware ESXi 7.0U2 to ESXi 7.0U2a direct from VMware.](http://vexpert.me/1eb)
-17. [Part 17: HOW TO: Update VMware ESXi 7.0U2 to ESXi 7.0U2a in 5 easy steps.](http://vexpert.me/1e8)
-18. [Part 18: HOW TO: Update VMware ESXi 7U1 (7.0.1) to VMware ESXi 7U2a (7.0.2) using an ISO image.](http://vexpert.me/1e9)
-19. [Part 19: HOW TO: Update VMware ESXi 7.0U1 to ESXi 7.0U2a using VMware vSphere Lifecycle Manager.(vLCM)](http://vexpert.me/1ea)
-20. [Part 20: HOW TO: Rollback VMware vSphere Hypervisor 7.0 U2a using VMware Hypervisor Recovery Mode.](http://vexpert.me/1e5)
-21. [Part 21: HOW TO: Deploy and Install VMware vSphere vCenter Server 7.0 (VCSA 7.0)](http://vexpert.me/1er)
-22. [Part 22: HOW TO: Add VMware vSphere Hypervisor ESXi 7.0 Hosts to VMware vSphere vCenter Server 7.0](http://vexpert.me/1es)
+1. [Part 1: HOW TO: Install and Configure VMware vSphere Hypervisor 7.0 U2 (ESXi 7.0.2).](https://www.experts-exchange.com/videos/78972/HOW-TO-Install-and-Configure-VMware-vSphere-Hypervisor-7-0-U2-ESXi-7-0-2.html)
+2. [Part 2: HOW TO: Connect to the VMware vSphere Hypervisor 7.0 U2 (ESXi 7.0.2) using the vSphere Host Client.](https://www.experts-exchange.com/videos/78992/HOW-TO-Connect-to-the-VMware-vSphere-Hypervisor-7-0U2-ESXi-7-0-2-using-the-vSphere-HTML5-Web-Host-Client-7-0.html)
+3. [Part 3: HOW TO: HOW TO: Create an ISO CD-ROM/DVD-ROM image (.iso), and MD5 checksum signature, for use with ESXi 7.0.](https://www.experts-exchange.com/videos/79039/HOW-TO-Create-an-ISO-CD-ROM-DVD-ROM-image-iso-and-MD5-checksum-signature-for-use-with-VMware-vSphere-Hypervisor-7-0-ESXi-7-0.html)
+4. [Part 4: HOW TO: Upload an ISO image to a VMware datastore for use with VMware vSphere Hypervisor 7.0.](https://www.experts-exchange.com/videos/79036/HOW-TO-Upload-an-ISO-image-to-a-VMware-datastore-for-use-with-VMware-vSphere-Hypervisor-7-0-ESXi-7-0-using-the-vSphere-Host-Client-and-checking-its-MD5-checksum-signature-is-correct.html)
+5. [Part 5: HOW TO: Enable SSH Remote Access on a VMware vSphere Hypervisor 7.0 (ESXi 7.0).](https://www.experts-exchange.com/videos/79037/HOW-TO-Enable-SSH-Remote-Access-on-a-VMware-vSphere-Hypervisor-7-0-ESXi-7-0.html)
+6. [Part 6: HOW TO: Suppress Configuration Issues and Warnings Alert displayed in Summary status for ESXi 7.0.](https://www.experts-exchange.com/videos/79038/HOW-TO-Suppress-Configuration-Issues-and-Warnings-Alert-displayed-in-Summary-status-for-ESXi-7-0-after-enabling-SSH-or-ESXi-Shell.html)
+7. [Part 7: HOW TO: Create your first Windows Virtual Machine on a VMware vSphere Hypervisor 7.0 (ESXi 7.0) Host Server.](https://www.experts-exchange.com/videos/79052/HOW-TO-Create-your-first-Windows-Virtual-Machine-on-a-VMware-vSphere-Hypervisor-7-0-ESXi-7-0-Host-Server.html)
+8. [Part 8: HOW TO: Install VMware Tools for Windows on a VMware Windows virtual machine on a VMware vSphere Hypervisor 7.0 (ESXi 7.0) Host Server](https://www.experts-exchange.com/videos/79072/HOW-TO-Install-VMware-Tools-for-Windows-on-a-VMware-Windows-virtual-machine-on-a-VMware-vSphere-Hypervisor-7-0-ESXi-7-0-Host-Server.html)
+9. [Part 9: HOW TO: Create your first Linux Virtual Machine Ubuntu 20.04 LTS Server on a VMware vSphere Hypervisor 7.0 (ESXi 7.0) Host Server.](https://www.experts-exchange.com/videos/79073/HOW-TO-Create-your-first-Linux-Virtual-Machine-on-a-VMware-vSphere-Hypervisor-7-0-ESXi-7-0-Host-Server.html)
+10. [Part 10: HOW TO: Create your second Virtual Machine Ubuntu 20.04 LTS Desktop on a VMware vSphere Hypervisor 7.0 (ESXi 7.0) Host Server.](https://www.experts-exchange.com/videos/79074/HOW-TO-Create-your-second-Virtual-Machine-on-a-VMware-vSphere-Hypervisor-7-0-ESXi-7-0-Host-Server.html)
+11. [Part 11: HOW TO: Install VMware Tools for Linux on a VMware Linux virtual machine on a VMware vSphere Hypervisor 7.0 (ESXi 7.0).](https://www.experts-exchange.com/videos/79092/HOW-TO-Install-VMware-Tools-for-Linux-on-a-VMware-Linux-virtual-machine-on-a-VMware-vSphere-Hypervisor-7-0-ESXi-7-0-Host-Server.html)
+12. [Part 12: HOW TO: Install open-vm-tools for Linux on a VMware Linux virtual machine on a VMware vSphere Hypervisor 7.0 (ESXi 7.0).](https://www.experts-exchange.com/videos/79093/HOW-TO-Install-open-vm-tools-for-Linux-on-a-VMware-Linux-virtual-machine-on-a-VMware-vSphere-Hypervisor-7-0-ESXi-7-0-Host-Server.html)
+13. [Part 13: HOW TO: Backup (Export) and Restore (Import) virtual machines to VMware vSphere Hypervisor 7.0 for free.](https://www.experts-exchange.com/videos/79094/HOW-TO-Backup-Export-and-Restore-Import-virtual-machines-to-VMware-vSphere-Hypervisor-7-0-for-FREE.html)
+14. [Part 14: HOW TO: P2V a Windows XP computer to VMware vSphere Hypervisor 7.0 (ESXi 7.0).](https://www.experts-exchange.com/videos/79095/HOW-TO-P2V-a-Windows-operating-system-computer-to-VMware-vSphere-Hypervisor-7-0-ESXi-7-0.html)
+15. [Part 15: HOW TO: Shrink or Reduce a VMware Virtual Machine Disk (VMDK) using VMware vCenter Converter Standalone v6.2.0.1.](https://www.experts-exchange.com/videos/79096/HOW-TO-Shrink-or-Reduce-a-VMware-Virtual-Machine-Disk-VMDK-using-VMware-vCenter-Converter-Standalone-v6-2-0-1.html)
+16. [Part 16: HOW TO: Update VMware ESXi 7.0U2 to ESXi 7.0U2a direct from VMware.](https://www.experts-exchange.com/videos/79032/HOW-TO-Update-VMware-ESXi-7-0U2-to-ESXi-7-0U2a-direct-from-VMware.html)
+17. [Part 17: HOW TO: Update VMware ESXi 7.0U2 to ESXi 7.0U2a in 5 easy steps.](https://www.experts-exchange.com/videos/79033/HOW-TO-Update-VMware-ESXi-7-0U2-to-ESXi-7-0U2a-in-5-easy-steps.html)
+18. [Part 18: HOW TO: Update VMware ESXi 7U1 (7.0.1) to VMware ESXi 7U2a (7.0.2) using an ISO image.](https://www.experts-exchange.com/videos/79034/HOW-TO-Update-VMware-ESXi-7U1-7-0-1-to-VMware-ESXi-7U2a-7-0-2-using-an-ISO-image.html)
+19. [Part 19: HOW TO: Update VMware ESXi 7.0U1 to ESXi 7.0U2a using VMware vSphere Lifecycle Manager (vLCM).](https://www.experts-exchange.com/videos/79035/HOW-TO-Update-VMware-ESXi-7-0U1-to-ESXi-7-0U2a-using-VMware-vSphere-Lifecycle-Manager-vLCM.html)
+20. [Part 20: HOW TO: Rollback VMware vSphere Hypervisor 7.0 U2a using VMware Hypervisor Recovery Mode.](https://www.experts-exchange.com/videos/79012/HOW-TO-Rollback-VMware-vSphere-Hypervisor-7-0-U2a-using-VMware-Hypervisor-Recovery-Mode.html)
+21. [Part 21: HOW TO: Deploy and Install VMware vSphere vCenter Server 7.0 (VCSA 7.0).](https://www.experts-exchange.com/videos/79152/HOW-TO-Deploy-and-Install-VMware-vSphere-vCenter-Server-7-0-VCSA-7-0.html)
+22. [Part 22: HOW TO: Add VMware vSphere Hypervisor ESXi 7.0 Hosts to VMware vSphere vCenter Server 7.0.](https://www.experts-exchange.com/videos/79192/HOW-TO-Add-VMware-vSphere-Hypervisor-ESXi-7-0-Hosts-to-VMware-vSphere-vCenter-Server-7-0.html)
+23. [Part 23: HOW TO: Update VMware vSphere vCenter Server 7.0 (VCSA 7.0) using the (VAMI) Appliance Management Interface.](https://www.experts-exchange.com/videos/79452/HOW-TO-Update-VMware-vSphere-vCenter-Server-7-0-VCSA-7-0-using-the-VAMI-Appliance-Management-Interface.html)
+24. [Part 24: HOW TO: Cross vCenter Server vMotion (export) between standalone vCenter Servers 7.0 not linked to the current SSO domain.](https://www.experts-exchange.com/videos/79454/HOW-TO-Cross-vCenter-Server-vMotion-export-between-standalone-vCenter-Servers-7-0-not-linked-to-the-current-SSO-domain.html)
+25. [Part 25: HOW TO: Add a Synology NAS providing NFS Storge to VMware vSphere Hypervisor ESXi 7.0.](https://www.experts-exchange.com/videos/79455/HOW-TO-Add-a-Synology-NAS-providing-NFS-Storge-to-VMware-vSphere-Hypervisor-ESXi-7-0.html)
+26. [Part 26: HOW TO: Create a VMware vSphere Cluster add an EVC Baseline and then present a Synology NAS to multiple hosts in the cluster.](https://www.experts-exchange.com/videos/79456/HOW-TO-Create-a-VMware-vSphere-Cluster-add-an-EVC-Baseline-and-then-present-a-Synology-NAS-to-multiple-hosts-in-the-cluster.html)
+27. [Part 27: HOW TO: Migrate VMware vCenter Server 7.0 in an enabled EVC VMware vSphere 7.0 Cluster of ESXi 7.0 hosts using "Andy's Towers of Hanoi solution"](https://www.experts-exchange.com/videos/79473/HOW-TO-Migrate-VMware-vCenter-Server-7-0-in-an-enabled-EVC-VMware-vSphere-7-0-Cluster-of-ESXi-7-0-hosts-using-Andy's-Towers-of-Hanoi-solution.html)
+28. [Part 28: HOW TO: FIX the Warning System logs on host are stored on non-persistent storage, Move system logs to NFS shared storage.](https://www.experts-exchange.com/videos/79492/HOW-TO-FIX-the-Warning-System-logs-on-host-are-stored-on-non-persistent-storage-Move-system-logs-to-NFS-shared-storage.html)
+29. [Part 29: HOW TO: FIX No coredump target has been configured. Host core dumps cannot be saved.](https://www.experts-exchange.com/videos/79493/HOW-TO-FIX-No-coredump-target-has-been-configured-Host-core-dumps-cannot-be-saved.html)
+30. [Part 30: HOW TO: FIX VMware vSphere Hypervisor (ESXi) Host vulnerability L1 Terminal Fault’ (L1TF) Speculative-Execution in Intel processors: CVE-2018-3646, CVE-2018-3620, and CVE-2018-3615](https://www.experts-exchange.com/videos/79495/HOW-TO-FIX-VMware-vSphere-Hypervisor-ESXi-Host-vulnerability-L1-Terminal-Fault-L1TF-Speculative-Execution-in-Intel-processors-CVE-2018-3646-CVE-2018-3620-and-CVE-2018-3615.html)
+31. [Part 31: HOW TO: Add a Synology NAS providing iSCSI Storage to VMware vSphere Hypervisor ESXi 7.0 Part 1](https://www.experts-exchange.com/videos/79513/HOW-TO-Add-a-Synology-NAS-providing-iSCSI-Storge-to-VMware-vSphere-Hypervisor-ESXi-7-0-Part-1.html)
+32. [Part 32: HOW TO: Add a Synology NAS providing iSCSI Storage to VMware vSphere Hypervisor ESXi 7.0 Part 2](https://www.experts-exchange.com/videos/79514/HOW-TO-Add-a-Synology-NAS-providing-iSCSI-Storage-to-VMware-vSphere-Hypervisor-ESXi-7-0-Part-2.html)
+33. [Part 33: HOW TO: Deploy and Use the Synology Storage Console for VMware to Add iSCSI LUNs and NFS exports to VMware vSphere Cluster ESXi Hosts](https://www.experts-exchange.com/videos/79512/HOW-TO-Deploy-and-Use-the-Synology-Storage-Console-for-VMware-to-Add-iSCSI-LUNs-and-NFS-exports-to-VMware-vSphere-Cluster-ESXi-Hosts.html)
+34. [Part 34: HOW TO: Select VMware vCenter Converter Standalone 6.2 or 6.3 to complete a P2V for Windows XP or Windows 2003 Server](https://www.experts-exchange.com/videos/79632/HOW-TO-Select-VMware-vCenter-Converter-Standalone-6-2-or-6-3-to-complete-a-P2V-for-Windows-XP-or-Windows-2003-Server.html)
+35. [Part 35: HOW TO: Update the ILO Firmware on an HPE Proliant server in the VMware vSphere Hypervisor ESXi 7.0.3 OS](https://www.experts-exchange.com/videos/79653/HOW-TO-Update-the-ILO-Firmware-on-an-HPE-Proliant-server-in-the-VMware-vSphere-Hypervisor-ESXi-7-0-3-OS.html)
+
+On 11th October 2022, VMware released VMware vSphere 8.0
+
+Ths series will be focused on VMware vSphere 8.0, and will run along side, the videos created above on VMware vSphere 7.0.
+
+1. [Part 1: HOW TO: Automate and Deploy a VMware vSphere 8.0 and vSAN 8 Lab using a PowerCLI script](https://www.experts-exchange.com/videos/79633/HOW-TO-Automate-and-Deploy-a-VMware-vSphere-8-0-and-vSAN-8-Lab-using-a-PowerCLI-script.html)
+2. [Part 2: HOW TO: Update VMware ESXi 7U3 (7.0.3) to VMware ESXi 8 (8.0 IA) using an ISO image connected to HPE ILO](https://www.experts-exchange.com/videos/79673/HOW-TO-Update-VMware-ESXi-7U3-7-0-3-to-VMware-ESXi-8-8-0-IA-using-an-ISO-image-connected-to-HPE-ILO.html)
+3. [Part 3: HOW TO: Deploy and Install VMware vSphere vCenter Server 8.0 (VCSA 8.0)](https://www.experts-exchange.com/videos/79672/HOW-TO-Deploy-and-Install-VMware-vSphere-vCenter-Server-8-0-VCSA-8-0.html)
+
+
+
