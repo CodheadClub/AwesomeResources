@@ -264,7 +264,7 @@ This new series will focus on VMware vSphere 8.0, and will run in parallel with 
 3. [Part 3: HOW TO: Install and Configure VMware vSphere Hypervisor 8.0  (ESXi 8.0 IA)](https://www.experts-exchange.com/videos/79692/HOW-TO-Install-and-Configure-VMware-vSphere-Hypervisor-8-0-ESXi-8-0-IA.html)
 4. [Part 4: HOW TO: Connect to the VMware vSphere Hypervisor 8.0 (ESXi 8.0 IA) using the vSphere (HTML5 Web) Host Client 8.0](https://www.experts-exchange.com/videos/79693/HOW-TO-Connect-to-the-VMware-vSphere-Hypervisor-8-0-ESXi-8-0-IA-using-the-vSphere-HTML5-Web-Host-Client-8-0.html) 
 5. [Part 5: HOW TO: Add VMware vSphere Hypervisor ESXi 8.0 Hosts to VMware vSphere vCenter Server 8.0](https://www.experts-exchange.com/videos/79695/HOW-TO-Add-VMware-vSphere-Hypervisor-ESXi-8-0-Hosts-to-VMware-vSphere-vCenter-Server-8-0.html)
-5. [Part 6: HOW TO: Deploy and Install VMware vSphere vCenter Server 8.0 (VCSA 8.0)](https://www.experts-exchange.com/videos/79672/HOW-TO-Deploy-and-Install-VMware-vSphere-vCenter-Server-8-0-VCSA-8-0.html)
+6. [Part 6: HOW TO: Deploy and Install VMware vSphere vCenter Server 8.0 (VCSA 8.0)](https://www.experts-exchange.com/videos/79672/HOW-TO-Deploy-and-Install-VMware-vSphere-vCenter-Server-8-0-VCSA-8-0.html)
 
 
 
