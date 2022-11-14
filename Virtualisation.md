@@ -257,7 +257,10 @@ Ths series will be focused on VMware vSphere 8.0, and will run along side, the v
 
 1. [Part 1: HOW TO: Automate and Deploy a VMware vSphere 8.0 and vSAN 8 Lab using a PowerCLI script](https://www.experts-exchange.com/videos/79633/HOW-TO-Automate-and-Deploy-a-VMware-vSphere-8-0-and-vSAN-8-Lab-using-a-PowerCLI-script.html)
 2. [Part 2: HOW TO: Update VMware ESXi 7U3 (7.0.3) to VMware ESXi 8 (8.0 IA) using an ISO image connected to HPE ILO](https://www.experts-exchange.com/videos/79673/HOW-TO-Update-VMware-ESXi-7U3-7-0-3-to-VMware-ESXi-8-8-0-IA-using-an-ISO-image-connected-to-HPE-ILO.html)
-3. [Part 3: HOW TO: Deploy and Install VMware vSphere vCenter Server 8.0 (VCSA 8.0)](https://www.experts-exchange.com/videos/79672/HOW-TO-Deploy-and-Install-VMware-vSphere-vCenter-Server-8-0-VCSA-8-0.html)
+3. [Part 3: HOW TO: Install and Configure VMware vSphere Hypervisor 8.0  (ESXi 8.0 IA)](https://www.experts-exchange.com/videos/79692/HOW-TO-Install-and-Configure-VMware-vSphere-Hypervisor-8-0-ESXi-8-0-IA.html)
+4. [Part 4: HOW TO: Connect to the VMware vSphere Hypervisor 8.0 (ESXi 8.0 IA) using the vSphere (HTML5 Web) Host Client 8.0](https://www.experts-exchange.com/videos/79693/HOW-TO-Connect-to-the-VMware-vSphere-Hypervisor-8-0-ESXi-8-0-IA-using-the-vSphere-HTML5-Web-Host-Client-8-0.html) 
+5. [Part 5: HOW TO: Deploy and Install VMware vSphere vCenter Server 8.0 (VCSA 8.0)](https://www.experts-exchange.com/videos/79672/HOW-TO-Deploy-and-Install-VMware-vSphere-vCenter-Server-8-0-VCSA-8-0.html)
+
 
 
 
