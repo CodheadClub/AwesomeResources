@@ -265,7 +265,9 @@ This new series will focus on VMware vSphere 8.0, and will run in parallel with 
 4. [Part 4: HOW TO: Connect to the VMware vSphere Hypervisor 8.0 (ESXi 8.0 IA) using the vSphere (HTML5 Web) Host Client 8.0](https://www.experts-exchange.com/videos/79693/HOW-TO-Connect-to-the-VMware-vSphere-Hypervisor-8-0-ESXi-8-0-IA-using-the-vSphere-HTML5-Web-Host-Client-8-0.html) 
 5. [Part 5: HOW TO: Deploy and Install VMware vSphere vCenter Server 8.0 (VCSA 8.0)](https://www.experts-exchange.com/videos/79672/HOW-TO-Deploy-and-Install-VMware-vSphere-vCenter-Server-8-0-VCSA-8-0.html)
 6. [Part 6: HOW TO: Add VMware vSphere Hypervisor ESXi 8.0 Hosts to VMware vSphere vCenter Server 8.0](https://www.experts-exchange.com/videos/79695/HOW-TO-Add-VMware-vSphere-Hypervisor-ESXi-8-0-Hosts-to-VMware-vSphere-vCenter-Server-8-0.html)
-
+7. [Part 7: HOW TO: Enable SSH Remote Access on a VMware vSphere Hypervisor 8.0 (ESXi 8.0)](https://www.experts-exchange.com/videos/79712/HOW-TO-Enable-SSH-Remote-Access-on-a-VMware-vSphere-Hypervisor-8-0-ESXi-8-0.html)
+8. [Part 8: HOW TO: Upload an ISO image to a VMware datastore for use with VMware vSphere Hypervisor 8.0 (ESXi 8.0) using the vSphere Host Client, and checking its MD5 checksum signature is correct.](https://www.experts-exchange.com/videos/79713/HOW-TO-Upload-an-ISO-image-to-a-VMware-datastore-for-use-with-VMware-vSphere-Hypervisor-8-0-ESXi-8-0-using-the-vSphere-Host-Client-and-checking-its-MD5-checksum-signature-is-correct.html)
+9. [Part 9: HOW TO: Suppress Configuration Issues and Warnings Alert displayed in Summary status for ESXi 8.0 after enabling SSH or ESXi Shell.](https://www.experts-exchange.com/videos/79714/HOW-TO-Suppress-Configuration-Issues-and-Warnings-Alert-displayed-in-Summary-status-for-ESXi-8-0-after-enabling-SSH-or-ESXi-Shell.html)
 
 
 
