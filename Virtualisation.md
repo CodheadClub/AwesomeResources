@@ -274,4 +274,3 @@ This new series will focus on VMware vSphere 8.0, and will run in parallel with 
 13.[Part 13: HOW TO: Create your second Windows Virtual Machine Microsoft Windows Server 2022 on VMware vSphere Hypervisor 8.0. (ESXi 8.0)](https://www.experts-exchange.com/videos/79718/HOW-TO-Create-your-second-Windows-Virtual-Machine-Microsoft-Windows-Server-2022-on-VMware-vSphere-Hypervisor-8-0-ESXi-8-0.html)
 
 
-
