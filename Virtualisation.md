@@ -271,7 +271,7 @@ This new series will focus on VMware vSphere 8.0, and will run in parallel with 
 10.[Part 10: HOW TO: Create a VMware vSphere Cluster in VMware vSphere vCenter Server 8.0.](https://www.experts-exchange.com/videos/79715/HOW-TO-Create-a-VMware-vSphere-Cluster-in-VMware-vSphere-vCenter-Server-8-0.html)
 11.[Part 11: HOW TO: Add and Create a vSphere Native Key Provider in VMware vSphere vCenter Server 8.0.](https://www.experts-exchange.com/videos/79716/HOW-TO-Add-and-Create-a-vSphere-Native-Key-Provider-in-VMware-vSphere-vCenter-Server-8-0.html)
 12.[Part 12: HOW TO: Create your first Windows Virtual Machine Microsoft Windows 11 on VMware vSphere Hypervisor 8.0 (ESXi 8.0) using a Trusted Platform Module.](https://www.experts-exchange.com/videos/79717/HOW-TO-Create-your-first-Windows-Virtual-Machine-Microsoft-Windows-11-on-VMware-vSphere-Hypervisor-8-0-ESXi-8-0-using-a-Trusted-Platform-Module.html)
-13. Part 13: Part 13: HOW TO: Create your second Windows Virtual Machine Microsoft Windows Server 2022 on VMware vSphere Hypervisor 8.0. (ESXi 8.0)](https://www.experts-exchange.com/videos/79718/HOW-TO-Create-your-second-Windows-Virtual-Machine-Microsoft-Windows-Server-2022-on-VMware-vSphere-Hypervisor-8-0-ESXi-8-0.html)
+13.[Part 13: HOW TO: Create your second Windows Virtual Machine Microsoft Windows Server 2022 on VMware vSphere Hypervisor 8.0. (ESXi 8.0)](https://www.experts-exchange.com/videos/79718/HOW-TO-Create-your-second-Windows-Virtual-Machine-Microsoft-Windows-Server-2022-on-VMware-vSphere-Hypervisor-8-0-ESXi-8-0.html)
 
 
 
