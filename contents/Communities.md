@@ -33,9 +33,11 @@
 3. [London Mathematical Society](https://www.lms.ac.uk)
 4. [European Association for Theoretical Computer Science](https://eatcs.org/)
 5. [Open Source Specialist Group](https://ossg.bcs.org/)
+
 ## Events
 
 1. [Electromagnetic Field](https://www.emfcamp.org)
+
 ## United Kingdom
 
 1. [Aberdeen](#aberdeen)
@@ -113,9 +115,9 @@
 
 ## Hull <a name="hull"></a>
 
-1. [The Codhead Club Discord](https://discord.gg/DmHbB2PpVn) 
+1. [The Codhead Club Discord](https://discord.gg/DmHbB2PpVn)
 2. [For Entrepreneurs Only](https://forentrepreneursonly.co.uk/) - Headquartered on UoH campus providing business mentoring and support.
-3. [C4Di](https://www.c4di.co.uk/) 
+3. [C4Di](https://www.c4di.co.uk/)
 4. [Barclays Eagle Labs](https://labs.uk.barclays/) (Nationwide)
 5. [Connected Humber Hardware Meetups](https://www.connectedhumber.org/meetups.html)
 6. [Hull Central Library Makerspace](https://www.hcandl.co.uk/libraries/makerspace/about-makerspacehull)
@@ -127,6 +129,7 @@
 1. [Leeds Sharp - .NET User Group](https://www.meetup.com/Leeds-Sharp/)
 2. [Umbraco Leeds Meetup](https://www.meetup.com/umbLeeds/)
 3. [M365 North User Group](https://www.meetup.com/m365-north/)
+
 ## Liverpool <a name="liverpool"></a>
 
 1. [Dot NET Liverpool](https://www.meetup.com/Dot-NET-Liverpool/)
@@ -171,7 +174,7 @@
 2. [Azure Cloud Native Data Platform User Group](https://www.meetup.com/azure-cloud-native-data-platform-user-group/)
 
 ## Oxford <a name="oxford"></a>
- 
+
 1. [.NET Oxford](https://www.meetup.com/dotnetoxford/)
     - 1.1. [Website](https://www.dotnetoxford.com/)
 2. [Azure Oxford](https://www.meetup.com/Azure-Oxford/)
@@ -199,6 +202,7 @@
 ## Stockport <a name="stockport"></a>
 
 1. [Lean Agile Stockport](https://www.meetup.com/Lean-Agile-Stockport/)
+
 ## Winnersh <a name="winnersh"></a>
 
 1. [Reading Microsoft Data & AI User Group](https://www.meetup.com/Reading-Microsoft-Data-Platform-User-Group/)
@@ -207,11 +211,13 @@
 
 1. [DC441905](https://dc441905.org/)
    - 1.1 [DC441905 Discord](https://discord.gg/rXvnkav)
+
 ## York <a name="york"></a>
 
 1. [dotnet York](https://www.meetup.com/dotnetYork/)
 
 ## Business / Career <a name="business"></a>
+
 1. [5 ways to help get into the games industry](https://www.linkedin.com/pulse/5-ways-help-you-get-job-games-industry-beginners-guy-derosa/)
 2. [Writing the ideal CV for the games industry](https://www.linkedin.com/pulse/writing-ideal-cv-games-industry-guy-derosa-1c/)
 3. [Network Yorkshire Linkedin Group](https://www.linkedin.com/groups/97127/)
