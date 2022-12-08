@@ -1,35 +1,18 @@
 <div align="center">
 <img style="width:45%" src="imgs/tcclogo.jpg" />
 
-# Awesome Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+# Awesome Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 </div>
 
-## Contents
-
-1. [Introduction](#introduction)
-   - [Contributing](#contributing)
-2. [Communities](Communities.md)
-3. [Business/Career](Communities.md#business)
-4. [Services](#services)
-5. [Software](#software)
-6. [Programming](Programming.md)
-7. [Ethics, Law & Professionalism](Ethics_Law_Professionalism.md)
-   - [Ethics](Ethics_Law_Professionalism.md#ethics)
-   - [Professionalism & Standards](Ethics_Law_Professionalism.md#standards)
-   - [Law](Ethics_Law_Professionalism.md#law)
-8. [Learning Resources](#education)
-9. [Linux Distributions](#linux)
-10. [Electronics](Electronics.md)
-11. [Hypervisors and virtual machines](Virtualisation.md#virtualisation)
-    - [Andrew Hancock, VMware vExpert PRO](Virtualisation.md#andrewhancock)
-12. [Cyber Security Resources](CyberSecurity.md)
-13. [Other Interesting Stuff](#misc)
+<! --- contents -->
 
 ## Introduction <a name="introduction"></a>
 
 This is an Awesome List of Computer Science, Technology, Programming and Educational resources for the benefit of all who care to use it.
 
 The list was originally created by [Closebracket](https://github.com/closebracket).
+
 ## Contributing <a name="contributing"></a>
 
 Contributions welcome. If you have a resource that you wish to contribute, please abide by the following rules:
@@ -47,8 +30,8 @@ If you're not sure how to contribute, you can join our [discord](https://discord
 3. [Gitlab](https://about.gitlab.com/)
 4. [Matomo](https://matomo.org) - Self hosted Google Analytics alternative.
 5. [Wekan](https://wekan.github.io/) - Opensource Kanban.
-6. [Shodan](https://www.shodan.io/) 
-7. [Spyse](https://spyse.com/) 
+6. [Shodan](https://www.shodan.io/)
+7. [Spyse](https://spyse.com/)
 8. [The Things Network](https://www.thethingsnetwork.org/)
 9. [Programmable Web APIs](https://www.programmableweb.com/)
 10. [A list of publically available APIs](https://github.com/public-apis/public-apis)
