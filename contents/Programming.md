@@ -23,7 +23,6 @@
 12. [Cyber Security Resources](CyberSecurity.md)
 13. [Other Interesting Stuff](README.md#misc)
 
-
 # Programming
 
 ### Standards
@@ -40,7 +39,8 @@
 3. [Official Blazor Docs](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
 4. [GPS Tracking in Blazor Web Assembly](https://morioh.com/p/59923468d2b3)
 5. [Consuming REST APIs](https://learn-blazor.com/architecture/rest-api/)
-### C#
+
+### C #
 
 1. [The Yellow Book](https://www.robmiles.com/s/CSharp-Book-2019-Refresh.pdf) - A fantastic intro to C# from former Hull Lecturer, [Rob Miles](robmiles.com). He also has other publications available [here](https://www.amazon.co.uk/s?i=stripbooks&rh=p_27:Rob%20Miles&s=relevancerank&text=Rob%20Miles&ref=dp_byline_sr_book_1).
 2. [Two Decades of C#: A Reference](https://benbowen.blog/post/two_decades_of_csharp_i/) - A reference of which C# version introduced which features. Linked is the first blog; later versions are covered under later blogs.
@@ -54,8 +54,6 @@
 1. [Discord JS](https://github.com/discordjs/discord.js)
 2. [Intro to JS](https://www.geeksforgeeks.org/introduction-to-javascript/)
 
-
-
 ### CSS
 
 1. [Awesome TailwindCSS](https://github.com/aniftyco/awesome-tailwindcss)
@@ -63,7 +61,6 @@
 3. [Aweomesheet](https://zombiefox.github.io/awesomeSheet/) - CSS Generator
 4. [Learn CSS](https://web.dev/learn/css/) - Free Google course on CSS
 5. [CSS Units](https://www.geeksforgeeks.org/css-units/)
-
 
 ### DSharp
 
@@ -77,12 +74,14 @@
 4. [HTML Basics by Microsoft](https://learn.microsoft.com/en-us/cpp/mfc/html-basics?view=msvc-170)
 
 ### Java
+
 1. [w3 schools Java Info](https://www.w3schools.com/java/default.asp)
 2. [GeeksForGeeks Java documentation](https://www.geeksforgeeks.org/java/)
 3. [Java Bootcamp by Kunal Kushwaha on Github](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
 4. [Official Java Docs](https://docs.oracle.com/en/java/)
 
 ### Python
+
 1. [Intro to Python](https://www.geeksforgeeks.org/introduction-to-python/)
 2. [Install Python](https://www.python.org/downloads/)
 3. [Basics](https://www.tutorialspoint.com/python/python_basic_syntax.htm)
@@ -92,6 +91,16 @@
 7. [Tuples](https://www.scaler.com/topics/python/tuples-in-python/)
 8. [Dictionary](https://docs.python.org/3/tutorial/datastructures.html#dictionaries)
 9. [Functions](https://pynative.com/python-functions/)
+10. [OnlineGDB](https://www.onlinegdb.com/online_python_interpreter)
+11. [Replit Online Interpreter](https://replit.com/languages/python3)
+12. [Tutorials Point Online Interpreter](https://www.tutorialspoint.com/execute_python3_online.php)
+13. [Rextester Online Interpreter](https://rextester.com/l/python3_online_compiler)
+14. [Trinket Online Interpreter](https://trinket.io/python3)
+15. [Python 3 Docs](https://docs.python.org/3/)
+16. [History of Python](https://en.wikipedia.org/wiki/History_of_Python)
+      - 16.1 [Python License](https://docs.python.org/3.0/license.html)
+      - 16.2 [Incredible Growth of Python](https://stackoverflow.blog/2017/09/06/incredible-growth-python/)
+      - 16.3 [Python by the numbers 2017/18](https://opensource.com/article/18/5/numbers-python-community-trends)
 
 ### Static site generators
 
@@ -105,7 +114,7 @@
 8. [Nikola](https://getnikola.com/getting-started.html)
 9. [Gatsby](https://www.gatsbyjs.com/docs/tutorial/part-0/)
 10. [Statiq Web](https://www.statiq.dev/web/) - Still under development, use if you want to get involved with the community to help develop
-   - 10.1 [On .NET Live - Generating static web applications with Statiq](https://www.youtube.com/watch?v=43oQTRZqK9g)
+      - 10.1 [On .NET Live - Generating static web applications with Statiq](https://www.youtube.com/watch?v=43oQTRZqK9g)
 11. [Publii](https://getpublii.com/) - Desktop app rather than CLI
 
 ### Cross-Platform
@@ -114,6 +123,7 @@
 2. [Flutter](https://flutter.dev/)
 3. [React Native](https://reactnative.dev/)
 3. [Introducing .NET Maui](https://devblogs.microsoft.com/dotnet/introducing-dotnet-maui-one-codebase-many-platforms/)
+
 ### Documentation
 
 1. [DevDocs](https://devdocs.io/) - Searchable developer docs
@@ -136,23 +146,23 @@
 8. [CP Algorithms](https://cp-algorithms.com/) - A collection of important algorithms written in C++.
 9. [Atcoder](https://atcoder.jp/) - AtCoder is a programming contest site for anyone from beginners to experts.
 10. [Clist.by](https://clist.by/) - Get updates of upcoming competetive programming contests.
-11. [TopCoder](https://www.topcoder.com/) - All in one site for CP , ML/AI , Developement 
-12. [SPOJ](https://www.spoj.com/) - Beginner friendly website for CP 
-13. [HackerEarth](https://www.hackerearth.com/) - Great free-site for Developement and Coding 
+11. [TopCoder](https://www.topcoder.com/) - All in one site for CP , ML/AI , Developement
+12. [SPOJ](https://www.spoj.com/) - Beginner friendly website for CP
+13. [HackerEarth](https://www.hackerearth.com/) - Great free-site for Developement and Coding
 14. [Codedrills](https://codedrills.io/) - Best site for ACM-ICPC Mock Rounds (Indian Regionals and Prelims)
 15. [USACO](https://usaco.guide/) - American Website for CP
 
-## Mathematics and Programming 
+## Mathematics and Programming
 
 1. [ProjectEuler](https://projecteuler.net/about) - Best site for Maths Problems which are easily solved using programming.
-2. [Erdos](https://erdos.sdslabs.co/) - IIT Roorkee's Maths Practice site. 
+2. [Erdos](https://erdos.sdslabs.co/) - IIT Roorkee's Maths Practice site.
 3. [Maths-Stackexchange](https://math.stackexchange.com/) - Ask and Answer maths questions
 4. [Mathometer](http://mathometer.weebly.com/) -  Maths Website from an IIT Bombay senior
-5. [MathBlog](https://www.mathblog.dk/) - Good Reading blog for Maths. 
+5. [MathBlog](https://www.mathblog.dk/) - Good Reading blog for Maths.
 
-## Useful Codeforces Blogs 
+## Useful Codeforces Blogs
 
-1. [C++Tricks](https://codeforces.com/blog/entry/15643) - Many Tricks are explained well. 
+1. [C++Tricks](https://codeforces.com/blog/entry/15643) - Many Tricks are explained well.
 2. [DSA](https://codeforces.com/blog/entry/13529) - Best blog for resources like Data Structures and Algorithms.
 3. [Way-To-Practice-CP](https://codeforces.com/blog/entry/66909) - Guide to Improve Ratings
 4. [YouTube-Tutorial-For-CP](https://codeforces.com/blog/entry/43578) - Nicee YT Tutorials
