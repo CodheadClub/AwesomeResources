@@ -61,7 +61,8 @@
 20. [Splitting on Whitespace Using the PowerShell -split Operator](https://www.powershelladmin.com/wiki/Powershell_split_operator.php)
 21. [Powershell vs Perl at text processing](https://www.powershelladmin.com/wiki/Powershell_vs_perl_at_text_processing.php)
 22. [Powershell Scripts (Paloalto Networks)](https://unit42.paloaltonetworks.com/tag/powershell-scripts/)
-
+23. [Powershell by Example](https://powershellbyexample.dev/)
+24. [Learn Powershell- PowerShell.org](https://powershell.org/2022/07/learn-powershell-in-5-painless-steps-storage-variables-arrays-hashtables-step-1/)
 ## Tools
 
 1. [Cloudron](https://www.cloudron.io/index.html)
