@@ -19,11 +19,12 @@
    - [Law](Ethics_Law_Professionalism.md#law)
 8. [Learning Resources](#education)
 9. [Linux Distributions](#linux)
-10. [Electronics](Electronics.md)
-11. [Hypervisors and virtual machines](Virtualisation.md#virtualisation)
+10. [Sysadmin](Sysadmin.md)
+11. [Electronics](Electronics.md)
+12. [Hypervisors and virtual machines](Virtualisation.md#virtualisation)
     - [Andrew Hancock, VMware vExpert PRO](Virtualisation.md#andrewhancock)
-12. [Cyber Security Resources](CyberSecurity.md)
-13. [Other Interesting Stuff](#misc)
+13. [Cyber Security Resources](CyberSecurity.md)
+15. [Other Interesting Stuff](#misc)
 
 ## Introduction <a name="introduction"></a>
 
