@@ -68,6 +68,7 @@ If you're not sure how to contribute, you can join our [discord](https://discord
 10. [Fritzing](https://fritzing.org/) - A software for desinging circuits, PCBs and testing them virtually.
 11. [Katakoda](https://www.katacoda.com/) - Katacoda provides a platform to build live interactive demo and training environments.
 12. [CodeSandbox](https://codesandbox.io/) - CodeSandbox is an online code editor and prototyping tool that makes creating and sharing web apps faster.
+13. [N8N](https://n8n.io/) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 
 ## Educational Resources <a name="education"></a>
 
