@@ -71,8 +71,7 @@ Type 2
 3. [VMware Workstation](https://www.vmware.com/uk/products/workstation-pro.html) - Type 2 Hypervisor for Linux and Windows - Available for free if a Student of The Department of Computer Science and Technology. All this software is FREE here - [VMware IT Academy Program](https://www.vmware.com/uk/company/it-academy.html) 
 4. [VMware Player](https://www.vmware.com/uk/products/workstation-player.html) - Type 2 Hypervosor for Linux and Windows - Available for free if a Student of The Department of Computer Science and Technology. All this software is FREE here - [VMware IT Academy Program](https://www.vmware.com/uk/company/it-academy.html) 
 5. [Parallels Desktop 16 for Mac](https://www.parallels.com/uk/products/desktop/) - Type 2 Hypervisor for Mac.
-
-
+6. [Docker](https://www.docker.com/) - Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers.
 
 ## Andrew Hancock, Cyrus Computer Consultants Ltd <a name="andrewhancock"></a>
 Andrew Hancock is VMware & Virtualisation Consultant in Apps, Servers & Storage at [Cyrus Computer Consultants Ltd.](https://www.cyrus-consultants.co.uk/) He also has a long list of VMware and Virtualisations articles, a passionate VMware Technical Architect, and VMware vExpert PRO. He has won over 40 [Experts Exchange Awards](https://www.experts-exchange.com/members/hanccocka.html) and is Overall Leader at [Experts Exchange](https://www.experts-exchange.com/) Experts Exchange - The Original Tech Community™ - Formed in 1996, Experts Exchange (EE) is one of the oldest online communities in the world. For 25 years, tech problem-solvers worldwide have gathered on EE to share knowledge and help each other succeed.
