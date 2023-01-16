@@ -85,6 +85,7 @@ guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/)
     - 4.10 [Epilepsy Society Evidence HTML Version](https://committees.parliament.uk/writtenevidence/38476/html/)
 
 ### [Online Safety Bill](https://bills.parliament.uk/bills/3137)
+
     - 1.1 [Online Safety Bill - Fact Sheet](https://www.gov.uk/government/publications/online-safety-bill-supporting-documents/online-safety-bill-factsheet)
     - 1.2 [Online Safety Bill - Guidance](https://www.gov.uk/government/collections/online-safety-bill)
     - 1.3 [Online Safety Bill - Publications and Consultations](https://bills.parliament.uk/bills/3137/publications)
@@ -94,6 +95,7 @@ guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/)
     - 1.7 [Experts Condemn The UK Online Safety Bill As Harmful To Privacy And Encryption](https://www.eff.org/deeplinks/2022/11/experts-condemn-uk-online-safety-bill-harmful-privacy-and-encryption)
     - 1.8 [The UK Online Safety Bill Attacks Free Speech and Encryption](https://www.eff.org/deeplinks/2022/08/uks-online-safety-bill-attacks-free-speech-and-encryption)
 ### [Kids Online Safety Act (KOSA)](https://aboutbgov.com/52Q)
+
     - 1.1 [Kids Online Safety Act - Congress](https://www.congress.gov/bill/117th-congress/senate-bill/3663/text)
     - 1.2 [KOSA One pager](https://www.blumenthal.senate.gov/imo/media/doc/kids_online_safety_act_-_one_pager.pdf)
     - 1.3 [Kids Online Safety Act may harm minors, civil society groups warn lawmakers](https://www.cnbc.com/2022/11/28/kids-online-safety-act-may-harm-minors-civil-society-groups-warn.html)
