@@ -27,21 +27,22 @@
 
 # Programming
 
-### Standards
+## Standards
 
 1. [ISO 4217 - Currency Codes](https://www.iso.org/iso-4217-currency-codes.html)
 2. [ISO 8601 - Date and Time Format](https://www.iso.org/iso-8601-date-and-time-format.html)
 3. [ISO 31000 - Risk Management](https://www.iso.org/iso-31000-risk-management.html)
 4. [ISO/IEC 27001 - Information Security Management](https://www.iso.org/isoiec-27001-information-security.html)
 
-### Blazor
+## Blazor
 
 1. [Pre-Render Blazor WebAssembly at buildtime to optimise for search engines](https://swimburger.net/blog/dotnet/pre-render-blazor-webassembly-at-build-time-to-optimize-for-search-engines)
 2. [Blazor Project Structure](https://www.pragimtech.com/blog/blazor/blazor-project-structure/)
 3. [Official Blazor Docs](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
 4. [GPS Tracking in Blazor Web Assembly](https://morioh.com/p/59923468d2b3)
 5. [Consuming REST APIs](https://learn-blazor.com/architecture/rest-api/)
-### C#
+
+## C#
 
 1. [The Yellow Book](https://www.robmiles.com/s/CSharp-Book-2019-Refresh.pdf) - A fantastic intro to C# from former Hull Lecturer, [Rob Miles](robmiles.com). He also has other publications available [here](https://www.amazon.co.uk/s?i=stripbooks&rh=p_27:Rob%20Miles&s=relevancerank&text=Rob%20Miles&ref=dp_byline_sr_book_1).
 2. [Two Decades of C#: A Reference](https://benbowen.blog/post/two_decades_of_csharp_i/) - A reference of which C# version introduced which features. Linked is the first blog; later versions are covered under later blogs.
@@ -57,33 +58,35 @@
 
 
 
-### CSS
+## CSS
 
 1. [Awesome TailwindCSS](https://github.com/aniftyco/awesome-tailwindcss)
 2. [Tailwind CSS Docs](https://tailwindcss.com/docs/)
 3. [Aweomesheet](https://zombiefox.github.io/awesomeSheet/) - CSS Generator
 4. [Learn CSS](https://web.dev/learn/css/) - Free Google course on CSS
 5. [CSS Units](https://www.geeksforgeeks.org/css-units/)
+6. [Defensive CSS](https://defensivecss.dev/)
 
-
-### DSharp
+## DSharp
 
 1. [D Sharp Plus](https://github.com/DSharpPlus/DSharpPlus) - An unofficial .NET wrapper for the Discord API
 
-### HTML
+## HTML
 
 1. [W3 HTML Introduction](https://www.w3schools.com/html/)
 2. [GFG HTML Basics](https://www.geeksforgeeks.org/html-basics/)
 3. [MDN HTML Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
 4. [HTML Basics by Microsoft](https://learn.microsoft.com/en-us/cpp/mfc/html-basics?view=msvc-170)
 
-### Java
+## Java
+
 1. [w3 schools Java Info](https://www.w3schools.com/java/default.asp)
 2. [GeeksForGeeks Java documentation](https://www.geeksforgeeks.org/java/)
 3. [Java Bootcamp by Kunal Kushwaha on Github](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
 4. [Official Java Docs](https://docs.oracle.com/en/java/)
 
-### Python
+## Python
+
 1. [Intro to Python](https://www.geeksforgeeks.org/introduction-to-python/)
 2. [Install Python](https://www.python.org/downloads/)
 3. [Basics](https://www.tutorialspoint.com/python/python_basic_syntax.htm)
@@ -94,7 +97,7 @@
 8. [Dictionary](https://docs.python.org/3/tutorial/datastructures.html#dictionaries)
 9. [Functions](https://pynative.com/python-functions/)
 
-### Static site generators
+## Static site generators
 
 1. [Jekyll](https://jekyllrb.com/)
 2. [GitHub Pages](https://pages.github.com)
@@ -109,23 +112,23 @@
    - 10.1 [On .NET Live - Generating static web applications with Statiq](https://www.youtube.com/watch?v=43oQTRZqK9g)
 11. [Publii](https://getpublii.com/) - Desktop app rather than CLI
 
-### Cross-Platform
+## Cross-Platform
 
 1. [Platform.uno](https://platform.uno) - Multi platform applications, one code base.
 2. [Flutter](https://flutter.dev/)
 3. [React Native](https://reactnative.dev/)
 3. [Introducing .NET Maui](https://devblogs.microsoft.com/dotnet/introducing-dotnet-maui-one-codebase-many-platforms/)
-### Documentation
+## Documentation
 
 1. [DevDocs](https://devdocs.io/) - Searchable developer docs
 2. [Refactoring.guru](https://refactoring.guru/) - Learn about design patterns and refactoring.
 
-### Coding Practice
+## Coding Practice
 
 1. [Kattis](https://open.kattis.com/) - Programming problems to help you improve your skills. Compete against staff/students.
 2. [Code Academy](https://www.codecademy.com/) - Improve your programming knowledge.
 
-### Competitive Programming
+## Competitive Programming
 
 1. [Codechef](https://www.codechef.com/) - A platform for participating in coding contests and also learn new Algorithms and Data Structures. They have a set of challenges every month for competitive coding.
 2. [Codeforces](https://codeforces.com/) - A widely used platform where top programmers compete. There are various contests every week.
