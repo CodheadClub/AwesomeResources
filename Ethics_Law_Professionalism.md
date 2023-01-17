@@ -56,6 +56,7 @@ guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/)
 7. [Code of Practice for Consumer IoT Security](https://www.gov.uk/government/publications/code-of-practice-for-consumer-iot-security)
 8. [ETSI Industry standard Code of Practice](https://www.gov.uk/government/publications/etsi-industry-standard-based-on-the-code-of-practice)
 9. [Electronic Communications Code](https://www.ofcom.org.uk/phones-telecoms-and-internet/information-for-industry/policy/electronic-comm-code)
+10. [The Seven Principles of Public Life](https://www.gov.uk/government/publications/the-7-principles-of-public-life/the-7-principles-of-public-life--2)
 
 ## Law <a name="law"></a>
 ### Legal Definitions
