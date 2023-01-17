@@ -55,7 +55,7 @@
 
 1. [Discord JS](https://github.com/discordjs/discord.js)
 2. [Intro to JS](https://www.geeksforgeeks.org/introduction-to-javascript/)
-
+3. [HTMX](https://htmx.org/)
 
 
 ## CSS
