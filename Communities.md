@@ -16,7 +16,7 @@
    - [Professionalism & Standards](Ethics_Law_Professionalism.md#standards)
    - [Law](Ethics_Law_Professionalism.md#law)
 8. [Learning Resources](README.md#education)
-9. [Linux Distributions](README.md#linux)
+9. [Linux Distributions](Sysadmin.md#linux)
 10. [Sysadmin](Sysadmin.md)
 11. [Electronics](Electronics.md)
 12. [Hypervisors and virtual machines](Virtualisation.md#virtualisation)
@@ -34,6 +34,7 @@
 3. [London Mathematical Society](https://www.lms.ac.uk)
 4. [European Association for Theoretical Computer Science](https://eatcs.org/)
 5. [Open Source Specialist Group](https://ossg.bcs.org/)
+
 ## Events
 
 1. [Electromagnetic Field](https://www.emfcamp.org)
