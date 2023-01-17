@@ -18,7 +18,7 @@
    - [Professionalism & Standards](Ethics_Law_Professionalism.md#standards)
    - [Law](Ethics_Law_Professionalism.md#law)
 8. [Learning Resources](README.md#education)
-9. [Linux Distributions](README.md#linux)
+9. [Linux Distributions](Sysadmin.md#linux)
 10. [Sysadmin](Sysadmin.md)
 11. [Electronics](Electronics.md)
 12. [Hypervisors and virtual machines](Virtualisation.md#virtualisation)
@@ -32,6 +32,36 @@
 
 1. [Well known port numbers](https://networkencyclopedia.com/well-known-port-numbers/)
 2. [How to use SSH](https://www.ssh.com/ssh/command/)
+3. [Linux Command Map](https://xmind.app/m/WwtB/)
+
+## Linux Distributions <a name="linux"></a>
+
+1. [Ubuntu](https://ubuntu.com/) - Great starting distributions for beginners as lots of support is available.
+2. [Fedora](https://getfedora.org/)
+3. [Arch](https://www.archlinux.org/) - Advanced distribution for those looking to expand their knowledge of Linux.
+4. [Anarchy](https://anarchyinstaller.gitlab.io/) and [ALG](https://archlinuxgui.in/download.html) - These are menu/graphical installers for Arch linux, can be useful for those wanting to try out Arch without doing everything from the command line.
+5. [Artix](https://artixlinux.org/) - A systemd-free alternative to Arch.
+6. [Kubuntu](https://kubuntu.org/) - Ubuntu with an alternative desktop environment (KDE).
+7. [Lubuntu](https://lubuntu.me) - Ubuntu using LXQT, a lightweight alternative to other desktop environments.
+8. [Mint](https://linuxmint.com/) - Another variant of Ubuntu, great for those familiar with Windows.
+9. [Tails](https://tails.boum.org/index.en.html) - A portable distribution that runs only in memory, for the ultimate privacy protection.
+10. [Qubes OS](https://www.qubes-os.org/intro/) - A reasonably secure operating system. _Recommended by Edward Snowden_
+11. [Raspberry Pi OS](https://www.raspberrypi.org) - For use with the range of Raspberry Pi single board computers. A great distribution if you're looking to get into programming (and don't mind spending a bit of money on the hardware to run it), especially involving Python or electronics (the Pis can come with GPIO pins for use with electronics). There are some beginner projects listed on the site but there are a lot of projects made by the Pi community.
+12. [Rescatux](https://www.supergrubdisk.org/rescatux/) - An Debian based os which has utilities to help repair potentially broken Linux or Windows systems as well as boot loaders.
+#### Linux Resources
+
+1. [Arch Linux Wiki - Permissions](https://wiki.archlinux.org/title/File_permissions_and_attributes)
+2. [Arch Linux Docs - SSH](https://wiki.archlinux.org/title/OpenSSH#Installation)
+3. [Configure 2FA on SSH](https://ubuntu.com/tutorials/configure-ssh-2fa#1-overview)
+4. [Desktop Environments](https://wiki.archlinux.org/title/Desktop_environment)
+5. [Install and Configure SSH Server on Arch Linux](https://linuxhint.com/install_ssh_server_on_arch_linux/)
+6. [OpenSSH Manual](https://www.openssh.com/manual.html)
+7. [Principle of Least Privilege](https://techcommunity.microsoft.com/t5/azure-sql/security-the-principle-of-least-privilege-polp/ba-p/2067390)
+8. [Introduction to Linux](http://ftp.wayne.edu/ldp/en/Intro-Linux/Intro-Linux.pdf) - Hands on guide to learn Linux.
+9. [Learn Shell](https://www.learnshell.org/) - Learn programming with Unix/Linux shell interpreters.
+10. [Linux Upskill Challenge](https://linuxupskillchallenge.org/) - Learn the Linux terminal with a free and open source 21 day course
+11. [Ask Ubuntu](https://askubuntu.com/) - Ubuntu Q&A site. Part of Stack Exchange.
+12. [Unix & Linux Stack Exchange](https://unix.stackexchange.com/) - For more general Linux-related questions.
 
 ## NGINX
 

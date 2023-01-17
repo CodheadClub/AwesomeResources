@@ -16,7 +16,7 @@
    - [Professionalism & Standards](Ethics_Law_Professionalism.md#standards)
    - [Law](Ethics_Law_Professionalism.md#law)
 8. [Learning Resources](README.md#education)
-9. [Linux Distributions](README.md#linux)
+9. [Linux Distributions](Sysadmin.md#linux)
 10. [Sysadmin](Sysadmin.md)
 11. [Electronics](Electronics.md)
 12. [Hypervisors and virtual machines](Virtualisation.md#virtualisation)
@@ -86,22 +86,21 @@ guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/)
 
 ### [Online Safety Bill](https://bills.parliament.uk/bills/3137)
 
-- 1. [Online Safety Bill - Fact Sheet](https://www.gov.uk/government/publications/online-safety-bill-supporting-documents/online-safety-bill-factsheet)
-- 2. [Online Safety Bill - Guidance](https://www.gov.uk/government/collections/online-safety-bill)
-- 3. [Online Safety Bill - Publications and Consultations](https://bills.parliament.uk/bills/3137/publications)
-- 4. [A guide to the Online Safety Bill](https://www.gov.uk/guidance/a-guide-to-the-online-safety-bill)
-- 5. [Online Safety Bill 'catastrophic for free speech' via BBC News](https://www.bbc.co.uk/news/technology-57569336)
-- 6. [Online Safety Bill returns to Parliament After five month delay via The Guardian](https://www.theguardian.com/technology/2022/dec/05/online-safety-bill-returns-to-parliament-after-five-month-delay)
-- 7. [Experts Condemn The UK Online Safety Bill As Harmful To Privacy And Encryption](https://www.eff.org/deeplinks/2022/11/experts-condemn-uk-online-safety-bill-harmful-privacy-and-encryption)
-- 8. [The UK Online Safety Bill Attacks Free Speech and Encryption](https://www.eff.org/deeplinks/2022/08/uks-online-safety-bill-attacks-free-speech-and-encryption)
+1. [Online Safety Bill - Fact Sheet](https://www.gov.uk/government/publications/online-safety-bill-supporting-documents/online-safety-bill-factsheet)
+2. [Online Safety Bill - Guidance](https://www.gov.uk/government/collections/online-safety-bill)
+3. [Online Safety Bill - Publications and Consultations](https://bills.parliament.uk/bills/3137/publications)
+4. [A guide to the Online Safety Bill](https://www.gov.uk/guidance/a-guide-to-the-online-safety-bill)
+5. [Online Safety Bill 'catastrophic for free speech' via BBC News](https://www.bbc.co.uk/news/technology-57569336)
+6. [Online Safety Bill returns to Parliament After five month delay via The Guardian](https://www.theguardian.com/technology/2022/dec/05/online-safety-bill-returns-to-parliament-after-five-month-delay)
+7. [Experts Condemn The UK Online Safety Bill As Harmful To Privacy And Encryption](https://www.eff.org/deeplinks/2022/11/experts-condemn-uk-online-safety-bill-harmful-privacy-and-encryption)
+8. [The UK Online Safety Bill Attacks Free Speech and Encryption](https://www.eff.org/deeplinks/2022/08/uks-online-safety-bill-attacks-free-speech-and-encryption)
 
 ### [Kids Online Safety Act (KOSA)](https://aboutbgov.com/52Q)
 
-- 1.  [Kids Online Safety Act - Congress](https://www.congress.gov/bill/117th-congress/senate-bill/3663/text)
-- 2. [KOSA One pager](https://www.blumenthal.senate.gov/imo/media/doc/kids_online_safety_act_-_one_pager.pdf)
-- 3. [Kids Online Safety Act may harm minors, civil society groups warn lawmakers](https://www.cnbc.com/2022/11/28/kids-online-safety-act-may-harm-minors-civil-society-groups-warn.html)
-- 4. [Reed Smith KOSA Perspective](https://www.reedsmith.com/en/perspectives/2022/02/the-kids-online-safety-act)
-    
+1. [Kids Online Safety Act - Congress](https://www.congress.gov/bill/117th-congress/senate-bill/3663/text)
+2. [KOSA One pager](https://www.blumenthal.senate.gov/imo/media/doc/kids_online_safety_act_-_one_pager.pdf)
+3. [Kids Online Safety Act may harm minors, civil society groups warn lawmakers](https://www.cnbc.com/2022/11/28/kids-online-safety-act-may-harm-minors-civil-society-groups-warn.html)
+4. [Reed Smith KOSA Perspective](https://www.reedsmith.com/en/perspectives/2022/02/the-kids-online-safety-act)
 ### The Product Security and Telecommunications Infrastructure (PSTI) Bill
 
 1. [Factsheet](https://www.gov.uk/government/collections/the-product-security-and-telecommunications-infrastructure-psti-bill-factsheets)
