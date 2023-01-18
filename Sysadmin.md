@@ -15,6 +15,7 @@
 6. [Programming](Programming.md)
 7. [Ethics, Law & Professionalism](Ethics_Law_Professionalism.md)
    - [Ethics](Ethics_Law_Professionalism.md#ethics)
+   - [Guidance](Ethics_Law_Professionalism.md#guidance)
    - [Professionalism & Standards](Ethics_Law_Professionalism.md#standards)
    - [Law](Ethics_Law_Professionalism.md#law)
 8. [Learning Resources](README.md#education)
