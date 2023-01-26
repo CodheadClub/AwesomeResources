@@ -159,6 +159,8 @@
 5. [UK Azure Virtual Desktop User Group](https://www.meetup.com/UK-Windows-Virtual-Desktop-User-Group/)
 6. [Manchester Data Platform User Group](https://www.meetup.com/McrDataPlatform/)
 7. [Lean Agile, Manchester](https://www.meetup.com/Lean-Agile-Manchester/)
+8. [Architecting Manchester](https://www.meetup.com/manchester-software-architecture-meetup/)
+9. [MB Trusted Tech Talks](https://www.meetup.com/Maxwell-Bond-Trusted-Tech-Talks/)
 
 ## Milton Keynes <a name="miltonkeynes"></a>
 
