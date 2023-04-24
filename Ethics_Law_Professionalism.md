@@ -50,6 +50,7 @@
 1. [NCSC Data Breach Guidance](https://www.ncsc.gov.uk/guidance/data-breaches)
 2. [NCSC Phishing Scam Guidance](https://www.ncsc.gov.uk/collection/phishing-scams)
 3. [NCSC Phishing Guidance](https://www.ncsc.gov.uk/guidance/phishing)
+4. [REPORT on the proposal for regulation of the european parliament on Machinery Products](https://www.europarl.europa.eu/doceo/document/A-9-2022-0141_EN.html)
 ## Professionalism & Standards <a name="standards"></a>
 1. [W3](https://www.w3.org/standards/) - Standards for web design and applications, devices, architecture, XML, web services and other technology.
 guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/)
@@ -100,6 +101,8 @@ guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/)
 6. [Online Safety Bill returns to Parliament After five month delay via The Guardian](https://www.theguardian.com/technology/2022/dec/05/online-safety-bill-returns-to-parliament-after-five-month-delay)
 7. [Experts Condemn The UK Online Safety Bill As Harmful To Privacy And Encryption](https://www.eff.org/deeplinks/2022/11/experts-condemn-uk-online-safety-bill-harmful-privacy-and-encryption)
 8. [The UK Online Safety Bill Attacks Free Speech and Encryption](https://www.eff.org/deeplinks/2022/08/uks-online-safety-bill-attacks-free-speech-and-encryption)
+9. [EFF Action Center - Tell the UK's House of Lords: Protect End-to-End Encryption in the Online Safety Bill](https://act.eff.org/action/tell-the-uk-s-house-of-lords-protect-end-to-end-encryption-in-the-online-safety-bill-9245a4fd-8ae0-4e46-a90c-ad64f743837e)
+10. [Wrong time to weaken encryption, UK IT chartered institute tells government](https://www.theregister.com/2023/04/18/wrong_time_to_weaken_encryption/)
 
 ### [Kids Online Safety Act (KOSA)](https://aboutbgov.com/52Q)
 

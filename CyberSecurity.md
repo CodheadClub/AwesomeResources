@@ -41,6 +41,7 @@
 6. [Securityaffairs](https://securityaffairs.co/wordpress/) - Blog of Pierluigi Paganini.
 7. [Schneier On Security](https://www.schneier.com/) - Blog of Bruce Schneier, "public interest technologist". 
 8. [CryptoRom Bitcoin swindlers continue to target vulnerable iPhone and Android users](https://news.sophos.com/en-us/2022/03/16/cryptorom-bitcoin-swindlers-continue-to-target-vulnerable-iphone-and-android-users/)
+9. [UK Goverment launches new cyber security measures](https://www.adsadvance.co.uk/uk-government-launches-new-cyber-security-measures.html)
 
 ## Educational
 1. [Hackersploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) (Youtube Channel) 
@@ -64,6 +65,7 @@
 19. [Bluetooth Signals can be used to identify and track smartphones](https://jacobsschool.ucsd.edu/news/release/3461)
 20. [How I reversed a NodeJS malware and found the author](https://itnext.io/how-i-reversed-a-nodejs-malware-and-found-the-author-7dd9531b389f?gi=7e8591da3435)
 21. [Data Breaches - Guidance for individuals and families](https://www.ncsc.gov.uk/guidance/data-breaches)
+22. [CodeQL zero to hero - Part 1: the fundamentals of static analysis for vulnerability research](https://github.blog/2023-03-31-codeql-zero-to-hero-part-1-the-fundamentals-of-static-analysis-for-vulnerability-research/)
 ## Tools 
 1. [Hunchly](https://www.hunch.ly/) - The Only Web Capture Tool Designed For Online Investigations.
 2. [Have I Been Pwned](https://haveibeenpwned.com/)
