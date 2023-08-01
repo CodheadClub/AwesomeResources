@@ -69,6 +69,7 @@ If you're not sure how to contribute, you can join our [discord](https://discord
 10. [Fritzing](https://fritzing.org/) - A software for desinging circuits, PCBs and testing them virtually.
 11. [Katakoda](https://www.katacoda.com/) - Katacoda provides a platform to build live interactive demo and training environments.
 12. [CodeSandbox](https://codesandbox.io/) - CodeSandbox is an online code editor and prototyping tool that makes creating and sharing web apps faster.
+13. [ARC Browser](https://arc.net/) - Unreleased. Will supposedly replace Chrome.
 
 ## Educational Resources <a name="education"></a>
 
