@@ -210,6 +210,11 @@ His articles are reproduced here for your reading pleasure. If you want to discu
 132. [Part 24: HOW TO: Update VMware ESXi 7.0U2 to ESXi 7.0U2a direct from VMware.](https://www.experts-exchange.com/videos/79032/HOW-TO-Update-VMware-ESXi-7-0U2-to-ESXi-7-0U2a-direct-from-VMware.html)
 133. [Part 25: HOW TO: Update VMware ESXi 7.0U2 to ESXi 7.0U2a in 5 easy steps.](https://www.experts-exchange.com/articles/36038/HOW-TO-Update-VMware-ESXi-7-0U2-to-ESXi-7-0U2a-in-5-easy-steps.html)
 134. [Part 26: HOW TO:  P2V, V2V for FREE - VMware vCenter Converter Standalone 6.3.](https://www.experts-exchange.com/articles/37531/HOW-TO-P2V-V2V-for-FREE-VMware-vCenter-Converter-Standalone-6-3.html) 
+135. [Part 27: #intel #optane demo units as part of the @vExpert program](https://andysworld.org.uk/2023/07/01/intel-optane-demo-units-as-part-of-the-vexpert-program/)
+136. [Part 28: Inexpensive HCL Certified 10GBe network interfaces for vSphere ESXi 7.0 and vSphere ESXi 8.0 #homelab](https://andysworld.org.uk/2023/07/02/inexpensive-hcl-certified-10gbe-network-interfaces-for-vsphere-esxi-7-0-and-vsphere-esxi-8-0-homelab/)
+137. [Part 29: It’s A Proper Job! – Low Profile PCIe Bracket for Dell 0XYT17 Intel X520-DA2 Dual Port 10GB SFP+ NIC](https://andysworld.org.uk/2023/07/02/its-a-proper-job-low-profile-pcie-bracket-for-dell-0xyt17-intel-x520-da2-dual-port-10gb-sfp-nic/)
+138. [Part 30: #intel #optane SSD demo units received as part of the vExpert Program not being detected as a datastore in ESXi 7.0 or ESXi 8.0 ?](https://andysworld.org.uk/2023/07/03/intel-optane-ssd-demo-units-received-as-part-of-the-vexpert-program-not-being-detected-as-a-datastore-in-esxi-7-0-or-esxi-8-0/)
+
 
 
 ### Hancock's VMware Half Hour HOW TO Video Series
@@ -254,10 +259,6 @@ This course is split over 35 parts, in bit size chunks, hosted by Andrew Hancock
 33. [Part 33: HOW TO: Deploy and Use the Synology Storage Console for VMware to Add iSCSI LUNs and NFS exports to VMware vSphere Cluster ESXi Hosts](https://www.experts-exchange.com/videos/79512/HOW-TO-Deploy-and-Use-the-Synology-Storage-Console-for-VMware-to-Add-iSCSI-LUNs-and-NFS-exports-to-VMware-vSphere-Cluster-ESXi-Hosts.html)
 34. [Part 34: HOW TO: Select VMware vCenter Converter Standalone 6.2 or 6.3 to complete a P2V for Windows XP or Windows 2003 Server](https://www.experts-exchange.com/videos/79632/HOW-TO-Select-VMware-vCenter-Converter-Standalone-6-2-or-6-3-to-complete-a-P2V-for-Windows-XP-or-Windows-2003-Server.html)
 35. [Part 35: HOW TO: Update the ILO Firmware on an HPE Proliant server in the VMware vSphere Hypervisor ESXi 7.0.3 OS](https://www.experts-exchange.com/videos/79653/HOW-TO-Update-the-ILO-Firmware-on-an-HPE-Proliant-server-in-the-VMware-vSphere-Hypervisor-ESXi-7-0-3-OS.html)
-36. [Part 36: #intel #optane demo units as part of the @vExpert program](https://andysworld.org.uk/2023/07/01/intel-optane-demo-units-as-part-of-the-vexpert-program/)
-37. [Part 37: Inexpensive HCL Certified 10GBe network interfaces for vSphere ESXi 7.0 and vSphere ESXi 8.0 #homelab](https://andysworld.org.uk/2023/07/02/inexpensive-hcl-certified-10gbe-network-interfaces-for-vsphere-esxi-7-0-and-vsphere-esxi-8-0-homelab/)
-38. [Part 38: It’s A Proper Job! – Low Profile PCIe Bracket for Dell 0XYT17 Intel X520-DA2 Dual Port 10GB SFP+ NIC](https://andysworld.org.uk/2023/07/02/its-a-proper-job-low-profile-pcie-bracket-for-dell-0xyt17-intel-x520-da2-dual-port-10gb-sfp-nic/)
-39. [Part 39: #intel #optane SSD demo units received as part of the vExpert Program not being detected as a datastore in ESXi 7.0 or ESXi 8.0 ?](https://andysworld.org.uk/2023/07/03/intel-optane-ssd-demo-units-received-as-part-of-the-vexpert-program-not-being-detected-as-a-datastore-in-esxi-7-0-or-esxi-8-0/)
 
 
 On 11th October 2022, VMware released VMware vSphere 8.0
