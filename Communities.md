@@ -192,6 +192,7 @@
 ## Sheffield <a name="sheffield"></a>
 
 1. [.NET Sheff](https://www.meetup.com/dotnetsheff/)
+2. [Yorkshire Cyber Security Cluster](https://www.yorkshirecyber.co.uk/)
 
 ## Southamption <a name="southampton"></a>
 
@@ -215,6 +216,9 @@
 ## York <a name="york"></a>
 
 1. [dotnet York](https://www.meetup.com/dotnetYork/)
+2. [York Professionals](https://www.york-professionals.co.uk/about-us/)
+3. [York Developers](https://www.yorkdevelopers.org/)
+4. [NODE York](https://www.nodeyork.com/)
 
 ## Business / Career <a name="business"></a>
 1. [5 ways to help get into the games industry](https://www.linkedin.com/pulse/5-ways-help-you-get-job-games-industry-beginners-guy-derosa/)
