@@ -254,6 +254,7 @@ This course is split over 35 parts, in bit size chunks, hosted by Andrew Hancock
 33. [Part 33: HOW TO: Deploy and Use the Synology Storage Console for VMware to Add iSCSI LUNs and NFS exports to VMware vSphere Cluster ESXi Hosts](https://www.experts-exchange.com/videos/79512/HOW-TO-Deploy-and-Use-the-Synology-Storage-Console-for-VMware-to-Add-iSCSI-LUNs-and-NFS-exports-to-VMware-vSphere-Cluster-ESXi-Hosts.html)
 34. [Part 34: HOW TO: Select VMware vCenter Converter Standalone 6.2 or 6.3 to complete a P2V for Windows XP or Windows 2003 Server](https://www.experts-exchange.com/videos/79632/HOW-TO-Select-VMware-vCenter-Converter-Standalone-6-2-or-6-3-to-complete-a-P2V-for-Windows-XP-or-Windows-2003-Server.html)
 35. [Part 35: HOW TO: Update the ILO Firmware on an HPE Proliant server in the VMware vSphere Hypervisor ESXi 7.0.3 OS](https://www.experts-exchange.com/videos/79653/HOW-TO-Update-the-ILO-Firmware-on-an-HPE-Proliant-server-in-the-VMware-vSphere-Hypervisor-ESXi-7-0-3-OS.html)
+36. [Part 36: #intel #optane demo units as part of the @vExpert program](https://andysworld.org.uk/2023/07/01/intel-optane-demo-units-as-part-of-the-vexpert-program/)
 
 On 11th October 2022, VMware released VMware vSphere 8.0
 
