@@ -1,10 +1,12 @@
 <div align="center">
 <img style="width:45%" src="imgs/tcclogo.jpg" />
 
-# Awesome Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+# Awesome Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 </div>
 
 ## Contents
+
 1. [Introduction](#introduction)
    - [Contributing](#contributing)
 2. [Communities](Communities.md)
@@ -25,7 +27,7 @@
 12. [Hypervisors and virtual machines](Virtualisation.md#virtualisation)
     - [Andrew Hancock, VMware vExpert PRO](Virtualisation.md#andrewhancock)
 13. [Cyber Security Resources](CyberSecurity.md)
-15. [Other Interesting Stuff](#misc)
+14. [Other Interesting Stuff](#misc)
 
 ## Introduction <a name="introduction"></a>
 
@@ -41,7 +43,7 @@ Contributions welcome. If you have a resource that you wish to contribute, pleas
 - Make your changes and double check that nothing is broken.
 - Make a pull request and request a review from the The Codhead Club team.
 
-If you're not sure how to contribute, you can join our [discord](https://discord.codhead.club). Alternatively, Fork the repo and make a PR or [jump straight in with VS Code for Github](https://github.dev/CodheadClub/AwesomeResources). See [here](https://docs.github.com/en/codespaces/developing-in-codespaces/web-based-editor) for more info.
+If you're not sure how to contribute, you can join our [discord](https://discord.gg/DmHbB2PpVn). Alternatively, Fork the repo and make a PR or [jump straight in with VS Code for Github](https://github.dev/CodheadClub/AwesomeResources). See [here](https://docs.github.com/en/codespaces/developing-in-codespaces/web-based-editor) for more info.
 
 ## Services <a name="services"></a>
 
@@ -50,27 +52,23 @@ If you're not sure how to contribute, you can join our [discord](https://discord
 3. [Gitlab](https://about.gitlab.com/)
 4. [Matomo](https://matomo.org) - Self hosted Google Analytics alternative.
 5. [Wekan](https://wekan.github.io/) - Opensource Kanban.
-6. [Shodan](https://www.shodan.io/) 
-7. [Spyse](https://spyse.com/) 
-8. [The Things Network](https://www.thethingsnetwork.org/)
-9. [Programmable Web APIs](https://www.programmableweb.com/)
-10. [A list of publically available APIs](https://github.com/public-apis/public-apis)
+6. [Shodan](https://www.shodan.io/)
+7. [The Things Network](https://www.thethingsnetwork.org/)
+8. [A list of publically available APIs](https://github.com/public-apis/public-apis)
 
 ## Software <a name="software"></a>
 
-1. [Atom Editor](https://atom.io/)
-2. [Jetbrains Editors](https://www.jetbrains.com/).
-3. [The Awesome Self-Hosted List](https://github.com/awesome-selfhosted/awesome-selfhosted) - a list of open source projects which can be self-hosted. The list comprises an amazing range of fascinating tools and projects.
-4. [Bashmarks](https://github.com/huyng/bashmarks)
-5. [Doctl](https://github.com/digitalocean/doctl)
-6. [The Big Warehouse](https://github.com/sbrl/thebigwarehouse) - A collection of resources for programmers.
-7. [Dockstation](https://dockstation.io/) - Docker GUI for Windows, Mac and Linux
-8. [Tush](https://github.com/darius/tush/) - a literate testing shell
-9. [Haven Self Hosted Blog](https://github.com/havenweb/haven) - A self hosted private blog built with ruby on rails.
-10. [Fritzing](https://fritzing.org/) - A software for desinging circuits, PCBs and testing them virtually.
-11. [Katakoda](https://www.katacoda.com/) - Katacoda provides a platform to build live interactive demo and training environments.
-12. [CodeSandbox](https://codesandbox.io/) - CodeSandbox is an online code editor and prototyping tool that makes creating and sharing web apps faster.
-13. [ARC Browser](https://arc.net/) - Unreleased. Will supposedly replace Chrome.
+1. [Jetbrains Editors](https://www.jetbrains.com/).
+2. [The Awesome Self-Hosted List](https://github.com/awesome-selfhosted/awesome-selfhosted) - a list of open source projects which can be self-hosted. The list comprises an amazing range of fascinating tools and projects.
+3. [Bashmarks](https://github.com/huyng/bashmarks)
+4. [Doctl](https://github.com/digitalocean/doctl)
+5. [The Big Warehouse](https://github.com/sbrl/thebigwarehouse) - A collection of resources for programmers.
+6. [Dockstation](https://dockstation.io/) - Docker GUI for Windows, Mac and Linux
+7. [Tush](https://github.com/darius/tush/) - a literate testing shell
+8. [Haven Self Hosted Blog](https://github.com/havenweb/haven) - A self hosted private blog built with ruby on rails.
+9. [Fritzing](https://fritzing.org/) - A software for desinging circuits, PCBs and testing them virtually.
+10. [CodeSandbox](https://codesandbox.io/) - CodeSandbox is an online code editor and prototyping tool that makes creating and sharing web apps faster.
+11. [ARC Browser](https://arc.net/) - Unreleased. Will supposedly replace Chrome.
 
 ## Educational Resources <a name="education"></a>
 
@@ -90,25 +88,23 @@ If you're not sure how to contribute, you can join our [discord](https://discord
 11. [CRISP-DM PyData 2015](https://www.youtube.com/watch?v=civLio11SjQ)
 12. [Tackling Imposter Syndrome, a cambridge students perspective](https://youtu.be/Zd7t9vKsiiA).
 13. [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials?primary_filter=popular) - System Administration tutorials from Digital Ocean. Can be followed on any Linux machine.
-14. [Data Science Handbook](https://tanthiamhuat.files.wordpress.com/2018/04/pythondatasciencehandbook.pdf)
-15. [The Basics by Tom Scott](https://youtube.com/playlist?list=PL96C35uN7xGLLeET0dOWaKHkAlPsrkcha)
-16. [How To Build An App: Everything You Didn't Know You Needed To Know](https://youtube.com/playlist?list=PL96C35uN7xGJu6skU4TBYrIWxggkZBrF5)
-17. [Jeff Geerling](https://www.youtube.com/c/JeffGeerling) - YouTube channel with lots of Raspberry Pi projects and tests, along with resources on Kubernetes, Ansible and more.
-18. [Data Structures and Algorithms Visualiser](https://visualgo.net/en) - Provides visulation for different data structures and algorithms like sorting, linked lists, hash table etc. Also allows some customizations.
-19. [Semantic Scholar](https://www.semanticscholar.org/) - An artificial-intelligence backed search engine for academic publications.
-20. [arXiv](https://arxiv.org/) - Open-access repository of scientific papers in the fields of mathematics, computer science, quantitative biology, statistics and more.
-21. [The Collection of Computer Science Bibliographies](https://liinwww.ira.uka.de/bibliography/index.html) - Collection of bibliographies of scientific literature in computer science from various sources.
-22. [dblp](https://dblp.uni-trier.de/) - Provides open bibliographic information on major computer science journals and proceedings.
-23. [ScienceDirect](https://www.sciencedirect.com) - A large bibliographic database of scientific publications.
-24. [Visualisation and Audibilization of Sorting Algorithms](https://panthema.net/2013/sound-of-sorting/) - Visualize different sorting algorithms and listen the sound of sorting.
-25. [Sentdex Youtube Channel](https://www.youtube.com/c/sentdex) - Youtube channel to learn Machine learning, Deep Learning, Natural Language Processing and python.
+14. [The Basics by Tom Scott](https://youtube.com/playlist?list=PL96C35uN7xGLLeET0dOWaKHkAlPsrkcha)
+15. [How To Build An App: Everything You Didn't Know You Needed To Know](https://youtube.com/playlist?list=PL96C35uN7xGJu6skU4TBYrIWxggkZBrF5)
+16. [Jeff Geerling](https://www.youtube.com/c/JeffGeerling) - YouTube channel with lots of Raspberry Pi projects and tests, along with resources on Kubernetes, Ansible and more.
+17. [Data Structures and Algorithms Visualiser](https://visualgo.net/en) - Provides visulation for different data structures and algorithms like sorting, linked lists, hash table etc. Also allows some customizations.
+18. [Semantic Scholar](https://www.semanticscholar.org/) - An artificial-intelligence backed search engine for academic publications.
+19. [arXiv](https://arxiv.org/) - Open-access repository of scientific papers in the fields of mathematics, computer science, quantitative biology, statistics and more.
+20. [dblp](https://dblp.uni-trier.de/) - Provides open bibliographic information on major computer science journals and proceedings.
+21. [ScienceDirect](https://www.sciencedirect.com) - A large bibliographic database of scientific publications.
+22. [Visualisation and Audibilization of Sorting Algorithms](https://panthema.net/2013/sound-of-sorting/) - Visualize different sorting algorithms and listen the sound of sorting.
+23. [Sentdex Youtube Channel](https://www.youtube.com/c/sentdex) - Youtube channel to learn Machine learning, Deep Learning, Natural Language Processing and python.
 
 ## Linux Distributions <a name="linux"></a>
 
 1. [Ubuntu](https://ubuntu.com/) - Great starting distributions for beginners as lots of support is available.
 2. [Fedora](https://getfedora.org/)
 3. [Arch](https://www.archlinux.org/) - Advanced distribution for those looking to expand their knowledge of Linux.
-4. [Anarchy](https://anarchyinstaller.gitlab.io/) and [ALG](https://archlinuxgui.in/download.html) - These are menu/graphical installers for Arch linux, can be useful for those wanting to try out Arch without doing everything from the command line.
+4. [Anarchy](https://anarchyinstaller.gitlab.io/) - menu/graphical installer for Arch linux, can be useful for those wanting to try out Arch without doing everything from the command line.
 5. [Artix](https://artixlinux.org/) - A systemd-free alternative to Arch.
 6. [Kubuntu](https://kubuntu.org/) - Ubuntu with an alternative desktop environment (KDE).
 7. [Lubuntu](https://lubuntu.me) - Ubuntu using LXQT, a lightweight alternative to other desktop environments.
