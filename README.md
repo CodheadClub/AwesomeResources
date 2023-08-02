@@ -16,6 +16,7 @@
    - [Ethics](Ethics_Law_Professionalism.md#ethics)
    - [Guidance](Ethics_Law_Professionalism.md#guidance)
    - [Professionalism & Standards](Ethics_Law_Professionalism.md#standards)
+   - [Proposed legislation](Ethics_Law_Professionalism.md#proposed)
    - [Law](Ethics_Law_Professionalism.md#law)
 8. [Learning Resources](#education)
 9. [Linux Distributions](Sysadmin.md#linux)
@@ -69,6 +70,7 @@ If you're not sure how to contribute, you can join our [discord](https://discord
 10. [Fritzing](https://fritzing.org/) - A software for desinging circuits, PCBs and testing them virtually.
 11. [Katakoda](https://www.katacoda.com/) - Katacoda provides a platform to build live interactive demo and training environments.
 12. [CodeSandbox](https://codesandbox.io/) - CodeSandbox is an online code editor and prototyping tool that makes creating and sharing web apps faster.
+13. [ARC Browser](https://arc.net/) - Unreleased. Will supposedly replace Chrome.
 
 ## Educational Resources <a name="education"></a>
 

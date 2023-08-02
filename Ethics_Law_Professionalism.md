@@ -15,6 +15,7 @@
    - [Ethics](Ethics_Law_Professionalism.md#ethics)
    - [Guidance](Ethics_Law_Professionalism.md#guidance)
    - [Professionalism & Standards](Ethics_Law_Professionalism.md#standards)
+   - [Proposed legislation](Ethics_Law_Professionalism.md#proposed)
    - [Law](Ethics_Law_Professionalism.md#law)
 8. [Learning Resources](README.md#education)
 9. [Linux Distributions](Sysadmin.md#linux)
@@ -45,6 +46,9 @@
 16. [Hackers turning to exotic programming languages](https://thehackernews.com/2021/07/hackers-turning-to-exotic-programming.html?m=1)
 17. [Don't talk to Police](https://www.youtube.com/watch?v=d-7o9xYp7eE) - An American Law School lecture with a police officer in attendance exploring why it is never a good idea to talk to police.
 18. [Right to be offended does not exist - High Court Judge](https://www.dailymail.co.uk/news/article-7710009/Right-offended-does-not-exist-says-High-Court-judge.html) - High court Judge on why the right to be offended does not exist.
+19. [Social Media and democracy: we need laws, not platform guidelines - The EU](https://www.europarl.europa.eu/news/en/headlines/society/20210204STO97129/social-media-and-democracy-we-need-laws-not-platform-guidelines)
+20. [Surrey Police officer who lied about domestic abuse is sacked](https://www.getsurrey.co.uk/news/surrey-news/surrey-police-officer-who-lied-27077166?int_source=amp_continue_reading&int_medium=amp&int_campaign=continue_reading_button#amp-readmore-target)
+21. [EU to allow installation of spyware on journalists phones and laptops](https://www.thetimes.co.uk/article/journalist-spyware-eu-surveillance-sources-3lfnqqznr#:~:text=Brussels%20ambassadors%20on%20Wednesday%20agreed,music%20piracy%20or%20bicycle%20theft)
 
 ## Guidance <a name="guidance"></a>
 1. [NCSC Data Breach Guidance](https://www.ncsc.gov.uk/guidance/data-breaches)
@@ -63,6 +67,15 @@ guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/)
 8. [ETSI Industry standard Code of Practice](https://www.gov.uk/government/publications/etsi-industry-standard-based-on-the-code-of-practice)
 9. [Electronic Communications Code](https://www.ofcom.org.uk/phones-telecoms-and-internet/information-for-industry/policy/electronic-comm-code)
 10. [The Seven Principles of Public Life](https://www.gov.uk/government/publications/the-7-principles-of-public-life/the-7-principles-of-public-life--2)
+11. [Complying with COPPA: Frequently Asked Questions](https://www.ftc.gov/business-guidance/resources/complying-coppa-frequently-asked-questions)
+12. [Kids Privacy (COPPA)](https://www.ftc.gov/news-events/topics/protecting-consumer-privacy-security/kids-privacy-coppa)
+13. [Children's Online Privacy Protection - Cornell Law School](https://www.law.cornell.edu/uscode/text/15/chapter-91)
+
+## Proposed legislation <a name="proposed"></a>
+1. [EU Digital Services Act: European Commission proposes new rules for digital platforms](https://ec.europa.eu/commission/presscorner/detail/en/ip_20_2321)
+2. [EU Digital Services Act: Europeanising the Internet](https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/652084/EPRS_BRI(2020)652084_EN.pdf)
+3. [EU Digital Services Act: Europeanising Social Media Regulation](https://blogs.lse.ac.uk/europpblog/2022/08/08/the-eus-digital-services-act-europeanising-social-media-regulation/)
+
 
 ## Law <a name="law"></a>
 ### Legal Definitions

@@ -15,6 +15,7 @@
    - [Ethics](Ethics_Law_Professionalism.md#ethics)
    - [Guidance](Ethics_Law_Professionalism.md#guidance)
    - [Professionalism & Standards](Ethics_Law_Professionalism.md#standards)
+   - [Proposed legislation](Ethics_Law_Professionalism.md#proposed)
    - [Law](Ethics_Law_Professionalism.md#law)
 8. [Learning Resources](README.md#education)
 9. [Linux Distributions](Sysadmin.md#linux)

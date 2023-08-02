@@ -219,6 +219,8 @@
 2. [York Professionals](https://www.york-professionals.co.uk/about-us/)
 3. [York Developers](https://www.yorkdevelopers.org/)
 4. [NODE York](https://www.nodeyork.com/)
+5. [Network B2B](https://networkb2b.co.uk/store/york-breakfast/)
+6. [York Business Networking Breakfast](https://www.eventbrite.co.uk/e/york-business-networking-breakfast-tickets-46711883501)
 
 ## Business / Career <a name="business"></a>
 1. [5 ways to help get into the games industry](https://www.linkedin.com/pulse/5-ways-help-you-get-job-games-industry-beginners-guy-derosa/)

@@ -15,6 +15,7 @@
    - [Ethics](Ethics_Law_Professionalism.md#ethics)
    - [Guidance](Ethics_Law_Professionalism.md#guidance)
    - [Professionalism & Standards](Ethics_Law_Professionalism.md#standards)
+   - [Proposed legislation](Ethics_Law_Professionalism.md#proposed)
    - [Law](Ethics_Law_Professionalism.md#law)
 8. [Learning Resources](README.md#education)
 9. [Linux Distributions](Sysadmin.md#linux)
@@ -66,6 +67,7 @@
 20. [How I reversed a NodeJS malware and found the author](https://itnext.io/how-i-reversed-a-nodejs-malware-and-found-the-author-7dd9531b389f?gi=7e8591da3435)
 21. [Data Breaches - Guidance for individuals and families](https://www.ncsc.gov.uk/guidance/data-breaches)
 22. [CodeQL zero to hero - Part 1: the fundamentals of static analysis for vulnerability research](https://github.blog/2023-03-31-codeql-zero-to-hero-part-1-the-fundamentals-of-static-analysis-for-vulnerability-research/)
+23. [Cyber Security & IT Cerifications from ISC2](https://www.isc2.org/)
 ## Tools 
 1. [Hunchly](https://www.hunch.ly/) - The Only Web Capture Tool Designed For Online Investigations.
 2. [Have I Been Pwned](https://haveibeenpwned.com/)
