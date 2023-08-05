@@ -265,6 +265,11 @@ This course is split over 35 parts, in bit size chunks, hosted by Andrew Hancock
 39. [Part 39: HOW TO: Create a VMware vSphere Distributed Switch (VDS) for use with VMware vSphere vSAN for the VMware vSphere vSAN Cluster.](https://www.experts-exchange.com/videos/80015/HOW-TO-Create-a-VMware-vSphere-Distributed-Switch-VDS-for-use-with-VMware-vSphere-vSAN-for-the-VMware-vSphere-vSAN-Cluster.html)
 40. [Part 40: HOW TO: HOW TO: Create a VMware vSphere 7.0.3 vSAN datastore using Intel Optane NVMe storage devices](https://www.experts-exchange.com/videos/80017/HOW-TO-Create-a-VMware-vSphere-7-0-3-vSAN-datastore-using-Intel-Optane-NVMe-storage-devices.html)
 41. [Part 41: HOW TO: Increase the capacity of an existing VMware vSphere vSAN datastore by adding new storage devices](https://www.experts-exchange.com/videos/80016/HOW-TO-Increase-the-capacity-of-an-existing-VMware-vSphere-vSAN-datastore-by-adding-new-storage-devices.html)
+42. [Part 42: HOW TO: Export and Backup the VMware vSphere Distributed Switch (vDS) configuration of a VMware vSphere Distributed Switch (vDS)](https://www.experts-exchange.com/videos/80034/HOW-TO-Export-and-Backup-the-VMware-vSphere-Distributed-Switch-vDS-configuration-of-a-VMware-vSphere-Distributed-Switch-vDS.html)
+43. [Part 43. HOW TO: Correctly configure physical uplinks for teaming and failover on a VMware vSphere Distributed Switch vDS](https://www.experts-exchange.com/videos/80035/HOW-TO-Correctly-configure-physical-uplinks-for-teaming-and-failover-on-a-VMware-vSphere-Distributed-Switch-vDS.html)
+44. [Part 44. HOW TO: Use the vCenter Server 7.0.3 vCenter Server Appliance Management Interface (VAMI) to backup the database and configuration of your vCenter Server](https://www.experts-exchange.com/videos/80036/HOW-TO-Use-the-vCenter-Server-7-0-3-vCenter-Server-Appliance-Management-Interface-VAMI-to-backup-the-database-and-configuration-of-your-vCenter-Server.html)
+45. [Part 45. HOW TO: Create a new Distributed and VMKernel Portgroups on a VMware vSphere Distributed Switch for the vSphere Cluster for use with vCenter Server HA](https://www.experts-exchange.com/videos/80037/HOW-TO-Create-a-new-Distributed-and-VMKernel-Portgroups-on-a-VMware-vSphere-Distributed-Switch-for-the-vSphere-Cluster-for-use-with-vCenter-Server-HA.html)
+
 
 On 11th October 2022, VMware released VMware vSphere 8.0
 
