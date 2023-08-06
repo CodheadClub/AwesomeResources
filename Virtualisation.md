@@ -269,6 +269,7 @@ This course is split over 35 parts, in bit size chunks, hosted by Andrew Hancock
 43. [Part 43. HOW TO: Correctly configure physical uplinks for teaming and failover on a VMware vSphere Distributed Switch vDS](https://www.experts-exchange.com/videos/80035/HOW-TO-Correctly-configure-physical-uplinks-for-teaming-and-failover-on-a-VMware-vSphere-Distributed-Switch-vDS.html)
 44. [Part 44. HOW TO: Use the vCenter Server 7.0.3 vCenter Server Appliance Management Interface (VAMI) to backup the database and configuration of your vCenter Server](https://www.experts-exchange.com/videos/80036/HOW-TO-Use-the-vCenter-Server-7-0-3-vCenter-Server-Appliance-Management-Interface-VAMI-to-backup-the-database-and-configuration-of-your-vCenter-Server.html)
 45. [Part 45. HOW TO: Create a new Distributed and VMKernel Portgroups on a VMware vSphere Distributed Switch for the vSphere Cluster for use with vCenter Server HA](https://www.experts-exchange.com/videos/80037/HOW-TO-Create-a-new-Distributed-and-VMKernel-Portgroups-on-a-VMware-vSphere-Distributed-Switch-for-the-vSphere-Cluster-for-use-with-vCenter-Server-HA.html)
+46. [Part 46. HOW TO: Create, Configure and Deploy VMware vCenter Server High Availability (HA)](https://www.experts-exchange.com/videos/80039/HOW-TO-Create-Configure-and-Deploy-VMware-vCenter-Server-High-Availability-HA.html)
 
 
 On 11th October 2022, VMware released VMware vSphere 8.0
