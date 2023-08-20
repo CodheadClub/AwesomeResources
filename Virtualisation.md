@@ -275,7 +275,8 @@ This course is split over 35 parts, in bit size chunks, hosted by Andrew Hancock
 45. [Part 45. HOW TO: Create a new Distributed and VMKernel Portgroups on a VMware vSphere Distributed Switch for the vSphere Cluster for use with vCenter Server HA](https://www.experts-exchange.com/videos/80037/HOW-TO-Create-a-new-Distributed-and-VMKernel-Portgroups-on-a-VMware-vSphere-Distributed-Switch-for-the-vSphere-Cluster-for-use-with-vCenter-Server-HA.html)
 46. [Part 46. HOW TO: Create, Configure and Deploy VMware vCenter Server High Availability (HA)](https://www.experts-exchange.com/videos/80039/HOW-TO-Create-Configure-and-Deploy-VMware-vCenter-Server-High-Availability-HA.html)
 47. [Part 47. HOW TO: Perform storage performance tests on VMware vSphere vSAN, using the VMware Hyper-converged Infrastructure Benchmark fling (HCIBench)](https://www.experts-exchange.com/videos/80038/HOW-TO-Perform-storage-performance-tests-on-VMware-vSphere-vSAN-using-the-VMware-Hyper-converged-Infrastructure-Benchmark-fling-HCIBench.html)
-
+48. [Part 48. HOW TO: Add a VMware vSphere vSAN license to a VMware vSphere vSAN Cluster](https://www.experts-exchange.com/videos/80053/HOW-TO-Add-a-VMware-vSphere-vSAN-license-to-a-VMware-vSphere-vSAN-Cluster.html)
+ 
 
 On 11th October 2022, VMware released VMware vSphere 8.0
 
