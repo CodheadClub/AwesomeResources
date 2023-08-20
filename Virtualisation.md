@@ -272,6 +272,7 @@ This course is split over 35 parts, in bit size chunks, hosted by Andrew Hancock
 46. [Part 46. HOW TO: Create, Configure and Deploy VMware vCenter Server High Availability (HA)](https://www.experts-exchange.com/videos/80039/HOW-TO-Create-Configure-and-Deploy-VMware-vCenter-Server-High-Availability-HA.html)
 47. [Part 47. HOW TO: Perform storage performance tests on VMware vSphere vSAN, using the VMware Hyper-converged Infrastructure Benchmark fling (HCIBench)](https://www.experts-exchange.com/videos/80038/HOW-TO-Perform-storage-performance-tests-on-VMware-vSphere-vSAN-using-the-VMware-Hyper-converged-Infrastructure-Benchmark-fling-HCIBench.html)
 48. [Part 48. HOW TO: Add a VMware vSphere vSAN license to a VMware vSphere vSAN Cluster](https://www.experts-exchange.com/videos/80053/HOW-TO-Add-a-VMware-vSphere-vSAN-license-to-a-VMware-vSphere-vSAN-Cluster.html)
+49. [Part 49. HOW TO: Synchronize changes when completing a P2V or V2V with VMware vCenter Converter Standalone 6.4](https://www.experts-exchange.com/videos/80054/HOW-TO-Synchronize-changes-when-completing-a-P2V-or-V2V-with-VMware-vCenter-Converter-Standalone-6-4.html)
  
 
 On 11th October 2022, VMware released VMware vSphere 8.0
