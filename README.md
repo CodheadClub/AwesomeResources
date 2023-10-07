@@ -33,7 +33,7 @@
 
 This is an Awesome List of Computer Science, Technology, Programming and Educational resources for the benefit of all who care to use it.
 
-The list was originally created by [Closebracket](https://github.com/closebracket).
+The list was originally created by [closebracket](https://github.com/closebracket) whilst at [Freeside](https://github.com/freeside/studentresources).
 
 ## Contributing <a name="contributing"></a>
 
@@ -43,7 +43,7 @@ Contributions welcome. If you have a resource that you wish to contribute, pleas
 - Make your changes and double check that nothing is broken.
 - Make a pull request and request a review from the The Codhead Club team.
 
-If you're not sure how to contribute, you can join our [discord](https://discord.gg/DmHbB2PpVn). Alternatively, Fork the repo and make a PR or [jump straight in with VS Code for Github](https://github.dev/CodheadClub/AwesomeResources). See [here](https://docs.github.com/en/codespaces/developing-in-codespaces/web-based-editor) for more info.
+You can also [jump straight in with VS Code for Github](https://github.dev/CodheadClub/AwesomeResources) and request to make changes. See [here](https://docs.github.com/en/codespaces/developing-in-codespaces/web-based-editor) for more info.
 
 ## Services <a name="services"></a>
 
