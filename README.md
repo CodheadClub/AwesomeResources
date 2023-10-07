@@ -33,7 +33,7 @@
 
 This is an Awesome List of Computer Science, Technology, Programming and Educational resources for the benefit of all who care to use it.
 
-The list was originally created by [closebracket](https://github.com/closebracket) whilst at [Freeside](https://github.com/freeside/studentresources).
+The list was originally created by [closebracket](https://github.com/closebracket) whilst at [Freeside](https://github.com/freesidehull/studentresources).
 
 ## Contributing <a name="contributing"></a>
 
