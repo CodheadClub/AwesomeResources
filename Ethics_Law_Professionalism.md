@@ -70,7 +70,7 @@ guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/)
 11. [Complying with COPPA: Frequently Asked Questions](https://www.ftc.gov/business-guidance/resources/complying-coppa-frequently-asked-questions)
 12. [Kids Privacy (COPPA)](https://www.ftc.gov/news-events/topics/protecting-consumer-privacy-security/kids-privacy-coppa)
 13. [Children's Online Privacy Protection - Cornell Law School](https://www.law.cornell.edu/uscode/text/15/chapter-91)
-
+14. [Chain of Custody - Digital Forensics](https://www.geeksforgeeks.org/chain-of-custody-digital-forensics/)
 ## Proposed legislation <a name="proposed"></a>
 
 
