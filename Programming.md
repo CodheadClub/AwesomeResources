@@ -29,6 +29,8 @@
 
 # Programming
 
+1. [54 C# Interview Questions and Answers](https://www.devteam.space/hiring-interview-tips/c-interview-questions-and-answers/)
+
 ## Standards
 
 1. [ISO 4217 - Currency Codes](https://www.iso.org/iso-4217-currency-codes.html)
@@ -52,6 +54,8 @@
 4. [Learn C# - English Guide](https://www.youtube.com/playlist?list=PLAC325451207E3105) - Youtube playlist to learn C# (narrated in English)
 5. [Learn C# - Arabic Guide](https://youtu.be/5Zgj7X7l_Dk) - Youtube playlist to learn C# (narrated in Arabic)
 6. [Write your own .NET RSS feed in C#](https://www.jameshbyrd.com/write-your-own-net-rss-feed-in-c-2/)
+7. [Generics and Arrays - Microsoft](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/generics-and-arrays)
+8. [Learn C# - Microsoft](https://learn.microsoft.com/en-gb/users/dotnet/collections/yz26f8y64n7k07?WT.mc_id=dotnet-35129-website)
 
 ## JS
 
