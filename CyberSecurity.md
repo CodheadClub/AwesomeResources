@@ -43,7 +43,7 @@
 7. [Schneier On Security](https://www.schneier.com/) - Blog of Bruce Schneier, "public interest technologist". 
 8. [CryptoRom Bitcoin swindlers continue to target vulnerable iPhone and Android users](https://news.sophos.com/en-us/2022/03/16/cryptorom-bitcoin-swindlers-continue-to-target-vulnerable-iphone-and-android-users/)
 9. [UK Goverment launches new cyber security measures](https://www.adsadvance.co.uk/uk-government-launches-new-cyber-security-measures.html)
-
+10. [U.S. Spy Agency to Create AI Security Center, Official Announces](https://www.govtech.com/artificial-intelligence/us-spy-agency-to-create-ai-security-center-official-announces)
 ## Educational
 1. [Hackersploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) (Youtube Channel) 
 2. [Capture the Flag Playlist](https://www.youtube.com/playlist?list=PLBf0hzazHTGOyRReqMyE-CDMWAQ5AgXO-). 
@@ -82,6 +82,7 @@
 11. [testssl.sh](https://testssl.sh/) - TLS configuration tester like SSL Labs, but runs locally
 12. [Beetlebug](https://github.com/hafiz-ng/Beetlebug) - Beetlebug is a beginner-friendly Capture the Flag Android application that aims to inspire interest in Mobile Application Security.
 13. [PiRogue](https://pts-project.org/) - an open-source tool suite that provides a comprehensive mobile forensic and network traffic analysis.
+14. [CrocodileHunter](https://github.com/EFForg/crocodilehunter) - Note: This tool has been archived, and is not recommended for use **BUT** could still be a good tool for finding IMSI catchers. Crocodile Hunter can be seen in use in "[Phone Hackers: Britains' Secret Surveillance](https://youtu.be/rzBWoVh4qhk)".
 ## Certification / Standards
 1. [CIS Benchmarking](https://www.cisecurity.org/cis-benchmarks/) - Benchmarking tools to protect your environment
 2. [Cyber Essentials Certificaton](https://www.ncsc.gov.uk/cyberessentials/overview)

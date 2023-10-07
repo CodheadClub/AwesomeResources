@@ -116,7 +116,7 @@
 
 ## Hull <a name="hull"></a>
 
-1. [The Codhead Club Discord](https://discord.gg/DmHbB2PpVn) 
+1. [The Codhead Club](https://github.com/codheadclub) 
 2. [For Entrepreneurs Only](https://forentrepreneursonly.co.uk/) - Headquartered on UoH campus providing business mentoring and support.
 3. [C4Di](https://www.c4di.co.uk/) 
 4. [Barclays Eagle Labs](https://labs.uk.barclays/) (Nationwide)
@@ -130,6 +130,7 @@
 1. [Leeds Sharp - .NET User Group](https://www.meetup.com/Leeds-Sharp/)
 2. [Umbraco Leeds Meetup](https://www.meetup.com/umbLeeds/)
 3. [M365 North User Group](https://www.meetup.com/m365-north/)
+4. [Regional Spotlight: Why Leeds is a hotbed for tech scaleups](https://www.uktech.news/partnership/regional-spotlight-leeds-tech-scaleups-hub-20230414)
 ## Liverpool <a name="liverpool"></a>
 
 1. [Dot NET Liverpool](https://www.meetup.com/Dot-NET-Liverpool/)
@@ -221,6 +222,7 @@
 4. [NODE York](https://www.nodeyork.com/)
 5. [Network B2B](https://networkb2b.co.uk/store/york-breakfast/)
 6. [York Business Networking Breakfast](https://www.eventbrite.co.uk/e/york-business-networking-breakfast-tickets-46711883501)
+7. [Tech York](https://techyork.uk/)
 
 ## Business / Career <a name="business"></a>
 1. [5 ways to help get into the games industry](https://www.linkedin.com/pulse/5-ways-help-you-get-job-games-industry-beginners-guy-derosa/)

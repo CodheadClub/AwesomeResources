@@ -29,6 +29,8 @@
 
 # Programming
 
+1. [54 C# Interview Questions and Answers](https://www.devteam.space/hiring-interview-tips/c-interview-questions-and-answers/)
+
 ## Standards
 
 1. [ISO 4217 - Currency Codes](https://www.iso.org/iso-4217-currency-codes.html)
@@ -52,13 +54,15 @@
 4. [Learn C# - English Guide](https://www.youtube.com/playlist?list=PLAC325451207E3105) - Youtube playlist to learn C# (narrated in English)
 5. [Learn C# - Arabic Guide](https://youtu.be/5Zgj7X7l_Dk) - Youtube playlist to learn C# (narrated in Arabic)
 6. [Write your own .NET RSS feed in C#](https://www.jameshbyrd.com/write-your-own-net-rss-feed-in-c-2/)
+7. [Generics and Arrays - Microsoft](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/generics-and-arrays)
+8. [Learn C# - Microsoft](https://learn.microsoft.com/en-gb/users/dotnet/collections/yz26f8y64n7k07?WT.mc_id=dotnet-35129-website)
 
 ## JS
 
 1. [Discord JS](https://github.com/discordjs/discord.js)
 2. [Intro to JS](https://www.geeksforgeeks.org/introduction-to-javascript/)
 3. [HTMX](https://htmx.org/)
-
+4. [Mozilla PDF.js](https://github.com/mozilla/pdf.js/)
 
 ## CSS
 
@@ -113,6 +117,7 @@
 10. [Statiq Web](https://www.statiq.dev/web/) - Still under development, use if you want to get involved with the community to help develop
    - 10.1 [On .NET Live - Generating static web applications with Statiq](https://www.youtube.com/watch?v=43oQTRZqK9g)
 11. [Publii](https://getpublii.com/) - Desktop app rather than CLI
+12. [Zola](https://www.getzola.org/)
 
 ## Cross-Platform
 
@@ -120,6 +125,10 @@
 2. [Flutter](https://flutter.dev/)
 3. [React Native](https://reactnative.dev/)
 3. [Introducing .NET Maui](https://devblogs.microsoft.com/dotnet/introducing-dotnet-maui-one-codebase-many-platforms/)
+4. [Maui Samples](https://github.com/dotnet/maui-samples)
+5. [Razor pages with EF Core](https://learn.microsoft.com/en-us/aspnet/core/data/ef-rp/intro)
+6. [Microsoft Training - Build a Web App with Blazor](https://learn.microsoft.com/en-gb/training/modules/build-blazor-webassembly-visual-studio-code/)
+
 ## Documentation
 
 1. [DevDocs](https://devdocs.io/) - Searchable developer docs
