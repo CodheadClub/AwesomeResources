@@ -113,6 +113,7 @@
 10. [Statiq Web](https://www.statiq.dev/web/) - Still under development, use if you want to get involved with the community to help develop
    - 10.1 [On .NET Live - Generating static web applications with Statiq](https://www.youtube.com/watch?v=43oQTRZqK9g)
 11. [Publii](https://getpublii.com/) - Desktop app rather than CLI
+12. [Zola](https://www.getzola.org/)
 
 ## Cross-Platform
 
@@ -120,6 +121,10 @@
 2. [Flutter](https://flutter.dev/)
 3. [React Native](https://reactnative.dev/)
 3. [Introducing .NET Maui](https://devblogs.microsoft.com/dotnet/introducing-dotnet-maui-one-codebase-many-platforms/)
+4. [Maui Samples](https://github.com/dotnet/maui-samples)
+5. [Razor pages with EF Core](https://learn.microsoft.com/en-us/aspnet/core/data/ef-rp/intro)
+6. [Microsoft Training - Build a Web App with Blazor](https://learn.microsoft.com/en-gb/training/modules/build-blazor-webassembly-visual-studio-code/)
+
 ## Documentation
 
 1. [DevDocs](https://devdocs.io/) - Searchable developer docs
