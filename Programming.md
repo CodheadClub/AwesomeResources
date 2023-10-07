@@ -62,7 +62,7 @@
 1. [Discord JS](https://github.com/discordjs/discord.js)
 2. [Intro to JS](https://www.geeksforgeeks.org/introduction-to-javascript/)
 3. [HTMX](https://htmx.org/)
-
+4. [Mozilla PDF.js](https://github.com/mozilla/pdf.js/)
 
 ## CSS
 
