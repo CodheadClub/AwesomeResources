@@ -49,7 +49,7 @@
 19. [Social Media and democracy: we need laws, not platform guidelines - The EU](https://www.europarl.europa.eu/news/en/headlines/society/20210204STO97129/social-media-and-democracy-we-need-laws-not-platform-guidelines)
 20. [Surrey Police officer who lied about domestic abuse is sacked](https://www.getsurrey.co.uk/news/surrey-news/surrey-police-officer-who-lied-27077166?int_source=amp_continue_reading&int_medium=amp&int_campaign=continue_reading_button#amp-readmore-target)
 21. [EU to allow installation of spyware on journalists phones and laptops](https://www.thetimes.co.uk/article/journalist-spyware-eu-surveillance-sources-3lfnqqznr#:~:text=Brussels%20ambassadors%20on%20Wednesday%20agreed,music%20piracy%20or%20bicycle%20theft)
-
+22. [Web3 doesn't exist](https://marcushutchins.com/blog/tech/opinions/why-web3-doesnt-exist.html)
 ## Guidance <a name="guidance"></a>
 1. [NCSC Data Breach Guidance](https://www.ncsc.gov.uk/guidance/data-breaches)
 2. [NCSC Phishing Scam Guidance](https://www.ncsc.gov.uk/collection/phishing-scams)
