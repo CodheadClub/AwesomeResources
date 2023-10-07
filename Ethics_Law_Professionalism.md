@@ -72,9 +72,8 @@ guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/)
 13. [Children's Online Privacy Protection - Cornell Law School](https://www.law.cornell.edu/uscode/text/15/chapter-91)
 
 ## Proposed legislation <a name="proposed"></a>
-1. [EU Digital Services Act: European Commission proposes new rules for digital platforms](https://ec.europa.eu/commission/presscorner/detail/en/ip_20_2321)
-2. [EU Digital Services Act: Europeanising the Internet](https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/652084/EPRS_BRI(2020)652084_EN.pdf)
-3. [EU Digital Services Act: Europeanising Social Media Regulation](https://blogs.lse.ac.uk/europpblog/2022/08/08/the-eus-digital-services-act-europeanising-social-media-regulation/)
+
+
 
 
 ## Law <a name="law"></a>
@@ -132,3 +131,10 @@ guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/)
 4. [Consultation on regulatory proposals on consumer IoT Security](https://www.gov.uk/government/consultations/consultation-on-regulatory-proposals-on-consumer-iot-security)
 5. [New Cyber Laws to Protect People's personal tech from hackers](https://www.gov.uk/government/news/new-cyber-laws-to-protect-peoples-personal-tech-from-hackers)
 6. [Huge fines and a ban on default passwords in new UK law](https://www.bbc.co.uk/news/technology-59400762)
+
+### The Digital Services Act 
+1. [EU Digital Services Act: European Commission proposes new rules for digital platforms](https://ec.europa.eu/commission/presscorner/detail/en/ip_20_2321)
+2. [EU Digital Services Act: Europeanising Social Media Regulation](https://blogs.lse.ac.uk/europpblog/2022/08/08/the-eus-digital-services-act-europeanising-social-media-regulation/)
+3. [E.U. Takes Aim at Social Media’s Harms With Landmark New Law](https://www.nytimes.com/2022/04/22/technology/european-union-social-media-law.html)
+4. [Social media and democracy: we need laws, not platform guidelines](https://www.europarl.europa.eu/news/en/headlines/society/20210204STO97129/social-media-and-democracy-we-need-laws-not-platform-guidelines)
+5. [Social media innovation and policy](https://digital-strategy.ec.europa.eu/en/policies/social-media-policy)
