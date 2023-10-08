@@ -149,6 +149,7 @@
 10. [London Twitter Developer Community](https://www.meetup.com/london-twitter-developer-community/)
 11. [Central London Data Science](https://www.meetup.com/central_london_data_science/)
 12. [London Data Science Workshop](https://www.meetup.com/London-Data-Science-Workshop/)
+13. [GraphQL London](https://www.meetup.com/GraphQL-London/)
 
 ## Manchester <a name="manchester"></a>
 
