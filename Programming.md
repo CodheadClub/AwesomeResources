@@ -37,6 +37,7 @@
 2. [ISO 8601 - Date and Time Format](https://www.iso.org/iso-8601-date-and-time-format.html)
 3. [ISO 31000 - Risk Management](https://www.iso.org/iso-31000-risk-management.html)
 4. [ISO/IEC 27001 - Information Security Management](https://www.iso.org/isoiec-27001-information-security.html)
+5. [GraphQL Spec](https://spec.graphql.org/)
 
 ## Blazor
 
@@ -68,6 +69,7 @@
 2. [Intro to JS](https://www.geeksforgeeks.org/introduction-to-javascript/)
 3. [HTMX](https://htmx.org/)
 4. [Mozilla PDF.js](https://github.com/mozilla/pdf.js/)
+5. [GraphQL JS](https://github.com/graphql/graphql-js)
 
 ## CSS
 
@@ -107,6 +109,7 @@
 7. [Tuples](https://www.scaler.com/topics/python/tuples-in-python/)
 8. [Dictionary](https://docs.python.org/3/tutorial/datastructures.html#dictionaries)
 9. [Functions](https://pynative.com/python-functions/)
+10. [GraphQL Python](https://github.com/graphql-python/graphene)
 
 ## Static site generators
 
