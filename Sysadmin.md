@@ -35,6 +35,7 @@
 1. [Well known port numbers](https://networkencyclopedia.com/well-known-port-numbers/)
 2. [How to use SSH](https://www.ssh.com/ssh/command/)
 3. [Linux Command Map](https://xmind.app/m/WwtB/)
+4. [Getting started with Ansible](https://docs.ansible.com/ansible/latest/getting_started/index.html)
 
 ## Linux Distributions <a name="linux"></a>
 
