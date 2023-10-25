@@ -304,5 +304,6 @@ This new series will focus on VMware vSphere 8.0, and will run in parallel with 
 19. [Part 19: HOW TO: Select an inexpensive HCL Certified 10GBe network interfaces for vSphere ESXi 7.0 and vSphere ESXi 8.0 for VMware vSphere vSAN](https://www.experts-exchange.com/videos/79993/HOW-TO-Select-an-inexpensive-HCL-Certified-10GBe-network-interfaces-for-vSphere-ESXi-7-0-and-vSphere-ESXi-8-0-for-VMware-vSphere-vSAN.html)
 20. [Part 20: HOW TO: Change the LBA sector size of storage media to make it compatible with VMware vSphere Hypervisor ESXi 7.0 and ESXi 8.0.](https://www.experts-exchange.com/videos/79994/HOW-TO-Change-the-LBA-sector-size-of-storage-media-to-make-it-compatible-with-VMware-vSphere-Hypervisor-ESXi-7-0-and-ESXi-8-0.html)
 21. [Part 21: HOW TO: Create and Deploy a Microsoft Windows 2022 template using VMware vSphere vCenter Server 8.0](https://www.experts-exchange.com/videos/80013/HOW-TO-Create-and-Deploy-a-Microsoft-Windows-2022-template-using-VMware-vSphere-vCenter-Server-8-0.html)
+22. [Part 22: HOW TO: Deploy Runecast and Perform an audit of your VMware vSphere Inventory for Cyber Essentials Compliance](https://www.experts-exchange.com/videos/80113/HOW-TO-Deploy-Runecast-and-Perform-an-audit-of-your-VMware-vSphere-Inventory-for-Cyber-Essentials-Compliance.html)
 
 
