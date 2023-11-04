@@ -37,6 +37,7 @@
 2. [ISO 8601 - Date and Time Format](https://www.iso.org/iso-8601-date-and-time-format.html)
 3. [ISO 31000 - Risk Management](https://www.iso.org/iso-31000-risk-management.html)
 4. [ISO/IEC 27001 - Information Security Management](https://www.iso.org/isoiec-27001-information-security.html)
+5. [GraphQL Spec](https://spec.graphql.org/)
 
 ## Blazor
 
@@ -56,6 +57,11 @@
 6. [Write your own .NET RSS feed in C#](https://www.jameshbyrd.com/write-your-own-net-rss-feed-in-c-2/)
 7. [Generics and Arrays - Microsoft](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/generics-and-arrays)
 8. [Learn C# - Microsoft](https://learn.microsoft.com/en-gb/users/dotnet/collections/yz26f8y64n7k07?WT.mc_id=dotnet-35129-website)
+9. [Building GraphQL APIs in C#](https://www.youtube.com/watch?v=9Nn0OkLQ9lM)
+   - 9.1 [Resources from the talk](https://codetraveler.io/ndc-graphql/)
+   - 9.2 [HotChocolateGraphQL](https://github.com/brminnick/HotChocolateGraphQL?
+   - 9.3 [GraphQL Workshop](https://github.com/ChilliCream/graphql-workshop)
+   - 9.4 [Awesome GraphQL](https://github.com/chentsulin/awesome-graphql)
 
 ## JS
 
@@ -63,6 +69,7 @@
 2. [Intro to JS](https://www.geeksforgeeks.org/introduction-to-javascript/)
 3. [HTMX](https://htmx.org/)
 4. [Mozilla PDF.js](https://github.com/mozilla/pdf.js/)
+5. [GraphQL JS](https://github.com/graphql/graphql-js)
 
 ## CSS
 
@@ -102,6 +109,7 @@
 7. [Tuples](https://www.scaler.com/topics/python/tuples-in-python/)
 8. [Dictionary](https://docs.python.org/3/tutorial/datastructures.html#dictionaries)
 9. [Functions](https://pynative.com/python-functions/)
+10. [GraphQL Python](https://github.com/graphql-python/graphene)
 
 ## Static site generators
 

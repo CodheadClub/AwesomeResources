@@ -68,6 +68,9 @@
 21. [Data Breaches - Guidance for individuals and families](https://www.ncsc.gov.uk/guidance/data-breaches)
 22. [CodeQL zero to hero - Part 1: the fundamentals of static analysis for vulnerability research](https://github.blog/2023-03-31-codeql-zero-to-hero-part-1-the-fundamentals-of-static-analysis-for-vulnerability-research/)
 23. [Cyber Security & IT Cerifications from ISC2](https://www.isc2.org/)
+24. [CS50 CyberSecurity](https://cs50.harvard.edu/cybersecurity/)
+   - 24.1 [CS50 CyberSecurity - Youtube Playlist](https://www.youtube.com/watch?v=kmJlnUfMd7I&list=PLhQjrBD2T383Cqo5I1oRrbC1EKRAKGKUE)
+
 ## Tools 
 1. [Hunchly](https://www.hunch.ly/) - The Only Web Capture Tool Designed For Online Investigations.
 2. [Have I Been Pwned](https://haveibeenpwned.com/)

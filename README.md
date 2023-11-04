@@ -98,6 +98,7 @@ You can also [jump straight in with VS Code for Github](https://github.dev/Codhe
 21. [ScienceDirect](https://www.sciencedirect.com) - A large bibliographic database of scientific publications.
 22. [Visualisation and Audibilization of Sorting Algorithms](https://panthema.net/2013/sound-of-sorting/) - Visualize different sorting algorithms and listen the sound of sorting.
 23. [Sentdex Youtube Channel](https://www.youtube.com/c/sentdex) - Youtube channel to learn Machine learning, Deep Learning, Natural Language Processing and python.
+24. [CS50 SQL - Youtube playlist](https://www.youtube.com/watch?v=wdzA1Z8tKek&list=PLhQjrBD2T382v1MBjNOhPu9SiJ1fsD4C0)
 
 ## Linux Distributions <a name="linux"></a>
 
