@@ -307,4 +307,5 @@ This new series will focus on VMware vSphere 8.0, and will run in parallel with 
 22. [Part 22: HOW TO: Deploy Runecast and Perform an audit of your VMware vSphere Inventory for Cyber Essentials Compliance](https://www.experts-exchange.com/videos/80113/HOW-TO-Deploy-Runecast-and-Perform-an-audit-of-your-VMware-vSphere-Inventory-for-Cyber-Essentials-Compliance.html)
 23. [Part 23: HOW TO: Update VMware ESXi 8.0 GA to ESXi 8.0U2 direct from VMware remotely using the ESXCLI tool installed on Windows 10](https://www.experts-exchange.com/videos/80133/HOW-TO-Update-VMware-ESXi-8-0-GA-to-ESXi-8-0U2-direct-from-VMware-remotely-using-the-ESXCLI-tool-installed-on-Windows-10.html)
 24. [Part 24: HOW TO: Examine the findings relevant to your VMware vSphere environment using VMware Skyline Advisor Pro 3.5](https://www.experts-exchange.com/videos/80153/HOW-TO-Examine-the-findings-relevant-to-your-VMware-vSphere-environment-using-VMware-Skyline-Advisor-Pro-3-5.html)
+25. [Part 25: HOW TO: Runecast Analyzer versus VMware Skyline Advisor Pro 3.5](https://www.experts-exchange.com/videos/80158/HOW-TO-Runecast-Analyzer-versus-VMware-Skyline-Advisor-Pro-3-5.html)
 
