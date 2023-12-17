@@ -274,6 +274,8 @@ This course is split over 35 parts, in bit size chunks, hosted by Andrew Hancock
 48. [Part 48. HOW TO: Add a VMware vSphere vSAN license to a VMware vSphere vSAN Cluster](https://www.experts-exchange.com/videos/80053/HOW-TO-Add-a-VMware-vSphere-vSAN-license-to-a-VMware-vSphere-vSAN-Cluster.html)
 49. [Part 49. HOW TO: Synchronize changes when completing a P2V or V2V with VMware vCenter Converter Standalone 6.4](https://www.experts-exchange.com/videos/80054/HOW-TO-Synchronize-changes-when-completing-a-P2V-or-V2V-with-VMware-vCenter-Converter-Standalone-6-4.html)
 50. [Part 50. HOW TO: Deploy and Configure Zerto to migrate workloads between Cloud and On-Prem VMware vSphere infrastructure with limited downtime](https://www.experts-exchange.com/videos/80055/HOW-TO-Deploy-and-Configure-Zerto-to-migrate-workloads-between-Cloud-and-On-Prem-VMware-vSphere-infrastructure-with-limited-downtime.html) 
+51. [Part 51. HOW TO: Update the VMware vSphere Hypervisor 7.0 ARM Edition (ESXi 7.0 ARM edition) from v1.12 to v1.15 on a Raspberry Pi 4](https://www.experts-exchange.com/videos/80234/HOW-TO-Update-the-VMware-vSphere-Hypervisor-7-0-ARM-Edition-ESXi-7-0-ARM-edition-from-v1-12-to-v1-15-on-a-Raspberry-Pi-4.html)
+
 
 On 11th October 2022, VMware released VMware vSphere 8.0
 
