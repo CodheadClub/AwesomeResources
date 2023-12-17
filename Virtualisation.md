@@ -306,4 +306,5 @@ This new series will focus on VMware vSphere 8.0, and will run in parallel with 
 25. [Part 25: HOW TO: Runecast Analyzer versus VMware Skyline Advisor Pro 3.5](https://www.experts-exchange.com/videos/80158/HOW-TO-Runecast-Analyzer-versus-VMware-Skyline-Advisor-Pro-3-5.html)
 26. [Part 26: HOW TO: Configure and Test SNMPv3 on VMware vSphere Hypervisor ESXi 8.0U2 using ESXCLI and SNMPWALK](https://www.experts-exchange.com/videos/80193/HOW-TO-Configure-and-Test-SNMPv3-on-VMware-vSphere-Hypervisor-ESXi-8-0U2-using-ESXCLI-and-SNMPWALK.html)
 27. [Part 27: HOW TO: Configure and Test Paessler PRTG to manage and monitor VMware vSphere Hypervisor ESXi 8.0U2](https://www.experts-exchange.com/videos/80194/HOW-TO-Configure-and-Test-Paessler-PRTG-to-manage-and-monitor-VMware-vSphere-Hypervisor-ESXi-8-0U2.html)
+28. [Part 28: HOW TO: Configure and Install Observium CE (Community Edition)  to manage and monitor VMware vSphere Hypervisor ESXi 8.0U2 using SNMP v3](https://www.experts-exchange.com/videos/80233/HOW-TO-Configure-and-Install-Observium-CE-Community-Edition-to-manage-and-monitor-VMware-vSphere-Hypervisor-ESXi-8-0U2-using-SNMP-v3.html)
 
