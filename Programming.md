@@ -39,6 +39,7 @@
 
 ## Patterns
 1. [Essential Javascript Design Patterns](https://github.com/addyosmani/essential-js-design-patterns)
+2. [Advanced Patterns Workshop](https://github.com/total-typescript/advanced-patterns-workshop)
 
 ### 𝐒𝐢𝐧𝐠𝐥𝐞𝐭𝐨𝐧 𝐏𝐚𝐭𝐭𝐞𝐫𝐧
 Ensures a class has only one instance and provides a global point of access to it.
@@ -70,10 +71,6 @@ Defines a family of algorithms, encapsulates each algorithm, and makes them inte
 
 ### 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐏𝐚𝐭𝐭𝐞𝐫𝐧
 Encapsulates a request as an object, thereby allowing for parameterization of clients with different requests, queuing of requests, and logging of the parameters.
-
-
-
-
 
 ## Standards
 
@@ -115,7 +112,8 @@ Encapsulates a request as an object, thereby allowing for parameterization of cl
 3. [HTMX](https://htmx.org/)
 4. [Mozilla PDF.js](https://github.com/mozilla/pdf.js/)
 5. [GraphQL JS](https://github.com/graphql/graphql-js)
-
+6. [CSS for JS Dev Notes](https://github.com/narutosstudent/css-for-js-devs-notes)
+7. [Javascript Questions](https://github.com/lydiahallie/javascript-questions)
 ## CSS
 
 1. [Awesome TailwindCSS](https://github.com/aniftyco/awesome-tailwindcss)
@@ -185,6 +183,7 @@ Encapsulates a request as an object, thereby allowing for parameterization of cl
 7. [Blazor with an RSS Feed](https://steven-giesel.com/blogPost/29f1d469-8bfb-422a-8c5b-0bee9c8d6b96)
 8. [RssReader sample](https://learn.microsoft.com/en-us/samples/microsoft/windows-appsample-rssreader/rssreader-sample/)
    - 8.1 [RssReader.sln example](https://github.com/microsoft/Windows-appsample-rssreader/blob/master/RssReader.sln)
+9. [Start .NET MAUI Development in 2024](https://www.youtube.com/watch?v=02pjHAXYK6s)
 
 ## Documentation
 
