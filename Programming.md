@@ -35,8 +35,11 @@
 4. [MediatR Pipeline Behaviour](https://stefandjokic.tech/posts/mediatr-pipeline-behavior)
 5. [Getting Started with PLINQ](https://stefandjokic.tech/posts/getting-started-with-plinq)
 6. [.NET January 2024 Updates](https://devblogs.microsoft.com/dotnet/january-2024-updates/)
+7. [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
 
 ## Patterns
+1. [Essential Javascript Design Patterns](https://github.com/addyosmani/essential-js-design-patterns)
+
 ### 𝐒𝐢𝐧𝐠𝐥𝐞𝐭𝐨𝐧 𝐏𝐚𝐭𝐭𝐞𝐫𝐧
 Ensures a class has only one instance and provides a global point of access to it.
 1. [How to use the Singleton Pattern in Multithreading in .NET](https://stefandjokic.tech/posts/how-to-use-singleton-in-multithreading)
@@ -79,6 +82,7 @@ Encapsulates a request as an object, thereby allowing for parameterization of cl
 3. [ISO 31000 - Risk Management](https://www.iso.org/iso-31000-risk-management.html)
 4. [ISO/IEC 27001 - Information Security Management](https://www.iso.org/isoiec-27001-information-security.html)
 5. [GraphQL Spec](https://spec.graphql.org/)
+6. [Open Source Security Foundation (OpenSSF) Github](https://github.com/ossf) - Useful tooling and standards for security available on the OpenSSF github.
 
 ## Blazor
 
