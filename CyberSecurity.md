@@ -111,3 +111,4 @@
    - 9.1 [Github Repo](https://github.com/leemeichin/sqlcss.xyz)
    - 9.2 [sqlcss.xyz](https://www.sqlcss.xyz/)
 10. [Botnets](https://github.com/maestron/botnets) - A collection of botnet source codes. 
+11. [Pantagrule](https://github.com/rarecoil/pantagrule) - gargantuan hashcat rulesets generated from compromised passwords
