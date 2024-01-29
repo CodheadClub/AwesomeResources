@@ -30,6 +30,47 @@
 # Programming
 
 1. [54 C# Interview Questions and Answers](https://www.devteam.space/hiring-interview-tips/c-interview-questions-and-answers/)
+2. [How to create .NET Custom Guard Clause](https://stefandjokic.tech/posts/how-to-create-dotnet-custom-guard-clause)
+3. [Health Checks in .NET 8](https://stefandjokic.tech/posts/health-checks-in-dotnet8)
+4. [MediatR Pipeline Behaviour](https://stefandjokic.tech/posts/mediatr-pipeline-behavior)
+5. [Getting Started with PLINQ](https://stefandjokic.tech/posts/getting-started-with-plinq)
+6. [.NET January 2024 Updates](https://devblogs.microsoft.com/dotnet/january-2024-updates/)
+7. [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
+
+## Patterns
+1. [Essential Javascript Design Patterns](https://github.com/addyosmani/essential-js-design-patterns)
+2. [Advanced Patterns Workshop](https://github.com/total-typescript/advanced-patterns-workshop)
+
+### 𝐒𝐢𝐧𝐠𝐥𝐞𝐭𝐨𝐧 𝐏𝐚𝐭𝐭𝐞𝐫𝐧
+Ensures a class has only one instance and provides a global point of access to it.
+1. [How to use the Singleton Pattern in Multithreading in .NET](https://stefandjokic.tech/posts/how-to-use-singleton-in-multithreading)
+
+### 𝐅𝐚𝐜𝐭𝐨𝐫𝐲 𝐌𝐞𝐭𝐡𝐨𝐝 𝐏𝐚𝐭𝐭𝐞𝐫𝐧
+Defines an interface for creating an object, but leaves the choice of its type to the subclasses, creating an instance of it.
+
+### 𝐀𝐛𝐬𝐭𝐫𝐚𝐜𝐭 𝐅𝐚𝐜𝐭𝐨𝐫𝐲 𝐏𝐚𝐭𝐭𝐞𝐫𝐧
+Provides an interface for creating families of related or dependent objects without specifying their concrete classes.
+
+### 𝐁𝐮𝐢𝐥𝐝𝐞𝐫 𝐏𝐚𝐭𝐭𝐞𝐫𝐧
+Separates the construction of a complex object from its representation, allowing the same construction process to create different representations.
+
+### 𝐏𝐫𝐨𝐭𝐨𝐭𝐲𝐩𝐞 𝐏𝐚𝐭𝐭𝐞𝐫𝐧
+Creates new objects by copying an existing object, known as the prototype.
+
+### 𝐀𝐝𝐚𝐩𝐭𝐞𝐫 𝐏𝐚𝐭𝐭𝐞𝐫𝐧
+Allows the interface of an existing class to be used as another interface.
+
+### 𝐃𝐞𝐜𝐨𝐫𝐚𝐭𝐨𝐫 𝐏𝐚𝐭𝐭𝐞𝐫𝐧
+Attaches additional responsibilities to an object dynamically. Decorators provide a flexible alternative to sub classing for extending functionality.
+
+### 𝐎𝐛𝐬𝐞𝐫𝐯𝐞𝐫 𝐏𝐚𝐭𝐭𝐞𝐫𝐧
+Defines a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically.
+
+### 𝐒𝐭𝐫𝐚𝐭𝐞𝐠𝐲 𝐏𝐚𝐭𝐭𝐞𝐫𝐧
+Defines a family of algorithms, encapsulates each algorithm, and makes them interchangeable. Strategy lets the algorithm vary independently from clients that use it.
+
+### 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐏𝐚𝐭𝐭𝐞𝐫𝐧
+Encapsulates a request as an object, thereby allowing for parameterization of clients with different requests, queuing of requests, and logging of the parameters.
 
 ## Standards
 
@@ -38,6 +79,7 @@
 3. [ISO 31000 - Risk Management](https://www.iso.org/iso-31000-risk-management.html)
 4. [ISO/IEC 27001 - Information Security Management](https://www.iso.org/isoiec-27001-information-security.html)
 5. [GraphQL Spec](https://spec.graphql.org/)
+6. [Open Source Security Foundation (OpenSSF) Github](https://github.com/ossf) - Useful tooling and standards for security available on the OpenSSF github.
 
 ## Blazor
 
@@ -70,7 +112,8 @@
 3. [HTMX](https://htmx.org/)
 4. [Mozilla PDF.js](https://github.com/mozilla/pdf.js/)
 5. [GraphQL JS](https://github.com/graphql/graphql-js)
-
+6. [CSS for JS Dev Notes](https://github.com/narutosstudent/css-for-js-devs-notes)
+7. [Javascript Questions](https://github.com/lydiahallie/javascript-questions)
 ## CSS
 
 1. [Awesome TailwindCSS](https://github.com/aniftyco/awesome-tailwindcss)
@@ -118,6 +161,7 @@
 3. [Netlify](https://app.netlify.com/signup) - Starter is free for personal use
 4. [Hugo](https://gohugo.io/)
 5. [Eleventy](https://www.11ty.dev/)
+   - 5.1. [11Straps](https://11straps.com/)
 6. [Pelican](https://github.com/getpelican/pelican)
 7. [WP2Static](https://wp2static.com/)
 8. [Nikola](https://getnikola.com/getting-started.html)
@@ -136,6 +180,10 @@
 4. [Maui Samples](https://github.com/dotnet/maui-samples)
 5. [Razor pages with EF Core](https://learn.microsoft.com/en-us/aspnet/core/data/ef-rp/intro)
 6. [Microsoft Training - Build a Web App with Blazor](https://learn.microsoft.com/en-gb/training/modules/build-blazor-webassembly-visual-studio-code/)
+7. [Blazor with an RSS Feed](https://steven-giesel.com/blogPost/29f1d469-8bfb-422a-8c5b-0bee9c8d6b96)
+8. [RssReader sample](https://learn.microsoft.com/en-us/samples/microsoft/windows-appsample-rssreader/rssreader-sample/)
+   - 8.1 [RssReader.sln example](https://github.com/microsoft/Windows-appsample-rssreader/blob/master/RssReader.sln)
+9. [Start .NET MAUI Development in 2024](https://www.youtube.com/watch?v=02pjHAXYK6s)
 
 ## Documentation
 
