@@ -23,6 +23,7 @@
 12. [Hypervisors and virtual machines](Virtualisation.md#virtualisation)
     - [Andrew Hancock, VMware vExpert PRO](Virtualisation.md#andrewhancock)
 13. [Cyber Security Resources](CyberSecurity.md)
+    - 13.1 [Digital Warfare and Geopolitics](DigitalWarfareGeoPolitics.md)
 14. [Other Interesting Stuff](README.md#misc)
 
 ## Communities
