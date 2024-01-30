@@ -24,6 +24,7 @@
 12. [Hypervisors and virtual machines](Virtualisation.md#virtualisation)
     - [Andrew Hancock, VMware vExpert PRO](Virtualisation.md#andrewhancock)
 13. [Cyber Security Resources](CyberSecurity.md)
+    - 13.1 [Digital Warfare and Geopolitics](DigitalWarfareGeoPolitics.md)
 14. [Other Interesting Stuff](README.md#misc)
 
 
@@ -101,7 +102,7 @@ Encapsulates a request as an object, thereby allowing for parameterization of cl
 8. [Learn C# - Microsoft](https://learn.microsoft.com/en-gb/users/dotnet/collections/yz26f8y64n7k07?WT.mc_id=dotnet-35129-website)
 9. [Building GraphQL APIs in C#](https://www.youtube.com/watch?v=9Nn0OkLQ9lM)
    - 9.1 [Resources from the talk](https://codetraveler.io/ndc-graphql/)
-   - 9.2 [HotChocolateGraphQL](https://github.com/brminnick/HotChocolateGraphQL?
+   - 9.2 [HotChocolateGraphQL](https://github.com/brminnick/HotChocolateGraphQL)
    - 9.3 [GraphQL Workshop](https://github.com/ChilliCream/graphql-workshop)
    - 9.4 [Awesome GraphQL](https://github.com/chentsulin/awesome-graphql)
 

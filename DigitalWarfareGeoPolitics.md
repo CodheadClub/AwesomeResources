@@ -27,7 +27,10 @@
     - 13.1 [Digital Warfare and Geopolitics](DigitalWarfareGeoPolitics.md)
 14. [Other Interesting Stuff](README.md#misc)
 
-# Electronics
 
-1. [Learn Electronics](https://www.youtube.com/channel/UCSRTiJhBE5GsP-1fCbpFRWg) (Youtube Channel).
-2. [Free Books on Robotics](https://github.com/StevenShiChina/books)
+# Digital Warfare and Geopolitics <a name="wargeo"></a>
+
+### The West and China
+1. [Federal Court expands definition of espionage in decision to bar Chinese student from Canada](https://www.theglobeandmail.com/canada/article-federal-court-decision-to-bar-chinese-student-expands-definition-of/)
+2. [US disabled Chinese hacking network targeting critical infrastructure](https://www.reuters.com/world/us/us-disabled-chinese-hacking-network-targeting-critical-infrastructure-sources-2024-01-29/)
+3. [Volt Typhoon targets US critical infrastructure with living-off-the-land techniques](https://www.microsoft.com/en-us/security/blog/2023/05/24/volt-typhoon-targets-us-critical-infrastructure-with-living-off-the-land-techniques/)
