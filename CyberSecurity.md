@@ -48,7 +48,7 @@
 11. [Hacking Humans Podcast](https://thecyberwire.com/podcasts/hacking-humans)
 12. [SANS Daily StormCast](https://isc.sans.edu/podcast.html)
 13. [Security Now Podcast](https://twit.tv/shows/security-now)
-14. [VMware Podcasts])https://podcasts.vmware.com/)
+14. [VMware Podcasts](https://podcasts.vmware.com/)
 15. [CyberWire Daily](https://thecyberwire.com/podcasts/daily-podcast)
 16. [Darknet Diaries](https://darknetdiaries.com/)
 ## Educational
