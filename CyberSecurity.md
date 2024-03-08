@@ -45,6 +45,12 @@
 8. [CryptoRom Bitcoin swindlers continue to target vulnerable iPhone and Android users](https://news.sophos.com/en-us/2022/03/16/cryptorom-bitcoin-swindlers-continue-to-target-vulnerable-iphone-and-android-users/)
 9. [UK Goverment launches new cyber security measures](https://www.adsadvance.co.uk/uk-government-launches-new-cyber-security-measures.html)
 10. [U.S. Spy Agency to Create AI Security Center, Official Announces](https://www.govtech.com/artificial-intelligence/us-spy-agency-to-create-ai-security-center-official-announces)
+11. [Hacking Humans Podcast](https://thecyberwire.com/podcasts/hacking-humans)
+12. [SANS Daily StormCast](https://isc.sans.edu/podcast.html)
+13. [Security Now Podcast](https://twit.tv/shows/security-now)
+14. [VMware Podcasts](https://podcasts.vmware.com/)
+15. [CyberWire Daily](https://thecyberwire.com/podcasts/daily-podcast)
+16. [Darknet Diaries](https://darknetdiaries.com/)
 ## Educational
 1. [Hackersploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) (Youtube Channel) 
 2. [Capture the Flag Playlist](https://www.youtube.com/playlist?list=PLBf0hzazHTGOyRReqMyE-CDMWAQ5AgXO-). 
