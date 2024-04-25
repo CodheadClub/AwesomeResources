@@ -80,7 +80,7 @@ guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/)
 ### Artificial Intelligence
 
 1. [BCS AI Ethics Guidelines](https://www.bcs.org/media/3637/ai-ethics-guidelines.pdf)
-2. ]Introduction to AI Assurance](<https://www.gov.uk/government/publications/introduction-to-ai-assurance>)
+2. [Introduction to AI Assurance](<https://www.gov.uk/government/publications/introduction-to-ai-assurance>)
 3. [AI Regulation - A pro innovation approach](https://www.gov.uk/government/publications/ai-regulation-a-pro-innovation-approach)
 4. [AI Standards Hub](https://aistandardshub.org/)
 5. [Artificial Intelligence Act](https://artificialintelligenceact.eu/)
