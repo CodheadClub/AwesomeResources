@@ -327,4 +327,6 @@ This new series will focus on VMware vSphere 8.0, and will run in parallel with 
 39. [Part 39: HOW TO: Update VMware ESXi 8.0U2 to ESXi 8.0U3 direct from VMware using the "dirty method"](https://www.experts-exchange.com/videos/80484/HOW-TO-Update-VMware-ESXi-8-0U2-to-ESXi-8-0U3-direct-from-VMware-using-the-dirty-method.html)
 40. [Part 40: HOW TO: Reset VMware vSphere Hypervisor ESXi 8.0 root password using Host Profiles](https://www.experts-exchange.com/videos/80495/HOW-TO-Reset-VMware-vSphere-Hypervisor-ESXi-8-0-root-password-using-Host-Profiles.html)
 41. [Part 41: HOW TO: Reset VMware vSphere Hypervisor ESXi root password by reinstalling VMware vSphere Hypervisor 8.0](https://www.experts-exchange.com/videos/80496/HOW-TO-Reset-VMware-vSphere-Hypervisor-ESXi-root-password-by-reinstalling-VMware-vSphere-Hypervisor-8-0.html)
+42. [Part 42: HOW TO: Select VMware vCenter Converter Standalone 6.0 or 6.1 to complete a P2V of a Microsoft Windows 7 workstation](https://www.experts-exchange.com/videos/80497/HOW-TO-Select-VMware-vCenter-Converter-Standalone-6-0-or-6-1-to-complete-a-P2V-of-a-Microsoft-Windows-7-workstation.html)
+
 
