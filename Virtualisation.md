@@ -329,5 +329,7 @@ This new series will focus on VMware vSphere 8.0, and will run in parallel with 
 41. [Part 41: HOW TO: Reset VMware vSphere Hypervisor ESXi root password by reinstalling VMware vSphere Hypervisor 8.0](https://www.experts-exchange.com/videos/80496/HOW-TO-Reset-VMware-vSphere-Hypervisor-ESXi-root-password-by-reinstalling-VMware-vSphere-Hypervisor-8-0.html)
 42. [Part 42: HOW TO: Select VMware vCenter Converter Standalone 6.0 or 6.1 to complete a P2V of a Microsoft Windows 7 workstation](https://www.experts-exchange.com/videos/80497/HOW-TO-Select-VMware-vCenter-Converter-Standalone-6-0-or-6-1-to-complete-a-P2V-of-a-Microsoft-Windows-7-workstation.html)
 43. [Part 43: HOW TO: Reset vCenter Server 8.0 root and Administrator@vsphere.local passwords](https://www.experts-exchange.com/videos/80498/HOW-TO-Reset-vCenter-Server-8-0-root-and-Administrator-vsphere-local-passwords.html)
+44. [Part 44: HOW TO: Migrate and Convert a VMware vSphere virtual machine to Microsoft Hyper-V for FREE using Starwind P2V/V2V Converter](https://www.experts-exchange.com/videos/80499/HOW-TO-Migrate-and-Convert-a-VMware-vSphere-virtual-machine-to-Microsoft-Hyper-V-for-FREE-using-Starwind-P2V-V2V-Converter.html)
+
 
 
