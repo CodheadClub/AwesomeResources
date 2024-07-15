@@ -328,5 +328,10 @@ This new series will focus on VMware vSphere 8.0, and will run in parallel with 
 40. [Part 40: HOW TO: Reset VMware vSphere Hypervisor ESXi 8.0 root password using Host Profiles](https://www.experts-exchange.com/videos/80495/HOW-TO-Reset-VMware-vSphere-Hypervisor-ESXi-8-0-root-password-using-Host-Profiles.html)
 41. [Part 41: HOW TO: Reset VMware vSphere Hypervisor ESXi root password by reinstalling VMware vSphere Hypervisor 8.0](https://www.experts-exchange.com/videos/80496/HOW-TO-Reset-VMware-vSphere-Hypervisor-ESXi-root-password-by-reinstalling-VMware-vSphere-Hypervisor-8-0.html)
 42. [Part 42: HOW TO: Select VMware vCenter Converter Standalone 6.0 or 6.1 to complete a P2V of a Microsoft Windows 7 workstation](https://www.experts-exchange.com/videos/80497/HOW-TO-Select-VMware-vCenter-Converter-Standalone-6-0-or-6-1-to-complete-a-P2V-of-a-Microsoft-Windows-7-workstation.html)
+43. [Part 43: HOW TO: Reset vCenter Server 8.0 root and Administrator@vsphere.local passwords](https://www.experts-exchange.com/videos/80498/HOW-TO-Reset-vCenter-Server-8-0-root-and-Administrator-vsphere-local-passwords.html)
+44. [Part 44: HOW TO: Migrate and Convert a VMware vSphere virtual machine to Microsoft Hyper-V for FREE using Starwind P2V/V2V Converter](https://www.experts-exchange.com/videos/80499/HOW-TO-Migrate-and-Convert-a-VMware-vSphere-virtual-machine-to-Microsoft-Hyper-V-for-FREE-using-Starwind-P2V-V2V-Converter.html)
+45. [Part 45: HOW TO: Update Nakivo Backup and Replication on a Synology NAS to support VMware vSphere 8.0U2 and later](https://www.experts-exchange.com/videos/80500/HOW-TO-Update-Nakivo-Backup-and-Replication-on-a-Synology-NAS-to-support-VMware-vSphere-8-0U2-and-later.html)
+46. [Part 46: HOW TO: Migrate and Convert a VMware vSphere virtual machine to Microsoft Hyper-V for FREE using Disk2VHD](https://www.experts-exchange.com/videos/80501/HOW-TO-Migrate-and-Convert-a-VMware-vSphere-virtual-machine-to-Microsoft-Hyper-V-for-FREE-using-Disk2VHD.html)
+
 
 
