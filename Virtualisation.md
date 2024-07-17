@@ -331,7 +331,7 @@ This new series will focus on VMware vSphere 8.0, and will run in parallel with 
 43. [Part 43: HOW TO: Reset vCenter Server 8.0 root and Administrator@vsphere.local passwords](https://www.experts-exchange.com/videos/80498/HOW-TO-Reset-vCenter-Server-8-0-root-and-Administrator-vsphere-local-passwords.html)
 44. [Part 44: HOW TO: Migrate and Convert a VMware vSphere virtual machine to Microsoft Hyper-V for FREE using Starwind P2V/V2V Converter](https://www.experts-exchange.com/videos/80499/HOW-TO-Migrate-and-Convert-a-VMware-vSphere-virtual-machine-to-Microsoft-Hyper-V-for-FREE-using-Starwind-P2V-V2V-Converter.html)
 45. [Part 45: HOW TO: Update Nakivo Backup and Replication on a Synology NAS to support VMware vSphere 8.0U2 and later](https://www.experts-exchange.com/videos/80500/HOW-TO-Update-Nakivo-Backup-and-Replication-on-a-Synology-NAS-to-support-VMware-vSphere-8-0U2-and-later.html)
-46. [Part 46: HOW TO: Migrate and Convert a VMware vSphere virtual machine to Microsoft Hyper-V for FREE using Disk2VHD](https://www.experts-exchange.com/videos/80501/HOW-TO-Migrate-and-Convert-a-VMware-vSphere-virtual-machine-to-Microsoft-Hyper-V-for-FREE-using-Disk2VHD.html)
+46. [Part 46: HOW TO: Migrate and Convert a VMware vSphere virtual machine to Microsoft Hyper-V for FREE using Disk2VHD](https://www.experts-exchange.com/videos/80501/HOW-TO-Migrate-and-Convert-a-VMware-vSphere-virtual-machine-to-Microsoft-Hyper-V-for-FREE-using-Disk2VHD.html) - [Alternative Link on YouTube](https://youtu.be/Wt_yvzr-gxk)
 
 
 
