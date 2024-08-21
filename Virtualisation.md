@@ -281,6 +281,8 @@ This course is split over 51 parts, in bit size chunks, hosted by Andrew Hancock
 50. [Part 50. HOW TO: Deploy and Configure Zerto to migrate workloads between Cloud and On-Prem VMware vSphere infrastructure with limited downtime](https://www.experts-exchange.com/videos/80055/HOW-TO-Deploy-and-Configure-Zerto-to-migrate-workloads-between-Cloud-and-On-Prem-VMware-vSphere-infrastructure-with-limited-downtime.html) 
 51. [Part 51. HOW TO: Update the VMware vSphere Hypervisor 7.0 ARM Edition (ESXi 7.0 ARM edition) from v1.12 to v1.15 on a Raspberry Pi 4](https://www.experts-exchange.com/videos/80234/HOW-TO-Update-the-VMware-vSphere-Hypervisor-7-0-ARM-Edition-ESXi-7-0-ARM-edition-from-v1-12-to-v1-15-on-a-Raspberry-Pi-4.html)
 52. [Part 51: HOW TO: Fix Synchronous Exception at 0x00000000XXXXXXX on VMware vSphere Hypervisor 7.0 (ESXi 7.0 ARM) on a Raspberry Pi 4](https://www.experts-exchange.com/videos/80535/HOW-TO-Fix-Synchronous-Exception-at-0x00000000XXXXXXX-on-VMware-vSphere-Hypervisor-7-0-ESXi-7-0-ARM-on-a-Raspberry-Pi-4.html) - [Alternative Link on YouTube](https://youtu.be/GHEWu2dxFdk)
+53. [Part 52: HOW NOT TO: Compromise your VMware vSphere Hypervisor ESXi 5.1, 5.5, 6.0, 6.5, 6.7, 7.0, 8.0 by adding to Microsoft Active Directory](https://www.experts-exchange.com/videos/80536/HOW-NOT-TO-Compromise-your-VMware-vSphere-Hypervisor-ESXi-5-1-5-5-6-0-6-5-6-7-7-0-8-0-by-adding-to-Microsoft-Active-Directory.html) - [Alternative Link on YouTube](https://youtu.be/PR9aVxLWZ5I)
+
 
 
 On 11th October 2022, VMware released VMware vSphere 8.0
@@ -333,6 +335,7 @@ This new series will focus on VMware vSphere 8.0, and will run in parallel with 
 44. [Part 44: HOW TO: Migrate and Convert a VMware vSphere virtual machine to Microsoft Hyper-V for FREE using Starwind P2V/V2V Converter](https://www.experts-exchange.com/videos/80499/HOW-TO-Migrate-and-Convert-a-VMware-vSphere-virtual-machine-to-Microsoft-Hyper-V-for-FREE-using-Starwind-P2V-V2V-Converter.html)
 45. [Part 45: HOW TO: Update Nakivo Backup and Replication on a Synology NAS to support VMware vSphere 8.0U2 and later](https://www.experts-exchange.com/videos/80500/HOW-TO-Update-Nakivo-Backup-and-Replication-on-a-Synology-NAS-to-support-VMware-vSphere-8-0U2-and-later.html)
 46. [Part 46: HOW TO: Migrate and Convert a VMware vSphere virtual machine to Microsoft Hyper-V for FREE using Disk2VHD](https://www.experts-exchange.com/videos/80501/HOW-TO-Migrate-and-Convert-a-VMware-vSphere-virtual-machine-to-Microsoft-Hyper-V-for-FREE-using-Disk2VHD.html) - [Alternative Link on YouTube](https://youtu.be/Wt_yvzr-gxk)
+47. [Part 47: HOW NOT TO: Compromise your VMware vSphere Hypervisor ESXi 5.1, 5.5, 6.0, 6.5, 6.7, 7.0, 8.0 by adding to Microsoft Active Directory](https://www.experts-exchange.com/videos/80536/HOW-NOT-TO-Compromise-your-VMware-vSphere-Hypervisor-ESXi-5-1-5-5-6-0-6-5-6-7-7-0-8-0-by-adding-to-Microsoft-Active-Directory.html) - [Alternative Link on YouTube](https://youtu.be/PR9aVxLWZ5I)
 
 
 
