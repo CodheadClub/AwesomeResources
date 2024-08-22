@@ -220,7 +220,7 @@ His articles are reproduced here for your reading pleasure. If you want to discu
 137. [Part 29: It’s A Proper Job! – Low Profile PCIe Bracket for Dell 0XYT17 Intel X520-DA2 Dual Port 10GB SFP+ NIC](https://andysworld.org.uk/2023/07/02/its-a-proper-job-low-profile-pcie-bracket-for-dell-0xyt17-intel-x520-da2-dual-port-10gb-sfp-nic/)
 138. [Part 30: #intel #optane SSD demo units received as part of the vExpert Program not being detected as a datastore in ESXi 7.0 or ESXi 8.0 ?](https://andysworld.org.uk/2023/07/03/intel-optane-ssd-demo-units-received-as-part-of-the-vexpert-program-not-being-detected-as-a-datastore-in-esxi-7-0-or-esxi-8-0/)
 
-
+![Hancock's VMware Half Hour New Branding](https://andysworld.org.uk/wp-content/uploads/2024/08/AndrewHancock-VMWare-design-VM-and-EE-logos.png)
 
 ### Hancock's VMware Half Hour HOW TO Video Series
 
