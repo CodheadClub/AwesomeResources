@@ -224,6 +224,8 @@ His articles are reproduced here for your reading pleasure. If you want to discu
 
 ### Hancock's VMware Half Hour HOW TO Video Series
 
+![Hancock's VMware Half Hour New Branding](https://andysworld.org.uk/wp-content/uploads/2024/08/AndrewHancock-VMWare-design-VM-and-EE-logos.png)
+
 In this series based on VMware vSphere 7.0, which compliments the written articles above, Andrew Hancock demonstrates "HOW TO" on a variety of topics. All these videos are based on the previous written content at Experts Exchange.
 
 In this short online course, there is a total of 35 hours of online videos from Part 1 to Part 35, taking you through the basics of VMware vSphere 7.0, from installation of the hypervisor (ESXi), creating Windows and Linux virtual machines, updating the ESXi hosts and installing and adding ESXi hosts to vCenter Server (the management server.)
