@@ -221,7 +221,7 @@ His articles are reproduced here for your reading pleasure. If you want to discu
 138. [Part 30: #intel #optane SSD demo units received as part of the vExpert Program not being detected as a datastore in ESXi 7.0 or ESXi 8.0 ?](https://andysworld.org.uk/2023/07/03/intel-optane-ssd-demo-units-received-as-part-of-the-vexpert-program-not-being-detected-as-a-datastore-in-esxi-7-0-or-esxi-8-0/)
 
 
-
+## Hancock's VMware Half Hour <a name="hancocksvmwarehalfhour"></a>
 ### Hancock's VMware Half Hour HOW TO Video Series
 
 ![Hancock's VMware Half Hour New Branding](https://andysworld.org.uk/wp-content/uploads/2024/08/AndrewHancock-VMWare-design-VM-and-EE-logos.png)
