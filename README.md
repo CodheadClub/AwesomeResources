@@ -26,9 +26,9 @@
 11. [Electronics](Electronics.md)
 12. [Hypervisors and virtual machines](Virtualisation.md#virtualisation)
     - [Andrew Hancock, VMware vExpert PRO](Virtualisation.md#andrewhancock)
+	- [Hancock's VMware Half Hour](Virtualisation.md#andrewhancock)
 	
 ![Hancock's VMware Half Hour New Branding](https://andysworld.org.uk/wp-content/uploads/2024/08/AndrewHancock-VMWare-design-VM-and-EE-logos.png)
-	- [Hancock's VMware Half Hour](Virtualisation.md#andrewhancock)
 
 13. [Cyber Security Resources](CyberSecurity.md)
     - 13.1 [Digital Warfare and Geopolitics](DigitalWarfareGeoPolitics.md)
