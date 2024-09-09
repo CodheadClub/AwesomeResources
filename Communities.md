@@ -28,6 +28,9 @@
 
 ## Communities
 
+## Royal Academy of Engineering
+1. [Regional Talent Pre-Accelerator Programme](https://enterprisehub.raeng.org.uk/regional-talent-engines)
+
 ## BCS Communities
 
 1. [Safety Criticial Systems Club](https://scsc.uk/)
