@@ -100,7 +100,7 @@ Encapsulates a request as an object, thereby allowing for parameterization of cl
 5. [Learn C# - Arabic Guide](https://youtu.be/5Zgj7X7l_Dk) - Youtube playlist to learn C# (narrated in Arabic)
 6. [Write your own .NET RSS feed in C#](https://www.jameshbyrd.com/write-your-own-net-rss-feed-in-c-2/)
 7. [Generics and Arrays - Microsoft](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/generics-and-arrays)
-8. [Learn C# - Microsoft](https://learn.microsoft.com/en-gb/users/dotnet/collections/yz26f8y64n7k07?WT.mc_id=dotnet-35129-website)
+8. [Learn C# - Microsoft](https://dotnet.microsoft.com/en-us/learn/csharp)
 9. [Building GraphQL APIs in C#](https://www.youtube.com/watch?v=9Nn0OkLQ9lM)
    - 9.1 [Resources from the talk](https://codetraveler.io/ndc-graphql/)
    - 9.2 [HotChocolateGraphQL](https://github.com/brminnick/HotChocolateGraphQL)
