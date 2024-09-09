@@ -34,3 +34,8 @@
 1. [Federal Court expands definition of espionage in decision to bar Chinese student from Canada](https://www.theglobeandmail.com/canada/article-federal-court-decision-to-bar-chinese-student-expands-definition-of/)
 2. [US disabled Chinese hacking network targeting critical infrastructure](https://www.reuters.com/world/us/us-disabled-chinese-hacking-network-targeting-critical-infrastructure-sources-2024-01-29/)
 3. [Volt Typhoon targets US critical infrastructure with living-off-the-land techniques](https://www.microsoft.com/en-us/security/blog/2023/05/24/volt-typhoon-targets-us-critical-infrastructure-with-living-off-the-land-techniques/)
+4. [Ask the Experts: Are Confucius Institutes a threat to the UK's national security?](https://blogs.lse.ac.uk/cff/2022/06/15/ask-the-experts-are-confucius-institutes-a-threat-to-the-uks-national-security/)
+5. [China's New York Spy is a wake-up call](https://www.washingtonexaminer.com/opinion/editorials/3143094/china-new-york-spy-wake-up-call/)
+    - 5.1 [Linda Sun (The Chinese Spy)](https://en.wikipedia.org/wiki/Linda_Sun)
+6. [Canada said to have mapped out secret Chinese Police operations](https://www.bloomberg.com/news/articles/2024-07-13/canada-said-to-have-mapped-out-secret-chinese-police-operations)
+7. ['GhostEmperor' returns: Mysterious Chinese Hacking Group spotted for first time in two years.](https://therecord.media/ghostemperor-spotted-first-time-in-two-years)
