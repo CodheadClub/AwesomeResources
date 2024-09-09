@@ -37,6 +37,7 @@
 ## Education
 1. [Prof Bill Buchanan OBE Youtube](https://www.youtube.com/@BillBuchanan) - [Professor Bachanan](https://www.napier.ac.uk/people/bill-buchanan) is an expert in applied cryptography, digital privacy/trust and digital identity. 
    - 1.1 [Additional Lectures by Prof Bill Buchanan OBE on YouTube](https://www.youtube.com/billatnapier)
+   - 1.2. [A Security Site - Articles by Bill Buchanan](https://medium.com/asecuritysite-when-bob-met-alice)
 
 ## Microsoft Security
 1. [Reactor - Accelerate Application Security with Github AI](https://www.youtube.com/watch?app=desktop&v=bQBS0ec1xug)
