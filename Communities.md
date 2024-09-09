@@ -28,6 +28,9 @@
 
 ## Communities
 
+## Royal Academy of Engineering
+1. [Regional Talent Pre-Accelerator Programme](https://enterprisehub.raeng.org.uk/regional-talent-engines)
+
 ## BCS Communities
 
 1. [Safety Criticial Systems Club](https://scsc.uk/)
@@ -151,6 +154,7 @@
 11. [Central London Data Science](https://www.meetup.com/central_london_data_science/)
 12. [London Data Science Workshop](https://www.meetup.com/London-Data-Science-Workshop/)
 13. [GraphQL London](https://www.meetup.com/GraphQL-London/)
+14. [Cyber London](https://www.cyberlondon.com/)
 
 ## Manchester <a name="manchester"></a>
 

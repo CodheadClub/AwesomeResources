@@ -81,6 +81,7 @@ Encapsulates a request as an object, thereby allowing for parameterization of cl
 4. [ISO/IEC 27001 - Information Security Management](https://www.iso.org/isoiec-27001-information-security.html)
 5. [GraphQL Spec](https://spec.graphql.org/)
 6. [Open Source Security Foundation (OpenSSF) Github](https://github.com/ossf) - Useful tooling and standards for security available on the OpenSSF github.
+7. [Can I Email](https://www.caniemail.com/) - Useful tool for checking compatibility of html/css/other features across email.
 
 ## Blazor
 
@@ -99,7 +100,7 @@ Encapsulates a request as an object, thereby allowing for parameterization of cl
 5. [Learn C# - Arabic Guide](https://youtu.be/5Zgj7X7l_Dk) - Youtube playlist to learn C# (narrated in Arabic)
 6. [Write your own .NET RSS feed in C#](https://www.jameshbyrd.com/write-your-own-net-rss-feed-in-c-2/)
 7. [Generics and Arrays - Microsoft](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/generics-and-arrays)
-8. [Learn C# - Microsoft](https://learn.microsoft.com/en-gb/users/dotnet/collections/yz26f8y64n7k07?WT.mc_id=dotnet-35129-website)
+8. [Learn C# - Microsoft](https://dotnet.microsoft.com/en-us/learn/csharp)
 9. [Building GraphQL APIs in C#](https://www.youtube.com/watch?v=9Nn0OkLQ9lM)
    - 9.1 [Resources from the talk](https://codetraveler.io/ndc-graphql/)
    - 9.2 [HotChocolateGraphQL](https://github.com/brminnick/HotChocolateGraphQL)
@@ -115,6 +116,8 @@ Encapsulates a request as an object, thereby allowing for parameterization of cl
 5. [GraphQL JS](https://github.com/graphql/graphql-js)
 6. [CSS for JS Dev Notes](https://github.com/narutosstudent/css-for-js-devs-notes)
 7. [Javascript Questions](https://github.com/lydiahallie/javascript-questions)
+8. [Regex](https://javascript.info/regular-expressions)
+
 ## CSS
 
 1. [Awesome TailwindCSS](https://github.com/aniftyco/awesome-tailwindcss)
@@ -154,6 +157,9 @@ Encapsulates a request as an object, thereby allowing for parameterization of cl
 8. [Dictionary](https://docs.python.org/3/tutorial/datastructures.html#dictionaries)
 9. [Functions](https://pynative.com/python-functions/)
 10. [GraphQL Python](https://github.com/graphql-python/graphene)
+
+## Amber Lang
+1. [Amber Lang Website](https://amber-lang.com/)
 
 ## Static site generators
 
