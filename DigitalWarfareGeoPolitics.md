@@ -39,3 +39,4 @@
     - 5.1 [Linda Sun (The Chinese Spy)](https://en.wikipedia.org/wiki/Linda_Sun)
 6. [Canada said to have mapped out secret Chinese Police operations](https://www.bloomberg.com/news/articles/2024-07-13/canada-said-to-have-mapped-out-secret-chinese-police-operations)
 7. ['GhostEmperor' returns: Mysterious Chinese Hacking Group spotted for first time in two years.](https://therecord.media/ghostemperor-spotted-first-time-in-two-years)
+8. [The Big Hack: How China Used a Tiny Chip to Infiltrate U.S. Companies](https://www.bloomberg.com/news/features/2018-10-04/the-big-hack-how-china-used-a-tiny-chip-to-infiltrate-america-s-top-companies)
