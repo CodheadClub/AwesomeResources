@@ -87,6 +87,7 @@
 24. [CS50 CyberSecurity](https://cs50.harvard.edu/cybersecurity/)
    - 24.1 [CS50 CyberSecurity - Youtube Playlist](https://www.youtube.com/watch?v=kmJlnUfMd7I&list=PLhQjrBD2T383Cqo5I1oRrbC1EKRAKGKUE)
 25. [Hacking Transcend Wifi SD Cards](https://haxit.blogspot.com/2013/08/hacking-transcend-wifi-sd-cards.html)
+26. [Malicious USB Cables](https://counterespionage.com/malicious-usb-cables/)
 
 ## Tools 
 1. [Hunchly](https://www.hunch.ly/) - The Only Web Capture Tool Designed For Online Investigations.
