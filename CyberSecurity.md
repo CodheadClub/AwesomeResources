@@ -59,6 +59,7 @@
 14. [VMware Podcasts](https://podcasts.vmware.com/)
 15. [CyberWire Daily](https://thecyberwire.com/podcasts/daily-podcast)
 16. [Darknet Diaries](https://darknetdiaries.com/)
+
 ## Educational
 1. [Hackersploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) (Youtube Channel) 
 2. [Capture the Flag Playlist](https://www.youtube.com/playlist?list=PLBf0hzazHTGOyRReqMyE-CDMWAQ5AgXO-). 
@@ -85,6 +86,7 @@
 23. [Cyber Security & IT Cerifications from ISC2](https://www.isc2.org/)
 24. [CS50 CyberSecurity](https://cs50.harvard.edu/cybersecurity/)
    - 24.1 [CS50 CyberSecurity - Youtube Playlist](https://www.youtube.com/watch?v=kmJlnUfMd7I&list=PLhQjrBD2T383Cqo5I1oRrbC1EKRAKGKUE)
+25. [Hacking Transcend Wifi SD Cards](https://haxit.blogspot.com/2013/08/hacking-transcend-wifi-sd-cards.html)
 
 ## Tools 
 1. [Hunchly](https://www.hunch.ly/) - The Only Web Capture Tool Designed For Online Investigations.
