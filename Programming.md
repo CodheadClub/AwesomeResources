@@ -81,6 +81,7 @@ Encapsulates a request as an object, thereby allowing for parameterization of cl
 4. [ISO/IEC 27001 - Information Security Management](https://www.iso.org/isoiec-27001-information-security.html)
 5. [GraphQL Spec](https://spec.graphql.org/)
 6. [Open Source Security Foundation (OpenSSF) Github](https://github.com/ossf) - Useful tooling and standards for security available on the OpenSSF github.
+7. [Can I Email](https://www.caniemail.com/) - Useful tool for checking compatibility of html/css/other features across email.
 
 ## Blazor
 
@@ -115,6 +116,8 @@ Encapsulates a request as an object, thereby allowing for parameterization of cl
 5. [GraphQL JS](https://github.com/graphql/graphql-js)
 6. [CSS for JS Dev Notes](https://github.com/narutosstudent/css-for-js-devs-notes)
 7. [Javascript Questions](https://github.com/lydiahallie/javascript-questions)
+8. [Regex](https://javascript.info/regular-expressions)
+
 ## CSS
 
 1. [Awesome TailwindCSS](https://github.com/aniftyco/awesome-tailwindcss)
