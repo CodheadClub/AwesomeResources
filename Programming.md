@@ -158,6 +158,9 @@ Encapsulates a request as an object, thereby allowing for parameterization of cl
 9. [Functions](https://pynative.com/python-functions/)
 10. [GraphQL Python](https://github.com/graphql-python/graphene)
 
+## Amber Lang
+1. [Amber Lang Website](https://amber-lang.com/)
+
 ## Static site generators
 
 1. [Jekyll](https://jekyllrb.com/)
