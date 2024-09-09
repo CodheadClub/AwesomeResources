@@ -70,6 +70,7 @@ You can also [jump straight in with VS Code for Github](https://github.dev/Codhe
 9. [Fritzing](https://fritzing.org/) - A software for desinging circuits, PCBs and testing them virtually.
 10. [CodeSandbox](https://codesandbox.io/) - CodeSandbox is an online code editor and prototyping tool that makes creating and sharing web apps faster.
 11. [ARC Browser](https://arc.net/) - Unreleased. Will supposedly replace Chrome.
+12. [Super Productivity](https://super-productivity.com/)
 
 ## Educational Resources <a name="education"></a>
 
