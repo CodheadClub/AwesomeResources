@@ -81,6 +81,10 @@ Type 2
 ## Andrew Hancock, Cyrus Computer Consultants Ltd <a name="andrewhancock"></a>
 Andrew Hancock is VMware & Virtualisation Consultant in Apps, Servers & Storage at [Cyrus Computer Consultants Ltd.](https://www.cyrus-consultants.co.uk/) He also has a long list of VMware and Virtualisations articles, a passionate VMware Technical Architect, and VMware vExpert *************** (2011-Present) and VMware vExpert PRO. He has won over 46 [Experts Exchange Awards](https://www.experts-exchange.com/members/hanccocka.html) and is Overall Leader at [Experts Exchange](https://www.experts-exchange.com/) Experts Exchange - The Original Tech Community™ - Formed in 1996, Experts Exchange (EE) is one of the oldest online communities in the world. For 26 years, tech problem-solvers worldwide have gathered on EE to share knowledge and help each other succeed.
 
+In 2010, I rekindled my relationship with Experts Exchange, the world’s premier tech community, after originally discovering it in 2003. What began as a simple search for help with an Outlook issue evolved into a transformative journey of learning, contribution, and recognition. Inspired by a close friend's passion for the platform, I dove headfirst into answering questions, focusing on VMware and virtualization.
+
+Over the years, I achieved numerous milestones, from earning my first "Genius" t-shirt to topping the VMware leaderboard and becoming the No. 1 point earner on Experts Exchange. This article outlines my experiences, achievements, and the pivotal role Experts Exchange played in shaping my career. Read on [From Rookie to Elite: My 14-Year Journey at Experts Exchange](https://andysworld.org.uk/2024/09/17/from-rookie-to-elite-my-14-year-journey-at-experts-exchange/) to discover how a desire to contribute led to over a decade of success and personal growth within the tech community.
+
 His articles are reproduced here for your reading pleasure. If you want to discuss anything VMware, then ask him! He will only be too happy to oblige. NFR VMware software is available via the [VMUG Advantage+Program](https://www.vmug.com/membership/vmug-advantage-membership/). If you are a Student in Full Time Education it can be obtained from the [VMware IT Academy Program](https://www.vmware.com/uk/company/it-academy.html). Sadly on the 15th August 2024, Boradcom terminated the [VMware IT Academy Program](https://www.vmware.com/uk/company/it-academy.html).
 1. [How to Backup an ESXi installation on an USB Flash Drive or SD card for security or redundancy.](https://www.experts-exchange.com/A_5409.html)
 2. [VMware ESX/ESXi Backup Guide](https://www.experts-exchange.com/A_5414.html)
@@ -227,6 +231,8 @@ His articles are reproduced here for your reading pleasure. If you want to discu
 
 ![Hancock's VMware Half Hour New Branding](https://andysworld.org.uk/wp-content/uploads/2024/08/AndrewHancock-VMWare-design-VM-and-EE-logos.png)
 
+[Hancock's VMware Half Hour Channel on YouTube](https://www.youtube.com/@einsteinagogo)
+
 In this series based on VMware vSphere 7.0, which compliments the written articles above, Andrew Hancock demonstrates "HOW TO" on a variety of topics. All these videos are based on the previous written content at Experts Exchange.
 
 In this short online course, there is a total of 35 hours of online videos from Part 1 to Part 35, taking you through the basics of VMware vSphere 7.0, from installation of the hypervisor (ESXi), creating Windows and Linux virtual machines, updating the ESXi hosts and installing and adding ESXi hosts to vCenter Server (the management server.)
@@ -290,7 +296,7 @@ This course is split over 51 parts, in bit size chunks, hosted by Andrew Hancock
 56. [Part 56: HOW TO: Manually remove a failed vSAN disk group from a VMware vSphere vSAN cluster using ESXCLI](https://www.experts-exchange.com/videos/80594/HOW-TO-Manually-remove-a-failed-vSAN-disk-group-from-a-VMware-vSphere-vSAN-cluster-using-ESXCLI.html) - [Alternative Link on YouTube](https://youtu.be/Vphy3H1NFKk)
 57. [Part 57: HOW TO: Update VMware vSphere Hypervisor ESXi 7.0U3o to ESXi 7.0U3q using VMware vSphere Lifecycle Manager (vLCM)](https://www.experts-exchange.com/videos/80595/HOW-TO-Update-VMware-vSphere-Hypervisor-ESXi-7-0U3o-to-ESXi-7-0U3q-using-VMware-vSphere-Lifecycle-Manager-vLCM.html) - [Alternative Link on YouTube](https://youtu.be/K4ndNtEpvTg)
 58. [Part 58: HOW TO: Fix Inaccessible objects in VMware vSphere vSAN when all components show as Active](https://www.experts-exchange.com/videos/80596/HOW-TO-Fix-Inaccessible-objects-in-VMware-vSphere-vSAN-when-all-components-show-as-Active.html) - [Alternative Link on YouTube](https://youtu.be/P1GPLBkKtiw)
-
+59. [Part 59: HOW TO: Fix VMware vCenter 7.0 Resolving the HTTP 500 Internal Server Error in HA Mode](https://www.experts-exchange.com/videos/80613/HOW-TO-Fix-VMware-vCenter-7-0-Resolving-the-HTTP-500-Internal-Server-Error-in-HA-Mode.html) - [Alternative Link on YouTube](https://youtu.be/oJNIgH5dBhs)
 
 
 On 11th October 2022, VMware released VMware vSphere 8.0
@@ -347,7 +353,9 @@ This new series will focus on VMware vSphere 8.0, and will run in parallel with 
 48. [Part 48: HOW TO: Migrate physical, virtual and cloud based workloads with real-time replication to VMware vSphere (ESXi) or Microsoft Hyper-V using OpenText Migrate](https://www.experts-exchange.com/videos/80539/HOW-TO-Migrate-physical-virtual-and-cloud-based-workloads-with-real-time-replication-to-VMware-vSphere-ESXi-or-Microsoft-Hyper-V-using-OpenText-Migrate.html) - [Alternative Link on YouTube](https://youtu.be/-oVYCtRAy1o)
 49. [Part 49: HOW TO: Update VMware vSphere vCenter Server 8.0.3 to 8.0.3a using the Reduced Downtime Upgrade (RDU) function](https://www.experts-exchange.com/videos/80542/HOW-TO-Update-VMware-vSphere-vCenter-Server-8-0-3-to-8-0-3a-using-the-Reduced-Downtime-Upgrade-RDU-function.html) - [Alternative Link on YouTube](https://youtu.be/OAae8Geu8a4)
 50. [Part 50: HOW TO: Check if you have compromised your VMware ESXi 8.0 Hosts if you have added them to Microsoft Active Directory](https://www.experts-exchange.com/videos/80543/HOW-TO-Check-if-you-have-compromised-your-VMware-ESXi-8-0-Hosts-if-you-have-added-them-to-Microsoft-Active-Directory.html)- [Alternative Link on YouTube](https://youtu.be/waE6qtW_xdk)
-
+51. [Part 51: HOW TO: Manually remove a failed vSAN disk group from a VMware vSphere vSAN cluster using ESXCLI](https://www.experts-exchange.com/videos/80594/HOW-TO-Manually-remove-a-failed-vSAN-disk-group-from-a-VMware-vSphere-vSAN-cluster-using-ESXCLI.html) - [Alternative Link on YouTube](https://youtu.be/Vphy3H1NFKk)
+52. [Part 52: HOW TO: Fix Inaccessible objects in VMware vSphere vSAN when all components show as Active](https://www.experts-exchange.com/videos/80596/HOW-TO-Fix-Inaccessible-objects-in-VMware-vSphere-vSAN-when-all-components-show-as-Active.html) - [Alternative Link on YouTube](https://youtu.be/P1GPLBkKtiw)
+52. [Part 53: HOW TO: Fix VMware vCenter 7.0 Resolving the HTTP 500 Internal Server Error in HA Mode](https://www.experts-exchange.com/videos/80613/HOW-TO-Fix-VMware-vCenter-7-0-Resolving-the-HTTP-500-Internal-Server-Error-in-HA-Mode.html) - [Alternative Link on YouTube](https://youtu.be/oJNIgH5dBhs)
 
 
 
