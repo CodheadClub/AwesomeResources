@@ -297,6 +297,8 @@ This course is split over 51 parts, in bit size chunks, hosted by Andrew Hancock
 57. [Part 57: HOW TO: Update VMware vSphere Hypervisor ESXi 7.0U3o to ESXi 7.0U3q using VMware vSphere Lifecycle Manager (vLCM)](https://www.experts-exchange.com/videos/80595/HOW-TO-Update-VMware-vSphere-Hypervisor-ESXi-7-0U3o-to-ESXi-7-0U3q-using-VMware-vSphere-Lifecycle-Manager-vLCM.html) - [Alternative Link on YouTube](https://youtu.be/K4ndNtEpvTg)
 58. [Part 58: HOW TO: Fix Inaccessible objects in VMware vSphere vSAN when all components show as Active](https://www.experts-exchange.com/videos/80596/HOW-TO-Fix-Inaccessible-objects-in-VMware-vSphere-vSAN-when-all-components-show-as-Active.html) - [Alternative Link on YouTube](https://youtu.be/P1GPLBkKtiw)
 59. [Part 59: HOW TO: Fix VMware vCenter 7.0 Resolving the HTTP 500 Internal Server Error in HA Mode](https://www.experts-exchange.com/videos/80613/HOW-TO-Fix-VMware-vCenter-7-0-Resolving-the-HTTP-500-Internal-Server-Error-in-HA-Mode.html) - [Alternative Link on YouTube](https://youtu.be/oJNIgH5dBhs)
+60. [Part 60: HOW TO: Find the VMware Workstation Pro download on the Broadcom Website](https://www.experts-exchange.com/videos/80633/HOW-TO-Find-the-VMware-Workstation-Pro-download-on-the-Broadcom-Website.html) - [Alternative Link on YouTube](https://youtu.be/GX3z6NjLhIw)
+61. [Part 61: HOW TO: Use the VCF Diagnostic Tool for VMware vSphere vCenter Server](https://www.experts-exchange.com/videos/80635/HOW-TO-Use-the-VCF-Diagnostic-Tool-for-VMware-vSphere-vCenter-Server.html) - [Alternative Link on YouTube](https://youtu.be/CIQHGBtgMOo)
 
 
 On 11th October 2022, VMware released VMware vSphere 8.0
@@ -356,6 +358,8 @@ This new series will focus on VMware vSphere 8.0, and will run in parallel with 
 51. [Part 51: HOW TO: Manually remove a failed vSAN disk group from a VMware vSphere vSAN cluster using ESXCLI](https://www.experts-exchange.com/videos/80594/HOW-TO-Manually-remove-a-failed-vSAN-disk-group-from-a-VMware-vSphere-vSAN-cluster-using-ESXCLI.html) - [Alternative Link on YouTube](https://youtu.be/Vphy3H1NFKk)
 52. [Part 52: HOW TO: Fix Inaccessible objects in VMware vSphere vSAN when all components show as Active](https://www.experts-exchange.com/videos/80596/HOW-TO-Fix-Inaccessible-objects-in-VMware-vSphere-vSAN-when-all-components-show-as-Active.html) - [Alternative Link on YouTube](https://youtu.be/P1GPLBkKtiw)
 52. [Part 53: HOW TO: Fix VMware vCenter 7.0 Resolving the HTTP 500 Internal Server Error in HA Mode](https://www.experts-exchange.com/videos/80613/HOW-TO-Fix-VMware-vCenter-7-0-Resolving-the-HTTP-500-Internal-Server-Error-in-HA-Mode.html) - [Alternative Link on YouTube](https://youtu.be/oJNIgH5dBhs)
+54. [Part 54: HOW TO: Find the VMware Workstation Pro download on the Broadcom Website](https://www.experts-exchange.com/videos/80633/HOW-TO-Find-the-VMware-Workstation-Pro-download-on-the-Broadcom-Website.html) - [Alternative Link on YouTube](https://youtu.be/GX3z6NjLhIw)
+55. [Part 55: HOW TO: Use the VCF Diagnostic Tool for VMware vSphere vCenter Server](https://www.experts-exchange.com/videos/80635/HOW-TO-Use-the-VCF-Diagnostic-Tool-for-VMware-vSphere-vCenter-Server.html) - [Alternative Link on YouTube](https://youtu.be/CIQHGBtgMOo)
 
 
 
