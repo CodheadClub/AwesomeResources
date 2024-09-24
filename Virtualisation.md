@@ -301,6 +301,7 @@ This course is split over 51 parts, in bit size chunks, hosted by Andrew Hancock
 61. [Part 61: HOW TO: Use the VCF Diagnostic Tool for VMware vSphere vCenter Server](https://www.experts-exchange.com/videos/80635/HOW-TO-Use-the-VCF-Diagnostic-Tool-for-VMware-vSphere-vCenter-Server.html) - [Alternative Link on YouTube](https://youtu.be/CIQHGBtgMOo)
 
 
+
 On 11th October 2022, VMware released VMware vSphere 8.0
 
 This new series will focus on VMware vSphere 8.0, and will run in parallel with the Hancock's VMware Half Hour HOW TO Video Series on VMware vSphere 7.0.
@@ -360,6 +361,7 @@ This new series will focus on VMware vSphere 8.0, and will run in parallel with 
 52. [Part 53: HOW TO: Fix VMware vCenter 7.0 Resolving the HTTP 500 Internal Server Error in HA Mode](https://www.experts-exchange.com/videos/80613/HOW-TO-Fix-VMware-vCenter-7-0-Resolving-the-HTTP-500-Internal-Server-Error-in-HA-Mode.html) - [Alternative Link on YouTube](https://youtu.be/oJNIgH5dBhs)
 54. [Part 54: HOW TO: Find the VMware Workstation Pro download on the Broadcom Website](https://www.experts-exchange.com/videos/80633/HOW-TO-Find-the-VMware-Workstation-Pro-download-on-the-Broadcom-Website.html) - [Alternative Link on YouTube](https://youtu.be/GX3z6NjLhIw)
 55. [Part 55: HOW TO: Use the VCF Diagnostic Tool for VMware vSphere vCenter Server](https://www.experts-exchange.com/videos/80635/HOW-TO-Use-the-VCF-Diagnostic-Tool-for-VMware-vSphere-vCenter-Server.html) - [Alternative Link on YouTube](https://youtu.be/CIQHGBtgMOo)
+56. [Part 56: HOW TO: Fix vSphere Web Client Unresponsiveness After vCenter Server 8.0 Update 3b (8.0.3.00200) Upgrade](https://www.experts-exchange.com/videos/80637/HOW-TO-Fix-vSphere-Web-Client-Unresponsiveness-After-vCenter-Server-8-0-Update-3b-8-0-3-00200-Upgrade.html) - [Alternative Link on YouTube](https://youtu.be/RMI4Y6_AVJA)
 
 
 
