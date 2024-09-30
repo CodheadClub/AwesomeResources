@@ -306,6 +306,7 @@ This course is split over 51 parts, in bit size chunks, hosted by Andrew Hancock
 On 11th October 2022, VMware released VMware vSphere 8.0
 
 This new series will focus on VMware vSphere 8.0, and will run in parallel with the Hancock's VMware Half Hour HOW TO Video Series on VMware vSphere 7.0.
+
 0. [Part 0: HOW TO: Behind the Scene at Hancock's VMware Half Hour](https://youtube.com/watch?v=zB1cy80MHZ0)
 1. [Part 1: HOW TO: Automate and Deploy a VMware vSphere 8.0 and vSAN 8 Lab using a PowerCLI script](https://www.experts-exchange.com/videos/79633/HOW-TO-Automate-and-Deploy-a-VMware-vSphere-8-0-and-vSAN-8-Lab-using-a-PowerCLI-script.html) - [Alternative Link on YouTube](https://youtube.com/watch?v=LUTHsgdEkz0)
 2. [Part 2: HOW TO: Update VMware ESXi 7U3 (7.0.3) to VMware ESXi 8 (8.0 IA) using an ISO image connected to HPE ILO](https://www.experts-exchange.com/videos/79673/HOW-TO-Update-VMware-ESXi-7U3-7-0-3-to-VMware-ESXi-8-8-0-IA-using-an-ISO-image-connected-to-HPE-ILO.html) - [Alternative Link on YouTube](https://youtube.com/watch?v=qoJwmrtD3V4)
