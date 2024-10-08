@@ -372,6 +372,81 @@ This new series will focus on VMware vSphere 8.0, and will run in parallel with 
 55. [Part 55: HOW TO: Use the VCF Diagnostic Tool for VMware vSphere vCenter Server](https://www.experts-exchange.com/videos/80635/HOW-TO-Use-the-VCF-Diagnostic-Tool-for-VMware-vSphere-vCenter-Server.html) - [Alternative Link on YouTube](https://youtube.com/watch?v=yx3IlFoOIjc)
 56. [Part 56: HOW TO: Update VMware vSphere vCenter Server 8.0.3a to 8.0.3b using the Reduced Downtime Upgrade (RDU) function](https://www.experts-exchange.com/videos/80636/HOW-TO-Update-VMware-vSphere-vCenter-Server-8-0-3a-to-8-0-3b-using-the-Reduced-Downtime-Upgrade-RDU-function.html) - [Alternative Link on YouTube](https://youtu.be/Q4uK7P4iuhU?si=3d5QKJ6UZo0L-Kh2)
 57. [Part 57: HOW TO: Fix vSphere Web Client Unresponsiveness After vCenter Server 8.0 Update 3b (8.0.3.00200) Upgrade](https://www.experts-exchange.com/videos/80637/HOW-TO-Fix-vSphere-Web-Client-Unresponsiveness-After-vCenter-Server-8-0-Update-3b-8-0-3-00200-Upgrade.html) - [Alternative Link on YouTube](https://youtu.be/RMI4Y6_AVJA)
+58. [Part 58: HOW TO: What's the successor to VMware Skyline Advisor Pro](https://www.experts-exchange.com/videos/80674/HOW-TO-What's-the-successor-for-VMware-Skyline-Advisor-Pro.html) - [Alternative Link on YouTube](https://www.youtube.com/watch?v=pfqDmNtLLpI)
+59. [Part 59: HOW TO: Install, Configure and Manage VMware Aria Operations 8.17.123642243](https://www.experts-exchange.com/videos/80675/HOW-TO-Install-Configure-and-Manage-VMware-Aria-Operations-8-17-123642243.html) - [Alternative Link on YouTube](https://www.youtube.com/watch?v=6tqn68-BG8g)
+60. [Part 60: HOW TO: Upgrade VMware Aria Operations from 8.17.1 to 8.18](https://www.experts-exchange.com/videos/80676/HOW-TO-Upgrade-VMware-Aria-Operations-from-8-17-1-to-8-18.html) - [Alternative Link on YouTube](https://www.youtube.com/watch?v=bFn3K3WLYM4)
+61. [Part 61: HOW TO: Deploy Install and Configure VMware Aria Operations for Logs 8.16](https://www.experts-exchange.com/videos/80677/HOW-TO-Deploy-Install-and-Configure-VMware-Aria-Operations-for-Logs-8-16.html) - [Alternative Link on YouTube](https://www.youtube.com/watch?v=5esujw2Gags)
+62. [Part 62: HOW TO: Upgrade VMware Aria Operation for Logs from 8.16 to 8.18](https://www.experts-exchange.com/videos/80678/HOW-TO-Upgrade-VMware-Aria-Operation-for-Logs-from-8-16-to-8-18.html) - [Alternative Link on YouTube](https://www.youtube.com/watch?v=01Q_TnU52pw)
+63. [Part 63: HOW TO: Deploy Install and Manage VMware Skyline Health Diagnostics SHD Appliance 4.0.5](https://www.experts-exchange.com/videos/80679/HOW-TO-Deploy-Install-and-Manage-Skyline-Health-Diagnostics-SHD-Appliance-4-0-5.html) - [Alternative Link on YouTube](https://www.youtube.com/watch?v=fptJfY_obJY)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
