@@ -85,7 +85,7 @@ In 2010, I rekindled my relationship with Experts Exchange, the world’s premie
 
 Over the years, I achieved numerous milestones, from earning my first "Genius" t-shirt to topping the VMware leaderboard and becoming the No. 1 point earner on Experts Exchange. This article outlines my experiences, achievements, and the pivotal role Experts Exchange played in shaping my career. Read on [From Rookie to Elite: My 14-Year Journey at Experts Exchange](https://andysworld.org.uk/2024/09/17/from-rookie-to-elite-my-14-year-journey-at-experts-exchange/) to discover how a desire to contribute led to over a decade of success and personal growth within the tech community.
 
-His articles are reproduced here for your reading pleasure. If you want to discuss anything VMware, then ask him! He will only be too happy to oblige. NFR VMware software is available via the [VMUG Advantage+Program](https://www.vmug.com/membership/vmug-advantage-membership/). If you are a Student in Full Time Education it can be obtained from the [VMware IT Academy Program](https://www.vmware.com/uk/company/it-academy.html). Sadly on the 15th August 2024, Boradcom terminated the [VMware IT Academy Program](https://www.vmware.com/uk/company/it-academy.html).
+His articles are reproduced here for your reading pleasure. If you want to discuss anything VMware, then ask him! He will only be too happy to oblige. Unfortunately NFR and Evaluation software for VMware software products is coming to an end! Sadly on the 15th August 2024, Broadcom terminated the [VMware IT Academy Program](https://www.vmware.com/uk/company/it-academy.html). It was annouced at VMware Explore, Barcelona in 2024, there would be significant changes made to the VMUG Advantage EVALexperience and VMware vExpert programs, from 2025, the only method to obtain NFR licenses would be to train and become certified with a VCP-VVF or VCP-VCF.
 1. [How to Backup an ESXi installation on an USB Flash Drive or SD card for security or redundancy.](https://www.experts-exchange.com/A_5409.html)
 2. [VMware ESX/ESXi Backup Guide](https://www.experts-exchange.com/A_5414.html)
 3. [HOW TO: Improve the transfer rate of a Physical to Virtual (P2V) Virtual to Virtual Conversion (V2V) using VMware vCenter Converter Standalone 5.0](https://www.experts-exchange.com/articles/9131/HOW-TO-Improve-the-transfer-rate-of-a-Physical-to-Virtual-P2V-Virtual-to-Virtual-Conversion-V2V-using-VMware-vCenter-Converter-Standalone-5-0.html)
@@ -235,8 +235,8 @@ His articles are reproduced here for your reading pleasure. If you want to discu
 
 In this series based on VMware vSphere 7.0, which compliments the written articles above, Andrew Hancock demonstrates "HOW TO" on a variety of topics. All these videos are based on the previous written content at Experts Exchange.
 
-In this short online course, there is a total of 35 hours of online videos from Part 1 to Part 35, taking you through the basics of VMware vSphere 7.0, from installation of the hypervisor (ESXi), creating Windows and Linux virtual machines, updating the ESXi hosts and installing and adding ESXi hosts to vCenter Server (the management server.)
-This course is split over 51 parts, in bit size chunks, hosted by Andrew Hancock. If you have any questions or issues, then please consider posting a question on [Experts Exchange](https://www.experts-exchange.com/).
+In this short online course, there is a total of 40 hours of online videos from Part 1 to Part 75, taking you through the basics of VMware vSphere 7.0, from installation of the hypervisor (ESXi), creating Windows and Linux virtual machines, updating the ESXi hosts and installing and adding ESXi hosts to vCenter Server (the management server.)
+This course is split over 75 parts, in bit size chunks, hosted by Andrew Hancock. If you have any questions or issues, then please consider posting a question on [Experts Exchange](https://www.experts-exchange.com/).
 
 0. [Part 0: HOW TO: Behind the Scene at Hancock's VMware Half Hour](https://www.youtube.com/watch?v=zB1cy80MHZ0&t=139s)
 1. [Part 1: HOW TO: Install and Configure VMware vSphere Hypervisor 7.0 U2 (ESXi 7.0.2).](https://www.experts-exchange.com/videos/78972/HOW-TO-Install-and-Configure-VMware-vSphere-Hypervisor-7-0-U2-ESXi-7-0-2.html) - [Alternative Link on YouTube](https://youtu.be/sWetMeSi9lk)
@@ -318,7 +318,9 @@ This course is split over 51 parts, in bit size chunks, hosted by Andrew Hancock
 
 On 11th October 2022, VMware released VMware vSphere 8.0
 
-This new series will focus on VMware vSphere 8.0, and will run in parallel with the Hancock's VMware Half Hour HOW TO Video Series on VMware vSphere 7.0.
+This new series will focus on [VMware vSphere 8.0](https://www.youtube.com/playlist?list=PLNnzoLjh3vLTM9cHIiaLbMZ8Zq4s9yg8f), and will run in parallel with the Hancock's VMware Half Hour [HOW TO Video Series on VMware vSphere 7.0.](https://www.youtube.com/playlist?list=PLNnzoLjh3vLQpp7ADrSQsFTlQzhv05pn7)
+
+
 
 0. [Part 0: HOW TO: Behind the Scene at Hancock's VMware Half Hour](https://youtube.com/watch?v=zB1cy80MHZ0)
 1. [Part 1: HOW TO: Automate and Deploy a VMware vSphere 8.0 and vSAN 8 Lab using a PowerCLI script](https://www.experts-exchange.com/videos/79633/HOW-TO-Automate-and-Deploy-a-VMware-vSphere-8-0-and-vSAN-8-Lab-using-a-PowerCLI-script.html) - [Alternative Link on YouTube](https://youtube.com/watch?v=LUTHsgdEkz0)
@@ -396,3 +398,6 @@ This new series will focus on VMware vSphere 8.0, and will run in parallel with 
 73. [Part 73: HOW TO: Upgrade a VMware vSphere Hypervisor ESXi 8.0U3 to ESXi 8.0U3b direct from internet - VMware using the "dirty method"](https://www.experts-exchange.com/videos/80775/HOW-TO-Upgrade-a-VMware-vSphere-Hypervisor-ESXi-8-0U3-to-ESXi-8-0U3b-direct-from-internet-VMware-using-the-dirty-method.html) - [Alternative Link on YouTube](https://youtu.be/slmA72lxiOM) 
 74. [Part 74: HOW TO: Replace the ESXi 8.0 SSL Certificate with a SSL Certificate from a Microsoft Active Directory Certificate Services CA](https://www.experts-exchange.com/videos/80776/HOW-TO-Replace-the-ESXi-SSL-Certificate-with-a-SSL-Certificate-from-a-Microsoft-Certificate-Authority.html) - [Alternative Link on YouTube](https://youtu.be/PUW-EA_f3qM)
 75. [Part 75: HOW TO: Replace the vCenter Server 8.0 SSL Certificate with a SSL Certificate from a Microsoft Active Directory Certificate Services CA](https://www.experts-exchange.com/videos/80777/HOW-TO-Replace-the-vCenter-Server-SSL-Certificate-with-a-SSL-Certificate-from-a-Microsoft-Certificate-Authority.html) - [Alternative Link on YouTube](https://youtu.be/PjcloxKooFM)
+76. [Part 76: HOW TO: Upgrade offline a VMware vSphere Hypervisor ESXi ARM 7.0 to ESXi ARM 8.0U3b using a depot file](https://www.experts-exchange.com/videos/80793/HOW-TO-Upgrade-offline-a-VMware-vSphere-Hypervisor-ESXi-ARM-7-0-to-ESXi-ARM-8-0U3b-using-a-depot-file.html) - [Alternative Link on YouTube](https://youtu.be/oezKPXVJ8WM)
+77. [Part 77: HOW TO: Install a Turing Pi v2 on a Streacom ST BC1 Mini Aluminium Open Benchtable](https://youtu.be/ZizqW_hyxeM)
+78. [Part 78: HOW TO: Install a heat sink on a Raspberry Pi Compute Module 4 for use with ESXi 8.0](https://youtu.be/DvWNsJNgYDA)
