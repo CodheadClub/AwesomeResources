@@ -401,3 +401,7 @@ This new series will focus on [VMware vSphere 8.0](https://www.youtube.com/playl
 76. [Part 76: HOW TO: Upgrade offline a VMware vSphere Hypervisor ESXi ARM 7.0 to ESXi ARM 8.0U3b using a depot file](https://www.experts-exchange.com/videos/80793/HOW-TO-Upgrade-offline-a-VMware-vSphere-Hypervisor-ESXi-ARM-7-0-to-ESXi-ARM-8-0U3b-using-a-depot-file.html) - [Alternative Link on YouTube](https://youtu.be/oezKPXVJ8WM)
 77. [Part 77: HOW TO: Install a Turing Pi v2 on a Streacom ST BC1 Mini Aluminium Open Benchtable](https://youtu.be/ZizqW_hyxeM)
 78. [Part 78: HOW TO: Install a heat sink on a Raspberry Pi Compute Module 4 for use with ESXi 8.0](https://youtu.be/DvWNsJNgYDA)
+79. [Part 79: HOW TO: Update the Turing Pi v2 Mini ITX Cluster Board firmware from v1.x to v2.x](https://youtu.be/wLxsDb49ANI)
+80. [Part 80: HOW TO: Replace the Turing Pi v2 SSL Certificate with a SSL Certificate from a Microsoft CA](https://youtu.be/1Hs5cJC3SUg)
+81. [Part 81: HOW TO: Install, Configure & Deploy ESXi ARM 8.0.03b on a RPi CM4 on a Turing Pi v2](https://youtu.be/rz-Yl7iNyzw)
+82. [Part 82: HOW TO: Update the RPi4 Bootloader and configure ESXi ARM for Netboot - Christmas Edition](https://youtu.be/vIlawlgyweo)
