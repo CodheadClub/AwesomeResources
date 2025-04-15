@@ -129,6 +129,7 @@
 6. [Hull Central Library Makerspace](https://www.hcandl.co.uk/libraries/makerspace/about-makerspacehull)
 7. [Hull Chamber of Commerce](https://www.hull-humber-chamber.co.uk/)
 8. [Lean Agile Hull](https://www.meetup.com/Lean-Agile-Hull/)
+9. [The Tech Sessions](https://www.eventbrite.co.uk/o/the-tech-sessions-90965763003)
 
 ## Leeds <a name="leeds"></a>
 
@@ -136,6 +137,7 @@
 2. [Umbraco Leeds Meetup](https://www.meetup.com/umbLeeds/)
 3. [M365 North User Group](https://www.meetup.com/m365-north/)
 4. [Regional Spotlight: Why Leeds is a hotbed for tech scaleups](https://www.uktech.news/partnership/regional-spotlight-leeds-tech-scaleups-hub-20230414)
+
 ## Liverpool <a name="liverpool"></a>
 
 1. [Dot NET Liverpool](https://www.meetup.com/Dot-NET-Liverpool/)
