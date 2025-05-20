@@ -173,10 +173,10 @@ def create_github_issue(github_client, repo_name, link, issue_type, file_path, s
 
 
 def main():    # Initialize GitHub client
-    github_token = os.getenv('secrets.CHECKER_TOKEN')
+    github_token = os.getenv('GITHUB_TOKEN')  # The workflow passes CHECKER_TOKEN as GITHUB_TOKEN
     if not github_token:
-        print("Error: CHECKER_TOKEN environment variable is not set")
-        return
+        print("Error: GITHUB_TOKEN environment variable is not set (should be passed from CHECKER_TOKEN)")
+        exit(1)  # Exit with error code
     
     github_client = Github(github_token)
     

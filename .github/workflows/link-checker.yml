@@ -42,7 +42,7 @@ jobs:
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
-            
+      
       # Step 5: Execute link checker script
       - name: Run link checker
         env:
