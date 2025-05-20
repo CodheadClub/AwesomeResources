@@ -21,11 +21,22 @@ jobs:
     steps:
       # Step 1: Checkout repository
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v3      - name: Create empty cache file if not exists
+        id: check-cache-exists
+        run: |
+          if [ ! -f ".link_check_cache.json" ]; then
+            echo "{}" > .link_check_cache.json
+            echo "Created empty cache file as none was found"
+            echo "cache_exists=false" >> $GITHUB_OUTPUT
+          else
+            echo "Cache file already exists"
+            echo "cache_exists=true" >> $GITHUB_OUTPUT
+          fi      
 
-      # Step 2: Download cache from previous runs
+      # Step 2: Download cache from previous runs (only if cache didn't exist)
       - name: Download previous cache
         id: download-cache
+        if: steps.check-cache-exists.outputs.cache_exists == 'true'
         continue-on-error: true
         uses: actions/download-artifact@v3
         with:
@@ -33,14 +44,7 @@ jobs:
           path: .
           if_no_artifact_found: warn
 
-      - name: Create empty cache file if not exists
-        run: |
-          if [ ! -f ".link_check_cache.json" ]; then
-            echo "{}" > .link_check_cache.json
-            echo "Created empty cache file as none was found"
-          else
-            echo "Cache file already exists"
-          fi      
+      
       # Step 3: Set up Python environment
       - name: Set up Python
         uses: actions/setup-python@v4
