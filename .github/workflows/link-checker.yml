@@ -46,7 +46,7 @@ jobs:
       # Step 5: Execute link checker script
       - name: Run link checker
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.CHECKER_TOKEN }}
         run: python ./.github/scripts/link_checker.py
 
       # Step 6: Commit and push cache updates
