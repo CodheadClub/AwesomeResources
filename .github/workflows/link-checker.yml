@@ -21,9 +21,9 @@ jobs:
     steps:
       # Step 1: Checkout repository
       - name: Checkout code
-        uses: actions/checkout@v3
-
-      # Step 2: Check and create cache file if needed
+        uses: actions/checkout@v3      
+        
+    # Step 2: Check and create cache file if needed
       - name: Create empty cache file if not exists
         id: check-cache-exists
         run: |
@@ -36,30 +36,38 @@ jobs:
             echo "cache_exists=true" >> $GITHUB_OUTPUT
           fi      
 
-      # Step 3: Download cache from previous runs (only if cache exists)
+      # Step 3: Upload empty cache if newly created
+      - name: Upload empty cache
+        if: steps.check-cache-exists.outputs.cache_exists == 'false'
+        uses: actions/upload-artifact@v3
+        with:
+          name: link-check-cache
+          path: .link_check_cache.json
+          retention-days: 90
+
+      # Step 4: Download cache (now it exists either way)
       - name: Download previous cache
         id: download-cache
-        if: steps.check-cache-exists.outputs.cache_exists == 'true'
         continue-on-error: true
         uses: actions/download-artifact@v3
         with:
           name: link-check-cache
           path: .
-          if_no_artifact_found: warn
-
-      # Step 4: Set up Python environment
+          if_no_artifact_found: warn      
+          
+    # Step 5: Set up Python environment
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.11'
-
-      # Step 5: Install required Python packages
+          python-version: '3.11'      
+          
+    # Step 6: Install required Python packages
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests markdown beautifulsoup4 PyGithub        
 
-      # Step 6: Execute link checker script
+      # Step 7: Execute link checker script
       - name: Run link checker
         env:
           GITHUB_TOKEN: ${{ secrets.CHECKER_TOKEN }}
@@ -73,8 +81,8 @@ jobs:
           else
             echo "exists=false" >> $GITHUB_OUTPUT
           fi      
-          
-      # Step 7: Upload updated cache file
+      
+    # Step 8: Upload updated cache file
       - name: Upload cache file
         if: steps.check-cache.outputs.exists == 'true'
         uses: actions/upload-artifact@v3
