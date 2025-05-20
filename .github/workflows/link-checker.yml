@@ -21,7 +21,7 @@ jobs:
     steps:
       # Step 1: Checkout repository
       - name: Checkout code
-        uses: actions/checkout@v2      
+        uses: actions/checkout@v4      
         
     # Step 2: Check and create cache file if needed
       - name: Create empty cache file if not exists
@@ -39,7 +39,7 @@ jobs:
       # Step 3: Upload empty cache if newly created
       - name: Upload empty cache
         if: steps.check-cache-exists.outputs.cache_exists == 'false'
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-pages-artifact@v3
         with:
           name: link-check-cache
           path: .link_check_cache.json
@@ -49,7 +49,7 @@ jobs:
       - name: Download previous cache
         id: download-cache
         continue-on-error: true
-        uses: actions/download-artifact@v2
+        uses: actions/download-pages-artifact@v3
         with:
           name: link-check-cache
           path: .
@@ -85,7 +85,7 @@ jobs:
     # Step 8: Upload updated cache file
       - name: Upload cache file
         if: steps.check-cache.outputs.exists == 'true'
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-pages-artifact@v3
         with:
           name: link-check-cache
           path: .link_check_cache.json
