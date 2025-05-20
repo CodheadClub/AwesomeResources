@@ -1,5 +1,6 @@
 name: Broken Link Checker
 
+# Workflow triggers
 on:
   schedule:
     # Run at 5:00 AM on Monday and Friday
@@ -11,39 +12,65 @@ jobs:
   check-links:
     runs-on: ubuntu-latest
     name: Check for broken and insecure links
+    timeout-minutes: 30  # Add timeout to prevent hanging
     
     # Need permissions to create issues
     permissions:
       contents: read
       issues: write
-    
     steps:
+      # Step 1: Checkout repository
       - name: Checkout code
         uses: actions/checkout@v3
-        
+
+      # Step 2: Download cache from previous runs
       - name: Download previous cache
-        uses: dawidd6/action-download-artifact@v2
+        id: download-cache
+        continue-on-error: true
+        uses: actions/download-artifact@v3
         with:
           name: link-check-cache
           path: .
           if_no_artifact_found: warn
-          
+
+      - name: Create empty cache file if not exists
+        run: |
+          if [ ! -f ".link_check_cache.json" ]; then
+            echo "{}" > .link_check_cache.json
+            echo "Created empty cache file as none was found"
+          else
+            echo "Cache file already exists"
+          fi      
+      # Step 3: Set up Python environment
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
 
+      # Step 4: Install required Python packages
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests markdown beautifulsoup4 PyGithub
+          pip install requests markdown beautifulsoup4 PyGithub        
 
-      - name: Check links
+      # Step 5: Execute link checker script
+      - name: Run link checker
         env:
-          CHECKER_TOKEN: ${{ secrets.CHECKER_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.CHECKER_TOKEN }}
         run: python ./.github/scripts/link_checker.py
-        
+
+      - name: Check if cache file exists 
+        id: check-cache
+        run: |
+          if [ -f ".link_check_cache.json" ]; then
+            echo "exists=true" >> $GITHUB_OUTPUT
+          else
+            echo "exists=false" >> $GITHUB_OUTPUT
+          fi      
+          
+      # Step 6: Upload updated cache file
       - name: Upload cache file
+        if: steps.check-cache.outputs.exists == 'true'
         uses: actions/upload-artifact@v3
         with:
           name: link-check-cache

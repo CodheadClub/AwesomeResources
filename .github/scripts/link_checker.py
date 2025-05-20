@@ -34,15 +34,25 @@ def load_cache():
     """Load the cache of previously checked links and their issues."""
     try:
         with open(CACHE_FILE, 'r') as file:
-            return json.load(file)
-    except (FileNotFoundError, json.JSONDecodeError):
+            data = json.load(file)
+            print(f"Successfully loaded cache with {len(data)} entries")
+            return data
+    except FileNotFoundError:
+        print(f"Cache file '{CACHE_FILE}' not found, creating new cache")
+        return {}
+    except json.JSONDecodeError:
+        print(f"Error parsing cache file, creating new cache")
         return {}
 
 
 def save_cache(cache):
     """Save the cache of checked links and their issues."""
-    with open(CACHE_FILE, 'w') as file:
-        json.dump(cache, file)
+    try:
+        with open(CACHE_FILE, 'w') as file:
+            json.dump(cache, file)
+        print(f"Successfully saved cache with {len(cache)} entries")
+    except Exception as e:
+        print(f"Error saving cache file: {e}")
 
 
 def extract_links_from_markdown(file_path):
