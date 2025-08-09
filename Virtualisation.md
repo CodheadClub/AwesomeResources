@@ -428,7 +428,6 @@ A reminder that VMware vSphere 7.0 is End of Life in October 2025.
 80. [Part 80: HOW TO: Replace the Turing Pi v2 SSL Certificate with a SSL Certificate from a Microsoft CA](https://youtu.be/1Hs5cJC3SUg)
 81. [Part 81: HOW TO: Install, Configure & Deploy ESXi ARM 8.0.03b on a RPi CM4 on a Turing Pi v2](https://youtu.be/rz-Yl7iNyzw)
 82. [Part 82: HOW TO: Update the RPi4 Bootloader and configure ESXi ARM for Netboot - Christmas Edition](https://youtu.be/vIlawlgyweo)
-82. [Part 82: 
 83. [Part 83: HOW TO: Change from US to UK date format in the vCenter Server 8.0 vSphere Web Client](https://www.youtube.com/watch?v=r4ldoMVFkQY)  
 84. [Part 84: HOW TO: Install a SSL certificate for VMware Aria Operations  Manager from a Microsoft CA](https://www.youtube.com/watch?v=rNJ9l_uJKDQ)  
 85. [Part 85: HOW TO: Install a SSL certificate for VMware Aria Operatifrom for Logs from a Microsoft CA](https://www.youtube.com/watch?v=gglzh_HL4BI)  
