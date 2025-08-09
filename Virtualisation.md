@@ -238,6 +238,8 @@ In this series based on VMware vSphere 7.0, which compliments the written articl
 In this short online course, there is a total of 40 hours of online videos from Part 1 to Part 75, taking you through the basics of VMware vSphere 7.0, from installation of the hypervisor (ESXi), creating Windows and Linux virtual machines, updating the ESXi hosts and installing and adding ESXi hosts to vCenter Server (the management server.)
 This course is split over 75 parts, in bit size chunks, hosted by Andrew Hancock. If you have any questions or issues, then please consider posting a question on [Experts Exchange](https://www.experts-exchange.com/).
 
+A reminder that VMware vSphere 7.0 is End of Life in October 2025.
+
 0. [Part 0: HOW TO: Behind the Scene at Hancock's VMware Half Hour](https://www.youtube.com/watch?v=zB1cy80MHZ0&t=139s)
 1. [Part 1: HOW TO: Install and Configure VMware vSphere Hypervisor 7.0 U2 (ESXi 7.0.2).](https://www.experts-exchange.com/videos/78972/HOW-TO-Install-and-Configure-VMware-vSphere-Hypervisor-7-0-U2-ESXi-7-0-2.html) - [Alternative Link on YouTube](https://youtu.be/sWetMeSi9lk)
 2. [Part 2: HOW TO: Connect to the VMware vSphere Hypervisor 7.0 U2 (ESXi 7.0.2) using the vSphere Host Client.](https://www.experts-exchange.com/videos/78992/HOW-TO-Connect-to-the-VMware-vSphere-Hypervisor-7-0U2-ESXi-7-0-2-using-the-vSphere-HTML5-Web-Host-Client-7-0.html) - [Alternative Link on YouTube](https://youtu.be/YGNwb8HNPnk)
@@ -314,13 +316,31 @@ This course is split over 75 parts, in bit size chunks, hosted by Andrew Hancock
 73. [Part 73: HOW TO: Shrink or Reduce the size of VMware vCenter Server VCSA 7.0 disks and fix the Metadata and system validation failed on recovery](https://www.experts-exchange.com/videos/80753/HOW-TO-Shrink-or-Reduce-the-size-of-VMware-vCenter-Server-VCSA-7-0-8-0-disks-and-fix-the-Metadata-and-system-validation-failed-on-recovery.html) - - [Alternative Link on YouTube](https://youtu.be/Ug-OFNVi1HY?si=mywo2jyGelFAuWfW)
 74. [Part 74: HOW TO: Replace the ESXi 7.0 SSL Certificate with a SSL Certificate from a Microsoft Active Directory Certificate Services CA](https://www.experts-exchange.com/videos/80776/HOW-TO-Replace-the-ESXi-SSL-Certificate-with-a-SSL-Certificate-from-a-Microsoft-Certificate-Authority.html) - [Alternative Link on YouTube](https://youtu.be/W0Wi-WqH2P0)
 75. [Part 75: HOW TO: Replace the vCenter Server 7.0 SSL Certificate with a SSL Certificate from a Microsoft Active Directory Certificate Services CA](https://www.experts-exchange.com/videos/80777/HOW-TO-Replace-the-vCenter-Server-SSL-Certificate-with-a-SSL-Certificate-from-a-Microsoft-Certificate-Authority.html) - [Alternative Link on YouTube](https://youtu.be/DV7vcXER4ko)
+76. [Part 76: HOW TO: Change from US to UK date format in the vCenter Server 7.0 vSphere Web Client](https://www.youtube.com/watch?v=MrIhqm7GvPI)  
+77. [Part 77: HOW TO: Install a SSL certificate for VMware Aria Operations Manager from a Microsoft CA](https://www.youtube.com/watch?v=hUU341sphw8)  
+78. [Part 78: HOW TO: Install a SSL certificate for VMware Aria Operatifrom for Logs from a Microsoft CA](https://www.youtube.com/watch?v=GWnNvBXtGSE)  
+79. [Part 79: HOW TO: Protect VMware ESXi 7 x from Zero Day Vulnerabilities – Urgent Security Guide](https://www.youtube.com/watch?v=TfaSIV06sNg)  
+80. [Part 80: HOW TO: Update ESXi 7.x to ESXi 7.0 Update 3s and fix VMSA-2025-0004](https://www.youtube.com/watch?v=IGlGLx6W50g)  
+81. [Part 81: HOW TO: Update ESXi 7 to ESXi 7.0.3s Build 24514018 & fix VMSA-2025-0004 using a depot file](https://www.youtube.com/watch?v=K2O4s6MNiSs)  
+82. [HOW TO: Not Downloads VMware vSphere Updates - BROADCOM STOPS FREE UPDATES TO NON SUPPORT ACCOUNTS](https://www.youtube.com/watch?v=Z8Ru90kkLlo)  
+83. [Part 84: HOW TO: Update ESXi 7 to ESXi 7.0.3s Build 24585291 & fix VMSA-2025-0004 using vLCM Part I](https://www.youtube.com/watch?v=p1w3NmwQbU8)  
+84. [Part 85: HOW TO: Update ESXi 7 to ESXi 7.0.3s Build 24585291 & fix VMSA-2025-0004 using vLCM Part 2](https://www.youtube.com/watch?v=_lzSE3VdX4Q)  
+85. [Part 88: HOW TO: Resize a Virtual Disk on a Windows Server 2025 VM in vSphere 7.0](https://www.youtube.com/watch?v=w2pcCNCVYys)  
+86. [Part 89: HOW TO: Resize a Virtual Disk on a Windows Server 2025 VM in vSphere 7 using inbuilt tools](https://www.youtube.com/watch?v=UeoXlsYK4O4)  
+87. [Part 90: HOW TO: Resize a Virtual Disk on a Windows 11 Desktop OS VM in vSphere 7.0](https://www.youtube.com/watch?v=oUmE0BxFydA)  
+88. [HOW TO: Resize a Virtual Disk on a Windows 11 VM using AOMEI Partition Assistant](https://www.youtube.com/watch?v=5TBrp9cS7DM)  
+89. [HOW TO: Resize a Virtual Disk on a Windows 11 VM using EaseUS Partition Master Free](https://www.youtube.com/watch?v=rufNNOAVQFU)  
+90. [HOW TO: Resize a Virtual Disk on a Windows Server 2025 VM using Gparted Live CDROM](https://www.youtube.com/watch?v=ZviA-wBnIeA)  
+91. [HOW TO: Resize a Windows Server 2025 virtual machine disk using VMware vCenter Standalone Converter](https://www.youtube.com/watch?v=ODhsnQeTjuE)  
+92. [Part 91: HOW TO: Resize a Windows 11 virtual machine disk using VMware vCenter Standalone Converter](https://www.youtube.com/watch?v=oKFqpL5iMNk)  
+93. [Part 92: HOW TO: Resize a Windows Server 2025 VM disk using VMware vCenter Standalone Converter](https://www.youtube.com/watch?v=tcnkbViDdHE)  
 
 
 On 11th October 2022, VMware released VMware vSphere 8.0
 
 This new series will focus on [VMware vSphere 8.0](https://www.youtube.com/playlist?list=PLNnzoLjh3vLTM9cHIiaLbMZ8Zq4s9yg8f), and will run in parallel with the Hancock's VMware Half Hour [HOW TO Video Series on VMware vSphere 7.0.](https://www.youtube.com/playlist?list=PLNnzoLjh3vLQpp7ADrSQsFTlQzhv05pn7)
 
-
+A reminder that VMware vSphere 7.0 is End of Life in October 2025.
 
 0. [Part 0: HOW TO: Behind the Scene at Hancock's VMware Half Hour](https://youtube.com/watch?v=zB1cy80MHZ0)
 1. [Part 1: HOW TO: Automate and Deploy a VMware vSphere 8.0 and vSAN 8 Lab using a PowerCLI script](https://www.experts-exchange.com/videos/79633/HOW-TO-Automate-and-Deploy-a-VMware-vSphere-8-0-and-vSAN-8-Lab-using-a-PowerCLI-script.html) - [Alternative Link on YouTube](https://youtube.com/watch?v=LUTHsgdEkz0)
@@ -405,6 +425,7 @@ This new series will focus on [VMware vSphere 8.0](https://www.youtube.com/playl
 80. [Part 80: HOW TO: Replace the Turing Pi v2 SSL Certificate with a SSL Certificate from a Microsoft CA](https://youtu.be/1Hs5cJC3SUg)
 81. [Part 81: HOW TO: Install, Configure & Deploy ESXi ARM 8.0.03b on a RPi CM4 on a Turing Pi v2](https://youtu.be/rz-Yl7iNyzw)
 82. [Part 82: HOW TO: Update the RPi4 Bootloader and configure ESXi ARM for Netboot - Christmas Edition](https://youtu.be/vIlawlgyweo)
+82. [Part 82: 
 83. [Part 83: HOW TO: Change from US to UK date format in the vCenter Server 8.0 vSphere Web Client](https://www.youtube.com/watch?v=r4ldoMVFkQY)  
 84. [Part 84: HOW TO: Install a SSL certificate for VMware Aria Operations  Manager from a Microsoft CA](https://www.youtube.com/watch?v=rNJ9l_uJKDQ)  
 85. [Part 85: HOW TO: Install a SSL certificate for VMware Aria Operatifrom for Logs from a Microsoft CA](https://www.youtube.com/watch?v=gglzh_HL4BI)  
@@ -428,4 +449,6 @@ This new series will focus on [VMware vSphere 8.0](https://www.youtube.com/playl
 
 On 17th June 2025, Broadcom by VMware released VCF 9.0 (VMware Cloud Foundation)
 
-This new series will focus on VCF 9.0 will run in parallel with the Hancock's VMware Half Hour with [VMware vSphere 8.0](https://www.youtube.com/playlist?list=PLNnzoLjh3vLTM9cHIiaLbMZ8Zq4s9yg8f), and [HOW TO Video Series on VMware vSphere 7.0.](https://www.youtube.com/playlist?list=PLNnzoLjh3vLQpp7ADrSQsFTlQzhv05pn7)
+This new series will focus on VCF 9.0 will run in parallel with the Hancock's VMware Half Hour with [HOW TO Video Series on VMware vSphere 8.0](https://www.youtube.com/playlist?list=PLNnzoLjh3vLTM9cHIiaLbMZ8Zq4s9yg8f), and [HOW TO Video Series on VMware vSphere 7.0.](https://www.youtube.com/playlist?list=PLNnzoLjh3vLQpp7ADrSQsFTlQzhv05pn7)
+
+A reminder that VMware vSphere 7.0 is End of Life in October 2025.
