@@ -452,3 +452,13 @@ On 17th June 2025, Broadcom by VMware released VCF 9.0 (VMware Cloud Foundation)
 This new series will focus on VCF 9.0 will run in parallel with the Hancock's VMware Half Hour with [HOW TO Video Series on VMware vSphere 8.0](https://www.youtube.com/playlist?list=PLNnzoLjh3vLTM9cHIiaLbMZ8Zq4s9yg8f), and [HOW TO Video Series on VMware vSphere 7.0.](https://www.youtube.com/playlist?list=PLNnzoLjh3vLQpp7ADrSQsFTlQzhv05pn7)
 
 A reminder that VMware vSphere 7.0 is End of Life in October 2025.
+
+1. [Minisforum MS-A2 Can it Run ESXi 9.0.0? Minisforum MS-A2 Series Part 11 Ultimate #homelab](https://www.youtube.com/watch?v=vcRp4RhYSYQ)  
+2. [HOW TO: Create an Offline Depot with a Python script | VCF 9.0 Component Deployment Guide](https://www.youtube.com/watch?v=VMmvC2ydLME)  
+3. [HOW TO: Create an Offline Depot with a Synology NAS | VCF 9.0 Component Deployment Guide](https://www.youtube.com/watch?v=vhQHwLrEr3E)  
+4. [HOW TO: Add an ESXi 9 0 Host to vCenter Server 9 0 | VCF 9.0 Component Deployment Guide](https://www.youtube.com/watch?v=B_L_kI3HlC0)  
+5. [HOW TO: Deploy, Install and Configure VCF 9.0 Installer | VCF 9.0 Component Deployment Guide](https://www.youtube.com/watch?v=Ng0_k9vnO8o)  
+6. [HOW TO: Install VMware vCenter Server 9 0 | VCF 9.0 Component Deployment Guide](https://www.youtube.com/watch?v=bj9Lc1acYAo)  
+7. [HOW TO: Install VMware vSphere Hypervisor ESXi 9 0 | VCF 9.0 Component Deployment Guide](https://www.youtube.com/watch?v=PQQqaqR10mk)  
+
+Hancock’s VMware Half Hour has grown beyond the original HOW TO series for vSphere 7.0 and 8.0, branching into related technologies that integrate with and enhance VMware environments. From backup and disaster recovery to automation, networking, and supporting infrastructure, the channel now explores the full ecosystem that wraps around VMware, helping professionals build complete, resilient, and efficient virtual infrastructures.
