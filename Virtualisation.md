@@ -426,3 +426,6 @@ This new series will focus on [VMware vSphere 8.0](https://www.youtube.com/playl
 101. [VMware Software Downloads Require Authorization from March 24, 2025!](https://www.youtube.com/watch?v=93-a0cC31S8)  
 102. [VMware vSphere Hypervisor ESXi FREE IS BACK - NO CLICKBAIT!](https://www.youtube.com/watch?v=8FfOaHJmN2I)  
 
+On 17th June 2025, Broadcom by VMware released VCF 9.0 (VMware Cloud Foundation)
+
+This new series will focus on VCF 9.0 will run in parallel with the Hancock's VMware Half Hour with [VMware vSphere 8.0](https://www.youtube.com/playlist?list=PLNnzoLjh3vLTM9cHIiaLbMZ8Zq4s9yg8f), and [HOW TO Video Series on VMware vSphere 7.0.](https://www.youtube.com/playlist?list=PLNnzoLjh3vLQpp7ADrSQsFTlQzhv05pn7)
