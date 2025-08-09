@@ -240,6 +240,7 @@ This course is split over 75 parts, in bit size chunks, hosted by Andrew Hancock
 
 Hancock’s VMware Half Hour has grown beyond the original HOW TO series for vSphere 7.0 and 8.0, branching into related technologies that integrate with and enhance VMware environments. From backup and disaster recovery to automation, networking, and supporting infrastructure, the channel now explores the full ecosystem that wraps around VMware, helping professionals build complete, resilient, and efficient virtual infrastructures.
 
+## **HOW TO: VMware vSphere 7.0**
 
 A reminder that VMware vSphere 7.0 is End of Life in October 2025.
 
@@ -339,6 +340,7 @@ A reminder that VMware vSphere 7.0 is End of Life in October 2025.
 93. [Part 92: HOW TO: Resize a Windows Server 2025 VM disk using VMware vCenter Standalone Converter](https://www.youtube.com/watch?v=tcnkbViDdHE)  
 
 
+## **HOW TO: VMware vSphere 8.0**
 On 11th October 2022, VMware released VMware vSphere 8.0
 
 This new series will focus on [VMware vSphere 8.0](https://www.youtube.com/playlist?list=PLNnzoLjh3vLTM9cHIiaLbMZ8Zq4s9yg8f), and will run in parallel with the Hancock's VMware Half Hour [HOW TO Video Series on VMware vSphere 7.0.](https://www.youtube.com/playlist?list=PLNnzoLjh3vLQpp7ADrSQsFTlQzhv05pn7)
@@ -467,7 +469,7 @@ A reminder that VMware vSphere 7.0 is End of Life in October 2025.
  
 
 
-Minisforum MS-A2 Series
+## **Minisforum MS-A2 Series**
 
 1. [Minisforum MS-A2 Unboxing & 128GB RAM Install, Minisforum MS-A2 Series Part 1 Ultimate #homelab](https://www.youtube.com/watch?v=kzMxca_azx8)  
 2. [Minisforum MS-A2 Firmware UEFI BIOS Update, Minisforum MS-A2 Series Part 2 Ultimate #homelab](https://www.youtube.com/watch?v=EslF-z4JTaQ)  
@@ -481,7 +483,7 @@ Minisforum MS-A2 Series
 10. [Minisforum MS-A2 Can it Run ESXi 8.0.3g ? Minisforum MS-A2 Series Part 10 Ultimate #homelab](https://www.youtube.com/watch?v=axCImhDH2qg)  
 11. [Minisforum MS-A2 Can it Run ESXi 9.0.0? Minisforum MS-A2 Series Part 11 Ultimate #homelab](https://www.youtube.com/watch?v=vcRp4RhYSYQ)  
 
-HOW TO: Veeam Backup & Replication for VMware vSphere
+## **HOW TO: Veeam Backup & Replication for VMware vSphere**
 
 1. [Minisforum MS-A2 Migrate ESXi VMs to Hyper-V, Minisforum MS-A2 Series Part 6 Ultimate #homelab](https://www.youtube.com/watch?v=aYga6XcA67I)  
 2. [HOW TO: Migrate Your VMware ESXi VMs to Nutanix AHV Without Breaking a Sweat](https://www.youtube.com/watch?v=qqC-hj-oWpk)  
@@ -500,7 +502,7 @@ HOW TO: Veeam Backup & Replication for VMware vSphere
 15. [Part 69: HOW TO: Install Veeam Backup and Replication 12.2 on Windows Server 2022](https://www.youtube.com/watch?v=UgY5UtVa_AA)  
 16. [Part 66: HOW TO: Install Veeam Backup & Replication 12.2 on Windows Server 2022](https://www.youtube.com/watch?v=Vgf8CRMCfhg)  
 
-HOW TO: Install ESXi ARM on a Raspberry Pi
+## **HOW TO: Install ESXi ARM on a Raspberry Pi**
 
 1. [HOW TO: Fix Raspberry Pi 5 framebuffer Issue with ESXi ARM NOW!](https://www.youtube.com/watch?v=238U2vggriU)  
 2. [HOW TO: Install VMware ESXi ARM 8.0.3c on a Raspberry Pi 5 or CM5 16GB with a d0 stepping #exclusive](https://www.youtube.com/watch?v=2TnRGB9J_3A)  
@@ -512,12 +514,12 @@ HOW TO: Install ESXi ARM on a Raspberry Pi
 8. [Part 77: HOW TO: Install a Turing Pi v2 on a Streacom ST BC1 Mini Aluminium Open Benchtable](https://www.youtube.com/watch?v=ZizqW_hyxeM)  
 9. [Part 78: HOW TO: Install a heat sink on a Raspberry Pi Compute Module 4 for use with ESXi 8.0](https://www.youtube.com/watch?v=DvWNsJNgYDA)  
 
-HOW TO: Nakivo Backup and Replication for VMware vSphere
+## **HOW TO: Nakivo Backup and Replication for VMware vSphere**
 
 1. [Part 1: HOW TO: INSTALL Nakivo Backup and Replication v11.1 Beta on Windows Server 2025 in Minutes!](https://www.youtube.com/watch?v=_r5i3aepoH8)  
 
 
-HOW TO: Build a VMware vSphere #homelab
+## **HOW TO: Build a VMware vSphere #homelab**
 
 1. [Part 1: HOW TO: Build a VMware vSphere #homelab using VMware vSphere Hypervisor ESXi 8.0.3d](https://www.youtube.com/watch?v=T46c18z8-CM)  
 2. [Part 2: HOW TO: Install & Configure VMware vSphere Hypervisor ESXi 8.0.3 for your #homelab](https://www.youtube.com/watch?v=4FdB8F5LeDc)  
@@ -530,21 +532,21 @@ HOW TO: Build a VMware vSphere #homelab
 9. [Part 7: HOW TO: Create & Add a Virtual Tape Server to Veeam Backup & Replication v12.3 Server Part 1](https://www.youtube.com/watch?v=YcZO_gX4Emg)  
 10. [Part 8: HOW TO: Create & Add a Virtual Tape Server to Veeam Backup & Replication v12.3 Server Part 2](https://www.youtube.com/watch?v=I50I7nrYBU0)  
 
-HOW TO: Series - VMware vSphere 6.7
+## **HOW TO: Series - VMware vSphere 6.7**
 
 1. [Part 1: HOW TO: Protect VMware ESXi 6 7 from Zero Day Vulnerabilities – Urgent Security Guide](https://www.youtube.com/watch?v=Hqz6770AoCs)  
 2. [Part 2: HOW TO: Update ESXi 6.7 to ESXi 6.7 Build 24514018 and fix VMSA-2025-0004 using a depot file](https://www.youtube.com/watch?v=UOJzJ3F-_aA)  
 3. [HOW TO: Not Downloads VMware vSphere Updates - BROADCOM STOPS FREE UPDATES TO NON SUPPORT ACCOUNTS](https://www.youtube.com/watch?v=Z8Ru90kkLlo)  
 4. [Part 82: HOW TO: Generate a Download Token and configure vCenter Server 7.x to download updates](https://www.youtube.com/watch?v=uIESzAmYb7E)  
 
-HOW TO: Series - Synology NAS
+## **HOW TO: Series - Synology NAS**
 
 1. [Part 1: HOW TO: Install Synology DSM 7.2 on a Synology 923+ NAS "Out of the Box"](https://www.youtube.com/watch?v=xaABSfnTvSg)  
 2. [Part 2: HOW TO: Install and Configure a SSL Certificate on a Synology NAS from a Microsoft CA](https://www.youtube.com/watch?v=5rvIjFO7GaM)  
 3. [Part 3: HOW TO: Install Portainer CE on a Synology NAS](https://www.youtube.com/watch?v=sEaO4P1KRbA)  
 4. [Part 4: HOW TO: Install and Configure a SSL Certificate for Portainer CE from a Microsoft CA](https://www.youtube.com/watch?v=lvHo0RgKXM0)  
 
-HOW TO: Series - VMware Workstation Pro 17.6
+## **HOW TO: Series - VMware Workstation Pro 17.6**
 
 1. [Part 1: HOW TO: Install Linux Ubuntu 24.04.1 LTS Desktop on VMware Workstation Pro 17.6](https://www.youtube.com/watch?v=ANaLLFb4i3U)  
 2. [Part 2: HOW TO: Install Linux Fedora 41 desktop on VMware Workstation Pro 17.6](https://www.youtube.com/watch?v=7xVm3BhvBFw)  
@@ -558,7 +560,7 @@ HOW TO: Series - VMware Workstation Pro 17.6
 10. [Part 10: HOW TO: Install Linux ArchLinux on VMware Workstation Pro](https://www.youtube.com/watch?v=FwlZB-ZuZYo)  
 11. [Part 11: HOW TO: Install the Gnome GUI on ArchLinux on VMware Workstation Pro](https://www.youtube.com/watch?v=fQmzBnorQC4)  
 
-HOW TO: VMware vSphere Hypervisor ESXi ARM 7.0 and 8.0.3
+## **HOW TO: VMware vSphere Hypervisor ESXi ARM 7.0 and 8.0.3**
 
 1. [How to become a #VMware #vExpert 2025?](https://www.youtube.com/watch?v=p_Wc8qy9uXY)  
 2. [ComputeBlades by Uptime Labs - running ESXi ARM](https://www.youtube.com/watch?v=5LqoNsRbzRY)  
@@ -577,7 +579,7 @@ HOW TO: VMware vSphere Hypervisor ESXi ARM 7.0 and 8.0.3
 15. [Part 51: HOW TO: Update the vSphere Hypervisor ESXi 7.0 ARM edition from v1.12 to v1.15](https://www.youtube.com/watch?v=Wajd8EhDkP0)  
 
 
-Weekly Broadcom and VMware News
+## **Weekly Broadcom and VMware News**
 
 1. [Broadcom/VMware News for Week Ending 2 November 2024](https://www.youtube.com/watch?v=_0swAvzrvBQ)  
 2. [Broadcom/VMware News for Week Ending 9 November 2024 - VMUG Membership changed](https://www.youtube.com/watch?v=t4W-QOk9Ov8)  
