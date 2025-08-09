@@ -43,7 +43,10 @@ Contributions welcome. If you have a resource that you wish to contribute, pleas
 
 - Fork the repository, look at the markdown and understand it.
 - Make your changes and double check that nothing is broken.
+- Ensure all links are valid and preferably use HTTPS instead of HTTP.
 - Make a pull request and request a review from the The Codhead Club team.
+
+> **Note:** This repository uses an automated link checker that runs twice a week to ensure all resources remain accessible. If a broken or insecure link is found, an issue will be automatically created for review.
 
 You can also [jump straight in with VS Code for Github](https://github.dev/CodheadClub/AwesomeResources) and request to make changes. See [here](https://docs.github.com/en/codespaces/developing-in-codespaces/web-based-editor) for more info.
 
@@ -71,6 +74,8 @@ You can also [jump straight in with VS Code for Github](https://github.dev/Codhe
 9. [Fritzing](https://fritzing.org/) - A software for desinging circuits, PCBs and testing them virtually.
 10. [CodeSandbox](https://codesandbox.io/) - CodeSandbox is an online code editor and prototyping tool that makes creating and sharing web apps faster.
 11. [ARC Browser](https://arc.net/) - Unreleased. Will supposedly replace Chrome.
+12. [Super Productivity](https://super-productivity.com/)
+13. [Use Bruno](https://www.usebruno.com/) - Postman/Insomnia alternative. 
 
 ## Educational Resources <a name="education"></a>
 

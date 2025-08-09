@@ -35,6 +35,14 @@
 > 
 >Links to these materials are provided for reference only. We are not responsible for your use of resources and you should seek permission before performing testing or exploitation on systems not owned by yourself.
 
+## Education
+1. [Prof Bill Buchanan OBE Youtube](https://www.youtube.com/@BillBuchanan) - [Professor Bachanan](https://www.napier.ac.uk/people/bill-buchanan) is an expert in applied cryptography, digital privacy/trust and digital identity. 
+   - 1.1 [Additional Lectures by Prof Bill Buchanan OBE on YouTube](https://www.youtube.com/billatnapier)
+   - 1.2. [A Security Site - Articles by Bill Buchanan](https://medium.com/asecuritysite-when-bob-met-alice)
+
+## Microsoft Security
+1. [Reactor - Accelerate Application Security with Github AI](https://www.youtube.com/watch?app=desktop&v=bQBS0ec1xug)
+
 ## News 
 1. [Dark Reading](https://www.darkreading.com/) - Cyber Security News. 
 2. [Data Breach Today](https://www.databreachtoday.com/) - Data Breach News.
@@ -52,6 +60,7 @@
 14. [VMware Podcasts](https://podcasts.vmware.com/)
 15. [CyberWire Daily](https://thecyberwire.com/podcasts/daily-podcast)
 16. [Darknet Diaries](https://darknetdiaries.com/)
+
 ## Educational
 1. [Hackersploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) (Youtube Channel) 
 2. [Capture the Flag Playlist](https://www.youtube.com/playlist?list=PLBf0hzazHTGOyRReqMyE-CDMWAQ5AgXO-). 
@@ -78,6 +87,8 @@
 23. [Cyber Security & IT Cerifications from ISC2](https://www.isc2.org/)
 24. [CS50 CyberSecurity](https://cs50.harvard.edu/cybersecurity/)
    - 24.1 [CS50 CyberSecurity - Youtube Playlist](https://www.youtube.com/watch?v=kmJlnUfMd7I&list=PLhQjrBD2T383Cqo5I1oRrbC1EKRAKGKUE)
+25. [Hacking Transcend Wifi SD Cards](https://haxit.blogspot.com/2013/08/hacking-transcend-wifi-sd-cards.html)
+26. [Malicious USB Cables](https://counterespionage.com/malicious-usb-cables/)
 
 ## Tools 
 1. [Hunchly](https://www.hunch.ly/) - The Only Web Capture Tool Designed For Online Investigations.

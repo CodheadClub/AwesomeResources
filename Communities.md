@@ -29,6 +29,9 @@
 
 ## Communities
 
+## Royal Academy of Engineering
+1. [Regional Talent Pre-Accelerator Programme](https://enterprisehub.raeng.org.uk/regional-talent-engines)
+
 ## BCS Communities
 
 1. [Safety Criticial Systems Club](https://scsc.uk/)
@@ -126,6 +129,7 @@
 6. [Hull Central Library Makerspace](https://www.hcandl.co.uk/libraries/makerspace/about-makerspacehull)
 7. [Hull Chamber of Commerce](https://www.hull-humber-chamber.co.uk/)
 8. [Lean Agile Hull](https://www.meetup.com/Lean-Agile-Hull/)
+9. [The Tech Sessions](https://www.eventbrite.co.uk/o/the-tech-sessions-90965763003)
 
 ## Leeds <a name="leeds"></a>
 
@@ -133,6 +137,7 @@
 2. [Umbraco Leeds Meetup](https://www.meetup.com/umbLeeds/)
 3. [M365 North User Group](https://www.meetup.com/m365-north/)
 4. [Regional Spotlight: Why Leeds is a hotbed for tech scaleups](https://www.uktech.news/partnership/regional-spotlight-leeds-tech-scaleups-hub-20230414)
+
 ## Liverpool <a name="liverpool"></a>
 
 1. [Dot NET Liverpool](https://www.meetup.com/Dot-NET-Liverpool/)
@@ -152,6 +157,7 @@
 11. [Central London Data Science](https://www.meetup.com/central_london_data_science/)
 12. [London Data Science Workshop](https://www.meetup.com/London-Data-Science-Workshop/)
 13. [GraphQL London](https://www.meetup.com/GraphQL-London/)
+14. [Cyber London](https://www.cyberlondon.com/)
 
 ## Manchester <a name="manchester"></a>
 

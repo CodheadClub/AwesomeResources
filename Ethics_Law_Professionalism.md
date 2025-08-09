@@ -52,12 +52,16 @@
 20. [Surrey Police officer who lied about domestic abuse is sacked](https://www.getsurrey.co.uk/news/surrey-news/surrey-police-officer-who-lied-27077166?int_source=amp_continue_reading&int_medium=amp&int_campaign=continue_reading_button#amp-readmore-target)
 21. [EU to allow installation of spyware on journalists phones and laptops](https://www.thetimes.co.uk/article/journalist-spyware-eu-surveillance-sources-3lfnqqznr#:~:text=Brussels%20ambassadors%20on%20Wednesday%20agreed,music%20piracy%20or%20bicycle%20theft)
 22. [Web3 doesn't exist](https://marcushutchins.com/blog/tech/opinions/why-web3-doesnt-exist.html)
+
 ## Guidance <a name="guidance"></a>
+
 1. [NCSC Data Breach Guidance](https://www.ncsc.gov.uk/guidance/data-breaches)
 2. [NCSC Phishing Scam Guidance](https://www.ncsc.gov.uk/collection/phishing-scams)
 3. [NCSC Phishing Guidance](https://www.ncsc.gov.uk/guidance/phishing)
 4. [REPORT on the proposal for regulation of the european parliament on Machinery Products](https://www.europarl.europa.eu/doceo/document/A-9-2022-0141_EN.html)
+
 ## Professionalism & Standards <a name="standards"></a>
+
 1. [W3](https://www.w3.org/standards/) - Standards for web design and applications, devices, architecture, XML, web services and other technology.
 guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/)
 2. [Government overview of Data Protection](https://www.gov.uk/data-protection)
@@ -73,17 +77,26 @@ guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/)
 12. [Kids Privacy (COPPA)](https://www.ftc.gov/news-events/topics/protecting-consumer-privacy-security/kids-privacy-coppa)
 13. [Children's Online Privacy Protection - Cornell Law School](https://www.law.cornell.edu/uscode/text/15/chapter-91)
 14. [Chain of Custody - Digital Forensics](https://www.geeksforgeeks.org/chain-of-custody-digital-forensics/)
-## Proposed legislation <a name="proposed"></a>
 
+### Artificial Intelligence
 
-
+1. [BCS AI Ethics Guidelines](https://www.bcs.org/media/3637/ai-ethics-guidelines.pdf)
+2. [Introduction to AI Assurance](<https://www.gov.uk/government/publications/introduction-to-ai-assurance>)
+3. [AI Regulation - A pro innovation approach](https://www.gov.uk/government/publications/ai-regulation-a-pro-innovation-approach)
+4. [AI Standards Hub](https://aistandardshub.org/)
+5. [Artificial Intelligence Act](https://artificialintelligenceact.eu/)
+6. [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
 
 ## Law <a name="law"></a>
+
 ### Legal Definitions
+
 1. [Actus Reus](https://e-lawresources.co.uk/Actus-reus.php) - The Act (Physical)
 2. [Mens Rea](https://e-lawresources.co.uk/Mens-rea-intention.php) - The Intent (Mental)
 3. [Ignorantia juris non excusat](https://thelawpedia.co.uk/ignorantia-juris-non-excusat/) - Ignorance of the law is no excuse.
+
 ### Computing Specific Laws
+
 1. [Computer Misuse Act 1990](https://www.legislation.gov.uk/ukpga/1990/18/contents)
 2. [Data Protection Act 2018](https://www.legislation.gov.uk/ukpga/2018/12/contents/enacted)
 3. [Investigatory Powers Act 2016](https://www.gov.uk/government/collections/investigatory-powers-bill) | [Read more heres](https://bills.parliament.uk/bills/1749)
@@ -119,13 +132,13 @@ guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/)
 13. [Online Harms Bill Press Release](https://www.gov.uk/government/news/landmark-laws-to-keep-children-safe-stop-racial-hate-and-protect-democracy-online-published)
 14. [Parliamentary Committee - Online Harms Bill](https://committees.parliament.uk/work/1432/online-safety-and-online-harms/)
 
-
 ### [Kids Online Safety Act (KOSA)](https://aboutbgov.com/52Q)
 
 1. [Kids Online Safety Act - Congress](https://www.congress.gov/bill/117th-congress/senate-bill/3663/text)
 2. [KOSA One pager](https://www.blumenthal.senate.gov/imo/media/doc/kids_online_safety_act_-_one_pager.pdf)
 3. [Kids Online Safety Act may harm minors, civil society groups warn lawmakers](https://www.cnbc.com/2022/11/28/kids-online-safety-act-may-harm-minors-civil-society-groups-warn.html)
 4. [Reed Smith KOSA Perspective](https://www.reedsmith.com/en/perspectives/2022/02/the-kids-online-safety-act)
+
 ### The Product Security and Telecommunications Infrastructure (PSTI) Bill
 
 1. [Factsheet](https://www.gov.uk/government/collections/the-product-security-and-telecommunications-infrastructure-psti-bill-factsheets)
@@ -136,14 +149,16 @@ guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/)
 5. [New Cyber Laws to Protect People's personal tech from hackers](https://www.gov.uk/government/news/new-cyber-laws-to-protect-peoples-personal-tech-from-hackers)
 6. [Huge fines and a ban on default passwords in new UK law](https://www.bbc.co.uk/news/technology-59400762)
 
-### The Digital Services Act 
+### The Digital Services Act
+
 1. [EU Digital Services Act: European Commission proposes new rules for digital platforms](https://ec.europa.eu/commission/presscorner/detail/en/ip_20_2321)
 2. [EU Digital Services Act: Europeanising Social Media Regulation](https://blogs.lse.ac.uk/europpblog/2022/08/08/the-eus-digital-services-act-europeanising-social-media-regulation/)
 3. [E.U. Takes Aim at Social Media’s Harms With Landmark New Law](https://www.nytimes.com/2022/04/22/technology/european-union-social-media-law.html)
 4. [Social media and democracy: we need laws, not platform guidelines](https://www.europarl.europa.eu/news/en/headlines/society/20210204STO97129/social-media-and-democracy-we-need-laws-not-platform-guidelines)
 5. [Social media innovation and policy](https://digital-strategy.ec.europa.eu/en/policies/social-media-policy)
 
-## Professional Development 
+## Professional Development
+
 1. [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 2. [Software Engineering Technical Interviews](https://github.com/kdn251/interviews)
 3. [Devops Exercises](https://github.com/bregman-arie/devops-exercises)
