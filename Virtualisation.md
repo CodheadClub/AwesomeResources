@@ -482,3 +482,110 @@ Minisforum MS-A2 Series
 10. [Minisforum MS-A2 Can it Run ESXi 8.0.3g ? Minisforum MS-A2 Series Part 10 Ultimate #homelab](https://www.youtube.com/watch?v=axCImhDH2qg)  
 11. [Minisforum MS-A2 Can it Run ESXi 9.0.0? Minisforum MS-A2 Series Part 11 Ultimate #homelab](https://www.youtube.com/watch?v=vcRp4RhYSYQ)  
 
+HOW TO: Veeam Backup & Replication for VMware vSphere
+
+1. [Minisforum MS-A2 Migrate ESXi VMs to Hyper-V, Minisforum MS-A2 Series Part 6 Ultimate #homelab](https://www.youtube.com/watch?v=aYga6XcA67I)  
+2. [HOW TO: Migrate Your VMware ESXi VMs to Nutanix AHV Without Breaking a Sweat](https://www.youtube.com/watch?v=qqC-hj-oWpk)  
+3. [Part 11: Migrate VMware ESXi VMs to Nutanix AHV in Minutes!](https://www.youtube.com/watch?v=wPVCH0i8byo)  
+4. [Part 10: HOW TO: Migrate Your VMware ESXi VMs to Proxmox VE in Minutes!](https://www.youtube.com/watch?v=8lnWkH_HkIk)  
+5. [Part 9: HOW TO: Upgrade Veeam Backup and Replication from 11.0 to 12.3](https://www.youtube.com/watch?v=6DpElXFuChw)  
+6. [Part 8: HOW TO: Create & Add a Virtual Tape Server to Veeam Backup & Replication v12.3 Server Part 2](https://www.youtube.com/watch?v=I50I7nrYBU0)  
+7. [Part 7: HOW TO: Create & Add a Virtual Tape Server to Veeam Backup & Replication v12.3 Server Part 1](https://www.youtube.com/watch?v=YcZO_gX4Emg)  
+8. [Part 6: HOW TO: Install Windows Server 2025 on our ESXi 8.0.3e #homelab & Enable PCI Passthrough](https://www.youtube.com/watch?v=aellrOQR2c0)  
+9. [Part 93: HOW TO: Create & Add a Tape Server to Veeam Backup & Replication 12.3 for vSphere 8 Part 2](https://www.youtube.com/watch?v=tjH7Rkl1B1M)  
+10. [Part 87: HOW TO: Create & Add a Tape Server to Veeam Backup & Replication  12.3 for vSphere 7 Part 2](https://www.youtube.com/watch?v=DPS8UR2mxes)  
+11. [Part 92: HOW TO: Create & Add a Tape Server to Veeam Backup & Replication 12.3 for vSphere 8 Part 1](https://www.youtube.com/watch?v=2xLWfVYKQFQ)  
+12. [Part 86: HOW TO: Create & Add a Tape Server to Veeam Backup & Replication  12.3 for vSphere 7 Part 1](https://www.youtube.com/watch?v=gZxmd8Bwye8)  
+13. [Part 71: HOW TO: Deploy, Install and Configure the Managed Hardened Repository ISO by Veeam](https://www.youtube.com/watch?v=h-iEay9eXng)  
+14. [Part 67: HOW TO: Deploy, Install and Configure the Managed Hardened Repository ISO by Veeam](https://www.youtube.com/watch?v=n0Ny62qYa9g)  
+15. [Part 69: HOW TO: Install Veeam Backup and Replication 12.2 on Windows Server 2022](https://www.youtube.com/watch?v=UgY5UtVa_AA)  
+16. [Part 66: HOW TO: Install Veeam Backup & Replication 12.2 on Windows Server 2022](https://www.youtube.com/watch?v=Vgf8CRMCfhg)  
+
+HOW TO: Install ESXi ARM on a Raspberry Pi
+
+1. [HOW TO: Fix Raspberry Pi 5 framebuffer Issue with ESXi ARM NOW!](https://www.youtube.com/watch?v=238U2vggriU)  
+2. [HOW TO: Install VMware ESXi ARM 8.0.3c on a Raspberry Pi 5 or CM5 16GB with a d0 stepping #exclusive](https://www.youtube.com/watch?v=2TnRGB9J_3A)  
+3. [Tiny Titan ARM Turing Pi 2](https://www.youtube.com/watch?v=_tCtH1OiyPQ)  
+4. [RPI4 CM4 - The Tiny Titan - Turing Pi - ComputerBlade - ESXi ARM](https://www.youtube.com/watch?v=xlJVPYMcg4Y)  
+5. [Part 81: HOW TO: Install, Configure & Deploy ESXi ARM 8.0.03b on a RPi CM4 on a Turing Pi v2](https://www.youtube.com/watch?v=rz-Yl7iNyzw)  
+6. [Part 80: HOW TO: Replace the Turing Pi v2 SSL Certificate with a SSL Certificate from a Microsoft CA](https://www.youtube.com/watch?v=1Hs5cJC3SUg)  
+7. [Part 79: HOW TO: Update the Turing Pi v2 Mini ITX Cluster Board firmware from v1.x to v2.x](https://www.youtube.com/watch?v=wLxsDb49ANI)  
+8. [Part 77: HOW TO: Install a Turing Pi v2 on a Streacom ST BC1 Mini Aluminium Open Benchtable](https://www.youtube.com/watch?v=ZizqW_hyxeM)  
+9. [Part 78: HOW TO: Install a heat sink on a Raspberry Pi Compute Module 4 for use with ESXi 8.0](https://www.youtube.com/watch?v=DvWNsJNgYDA)  
+
+HOW TO: Nakivo Backup and Replication for VMware vSphere
+
+1. Part 1: HOW TO: INSTALL Nakivo Backup and Replication v11.1 Beta on Windows Server 2025 in Minutes!,https://www.youtube.com/watch?v=_r5i3aepoH8
+
+HOW TO: Build a VMware vSphere #homelab
+
+1. [Part 1: HOW TO: Build a VMware vSphere #homelab using VMware vSphere Hypervisor ESXi 8.0.3d](https://www.youtube.com/watch?v=T46c18z8-CM)  
+2. [Part 2: HOW TO: Install & Configure VMware vSphere Hypervisor ESXi 8.0.3 for your #homelab](https://www.youtube.com/watch?v=4FdB8F5LeDc)  
+3. [Part 94: HOW TO: Download VMware ESXi 8.0.3e for FREE in 2025 – No Clickbait! - ESXi FREE IS BACK!](https://www.youtube.com/watch?v=g5KU4I4HYIU)  
+4. [VMware vSphere Hypervisor ESXi FREE IS BACK - NO CLICKBAIT!](https://www.youtube.com/watch?v=8FfOaHJmN2I)  
+5. [Part 3: HOW TO: Update our ESXi 8.0.3 #homelab from ESXi 8.0.3 to ESXi 8.0.3d via the "dirty method"](https://www.youtube.com/watch?v=QolY8lia_aw)  
+6. [Part 4: HOW TO: Enable and Configure Memory Teiring over NVMe on our ESXi 8.0.3d #homelab](https://www.youtube.com/watch?v=ZHJmG32QmiM)  
+7. [Part 5: HOW TO: Update our ESXi 8.0.3 #homelab from ESXi 8.0.3d to ESXi 8.0.3e via the dirty method](https://www.youtube.com/watch?v=ZclBQu5Z-4k)  
+8. [Part 6: HOW TO: Install Windows Server 2025 on our ESXi 8.0.3e #homelab & Enable PCI Passthrough](https://www.youtube.com/watch?v=aellrOQR2c0)  
+9. [Part 7: HOW TO: Create & Add a Virtual Tape Server to Veeam Backup & Replication v12.3 Server Part 1](https://www.youtube.com/watch?v=YcZO_gX4Emg)  
+10. [Part 8: HOW TO: Create & Add a Virtual Tape Server to Veeam Backup & Replication v12.3 Server Part 2](https://www.youtube.com/watch?v=I50I7nrYBU0)  
+
+HOW TO: Series - VMware vSphere 6.7
+
+1. [Part 1: HOW TO: Protect VMware ESXi 6 7 from Zero Day Vulnerabilities – Urgent Security Guide](https://www.youtube.com/watch?v=Hqz6770AoCs)  
+2. [Part 2: HOW TO: Update ESXi 6.7 to ESXi 6.7 Build 24514018 and fix VMSA-2025-0004 using a depot file](https://www.youtube.com/watch?v=UOJzJ3F-_aA)  
+3. [HOW TO: Not Downloads VMware vSphere Updates - BROADCOM STOPS FREE UPDATES TO NON SUPPORT ACCOUNTS](https://www.youtube.com/watch?v=Z8Ru90kkLlo)  
+4. [Part 82: HOW TO: Generate a Download Token and configure vCenter Server 7.x to download updates](https://www.youtube.com/watch?v=uIESzAmYb7E)  
+
+HOW TO: Series - Synology NAS
+
+1. [Part 1: HOW TO: Install Synology DSM 7.2 on a Synology 923+ NAS "Out of the Box"](https://www.youtube.com/watch?v=xaABSfnTvSg)  
+2. [Part 2: HOW TO: Install and Configure a SSL Certificate on a Synology NAS from a Microsoft CA](https://www.youtube.com/watch?v=5rvIjFO7GaM)  
+3. [Part 3: HOW TO: Install Portainer CE on a Synology NAS](https://www.youtube.com/watch?v=sEaO4P1KRbA)  
+4. [Part 4: HOW TO: Install and Configure a SSL Certificate for Portainer CE from a Microsoft CA](https://www.youtube.com/watch?v=lvHo0RgKXM0)  
+
+HOW TO: Series - VMware Workstation Pro 17.6
+
+1. [Part 1: HOW TO: Install Linux Ubuntu 24.04.1 LTS Desktop on VMware Workstation Pro 17.6](https://www.youtube.com/watch?v=ANaLLFb4i3U)  
+2. [Part 2: HOW TO: Install Linux Fedora 41 desktop on VMware Workstation Pro 17.6](https://www.youtube.com/watch?v=7xVm3BhvBFw)  
+3. [Part 3: HOW TO: Install Linux Centos Stream 10 desktop on VMware Workstation Pro 17.6](https://www.youtube.com/watch?v=37YNeRgzp-U)  
+4. [Part 4: HOW TO: Install Linux Kali desktop on VMware Workstation Pro 17.6](https://www.youtube.com/watch?v=i4gSLAo_AGY)  
+5. [Part 5: HOW TO: Install VMware vSphere Hypervisor ESXi 8.0.3 on VMware Workstation Pro 17.6](https://www.youtube.com/watch?v=0KOpNDA8f8o)  
+6. [Part 6: HOW TO: Install VMware vSphere Hypervisor ESXi 8.0.3 OVA file on VMware Workstation Pro 17.6](https://www.youtube.com/watch?v=CTbimCCv3eU)  
+7. [Part 7: HOW TO: STILL Download VMware ESXi for FREE in 2025 – No Clickbait!](https://www.youtube.com/watch?v=90tZetON414)  
+8. [Part 8: HOW TO: Disable Hyper V on Windows 11 for VMware Workstation Pro 17.6](https://www.youtube.com/watch?v=rAGhjvOcZHA)  
+9. [Part 9: HOW TO: Install VMware Workstation Pro 17.6.2 on Linux Ubuntu 24.04.1 Nested VM CPU Passthru](https://www.youtube.com/watch?v=WkwON8YB9QA)  
+10. [Part 10: HOW TO: Install Linux ArchLinux on VMware Workstation Pro](https://www.youtube.com/watch?v=FwlZB-ZuZYo)  
+11. [Part 11: HOW TO: Install the Gnome GUI on ArchLinux on VMware Workstation Pro](https://www.youtube.com/watch?v=fQmzBnorQC4)  
+
+HOW TO: VMware vSphere Hypervisor ESXi ARM 7.0 and 8.0.3
+
+1. [How to become a #VMware #vExpert 2025?](https://www.youtube.com/watch?v=p_Wc8qy9uXY)  
+2. [ComputeBlades by Uptime Labs - running ESXi ARM](https://www.youtube.com/watch?v=5LqoNsRbzRY)  
+3. [Tiny Titan ARM Turing Pi 2](https://www.youtube.com/watch?v=_tCtH1OiyPQ)  
+4. [RPI4 CM4 - The Tiny Titan - Turing Pi - ComputerBlade - ESXi ARM](https://www.youtube.com/watch?v=xlJVPYMcg4Y)  
+5. [Private video](https://www.youtube.com/watch?v=7w6E_UcqwpU)  
+6. [Added a Corsair fan to the Turing Pi CM4 Pi cluster #computemodule #fpga #riscv #embeddedc #vhdl](https://www.youtube.com/watch?v=MtM9x5QWKqM)  
+7. [No More micro SD cards for my RPi4 or CM4 for ESXi ARM -#raspberrypi4 #cm4 #rpi4](https://www.youtube.com/watch?v=Nds0s4BgN-U)  
+8. [Part 82: HOW TO: Update the RPi4 Bootloader and configure ESXi ARM for Netboot - Christmas Edition](https://www.youtube.com/watch?v=vIlawlgyweo)  
+9. [Part 81: HOW TO: Install, Configure & Deploy ESXi ARM 8.0.03b on a RPi CM4 on a Turing Pi v2](https://www.youtube.com/watch?v=rz-Yl7iNyzw)  
+10. [Part 80: HOW TO: Replace the Turing Pi v2 SSL Certificate with a SSL Certificate from a Microsoft CA](https://www.youtube.com/watch?v=1Hs5cJC3SUg)  
+11. [Part 79: HOW TO: Update the Turing Pi v2 Mini ITX Cluster Board firmware from v1.x to v2.x](https://www.youtube.com/watch?v=wLxsDb49ANI)  
+12. [Part 78: HOW TO: Install a heat sink on a Raspberry Pi Compute Module 4 for use with ESXi 8.0](https://www.youtube.com/watch?v=DvWNsJNgYDA)  
+13. [Part 77: HOW TO: Install a Turing Pi v2 on a Streacom ST BC1 Mini Aluminium Open Benchtable](https://www.youtube.com/watch?v=ZizqW_hyxeM)  
+14. [Part 76: HOW TO: Upgrade a vSphere Hypervisor ESXi ARM 7.0 to ESXi ARM 8.0U3b using a depot fille](https://www.youtube.com/watch?v=oezKPXVJ8WM)  
+15. [Part 52: HOW TO: Fix Synchronous Exception at 0xXXXXX on vSphere ESXi 7.0 ARM on a RPi4](https://www.youtube.com/watch?v=GHEWu2dxFdk)  
+16. [Part 51: HOW TO: Update the vSphere Hypervisor ESXi 7.0 ARM edition from v1.12 to v1.15](https://www.youtube.com/watch?v=Wajd8EhDkP0)  
+
+Weekly Broadcom and VMware News
+
+1. [Broadcom/VMware News for Week Ending 2 November 2024](https://www.youtube.com/watch?v=_0swAvzrvBQ)  
+2. [Broadcom/VMware News for Week Ending 9 November 2024 - VMUG Membership changed](https://www.youtube.com/watch?v=t4W-QOk9Ov8)  
+3. [Broadcom/VMware News for Week Ending 16 November 2024 - VMware Fusion & Workstation free everyone!](https://www.youtube.com/watch?v=7kojvWLai98)  
+4. [Broadcom/VMware News for Week Ending 23 November 2024 - Broadcom Anniversary of take over of VMware!](https://www.youtube.com/watch?v=AwSXzd9iYl0)  
+5. [Broadcom/VMware News for Week Ending 30 November 2024 - Broadcom Terminates the VCDX program!](https://www.youtube.com/watch?v=ll4oGYt6Sk0)  
+6. [Broadcom/VMware News for Week Ending 7th December 2024 - Broadcom makes another U-turn!](https://www.youtube.com/watch?v=ABlGjrIYoHw)  
+7. [Broadcom/VMware News for Week Ending 29 March 2025 - Broadcom ENDS FREE UPDATES !](https://www.youtube.com/watch?v=-VuHwaNqCSM)  
+8. [Broadcom Ends Free Updated via ESXCLI and vLCM if you do not have support](https://www.youtube.com/watch?v=nkncJK16NvU)  
+9. [Broadcom/VMware News for Week Ending 29 March 2025 updated! - Minimum Cores Increase from 16 to 72!](https://www.youtube.com/watch?v=M5J92adCJmc)  
+10. [VMware by Broadcom Weekly News   Week Ending 12th April 2025 - ESXi FREE IS BACK DOWNLOAD NOW!](https://www.youtube.com/watch?v=sJ-caKNVMeA)  
