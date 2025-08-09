@@ -455,7 +455,7 @@ This new series will focus on VCF 9.0 will run in parallel with the Hancock's VM
 
 A reminder that VMware vSphere 7.0 is End of Life in October 2025.
 
-HOW TO: VCF 9.0
+## **HOW TO: VCF 9.0
 
 1. [HOW TO: Install VMware vSphere Hypervisor ESXi 9 0 | VCF 9.0 Component Deployment Guide](https://www.youtube.com/watch?v=PQQqaqR10mk)  
 2. [HOW TO: Install VMware vCenter Server 9 0 | VCF 9.0 Component Deployment Guide](https://www.youtube.com/watch?v=bj9Lc1acYAo)  
@@ -514,7 +514,8 @@ HOW TO: Install ESXi ARM on a Raspberry Pi
 
 HOW TO: Nakivo Backup and Replication for VMware vSphere
 
-1. Part 1: HOW TO: INSTALL Nakivo Backup and Replication v11.1 Beta on Windows Server 2025 in Minutes!,https://www.youtube.com/watch?v=_r5i3aepoH8
+1. [Part 1: HOW TO: INSTALL Nakivo Backup and Replication v11.1 Beta on Windows Server 2025 in Minutes!](https://www.youtube.com/watch?v=_r5i3aepoH8)  
+
 
 HOW TO: Build a VMware vSphere #homelab
 
