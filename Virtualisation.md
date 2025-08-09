@@ -455,7 +455,7 @@ This new series will focus on VCF 9.0 will run in parallel with the Hancock's VM
 
 A reminder that VMware vSphere 7.0 is End of Life in October 2025.
 
-## **HOW TO: VCF 9.0
+## **HOW TO: VCF 9.0**
 
 1. [HOW TO: Install VMware vSphere Hypervisor ESXi 9 0 | VCF 9.0 Component Deployment Guide](https://www.youtube.com/watch?v=PQQqaqR10mk)  
 2. [HOW TO: Install VMware vCenter Server 9 0 | VCF 9.0 Component Deployment Guide](https://www.youtube.com/watch?v=bj9Lc1acYAo)  
