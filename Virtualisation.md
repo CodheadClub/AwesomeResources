@@ -238,6 +238,9 @@ In this series based on VMware vSphere 7.0, which compliments the written articl
 In this short online course, there is a total of 40 hours of online videos from Part 1 to Part 75, taking you through the basics of VMware vSphere 7.0, from installation of the hypervisor (ESXi), creating Windows and Linux virtual machines, updating the ESXi hosts and installing and adding ESXi hosts to vCenter Server (the management server.)
 This course is split over 75 parts, in bit size chunks, hosted by Andrew Hancock. If you have any questions or issues, then please consider posting a question on [Experts Exchange](https://www.experts-exchange.com/).
 
+Hancock’s VMware Half Hour has grown beyond the original HOW TO series for vSphere 7.0 and 8.0, branching into related technologies that integrate with and enhance VMware environments. From backup and disaster recovery to automation, networking, and supporting infrastructure, the channel now explores the full ecosystem that wraps around VMware, helping professionals build complete, resilient, and efficient virtual infrastructures.
+
+
 A reminder that VMware vSphere 7.0 is End of Life in October 2025.
 
 0. [Part 0: HOW TO: Behind the Scene at Hancock's VMware Half Hour](https://www.youtube.com/watch?v=zB1cy80MHZ0&t=139s)
@@ -453,12 +456,29 @@ This new series will focus on VCF 9.0 will run in parallel with the Hancock's VM
 
 A reminder that VMware vSphere 7.0 is End of Life in October 2025.
 
-1. [Minisforum MS-A2 Can it Run ESXi 9.0.0? Minisforum MS-A2 Series Part 11 Ultimate #homelab](https://www.youtube.com/watch?v=vcRp4RhYSYQ)  
-2. [HOW TO: Create an Offline Depot with a Python script | VCF 9.0 Component Deployment Guide](https://www.youtube.com/watch?v=VMmvC2ydLME)  
-3. [HOW TO: Create an Offline Depot with a Synology NAS | VCF 9.0 Component Deployment Guide](https://www.youtube.com/watch?v=vhQHwLrEr3E)  
-4. [HOW TO: Add an ESXi 9 0 Host to vCenter Server 9 0 | VCF 9.0 Component Deployment Guide](https://www.youtube.com/watch?v=B_L_kI3HlC0)  
-5. [HOW TO: Deploy, Install and Configure VCF 9.0 Installer | VCF 9.0 Component Deployment Guide](https://www.youtube.com/watch?v=Ng0_k9vnO8o)  
-6. [HOW TO: Install VMware vCenter Server 9 0 | VCF 9.0 Component Deployment Guide](https://www.youtube.com/watch?v=bj9Lc1acYAo)  
-7. [HOW TO: Install VMware vSphere Hypervisor ESXi 9 0 | VCF 9.0 Component Deployment Guide](https://www.youtube.com/watch?v=PQQqaqR10mk)  
+HOW TO: VCF 9.0
 
-Hancock’s VMware Half Hour has grown beyond the original HOW TO series for vSphere 7.0 and 8.0, branching into related technologies that integrate with and enhance VMware environments. From backup and disaster recovery to automation, networking, and supporting infrastructure, the channel now explores the full ecosystem that wraps around VMware, helping professionals build complete, resilient, and efficient virtual infrastructures.
+1. [HOW TO: Install VMware vSphere Hypervisor ESXi 9 0 | VCF 9.0 Component Deployment Guide](https://www.youtube.com/watch?v=PQQqaqR10mk)  
+2. [HOW TO: Install VMware vCenter Server 9 0 | VCF 9.0 Component Deployment Guide](https://www.youtube.com/watch?v=bj9Lc1acYAo)  
+3. [HOW TO: Deploy, Install and Configure VCF 9.0 Installer | VCF 9.0 Component Deployment Guide](https://www.youtube.com/watch?v=Ng0_k9vnO8o)  
+4. [HOW TO: Add an ESXi 9 0 Host to vCenter Server 9 0 | VCF 9.0 Component Deployment Guide](https://www.youtube.com/watch?v=B_L_kI3HlC0)  
+5. [HOW TO: Create an Offline Depot with a Synology NAS | VCF 9.0 Component Deployment Guide](https://www.youtube.com/watch?v=vhQHwLrEr3E)  
+6. [HOW TO: Create an Offline Depot with a Python script | VCF 9.0 Component Deployment Guide](https://www.youtube.com/watch?v=VMmvC2ydLME)  
+7. [Minisforum MS-A2 Can it Run ESXi 9.0.0? Minisforum MS-A2 Series Part 11 Ultimate #homelab](https://www.youtube.com/watch?v=vcRp4RhYSYQ)  
+ 
+
+
+Minisforum MS-A2 Series
+
+1. [Minisforum MS-A2 Unboxing & 128GB RAM Install, Minisforum MS-A2 Series Part 1 Ultimate #homelab](https://www.youtube.com/watch?v=kzMxca_azx8)  
+2. [Minisforum MS-A2 Firmware UEFI BIOS Update, Minisforum MS-A2 Series Part 2 Ultimate #homelab](https://www.youtube.com/watch?v=EslF-z4JTaQ)  
+3. [Minisforum MS-A2 NVMe and Windows 11 Install, Minisforum MS-A2 Series Part 3 Ultimate #homelab](https://www.youtube.com/watch?v=ZMxOJCUr1bg)  
+4. [Minisforum MS-A2 Installing M.2(A+E Key) 2230MM Minisforum MS-A2 Series Part 4 Ultimate #homelab](https://www.youtube.com/watch?v=cthnNqWThk0)  
+5. [Minisforum MS-A2 Windows Server 2025 Install, Minisforum MS-A2 Series Part 5 Ultimate #homelab](https://www.youtube.com/watch?v=AlCPY7gOuh4)  
+6. [Minisforum MS-A2 Migrate ESXi VMs to Hyper-V, Minisforum MS-A2 Series Part 6 Ultimate #homelab](https://www.youtube.com/watch?v=aYga6XcA67I)  
+7. [Minisforum MS-A2 Can it Play DOOM? Minisforum MS-A2 Series Part 7 Ultimate #homelab](https://www.youtube.com/watch?v=u3YCnz7oFMc)  
+8. [Minisforum MS-A2 Can it Play DOOM: The Dark Ages? Minisforum MS-A2 Series Part 8 Ultimate #homelab](https://www.youtube.com/watch?v=tf18aIFle7k)  
+9. [Minisforum MS-A2 NVMe namespaces U.2 Samsung PM9A3 Minisforum MS-A2 Series Part 9 Ultimate #homelab](https://www.youtube.com/watch?v=SVsMpnv3JPc)  
+10. [Minisforum MS-A2 Can it Run ESXi 8.0.3g ? Minisforum MS-A2 Series Part 10 Ultimate #homelab](https://www.youtube.com/watch?v=axCImhDH2qg)  
+11. [Minisforum MS-A2 Can it Run ESXi 9.0.0? Minisforum MS-A2 Series Part 11 Ultimate #homelab](https://www.youtube.com/watch?v=vcRp4RhYSYQ)  
+
