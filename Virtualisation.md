@@ -79,13 +79,13 @@ Type 2
 6. [Docker](https://www.docker.com/) - Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers.
 
 ## Andrew Hancock, Cyrus Computer Consultants Ltd <a name="andrewhancock"></a>
-Andrew Hancock is VMware & Virtualisation Consultant in Apps, Servers & Storage at [Cyrus Computer Consultants Ltd.](https://www.cyrus-consultants.co.uk/) He also has a long list of VMware and Virtualisations articles, a passionate VMware Technical Architect, and VMware vExpert *************** (2011-Present) and VMware vExpert PRO. He has won over 46 [Experts Exchange Awards](https://www.experts-exchange.com/members/hanccocka.html) and is Overall Leader at [Experts Exchange](https://www.experts-exchange.com/) Experts Exchange - The Original Tech Community™ - Formed in 1996, Experts Exchange (EE) is one of the oldest online communities in the world. For 26 years, tech problem-solvers worldwide have gathered on EE to share knowledge and help each other succeed.
+Andrew Hancock is VMware & Virtualisation Consultant in Apps, Servers & Storage at [Cyrus Computer Consultants Ltd.](https://www.cyrus-consultants.co.uk/) He also has a long list of VMware and Virtualisations articles, a passionate VMware Technical Architect, and VMware vExpert ***************** (2011-2025) and VMware vExpert PRO. (6 Years) He has won over 46+ [Experts Exchange Awards](https://www.experts-exchange.com/members/hanccocka.html) and is Overall Leader at [Experts Exchange](https://www.experts-exchange.com/) Experts Exchange - The Original Tech Community™ - Formed in 1996, Experts Exchange (EE) is one of the oldest online communities in the world. For 26 years, tech problem-solvers worldwide have gathered on EE to share knowledge and help each other succeed.
 
 In 2010, I rekindled my relationship with Experts Exchange, the world’s premier tech community, after originally discovering it in 2003. What began as a simple search for help with an Outlook issue evolved into a transformative journey of learning, contribution, and recognition. Inspired by a close friend's passion for the platform, I dove headfirst into answering questions, focusing on VMware and virtualization.
 
 Over the years, I achieved numerous milestones, from earning my first "Genius" t-shirt to topping the VMware leaderboard and becoming the No. 1 point earner on Experts Exchange. This article outlines my experiences, achievements, and the pivotal role Experts Exchange played in shaping my career. Read on [From Rookie to Elite: My 14-Year Journey at Experts Exchange](https://andysworld.org.uk/2024/09/17/from-rookie-to-elite-my-14-year-journey-at-experts-exchange/) to discover how a desire to contribute led to over a decade of success and personal growth within the tech community.
 
-His articles are reproduced here for your reading pleasure. If you want to discuss anything VMware, then ask him! He will only be too happy to oblige. Unfortunately NFR and Evaluation software for VMware software products is coming to an end! Sadly on the 15th August 2024, Broadcom terminated the [VMware IT Academy Program](https://www.vmware.com/uk/company/it-academy.html). It was annouced at VMware Explore, Barcelona in 2024, there would be significant changes made to the VMUG Advantage EVALexperience and VMware vExpert programs, from 2025, the only method to obtain NFR licenses would be to train and become certified with a VCP-VVF or VCP-VCF.
+His articles are reproduced here for your reading pleasure. If you want to discuss anything VMware, then ask him! He will only be too happy to oblige. Unfortunately NFR and Evaluation software for VMware software products is coming to an end! Sadly on the 15th August 2024, Broadcom terminated the [VMware IT Academy Program](https://www.vmware.com/uk/company/it-academy.html). It was annouced at VMware Explore, Barcelona in 2024, there would be significant changes made to the VMUG Advantage EVALexperience and VMware vExpert programs, from 2025, the only method to obtain NFR licenses would be to train and become certified with a VCP-VVF or VCP-VCF. However in March 2025, Broadcom made available again the FREE ESXi and VMware Workstation Pro and Fusion for FREE !
 1. [How to Backup an ESXi installation on an USB Flash Drive or SD card for security or redundancy.](https://www.experts-exchange.com/A_5409.html)
 2. [VMware ESX/ESXi Backup Guide](https://www.experts-exchange.com/A_5414.html)
 3. [HOW TO: Improve the transfer rate of a Physical to Virtual (P2V) Virtual to Virtual Conversion (V2V) using VMware vCenter Converter Standalone 5.0](https://www.experts-exchange.com/articles/9131/HOW-TO-Improve-the-transfer-rate-of-a-Physical-to-Virtual-P2V-Virtual-to-Virtual-Conversion-V2V-using-VMware-vCenter-Converter-Standalone-5-0.html)
@@ -238,6 +238,12 @@ In this series based on VMware vSphere 7.0, which compliments the written articl
 In this short online course, there is a total of 40 hours of online videos from Part 1 to Part 75, taking you through the basics of VMware vSphere 7.0, from installation of the hypervisor (ESXi), creating Windows and Linux virtual machines, updating the ESXi hosts and installing and adding ESXi hosts to vCenter Server (the management server.)
 This course is split over 75 parts, in bit size chunks, hosted by Andrew Hancock. If you have any questions or issues, then please consider posting a question on [Experts Exchange](https://www.experts-exchange.com/).
 
+Hancock’s VMware Half Hour has grown beyond the original HOW TO series for vSphere 7.0 and 8.0, branching into related technologies that integrate with and enhance VMware environments. From backup and disaster recovery to automation, networking, and supporting infrastructure, the channel now explores the full ecosystem that wraps around VMware, helping professionals build complete, resilient, and efficient virtual infrastructures.
+
+## **HOW TO: VMware vSphere 7.0**
+
+A reminder that VMware vSphere 7.0 is End of Life in October 2025.
+
 0. [Part 0: HOW TO: Behind the Scene at Hancock's VMware Half Hour](https://www.youtube.com/watch?v=zB1cy80MHZ0&t=139s)
 1. [Part 1: HOW TO: Install and Configure VMware vSphere Hypervisor 7.0 U2 (ESXi 7.0.2).](https://www.experts-exchange.com/videos/78972/HOW-TO-Install-and-Configure-VMware-vSphere-Hypervisor-7-0-U2-ESXi-7-0-2.html) - [Alternative Link on YouTube](https://youtu.be/sWetMeSi9lk)
 2. [Part 2: HOW TO: Connect to the VMware vSphere Hypervisor 7.0 U2 (ESXi 7.0.2) using the vSphere Host Client.](https://www.experts-exchange.com/videos/78992/HOW-TO-Connect-to-the-VMware-vSphere-Hypervisor-7-0U2-ESXi-7-0-2-using-the-vSphere-HTML5-Web-Host-Client-7-0.html) - [Alternative Link on YouTube](https://youtu.be/YGNwb8HNPnk)
@@ -314,13 +320,32 @@ This course is split over 75 parts, in bit size chunks, hosted by Andrew Hancock
 73. [Part 73: HOW TO: Shrink or Reduce the size of VMware vCenter Server VCSA 7.0 disks and fix the Metadata and system validation failed on recovery](https://www.experts-exchange.com/videos/80753/HOW-TO-Shrink-or-Reduce-the-size-of-VMware-vCenter-Server-VCSA-7-0-8-0-disks-and-fix-the-Metadata-and-system-validation-failed-on-recovery.html) - - [Alternative Link on YouTube](https://youtu.be/Ug-OFNVi1HY?si=mywo2jyGelFAuWfW)
 74. [Part 74: HOW TO: Replace the ESXi 7.0 SSL Certificate with a SSL Certificate from a Microsoft Active Directory Certificate Services CA](https://www.experts-exchange.com/videos/80776/HOW-TO-Replace-the-ESXi-SSL-Certificate-with-a-SSL-Certificate-from-a-Microsoft-Certificate-Authority.html) - [Alternative Link on YouTube](https://youtu.be/W0Wi-WqH2P0)
 75. [Part 75: HOW TO: Replace the vCenter Server 7.0 SSL Certificate with a SSL Certificate from a Microsoft Active Directory Certificate Services CA](https://www.experts-exchange.com/videos/80777/HOW-TO-Replace-the-vCenter-Server-SSL-Certificate-with-a-SSL-Certificate-from-a-Microsoft-Certificate-Authority.html) - [Alternative Link on YouTube](https://youtu.be/DV7vcXER4ko)
+76. [Part 76: HOW TO: Change from US to UK date format in the vCenter Server 7.0 vSphere Web Client](https://www.youtube.com/watch?v=MrIhqm7GvPI)  
+77. [Part 77: HOW TO: Install a SSL certificate for VMware Aria Operations Manager from a Microsoft CA](https://www.youtube.com/watch?v=hUU341sphw8)  
+78. [Part 78: HOW TO: Install a SSL certificate for VMware Aria Operatifrom for Logs from a Microsoft CA](https://www.youtube.com/watch?v=GWnNvBXtGSE)  
+79. [Part 79: HOW TO: Protect VMware ESXi 7 x from Zero Day Vulnerabilities – Urgent Security Guide](https://www.youtube.com/watch?v=TfaSIV06sNg)  
+80. [Part 80: HOW TO: Update ESXi 7.x to ESXi 7.0 Update 3s and fix VMSA-2025-0004](https://www.youtube.com/watch?v=IGlGLx6W50g)  
+81. [Part 81: HOW TO: Update ESXi 7 to ESXi 7.0.3s Build 24514018 & fix VMSA-2025-0004 using a depot file](https://www.youtube.com/watch?v=K2O4s6MNiSs)  
+82. [HOW TO: Not Downloads VMware vSphere Updates - BROADCOM STOPS FREE UPDATES TO NON SUPPORT ACCOUNTS](https://www.youtube.com/watch?v=Z8Ru90kkLlo)  
+83. [Part 84: HOW TO: Update ESXi 7 to ESXi 7.0.3s Build 24585291 & fix VMSA-2025-0004 using vLCM Part I](https://www.youtube.com/watch?v=p1w3NmwQbU8)  
+84. [Part 85: HOW TO: Update ESXi 7 to ESXi 7.0.3s Build 24585291 & fix VMSA-2025-0004 using vLCM Part 2](https://www.youtube.com/watch?v=_lzSE3VdX4Q)  
+85. [Part 88: HOW TO: Resize a Virtual Disk on a Windows Server 2025 VM in vSphere 7.0](https://www.youtube.com/watch?v=w2pcCNCVYys)  
+86. [Part 89: HOW TO: Resize a Virtual Disk on a Windows Server 2025 VM in vSphere 7 using inbuilt tools](https://www.youtube.com/watch?v=UeoXlsYK4O4)  
+87. [Part 90: HOW TO: Resize a Virtual Disk on a Windows 11 Desktop OS VM in vSphere 7.0](https://www.youtube.com/watch?v=oUmE0BxFydA)  
+88. [HOW TO: Resize a Virtual Disk on a Windows 11 VM using AOMEI Partition Assistant](https://www.youtube.com/watch?v=5TBrp9cS7DM)  
+89. [HOW TO: Resize a Virtual Disk on a Windows 11 VM using EaseUS Partition Master Free](https://www.youtube.com/watch?v=rufNNOAVQFU)  
+90. [HOW TO: Resize a Virtual Disk on a Windows Server 2025 VM using Gparted Live CDROM](https://www.youtube.com/watch?v=ZviA-wBnIeA)  
+91. [HOW TO: Resize a Windows Server 2025 virtual machine disk using VMware vCenter Standalone Converter](https://www.youtube.com/watch?v=ODhsnQeTjuE)  
+92. [Part 91: HOW TO: Resize a Windows 11 virtual machine disk using VMware vCenter Standalone Converter](https://www.youtube.com/watch?v=oKFqpL5iMNk)  
+93. [Part 92: HOW TO: Resize a Windows Server 2025 VM disk using VMware vCenter Standalone Converter](https://www.youtube.com/watch?v=tcnkbViDdHE)  
 
 
+## **HOW TO: VMware vSphere 8.0**
 On 11th October 2022, VMware released VMware vSphere 8.0
 
 This new series will focus on [VMware vSphere 8.0](https://www.youtube.com/playlist?list=PLNnzoLjh3vLTM9cHIiaLbMZ8Zq4s9yg8f), and will run in parallel with the Hancock's VMware Half Hour [HOW TO Video Series on VMware vSphere 7.0.](https://www.youtube.com/playlist?list=PLNnzoLjh3vLQpp7ADrSQsFTlQzhv05pn7)
 
-
+A reminder that VMware vSphere 7.0 is End of Life in October 2025.
 
 0. [Part 0: HOW TO: Behind the Scene at Hancock's VMware Half Hour](https://youtube.com/watch?v=zB1cy80MHZ0)
 1. [Part 1: HOW TO: Automate and Deploy a VMware vSphere 8.0 and vSAN 8 Lab using a PowerCLI script](https://www.experts-exchange.com/videos/79633/HOW-TO-Automate-and-Deploy-a-VMware-vSphere-8-0-and-vSAN-8-Lab-using-a-PowerCLI-script.html) - [Alternative Link on YouTube](https://youtube.com/watch?v=LUTHsgdEkz0)
@@ -405,3 +430,164 @@ This new series will focus on [VMware vSphere 8.0](https://www.youtube.com/playl
 80. [Part 80: HOW TO: Replace the Turing Pi v2 SSL Certificate with a SSL Certificate from a Microsoft CA](https://youtu.be/1Hs5cJC3SUg)
 81. [Part 81: HOW TO: Install, Configure & Deploy ESXi ARM 8.0.03b on a RPi CM4 on a Turing Pi v2](https://youtu.be/rz-Yl7iNyzw)
 82. [Part 82: HOW TO: Update the RPi4 Bootloader and configure ESXi ARM for Netboot - Christmas Edition](https://youtu.be/vIlawlgyweo)
+83. [Part 83: HOW TO: Change from US to UK date format in the vCenter Server 8.0 vSphere Web Client](https://www.youtube.com/watch?v=r4ldoMVFkQY)  
+84. [Part 84: HOW TO: Install a SSL certificate for VMware Aria Operations  Manager from a Microsoft CA](https://www.youtube.com/watch?v=rNJ9l_uJKDQ)  
+85. [Part 85: HOW TO: Install a SSL certificate for VMware Aria Operatifrom for Logs from a Microsoft CA](https://www.youtube.com/watch?v=gglzh_HL4BI)  
+86. [Part 86: HOW TO: Protect VMware ESXi 8 x from Zero Day Vulnerabilities – Urgent Security Guide](https://www.youtube.com/watch?v=Ntjm9t2wBXg)  
+87. [Part 87: HOW TO: Update ESXi 8.x to ESXi 8.0 Update 3d and fix VMSA-2025-0004](https://www.youtube.com/watch?v=8cXVihJlPig)  
+88. [Part 88: HOW TO: Update ESXi 8 to ESXi 8.0.3d Build 24585383 & fix VMSA-2025-0004 using a depot file](https://www.youtube.com/watch?v=MpIW1yEt9d8)  
+89. [Part 89: HOW TO: Update ESXi 8 to ESXi 8.0.3d Build 24585383 & fix VMSA-2025-0004 using vLCM](https://www.youtube.com/watch?v=HAiVAhbK4gc)  
+90. [Part 90: HOW TO: Generate a Download Token and configure vCenter Server 8.x to download updates](https://www.youtube.com/watch?v=ylBr5NEJN5k)  
+91. [Part 91: HOW TO: Configure VMware vSphere 8.x to download VMware Updates using the Automated Script](https://www.youtube.com/watch?v=va3gUkb9pYw)  
+92. [Part 92: HOW TO: Resize a Windows Server 2025 VM disk using VMware vCenter Standalone Converter](https://www.youtube.com/watch?v=tcnkbViDdHE)  
+93. [Part 93: HOW TO: Create & Add a Tape Server to Veeam Backup & Replication 12.3 for vSphere 8 Part 2](https://www.youtube.com/watch?v=tjH7Rkl1B1M)  
+94. [Part 94: HOW TO: Download VMware ESXi 8.0.3e for FREE in 2025 – No Clickbait! - ESXi FREE IS BACK!](https://www.youtube.com/watch?v=g5KU4I4HYIU)  
+95. [Part 95: HOW TO: Resize a Virtual Disk on a Windows Server 2025 VM in vSphere 8.0](https://www.youtube.com/watch?v=BUMkLmO9t4I)  
+96. [Part 96: HOW TO: Resize a Virtual Disk on a Windows Server 2025 VM in vSphere 8 using inbuilt tools](https://www.youtube.com/watch?v=E9kDbOWxwAs)  
+97. [Part 97: HOW TO: Resize a Virtual Disk on a Windows 11 Desktop OS VM in vSphere 8.0](https://www.youtube.com/watch?v=yjRknDxJBa8)  
+98. [Part 98: HOW TO: Resize a Windows 11 virtual machine disk using VMware vCenter Standalone Converter](https://www.youtube.com/watch?v=7-pjhP21qNE)  
+99. [Part 99: HOW TO: Resize a Windows Server 2025 VM disk using VMware vCenter Standalone Converter](https://www.youtube.com/watch?v=Lx440h9lh8Q)  
+100. [Minisforum MS-A2 Can it Run ESXi 8.0.3g ? Minisforum MS-A2 Series Part 10 Ultimate #homelab](https://www.youtube.com/watch?v=axCImhDH2qg)  
+101. [VMware Software Downloads Require Authorization from March 24, 2025!](https://www.youtube.com/watch?v=93-a0cC31S8)  
+102. [VMware vSphere Hypervisor ESXi FREE IS BACK - NO CLICKBAIT!](https://www.youtube.com/watch?v=8FfOaHJmN2I)  
+
+On 17th June 2025, Broadcom by VMware released VCF 9.0 (VMware Cloud Foundation)
+
+This new series will focus on VCF 9.0 will run in parallel with the Hancock's VMware Half Hour with [HOW TO Video Series on VMware vSphere 8.0](https://www.youtube.com/playlist?list=PLNnzoLjh3vLTM9cHIiaLbMZ8Zq4s9yg8f), and [HOW TO Video Series on VMware vSphere 7.0.](https://www.youtube.com/playlist?list=PLNnzoLjh3vLQpp7ADrSQsFTlQzhv05pn7)
+
+A reminder that VMware vSphere 7.0 is End of Life in October 2025.
+
+## **HOW TO: VCF 9.0**
+
+1. [HOW TO: Install VMware vSphere Hypervisor ESXi 9 0 | VCF 9.0 Component Deployment Guide](https://www.youtube.com/watch?v=PQQqaqR10mk)  
+2. [HOW TO: Install VMware vCenter Server 9 0 | VCF 9.0 Component Deployment Guide](https://www.youtube.com/watch?v=bj9Lc1acYAo)  
+3. [HOW TO: Deploy, Install and Configure VCF 9.0 Installer | VCF 9.0 Component Deployment Guide](https://www.youtube.com/watch?v=Ng0_k9vnO8o)  
+4. [HOW TO: Add an ESXi 9 0 Host to vCenter Server 9 0 | VCF 9.0 Component Deployment Guide](https://www.youtube.com/watch?v=B_L_kI3HlC0)  
+5. [HOW TO: Create an Offline Depot with a Synology NAS | VCF 9.0 Component Deployment Guide](https://www.youtube.com/watch?v=vhQHwLrEr3E)  
+6. [HOW TO: Create an Offline Depot with a Python script | VCF 9.0 Component Deployment Guide](https://www.youtube.com/watch?v=VMmvC2ydLME)  
+7. [Minisforum MS-A2 Can it Run ESXi 9.0.0? Minisforum MS-A2 Series Part 11 Ultimate #homelab](https://www.youtube.com/watch?v=vcRp4RhYSYQ)  
+ 
+
+
+## **Minisforum MS-A2 Series**
+
+1. [Minisforum MS-A2 Unboxing & 128GB RAM Install, Minisforum MS-A2 Series Part 1 Ultimate #homelab](https://www.youtube.com/watch?v=kzMxca_azx8)  
+2. [Minisforum MS-A2 Firmware UEFI BIOS Update, Minisforum MS-A2 Series Part 2 Ultimate #homelab](https://www.youtube.com/watch?v=EslF-z4JTaQ)  
+3. [Minisforum MS-A2 NVMe and Windows 11 Install, Minisforum MS-A2 Series Part 3 Ultimate #homelab](https://www.youtube.com/watch?v=ZMxOJCUr1bg)  
+4. [Minisforum MS-A2 Installing M.2(A+E Key) 2230MM Minisforum MS-A2 Series Part 4 Ultimate #homelab](https://www.youtube.com/watch?v=cthnNqWThk0)  
+5. [Minisforum MS-A2 Windows Server 2025 Install, Minisforum MS-A2 Series Part 5 Ultimate #homelab](https://www.youtube.com/watch?v=AlCPY7gOuh4)  
+6. [Minisforum MS-A2 Migrate ESXi VMs to Hyper-V, Minisforum MS-A2 Series Part 6 Ultimate #homelab](https://www.youtube.com/watch?v=aYga6XcA67I)  
+7. [Minisforum MS-A2 Can it Play DOOM? Minisforum MS-A2 Series Part 7 Ultimate #homelab](https://www.youtube.com/watch?v=u3YCnz7oFMc)  
+8. [Minisforum MS-A2 Can it Play DOOM: The Dark Ages? Minisforum MS-A2 Series Part 8 Ultimate #homelab](https://www.youtube.com/watch?v=tf18aIFle7k)  
+9. [Minisforum MS-A2 NVMe namespaces U.2 Samsung PM9A3 Minisforum MS-A2 Series Part 9 Ultimate #homelab](https://www.youtube.com/watch?v=SVsMpnv3JPc)  
+10. [Minisforum MS-A2 Can it Run ESXi 8.0.3g ? Minisforum MS-A2 Series Part 10 Ultimate #homelab](https://www.youtube.com/watch?v=axCImhDH2qg)  
+11. [Minisforum MS-A2 Can it Run ESXi 9.0.0? Minisforum MS-A2 Series Part 11 Ultimate #homelab](https://www.youtube.com/watch?v=vcRp4RhYSYQ)  
+
+## **HOW TO: Veeam Backup & Replication for VMware vSphere**
+
+1. [Minisforum MS-A2 Migrate ESXi VMs to Hyper-V, Minisforum MS-A2 Series Part 6 Ultimate #homelab](https://www.youtube.com/watch?v=aYga6XcA67I)  
+2. [HOW TO: Migrate Your VMware ESXi VMs to Nutanix AHV Without Breaking a Sweat](https://www.youtube.com/watch?v=qqC-hj-oWpk)  
+3. [Part 11: Migrate VMware ESXi VMs to Nutanix AHV in Minutes!](https://www.youtube.com/watch?v=wPVCH0i8byo)  
+4. [Part 10: HOW TO: Migrate Your VMware ESXi VMs to Proxmox VE in Minutes!](https://www.youtube.com/watch?v=8lnWkH_HkIk)  
+5. [Part 9: HOW TO: Upgrade Veeam Backup and Replication from 11.0 to 12.3](https://www.youtube.com/watch?v=6DpElXFuChw)  
+6. [Part 8: HOW TO: Create & Add a Virtual Tape Server to Veeam Backup & Replication v12.3 Server Part 2](https://www.youtube.com/watch?v=I50I7nrYBU0)  
+7. [Part 7: HOW TO: Create & Add a Virtual Tape Server to Veeam Backup & Replication v12.3 Server Part 1](https://www.youtube.com/watch?v=YcZO_gX4Emg)  
+8. [Part 6: HOW TO: Install Windows Server 2025 on our ESXi 8.0.3e #homelab & Enable PCI Passthrough](https://www.youtube.com/watch?v=aellrOQR2c0)  
+9. [Part 93: HOW TO: Create & Add a Tape Server to Veeam Backup & Replication 12.3 for vSphere 8 Part 2](https://www.youtube.com/watch?v=tjH7Rkl1B1M)  
+10. [Part 87: HOW TO: Create & Add a Tape Server to Veeam Backup & Replication  12.3 for vSphere 7 Part 2](https://www.youtube.com/watch?v=DPS8UR2mxes)  
+11. [Part 92: HOW TO: Create & Add a Tape Server to Veeam Backup & Replication 12.3 for vSphere 8 Part 1](https://www.youtube.com/watch?v=2xLWfVYKQFQ)  
+12. [Part 86: HOW TO: Create & Add a Tape Server to Veeam Backup & Replication  12.3 for vSphere 7 Part 1](https://www.youtube.com/watch?v=gZxmd8Bwye8)  
+13. [Part 71: HOW TO: Deploy, Install and Configure the Managed Hardened Repository ISO by Veeam](https://www.youtube.com/watch?v=h-iEay9eXng)  
+14. [Part 67: HOW TO: Deploy, Install and Configure the Managed Hardened Repository ISO by Veeam](https://www.youtube.com/watch?v=n0Ny62qYa9g)  
+15. [Part 69: HOW TO: Install Veeam Backup and Replication 12.2 on Windows Server 2022](https://www.youtube.com/watch?v=UgY5UtVa_AA)  
+16. [Part 66: HOW TO: Install Veeam Backup & Replication 12.2 on Windows Server 2022](https://www.youtube.com/watch?v=Vgf8CRMCfhg)  
+
+## **HOW TO: Install ESXi ARM on a Raspberry Pi**
+
+1. [HOW TO: Fix Raspberry Pi 5 framebuffer Issue with ESXi ARM NOW!](https://www.youtube.com/watch?v=238U2vggriU)  
+2. [HOW TO: Install VMware ESXi ARM 8.0.3c on a Raspberry Pi 5 or CM5 16GB with a d0 stepping #exclusive](https://www.youtube.com/watch?v=2TnRGB9J_3A)  
+3. [Tiny Titan ARM Turing Pi 2](https://www.youtube.com/watch?v=_tCtH1OiyPQ)  
+4. [RPI4 CM4 - The Tiny Titan - Turing Pi - ComputerBlade - ESXi ARM](https://www.youtube.com/watch?v=xlJVPYMcg4Y)  
+5. [Part 81: HOW TO: Install, Configure & Deploy ESXi ARM 8.0.03b on a RPi CM4 on a Turing Pi v2](https://www.youtube.com/watch?v=rz-Yl7iNyzw)  
+6. [Part 80: HOW TO: Replace the Turing Pi v2 SSL Certificate with a SSL Certificate from a Microsoft CA](https://www.youtube.com/watch?v=1Hs5cJC3SUg)  
+7. [Part 79: HOW TO: Update the Turing Pi v2 Mini ITX Cluster Board firmware from v1.x to v2.x](https://www.youtube.com/watch?v=wLxsDb49ANI)  
+8. [Part 77: HOW TO: Install a Turing Pi v2 on a Streacom ST BC1 Mini Aluminium Open Benchtable](https://www.youtube.com/watch?v=ZizqW_hyxeM)  
+9. [Part 78: HOW TO: Install a heat sink on a Raspberry Pi Compute Module 4 for use with ESXi 8.0](https://www.youtube.com/watch?v=DvWNsJNgYDA)  
+
+## **HOW TO: Nakivo Backup and Replication for VMware vSphere**
+
+1. [Part 1: HOW TO: INSTALL Nakivo Backup and Replication v11.1 Beta on Windows Server 2025 in Minutes!](https://www.youtube.com/watch?v=_r5i3aepoH8)  
+
+
+## **HOW TO: Build a VMware vSphere #homelab**
+
+1. [Part 1: HOW TO: Build a VMware vSphere #homelab using VMware vSphere Hypervisor ESXi 8.0.3d](https://www.youtube.com/watch?v=T46c18z8-CM)  
+2. [Part 2: HOW TO: Install & Configure VMware vSphere Hypervisor ESXi 8.0.3 for your #homelab](https://www.youtube.com/watch?v=4FdB8F5LeDc)  
+3. [Part 94: HOW TO: Download VMware ESXi 8.0.3e for FREE in 2025 – No Clickbait! - ESXi FREE IS BACK!](https://www.youtube.com/watch?v=g5KU4I4HYIU)  
+4. [VMware vSphere Hypervisor ESXi FREE IS BACK - NO CLICKBAIT!](https://www.youtube.com/watch?v=8FfOaHJmN2I)  
+5. [Part 3: HOW TO: Update our ESXi 8.0.3 #homelab from ESXi 8.0.3 to ESXi 8.0.3d via the "dirty method"](https://www.youtube.com/watch?v=QolY8lia_aw)  
+6. [Part 4: HOW TO: Enable and Configure Memory Teiring over NVMe on our ESXi 8.0.3d #homelab](https://www.youtube.com/watch?v=ZHJmG32QmiM)  
+7. [Part 5: HOW TO: Update our ESXi 8.0.3 #homelab from ESXi 8.0.3d to ESXi 8.0.3e via the dirty method](https://www.youtube.com/watch?v=ZclBQu5Z-4k)  
+8. [Part 6: HOW TO: Install Windows Server 2025 on our ESXi 8.0.3e #homelab & Enable PCI Passthrough](https://www.youtube.com/watch?v=aellrOQR2c0)  
+9. [Part 7: HOW TO: Create & Add a Virtual Tape Server to Veeam Backup & Replication v12.3 Server Part 1](https://www.youtube.com/watch?v=YcZO_gX4Emg)  
+10. [Part 8: HOW TO: Create & Add a Virtual Tape Server to Veeam Backup & Replication v12.3 Server Part 2](https://www.youtube.com/watch?v=I50I7nrYBU0)  
+
+## **HOW TO: Series - VMware vSphere 6.7**
+
+1. [Part 1: HOW TO: Protect VMware ESXi 6 7 from Zero Day Vulnerabilities – Urgent Security Guide](https://www.youtube.com/watch?v=Hqz6770AoCs)  
+2. [Part 2: HOW TO: Update ESXi 6.7 to ESXi 6.7 Build 24514018 and fix VMSA-2025-0004 using a depot file](https://www.youtube.com/watch?v=UOJzJ3F-_aA)  
+3. [HOW TO: Not Downloads VMware vSphere Updates - BROADCOM STOPS FREE UPDATES TO NON SUPPORT ACCOUNTS](https://www.youtube.com/watch?v=Z8Ru90kkLlo)  
+4. [Part 82: HOW TO: Generate a Download Token and configure vCenter Server 7.x to download updates](https://www.youtube.com/watch?v=uIESzAmYb7E)  
+
+## **HOW TO: Series - Synology NAS**
+
+1. [Part 1: HOW TO: Install Synology DSM 7.2 on a Synology 923+ NAS "Out of the Box"](https://www.youtube.com/watch?v=xaABSfnTvSg)  
+2. [Part 2: HOW TO: Install and Configure a SSL Certificate on a Synology NAS from a Microsoft CA](https://www.youtube.com/watch?v=5rvIjFO7GaM)  
+3. [Part 3: HOW TO: Install Portainer CE on a Synology NAS](https://www.youtube.com/watch?v=sEaO4P1KRbA)  
+4. [Part 4: HOW TO: Install and Configure a SSL Certificate for Portainer CE from a Microsoft CA](https://www.youtube.com/watch?v=lvHo0RgKXM0)  
+
+## **HOW TO: Series - VMware Workstation Pro 17.6**
+
+1. [Part 1: HOW TO: Install Linux Ubuntu 24.04.1 LTS Desktop on VMware Workstation Pro 17.6](https://www.youtube.com/watch?v=ANaLLFb4i3U)  
+2. [Part 2: HOW TO: Install Linux Fedora 41 desktop on VMware Workstation Pro 17.6](https://www.youtube.com/watch?v=7xVm3BhvBFw)  
+3. [Part 3: HOW TO: Install Linux Centos Stream 10 desktop on VMware Workstation Pro 17.6](https://www.youtube.com/watch?v=37YNeRgzp-U)  
+4. [Part 4: HOW TO: Install Linux Kali desktop on VMware Workstation Pro 17.6](https://www.youtube.com/watch?v=i4gSLAo_AGY)  
+5. [Part 5: HOW TO: Install VMware vSphere Hypervisor ESXi 8.0.3 on VMware Workstation Pro 17.6](https://www.youtube.com/watch?v=0KOpNDA8f8o)  
+6. [Part 6: HOW TO: Install VMware vSphere Hypervisor ESXi 8.0.3 OVA file on VMware Workstation Pro 17.6](https://www.youtube.com/watch?v=CTbimCCv3eU)  
+7. [Part 7: HOW TO: STILL Download VMware ESXi for FREE in 2025 – No Clickbait!](https://www.youtube.com/watch?v=90tZetON414)  
+8. [Part 8: HOW TO: Disable Hyper V on Windows 11 for VMware Workstation Pro 17.6](https://www.youtube.com/watch?v=rAGhjvOcZHA)  
+9. [Part 9: HOW TO: Install VMware Workstation Pro 17.6.2 on Linux Ubuntu 24.04.1 Nested VM CPU Passthru](https://www.youtube.com/watch?v=WkwON8YB9QA)  
+10. [Part 10: HOW TO: Install Linux ArchLinux on VMware Workstation Pro](https://www.youtube.com/watch?v=FwlZB-ZuZYo)  
+11. [Part 11: HOW TO: Install the Gnome GUI on ArchLinux on VMware Workstation Pro](https://www.youtube.com/watch?v=fQmzBnorQC4)  
+
+## **HOW TO: VMware vSphere Hypervisor ESXi ARM 7.0 and 8.0.3**
+
+1. [How to become a #VMware #vExpert 2025?](https://www.youtube.com/watch?v=p_Wc8qy9uXY)  
+2. [ComputeBlades by Uptime Labs - running ESXi ARM](https://www.youtube.com/watch?v=5LqoNsRbzRY)  
+3. [Tiny Titan ARM Turing Pi 2](https://www.youtube.com/watch?v=_tCtH1OiyPQ)  
+4. [RPI4 CM4 - The Tiny Titan - Turing Pi - ComputerBlade - ESXi ARM](https://www.youtube.com/watch?v=xlJVPYMcg4Y)  
+5. [Added a Corsair fan to the Turing Pi CM4 Pi cluster #computemodule #fpga #riscv #embeddedc #vhdl](https://www.youtube.com/watch?v=MtM9x5QWKqM)  
+6. [No More micro SD cards for my RPi4 or CM4 for ESXi ARM -#raspberrypi4 #cm4 #rpi4](https://www.youtube.com/watch?v=Nds0s4BgN-U)  
+7. [Part 82: HOW TO: Update the RPi4 Bootloader and configure ESXi ARM for Netboot - Christmas Edition](https://www.youtube.com/watch?v=vIlawlgyweo)  
+8. [Part 81: HOW TO: Install, Configure & Deploy ESXi ARM 8.0.03b on a RPi CM4 on a Turing Pi v2](https://www.youtube.com/watch?v=rz-Yl7iNyzw)  
+9. [Part 80: HOW TO: Replace the Turing Pi v2 SSL Certificate with a SSL Certificate from a Microsoft CA](https://www.youtube.com/watch?v=1Hs5cJC3SUg)  
+10. [Part 79: HOW TO: Update the Turing Pi v2 Mini ITX Cluster Board firmware from v1.x to v2.x](https://www.youtube.com/watch?v=wLxsDb49ANI)  
+11. [Part 78: HOW TO: Install a heat sink on a Raspberry Pi Compute Module 4 for use with ESXi 8.0](https://www.youtube.com/watch?v=DvWNsJNgYDA)  
+12. [Part 77: HOW TO: Install a Turing Pi v2 on a Streacom ST BC1 Mini Aluminium Open Benchtable](https://www.youtube.com/watch?v=ZizqW_hyxeM)  
+13. [Part 76: HOW TO: Upgrade a vSphere Hypervisor ESXi ARM 7.0 to ESXi ARM 8.0U3b using a depot fille](https://www.youtube.com/watch?v=oezKPXVJ8WM)  
+14. [Part 52: HOW TO: Fix Synchronous Exception at 0xXXXXX on vSphere ESXi 7.0 ARM on a RPi4](https://www.youtube.com/watch?v=GHEWu2dxFdk)  
+15. [Part 51: HOW TO: Update the vSphere Hypervisor ESXi 7.0 ARM edition from v1.12 to v1.15](https://www.youtube.com/watch?v=Wajd8EhDkP0)  
+
+
+## **Weekly Broadcom and VMware News**
+
+1. [Broadcom/VMware News for Week Ending 2 November 2024](https://www.youtube.com/watch?v=_0swAvzrvBQ)  
+2. [Broadcom/VMware News for Week Ending 9 November 2024 - VMUG Membership changed](https://www.youtube.com/watch?v=t4W-QOk9Ov8)  
+3. [Broadcom/VMware News for Week Ending 16 November 2024 - VMware Fusion & Workstation free everyone!](https://www.youtube.com/watch?v=7kojvWLai98)  
+4. [Broadcom/VMware News for Week Ending 23 November 2024 - Broadcom Anniversary of take over of VMware!](https://www.youtube.com/watch?v=AwSXzd9iYl0)  
+5. [Broadcom/VMware News for Week Ending 30 November 2024 - Broadcom Terminates the VCDX program!](https://www.youtube.com/watch?v=ll4oGYt6Sk0)  
+6. [Broadcom/VMware News for Week Ending 7th December 2024 - Broadcom makes another U-turn!](https://www.youtube.com/watch?v=ABlGjrIYoHw)  
+7. [Broadcom/VMware News for Week Ending 29 March 2025 - Broadcom ENDS FREE UPDATES !](https://www.youtube.com/watch?v=-VuHwaNqCSM)  
+8. [Broadcom Ends Free Updated via ESXCLI and vLCM if you do not have support](https://www.youtube.com/watch?v=nkncJK16NvU)  
+9. [Broadcom/VMware News for Week Ending 29 March 2025 updated! - Minimum Cores Increase from 16 to 72!](https://www.youtube.com/watch?v=M5J92adCJmc)  
+10. [VMware by Broadcom Weekly News   Week Ending 12th April 2025 - ESXi FREE IS BACK DOWNLOAD NOW!](https://www.youtube.com/watch?v=sJ-caKNVMeA)  
