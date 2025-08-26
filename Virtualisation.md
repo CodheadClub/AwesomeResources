@@ -486,7 +486,8 @@ A reminder that VMware vSphere 7.0 is End of Life in October 2025.
 13. [Minisforum MS-A2 Windows Server 2025 Driver Fix Minisforum MS-A2 Series Part 13 Ultimate #homelab](https://www.youtube.com/watch?v=BOlzi63o8sM)
 14. [Minisforum MS-A2 Can it Play Proxmox 9.0.3 Minisforum MS-A2 Series Part 14 Ultimate #homelab](https://www.youtube.com/watch?v=ZU9uCa_Grls)  
 15. [Minisforum MS-A2 Hyper-V to Proxmox 9.0 Migration Minisforum MS-A2 Series Part 15 Ultimate #homelab](https://www.youtube.com/watch?v=CaxhKAVN9VY)  
-16. [Minisforum MS-A2 Can it Play XCP-ng 8.3 LTS Minisforum MS-A2 Series Part 16 Ultimate #homelab](https://youtu.be/flBcfmlPjto)
+16. [Minisforum MS-A2 Can it Play XCP-ng 8.3 LTS Minisforum MS-A2 Series Part 16 Ultimate #homelab](https://www.youtube.com/watch?v=flBcfmlPjto)  
+17. [Minisforum MS-A2 Can it Play Nutanix AHV Minisforum MS-A2 Series Part 17 Ultimate #homelab](https://www.youtube.com/watch?v=vafxX6Mqy1E)  
 
 ## **HOW TO: Veeam Backup & Replication for VMware vSphere**
 
