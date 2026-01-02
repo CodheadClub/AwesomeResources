@@ -450,6 +450,8 @@ A reminder that VMware vSphere 7.0 is End of Life in October 2025.
 100. [Minisforum MS-A2 Can it Run ESXi 8.0.3g ? Minisforum MS-A2 Series Part 10 Ultimate #homelab](https://www.youtube.com/watch?v=axCImhDH2qg)  
 101. [VMware Software Downloads Require Authorization from March 24, 2025!](https://www.youtube.com/watch?v=93-a0cC31S8)  
 102. [VMware vSphere Hypervisor ESXi FREE IS BACK - NO CLICKBAIT!](https://www.youtube.com/watch?v=8FfOaHJmN2I)  
+103. [Part 100: HOW TO: Generate a Download Token and configure vCenter Server 7.x to download updates](https://www.youtube.com/watch?v=uIESzAmYb7E)
+104. [Part 101: HOW TO: P2V A Linux Ubuntu PC using VMware vCenter Converter Standalone 9.0](https://www.youtube.com/watch?v=PTpApnH8hrA)
 
 On 17th June 2025, Broadcom by VMware released VCF 9.0 (VMware Cloud Foundation)
 
@@ -467,7 +469,26 @@ A reminder that VMware vSphere 7.0 is End of Life in October 2025.
 6. [HOW TO: Create an Offline Depot with a Python script | VCF 9.0 Component Deployment Guide](https://www.youtube.com/watch?v=VMmvC2ydLME)  
 7. [Minisforum MS-A2 Can it Run ESXi 9.0.0? Minisforum MS-A2 Series Part 11 Ultimate #homelab](https://www.youtube.com/watch?v=vcRp4RhYSYQ)  
  
+ 
+## **DIY UnRAID NAS**
 
+DIY UnRAID NAS Series 
+
+In my latest DIY UnRaid NAS Series, I design, build, and troubleshoot a compact but powerful homelab NAS using UnRaid as the platform of choice. The series walks through real-world decisions around hardware selection, storage layout, networking, and virtualisation, rather than idealised lab scenarios.
+
+Using modern small-form-factor hardware (Intel NUC), I cover UnRAID installation and configuration, Docker and VM deployment, and common pain points such as network adapter quirks, fibre NIC compatibility, passthrough behaviour, and performance tuning. Along the way, I integrate services like Plex, explore GPU / transcoding considerations, and deal with issues you actually hit when running UnRAID 24/7.
+
+This isn’t a “perfect build” series — it’s a hands-on, problem-solving journey that reflects how most homelabs evolve: testing, breaking, fixing, and improving. If you’re building or refining a DIY NAS or homelab, this series shows what works, what doesn’t, and why.
+
+1. [Part 1: DIY UnRaid 'MEGA' NVMe NAS using Intel NUC 11 Extreme (Beast Canyon)](https://www.youtube.com/watch?v=zwnuAnfvPyk)
+2. [Part 2: DIY UnRaid NAS – Testing the Hardware with Windows 11  (and When Things Go Pete Tong!)](https://www.youtube.com/watch?v=JEjCMXwYDSg)
+3. [Part 3: DIY UnRaid NAS – Checking Power Requirements & Stability Testing with OCCT](https://www.youtube.com/watch?v=OBkEW9rmE04)
+4. [Part 4: DIY UnRaid NAS - Insert new 10GBe NIC](https://www.youtube.com/watch?v=dTw9T4tYlbk)
+5. [Part 5: DIY UnRaid NAS - Making use of the free internal USB Headers in an Intel NUC 11 Extreme](https://www.youtube.com/watch?v=kV-RoENSyM8)
+6. [Part 6: DIY UnRaid NAS - Installing Samsung 990 Pro Gen 4 NVMe M.2 SSD in an Intel NUC 11 Extreme](https://www.youtube.com/watch?v=qYd-OcXnjrw)
+7. [Part 7: DIY UnRaid NAS "BY THE POWER OF UNRAID" THE SCRET REVEALED](https://www.youtube.com/watch?v=lSZPN5wfNEY)
+8. [Part 8: DIY UnRaid NAS: Preparing the Zero-Downtime NVMe Upgrade (512GB → 4TB)](https://www.youtube.com/watch?v=RsnFDzuDF80)
+9. [Outtake from Part 4: Blooper from Hancock's VMware Half Hour](https://www.youtube.com/watch?v=JxQPaKKyMVo)
 
 ## **Minisforum MS-A2 Series**
 
@@ -486,6 +507,8 @@ A reminder that VMware vSphere 7.0 is End of Life in October 2025.
 13. [Minisforum MS-A2 Windows Server 2025 Driver Fix Minisforum MS-A2 Series Part 13 Ultimate #homelab](https://www.youtube.com/watch?v=BOlzi63o8sM)
 14. [Minisforum MS-A2 Can it Play Proxmox 9.0.3 Minisforum MS-A2 Series Part 14 Ultimate #homelab](https://www.youtube.com/watch?v=ZU9uCa_Grls)  
 15. [Minisforum MS-A2 Hyper-V to Proxmox 9.0 Migration Minisforum MS-A2 Series Part 15 Ultimate #homelab](https://www.youtube.com/watch?v=CaxhKAVN9VY)  
+16. [Minisforum MS-A2 Can it Play XCP-ng 8.3 LTS Minisforum MS-A2 Series Part 16 Ultimate #homelab](https://www.youtube.com/watch?v=flBcfmlPjto)  
+17. [Minisforum MS-A2 Can it Play Nutanix AHV Minisforum MS-A2 Series Part 17 Ultimate #homelab](https://www.youtube.com/watch?v=vafxX6Mqy1E)  
 
 ## **HOW TO: Veeam Backup & Replication for VMware vSphere**
 
