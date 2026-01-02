@@ -469,7 +469,26 @@ A reminder that VMware vSphere 7.0 is End of Life in October 2025.
 6. [HOW TO: Create an Offline Depot with a Python script | VCF 9.0 Component Deployment Guide](https://www.youtube.com/watch?v=VMmvC2ydLME)  
 7. [Minisforum MS-A2 Can it Run ESXi 9.0.0? Minisforum MS-A2 Series Part 11 Ultimate #homelab](https://www.youtube.com/watch?v=vcRp4RhYSYQ)  
  
+ 
+## **DIY UnRAID NAS**
 
+DIY UnRAID NAS Series 
+
+In my latest DIY UnRAID NAS Series, I design, build, and troubleshoot a compact but powerful homelab NAS using UnRAID as the platform of choice. The series walks through real-world decisions around hardware selection, storage layout, networking, and virtualisation, rather than idealised lab scenarios.
+
+Using modern small-form-factor hardware (including Minisforum-class systems), I cover UnRAID installation and configuration, Docker and VM deployment, and common pain points such as network adapter quirks, fibre NIC compatibility, passthrough behaviour, and performance tuning. Along the way, I integrate services like Plex, explore GPU / transcoding considerations, and deal with issues you actually hit when running UnRAID 24/7.
+
+This isn’t a “perfect build” series — it’s a hands-on, problem-solving journey that reflects how most homelabs evolve: testing, breaking, fixing, and improving. If you’re building or refining a DIY NAS or homelab, this series shows what works, what doesn’t, and why.
+
+1. [PART 1: DIY UnRAID 'MEGA' NVMe NAS using Intel NUC 11 Extreme (Beast Canyon)](https://www.youtube.com/watch?v=zwnuAnfvPyk)
+2. [PART 2: DIY UnRaid NAS – Testing the Hardware with Windows 11  (and When Things Go Pete Tong!)](https://www.youtube.com/watch?v=JEjCMXwYDSg)
+3. [PART 3: DIY UnRaid NAS – Checking Power Requirements & Stability Testing with OCCT](https://www.youtube.com/watch?v=OBkEW9rmE04)
+4. [Part 4: DIY UnRAID NAS - Insert new 10GBe NIC](https://www.youtube.com/watch?v=dTw9T4tYlbk)
+5. [Part 5: DIY UNRAID NAS - Making use of the free internal USB Headers in an Intel NUC 11 Extreme](https://www.youtube.com/watch?v=kV-RoENSyM8)
+6. [Part 6: DIY UNRAID NAS - Installing Samsung 990 Pro Gen 4 NVMe M.2 SSD in an Intel NUC 11 Extreme](https://www.youtube.com/watch?v=qYd-OcXnjrw)
+7. [Part 7: DIY UNRAID NAS "BY THE POWER OF UNRAID" THE SCRET REVEALED](https://www.youtube.com/watch?v=lSZPN5wfNEY)
+8. [Part 8: DIY UNRAID NAS: Preparing the Zero-Downtime NVMe Upgrade (512GB → 4TB)](https://www.youtube.com/watch?v=RsnFDzuDF80)
+9. [Outtake from Part 4: Blooper from Hancock's VMware Half Hour](https://www.youtube.com/watch?v=JxQPaKKyMVo)
 
 ## **Minisforum MS-A2 Series**
 
