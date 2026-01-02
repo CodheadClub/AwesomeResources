@@ -450,6 +450,8 @@ A reminder that VMware vSphere 7.0 is End of Life in October 2025.
 100. [Minisforum MS-A2 Can it Run ESXi 8.0.3g ? Minisforum MS-A2 Series Part 10 Ultimate #homelab](https://www.youtube.com/watch?v=axCImhDH2qg)  
 101. [VMware Software Downloads Require Authorization from March 24, 2025!](https://www.youtube.com/watch?v=93-a0cC31S8)  
 102. [VMware vSphere Hypervisor ESXi FREE IS BACK - NO CLICKBAIT!](https://www.youtube.com/watch?v=8FfOaHJmN2I)  
+103. [Part 100: HOW TO: Generate a Download Token and configure vCenter Server 7.x to download updates](https://www.youtube.com/watch?v=uIESzAmYb7E)
+104. [Part 101: HOW TO: P2V A Linux Ubuntu PC using VMware vCenter Converter Standalone 9.0](https://www.youtube.com/watch?v=PTpApnH8hrA)
 
 On 17th June 2025, Broadcom by VMware released VCF 9.0 (VMware Cloud Foundation)
 
