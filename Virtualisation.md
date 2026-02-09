@@ -469,6 +469,7 @@ A reminder that VMware vSphere 7.0 is End of Life in October 2025.
 5. [HOW TO: Create an Offline Depot with a Synology NAS | VCF 9.0 Component Deployment Guide](https://www.youtube.com/watch?v=vhQHwLrEr3E)  
 6. [HOW TO: Create an Offline Depot with a Python script | VCF 9.0 Component Deployment Guide](https://www.youtube.com/watch?v=VMmvC2ydLME)  
 7. [Minisforum MS-A2 Can it Run ESXi 9.0.0? Minisforum MS-A2 Series Part 11 Ultimate #homelab](https://www.youtube.com/watch?v=vcRp4RhYSYQ)  
+8. [Minisforum MS-A2 HOW TO: Install the NEW Realtek driver on ESXi 9.0](https://www.youtube.com/watch?v=dKFEG1NtdPs)
  
  
 ## **DIY UnRAID NAS**
