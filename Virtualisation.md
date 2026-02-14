@@ -452,6 +452,7 @@ A reminder that VMware vSphere 7.0 is End of Life in October 2025.
 102. [VMware vSphere Hypervisor ESXi FREE IS BACK - NO CLICKBAIT!](https://www.youtube.com/watch?v=8FfOaHJmN2I)  
 103. [Part 100: HOW TO: Generate a Download Token and configure vCenter Server 7.x to download updates](https://www.youtube.com/watch?v=uIESzAmYb7E)
 104. [Part 101: HOW TO: P2V A Linux Ubuntu PC using VMware vCenter Converter Standalone 9.0](https://www.youtube.com/watch?v=PTpApnH8hrA)
+105. [Part 102: HOW TO: Create a Custom VMware ESXi 8.0 ISO with VMware Realtek Driver Fling (PowerCLI)](https://youtu.be/lucSPUzG5GI)
 
 On 17th June 2025, Broadcom by VMware released VCF 9.0 (VMware Cloud Foundation)
 
@@ -468,6 +469,7 @@ A reminder that VMware vSphere 7.0 is End of Life in October 2025.
 5. [HOW TO: Create an Offline Depot with a Synology NAS | VCF 9.0 Component Deployment Guide](https://www.youtube.com/watch?v=vhQHwLrEr3E)  
 6. [HOW TO: Create an Offline Depot with a Python script | VCF 9.0 Component Deployment Guide](https://www.youtube.com/watch?v=VMmvC2ydLME)  
 7. [Minisforum MS-A2 Can it Run ESXi 9.0.0? Minisforum MS-A2 Series Part 11 Ultimate #homelab](https://www.youtube.com/watch?v=vcRp4RhYSYQ)  
+8. [Minisforum MS-A2 HOW TO: Install the NEW Realtek driver on ESXi 9.0](https://www.youtube.com/watch?v=dKFEG1NtdPs)
  
  
 ## **DIY UnRAID NAS**
@@ -509,6 +511,9 @@ This isn’t a “perfect build” series — it’s a hands-on, problem-solving
 15. [Minisforum MS-A2 Hyper-V to Proxmox 9.0 Migration Minisforum MS-A2 Series Part 15 Ultimate #homelab](https://www.youtube.com/watch?v=CaxhKAVN9VY)  
 16. [Minisforum MS-A2 Can it Play XCP-ng 8.3 LTS Minisforum MS-A2 Series Part 16 Ultimate #homelab](https://www.youtube.com/watch?v=flBcfmlPjto)  
 17. [Minisforum MS-A2 Can it Play Nutanix AHV Minisforum MS-A2 Series Part 17 Ultimate #homelab](https://www.youtube.com/watch?v=vafxX6Mqy1E)  
+18. [Minisforum MS-A2 HOW TO: Install the NEW Realtek driver on ESXi 8.0](https://www.youtube.com/watch?v=B1TTVNoDc14)
+19. [Minisforum MS-A2 HOW TO: Install the NEW Realtek driver on ESXi 9.0](https://www.youtube.com/watch?v=dKFEG1NtdPs)
+
 
 ## **HOW TO: Veeam Backup & Replication for VMware vSphere**
 
