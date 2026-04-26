@@ -16,7 +16,6 @@ from github import Github, GithubException, Auth
 from urllib.parse import urlparse
 
 # Constants
-REPO_NAME = os.getenv('GITHUB_REPOSITORY', 'CodheadClub/AwesomeResources')
 CACHE_FILE = '.github/scripts/link_check_cache.json'
 REPORT_BRANCH = 'automated/link-checker-report'
 REPORT_FILE = 'LINK_CHECKER_REPORT.md'
@@ -164,7 +163,7 @@ def check_spam_blacklist(url, cache):
             return entry['is_blacklisted'], entry.get('threat')
 
     try:
-        resp = requests.post(URLHAUS_HOST_API, data={'host': host}, timeout=10)
+        resp = requests.post(URLHAUS_HOST_API, data={'host': host}, timeout=TIMEOUT)
         if resp.status_code == 200:
             data = resp.json()
             is_blacklisted = data.get('query_status') == 'is_listed'
@@ -326,13 +325,13 @@ def create_or_update_pr(github_client, repo_name, report_content, has_issues):
 
     # Update existing open PR or create a new one
     owner = repo.owner.login
-    existing_prs = list(repo.get_pulls(
+    existing_pr = next(iter(repo.get_pulls(
         head=f'{owner}:{REPORT_BRANCH}',
         base=default_branch,
         state='open',
-    ))
-    if existing_prs:
-        pr = existing_prs[0]
+    )), None)
+    if existing_pr:
+        pr = existing_pr
         pr.edit(title=pr_title, body=pr_body)
         print(f"Updated existing PR #{pr.number}: {pr.html_url}")
         return pr.number
@@ -360,7 +359,10 @@ def main():
 
     github_client = Github(auth=Auth.Token(github_token))
 
-    repo_name = os.getenv('GITHUB_REPOSITORY', REPO_NAME)
+    repo_name = os.getenv('GITHUB_REPOSITORY')
+    if not repo_name:
+        print("Error: GITHUB_REPOSITORY environment variable is not set")
+        exit(1)
     print(f"Running link checker for repository: {repo_name}")
 
     cache = load_cache()
