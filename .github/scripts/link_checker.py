@@ -10,10 +10,13 @@ import os
 import re
 import json
 import datetime
+import threading
 import requests
 from bs4 import BeautifulSoup
 from github import Github, GithubException, Auth
 from urllib.parse import urlparse
+from collections import defaultdict
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # Constants
 CACHE_FILE = '.github/scripts/link_check_cache.json'
@@ -24,8 +27,9 @@ HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 '
                   '(KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
 }
-TIMEOUT = 30          # seconds for HTTP requests
+TIMEOUT = 10          # seconds for HTTP requests
 RETRY_COUNT = 2       # retries per link
+MAX_WORKERS = 20      # parallel link-check threads
 REVIEW_PERIOD_DAYS = 60  # don't recheck links reviewed within this period
 ERROR_CODES = [404, 500, 502, 503, 504]
 URLHAUS_HOST_API = 'https://urlhaus-api.abuse.ch/v1/host/'
@@ -141,12 +145,13 @@ def check_link(url):
     return True, is_insecure, status_code
 
 
-def check_spam_blacklist(url, cache):
+def check_spam_blacklist(url, cache, cache_lock):
     """
     Check whether the URL's hostname is listed in the URLhaus blacklist.
 
     Results are cached inside the shared cache dict under 'urlhaus:<host>'
-    keys to avoid hammering the API on repeated runs.
+    keys to avoid hammering the API on repeated runs.  ``cache_lock`` must
+    be held whenever the shared cache dict is read or written.
 
     Returns:
         (is_blacklisted: bool, threat: str|None)
@@ -156,11 +161,12 @@ def check_spam_blacklist(url, cache):
         return False, None
 
     cache_key = f'urlhaus:{host}'
-    if cache_key in cache:
-        entry = cache[cache_key]
-        last_checked = datetime.datetime.fromisoformat(entry['last_checked'])
-        if (datetime.datetime.now() - last_checked).days < REVIEW_PERIOD_DAYS:
-            return entry['is_blacklisted'], entry.get('threat')
+    with cache_lock:
+        if cache_key in cache:
+            entry = cache[cache_key]
+            last_checked = datetime.datetime.fromisoformat(entry['last_checked'])
+            if (datetime.datetime.now() - last_checked).days < REVIEW_PERIOD_DAYS:
+                return entry['is_blacklisted'], entry.get('threat')
 
     try:
         resp = requests.post(URLHAUS_HOST_API, data={'host': host}, timeout=TIMEOUT)
@@ -170,11 +176,12 @@ def check_spam_blacklist(url, cache):
             threat = None
             if is_blacklisted and data.get('urls'):
                 threat = data['urls'][0].get('threat', 'blacklisted')
-            cache[cache_key] = {
-                'last_checked': datetime.datetime.now().isoformat(),
-                'is_blacklisted': is_blacklisted,
-                'threat': threat,
-            }
+            with cache_lock:
+                cache[cache_key] = {
+                    'last_checked': datetime.datetime.now().isoformat(),
+                    'is_blacklisted': is_blacklisted,
+                    'threat': threat,
+                }
             return is_blacklisted, threat
     except Exception as exc:
         print(f"Error querying URLhaus for {host}: {exc}")
@@ -350,6 +357,20 @@ def create_or_update_pr(github_client, repo_name, report_content, has_issues):
 # Main
 # ---------------------------------------------------------------------------
 
+def _check_link_task(link, cache, cache_lock):
+    """
+    Worker function executed in a thread pool.
+
+    Returns a tuple:
+        (link, is_broken, is_insecure, status_code, is_spam, threat)
+    """
+    is_broken, is_insecure, status_code = check_link(link)
+    is_spam, threat = False, None
+    if not is_broken:
+        is_spam, threat = check_spam_blacklist(link, cache, cache_lock)
+    return link, is_broken, is_insecure, status_code, is_spam, threat
+
+
 def main():
     # Initialise GitHub client using the built-in GITHUB_TOKEN
     github_token = os.getenv('GITHUB_TOKEN')
@@ -377,31 +398,46 @@ def main():
         and not root.startswith('./.git')
     ]
 
+    # Build a deduplicated map of url -> [files] across all markdown files.
+    # A URL that appears in multiple files is only checked once.
+    link_to_files = defaultdict(list)
+    for file_path in markdown_files:
+        print(f"Extracting links from {file_path}...")
+        for link in extract_links_from_markdown(file_path):
+            if file_path not in link_to_files[link]:
+                link_to_files[link].append(file_path)
+
+    # Determine which links still need to be checked (skip recently-reviewed good ones)
+    now = datetime.datetime.now()
+    links_to_check = []
+    for link in link_to_files:
+        if link in cache:
+            entry = cache[link]
+            last_checked = datetime.datetime.fromisoformat(entry['last_checked'])
+            days_since = (now - last_checked).days
+            if (days_since < REVIEW_PERIOD_DAYS
+                    and entry.get('reviewed')
+                    and not entry.get('issue_open')):
+                print(f"  Skipping recently reviewed: {link}")
+                continue
+        links_to_check.append(link)
+
+    print(f"\nChecking {len(links_to_check)} unique links "
+          f"({len(link_to_files) - len(links_to_check)} skipped from cache) "
+          f"using up to {MAX_WORKERS} parallel workers...\n")
+
     results = {'broken': [], 'insecure': [], 'spam': []}
 
-    for file_path in markdown_files:
-        print(f"Checking links in {file_path}...")
-        for link in extract_links_from_markdown(file_path):
-
-            # Skip recently reviewed links that are known-good
-            if link in cache:
-                entry = cache[link]
-                last_checked = datetime.datetime.fromisoformat(
-                    entry['last_checked']
-                )
-                days_since = (datetime.datetime.now() - last_checked).days
-                if (days_since < REVIEW_PERIOD_DAYS
-                        and entry.get('reviewed')
-                        and not entry.get('issue_open')):
-                    print(f"  Skipping recently reviewed: {link}")
-                    continue
-
-            is_broken, is_insecure, status_code = check_link(link)
-
-            # Spam / blacklist check (skip for already-broken links)
-            is_spam, threat = False, None
-            if not is_broken:
-                is_spam, threat = check_spam_blacklist(link, cache)
+    # Check all links in parallel; a shared lock guards the cache dict.
+    cache_lock = threading.Lock()
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+        futures = {
+            executor.submit(_check_link_task, link, cache, cache_lock): link
+            for link in links_to_check
+        }
+        for future in as_completed(futures):
+            link, is_broken, is_insecure, status_code, is_spam, threat = future.result()
+            files = link_to_files[link]
 
             # Update cache entry
             cache.setdefault(link, {
@@ -412,21 +448,22 @@ def main():
             })
             cache[link]['last_checked'] = current_date
 
-            # Collect results
-            if is_broken:
-                results['broken'].append(
-                    {'url': link, 'file': file_path, 'status': status_code}
-                )
-                print(f"  BROKEN: {link} ({status_code})")
-            elif is_insecure:
-                results['insecure'].append({'url': link, 'file': file_path})
-                print(f"  INSECURE: {link}")
+            # Collect results (one entry per source file)
+            for file_path in files:
+                if is_broken:
+                    results['broken'].append(
+                        {'url': link, 'file': file_path, 'status': status_code}
+                    )
+                    print(f"  BROKEN: {link} ({status_code}) in {file_path}")
+                elif is_insecure:
+                    results['insecure'].append({'url': link, 'file': file_path})
+                    print(f"  INSECURE: {link} in {file_path}")
 
-            if is_spam:
-                results['spam'].append(
-                    {'url': link, 'file': file_path, 'threat': threat}
-                )
-                print(f"  SPAM/BLACKLISTED: {link} ({threat})")
+                if is_spam:
+                    results['spam'].append(
+                        {'url': link, 'file': file_path, 'threat': threat}
+                    )
+                    print(f"  SPAM/BLACKLISTED: {link} ({threat}) in {file_path}")
 
     total_issues = sum(len(v) for v in results.values())
     print(f"\nLink check complete. Found {total_issues} issue(s).")
