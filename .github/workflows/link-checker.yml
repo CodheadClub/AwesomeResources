@@ -12,12 +12,12 @@ jobs:
   check-links:
     runs-on: ubuntu-latest
     name: Check for broken and insecure links
-    timeout-minutes: 30  # Add timeout to prevent hanging
-      # Need permissions to create issues and push changes
+    timeout-minutes: 30
+    # Need permissions to create PRs and push cache changes
     permissions:
       contents: write
-      issues: write
-    
+      pull-requests: write
+
     steps:
       # Step 1: Checkout repository
       - name: Checkout code
@@ -25,28 +25,28 @@ jobs:
         with:
           fetch-depth: 0  # Fetch all history for proper updating
 
-    # Step 2: Set up Python environment
+      # Step 2: Set up Python environment
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-          
-    # Step 3: Install required Python packages
+
+      # Step 3: Install required Python packages
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests markdown beautifulsoup4 PyGithub   
-      
+          pip install requests beautifulsoup4 PyGithub
+
       # Step 4: Configure Git
       - name: Configure Git
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
-      
+
       # Step 5: Execute link checker script
       - name: Run link checker
         env:
-          GITHUB_TOKEN: ${{ secrets.CHECKER_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python ./.github/scripts/link_checker.py
 
       # Step 6: Commit and push cache updates
