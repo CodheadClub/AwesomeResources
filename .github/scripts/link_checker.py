@@ -293,12 +293,43 @@ def generate_report(results):
 # PR creation / update
 # ---------------------------------------------------------------------------
 
+def _create_or_update_issue(repo, title, body):
+    """
+    Fall-back reporter: create or update a GitHub Issue with the report.
+
+    Used when the GitHub token does not have permission to create pull requests
+    (e.g. the repository's Actions settings have PR creation disabled).
+    Searches for an existing open issue whose title starts with the constant
+    prefix '🔗 Link Checker Report' and updates it; otherwise opens a new one.
+    """
+    issue_title_prefix = "🔗 Link Checker Report"
+    existing_issue = next(
+        (
+            i for i in repo.get_issues(state='open', sort='updated', direction='desc')
+            if i.title.startswith(issue_title_prefix) and i.pull_request is None
+        ),
+        None,
+    )
+    if existing_issue:
+        existing_issue.edit(title=title, body=body)
+        print(f"Updated existing issue #{existing_issue.number}: {existing_issue.html_url}")
+        return existing_issue.number
+    else:
+        issue = repo.create_issue(title=title, body=body)
+        print(f"Created new issue #{issue.number}: {issue.html_url}")
+        return issue.number
+
+
 def create_or_update_pr(github_client, repo_name, report_content, has_issues):
     """
     Push the report to the report branch and create or update a PR.
 
     The report branch is reset to the tip of the default branch on every run
     so the PR always shows a clean, single-commit diff.
+
+    If the GitHub token does not have permission to create pull requests (403),
+    the function falls back to creating or updating a GitHub Issue instead so
+    that the run does not fail entirely.
     """
     repo = github_client.get_repo(repo_name)
     default_branch = repo.default_branch
@@ -359,14 +390,26 @@ def create_or_update_pr(github_client, repo_name, report_content, has_issues):
         print(f"Updated existing PR #{pr.number}: {pr.html_url}")
         return pr.number
     else:
-        pr = repo.create_pull(
-            title=pr_title,
-            body=pr_body,
-            head=REPORT_BRANCH,
-            base=default_branch,
-        )
-        print(f"Created new PR #{pr.number}: {pr.html_url}")
-        return pr.number
+        try:
+            pr = repo.create_pull(
+                title=pr_title,
+                body=pr_body,
+                head=REPORT_BRANCH,
+                base=default_branch,
+            )
+            print(f"Created new PR #{pr.number}: {pr.html_url}")
+            return pr.number
+        except GithubException as exc:
+            if exc.status != 403:
+                raise
+            # 403 is returned when the repository's Actions settings forbid
+            # token-based PR creation.  Fall back to a GitHub Issue so the
+            # workflow run still surfaces its findings without crashing.
+            print(
+                f"Warning: could not create PR (403 {exc.data.get('message', '')}). "
+                "Falling back to GitHub Issue."
+            )
+            return _create_or_update_issue(repo, pr_title, pr_body)
 
 
 # ---------------------------------------------------------------------------
@@ -496,10 +539,10 @@ def main():
 
     # Generate report and publish PR
     report_content = generate_report(results)
-    pr_number = create_or_update_pr(
+    report_number = create_or_update_pr(
         github_client, repo_name, report_content, has_issues=total_issues > 0
     )
-    print(f"Report PR: #{pr_number}")
+    print(f"Report: #{report_number}")
 
     # Persist cache (workflow commits this file back to the default branch)
     save_cache(cache)
