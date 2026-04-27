@@ -35,6 +35,22 @@ ERROR_CODES = [404, 500, 502, 503, 504]
 URLHAUS_HOST_API = 'https://urlhaus-api.abuse.ch/v1/host/'
 SKIP_DOMAINS = {'localhost', '127.0.0.1', 'example.com', 'example.org'}
 
+# Domains considered inherently trustworthy — skip the URLhaus spam check for
+# these.  Liveness (HTTP reachability) is still verified.
+TRUSTED_DOMAINS = {
+    'youtube.com', 'www.youtube.com', 'youtu.be',
+    'github.com', 'www.github.com', 'gist.github.com', 'raw.githubusercontent.com',
+    'en.wikipedia.org', 'wikipedia.org',
+    'stackoverflow.com', 'www.stackoverflow.com', 'superuser.com',
+    'microsoft.com', 'learn.microsoft.com', 'docs.microsoft.com',
+    'python.org', 'docs.python.org', 'pypi.org',
+    'mozilla.org', 'developer.mozilla.org',
+    'archive.org', 'web.archive.org',
+    'reddit.com', 'www.reddit.com',
+    'twitter.com', 'x.com', 'www.twitter.com',
+    'linkedin.com', 'www.linkedin.com',
+}
+
 
 # ---------------------------------------------------------------------------
 # Cache helpers
@@ -361,12 +377,16 @@ def _check_link_task(link, cache, cache_lock):
     """
     Worker function executed in a thread pool.
 
+    Trusted domains (e.g. YouTube, GitHub) skip the URLhaus spam check — their
+    liveness is still verified via a HEAD/GET request.
+
     Returns a tuple:
         (link, is_broken, is_insecure, status_code, is_spam, threat)
     """
     is_broken, is_insecure, status_code = check_link(link)
     is_spam, threat = False, None
-    if not is_broken:
+    host = urlparse(link).netloc
+    if not is_broken and host not in TRUSTED_DOMAINS:
         is_spam, threat = check_spam_blacklist(link, cache, cache_lock)
     return link, is_broken, is_insecure, status_code, is_spam, threat
 
@@ -439,14 +459,20 @@ def main():
             link, is_broken, is_insecure, status_code, is_spam, threat = future.result()
             files = link_to_files[link]
 
-            # Update cache entry
-            cache.setdefault(link, {
-                'last_checked': current_date,
-                'reviewed': False,
-                'issue_open': False,
-                'issue_number': None,
-            })
-            cache[link]['last_checked'] = current_date
+            # Update cache entry — protected by the same lock used in threads.
+            # Mark the link as reviewed so it is skipped on future runs when
+            # healthy; keep issue_open=True for broken/spam links so they are
+            # always re-checked until fixed.
+            with cache_lock:
+                cache.setdefault(link, {
+                    'last_checked': current_date,
+                    'reviewed': False,
+                    'issue_open': False,
+                    'issue_number': None,
+                })
+                cache[link]['last_checked'] = current_date
+                cache[link]['reviewed'] = not (is_broken or is_spam)
+                cache[link]['issue_open'] = is_broken or is_spam
 
             # Collect results (one entry per source file)
             for file_path in files:
