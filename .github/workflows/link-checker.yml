@@ -13,10 +13,11 @@ jobs:
     runs-on: ubuntu-latest
     name: Check for broken and insecure links
     timeout-minutes: 30
-    # Need permissions to create PRs and push cache changes
+    # Need permissions to create PRs, issues, and push cache changes
     permissions:
       contents: write
       pull-requests: write
+      issues: write
 
     steps:
       # Step 1: Checkout repository
