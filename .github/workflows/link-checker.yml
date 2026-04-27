@@ -50,9 +50,22 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python ./.github/scripts/link_checker.py
 
-      # Step 6: Commit and push cache updates
+      # Step 6: Commit and push cache updates via a pull request
       - name: Commit cache changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          if git diff --quiet .github/scripts/link_check_cache.json; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          BRANCH="bot/update-link-check-cache-$(date +%Y%m%d%H%M%S)"
+          git checkout -b "$BRANCH"
           git add .github/scripts/link_check_cache.json
-          git commit -m "Update link check cache" || echo "No changes to commit"
-          git push
+          git commit -m "Update link check cache"
+          git push origin "$BRANCH"
+          gh pr create \
+            --title "Update link check cache" \
+            --body "Automated update of the link check cache by the Broken Link Checker workflow." \
+            --base master \
+            --head "$BRANCH"
