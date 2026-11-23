@@ -338,6 +338,8 @@ A reminder that VMware vSphere 7.0 is End of Life in October 2025.
 91. [HOW TO: Resize a Windows Server 2025 virtual machine disk using VMware vCenter Standalone Converter](https://www.youtube.com/watch?v=ODhsnQeTjuE)  
 92. [Part 91: HOW TO: Resize a Windows 11 virtual machine disk using VMware vCenter Standalone Converter](https://www.youtube.com/watch?v=oKFqpL5iMNk)  
 93. [Part 92: HOW TO: Resize a Windows Server 2025 VM disk using VMware vCenter Standalone Converter](https://www.youtube.com/watch?v=tcnkbViDdHE)  
+94. [Hancock's VMware Half Hour – ESXi Password Recovery Toolkit 4.0 | Demo Preview](https://youtu.be/pqXi2rcg4T4)
+95. [Part 93: HOW TO: Reset a Lost ESXi Root Password in Under 30 Minutes](https://youtu.be/mCtsc7I1V_I)
 
 
 ## **HOW TO: VMware vSphere 8.0**
@@ -453,6 +455,9 @@ A reminder that VMware vSphere 7.0 is End of Life in October 2025.
 103. [Part 100: HOW TO: Generate a Download Token and configure vCenter Server 7.x to download updates](https://www.youtube.com/watch?v=uIESzAmYb7E)
 104. [Part 101: HOW TO: P2V A Linux Ubuntu PC using VMware vCenter Converter Standalone 9.0](https://www.youtube.com/watch?v=PTpApnH8hrA)
 105. [Part 102: HOW TO: Create a Custom VMware ESXi 8.0 ISO with VMware Realtek Driver Fling (PowerCLI)](https://youtu.be/lucSPUzG5GI)
+106. [Part 103: HOW TO: Virtualbox, how to automate the creation of an appliance file](https://youtu.be/Nz2vhgU01qM)
+107. [Hancock's VMware Half Hour – ESXi Password Recovery Toolkit 4.0 | Demo Preview](https://youtu.be/pqXi2rcg4T4)
+108. [Part 104: HOW TO: 103 Reset a Lost ESXi Root Password in Under 30 Minutes](https://youtu.be/mCtsc7I1V_I)
 
 On 17th June 2025, Broadcom by VMware released VCF 9.0 (VMware Cloud Foundation)
 
@@ -470,6 +475,9 @@ A reminder that VMware vSphere 7.0 is End of Life in October 2025.
 6. [HOW TO: Create an Offline Depot with a Python script | VCF 9.0 Component Deployment Guide](https://www.youtube.com/watch?v=VMmvC2ydLME)  
 7. [Minisforum MS-A2 Can it Run ESXi 9.0.0? Minisforum MS-A2 Series Part 11 Ultimate #homelab](https://www.youtube.com/watch?v=vcRp4RhYSYQ)  
 8. [Minisforum MS-A2 HOW TO: Install the NEW Realtek driver on ESXi 9.0](https://www.youtube.com/watch?v=dKFEG1NtdPs)
+9. [HOW TO: Create a Custom VCF 9.0 VMware ESXi 9.0 ISO with VMware Realtek Driver Fling (PowerCLI)](https://youtu.be/NUho-ilS3Qk)
+10. [Hancock's VMware Half Hour – ESXi Password Recovery Toolkit 4.0 | Demo Preview](https://youtu.be/pqXi2rcg4T4)
+11. [HOW TO: Reset a Lost ESXi Root Password in Under 30 Minutes](https://youtu.be/mCtsc7I1V_I)
  
  
 ## **DIY UnRAID NAS**
@@ -491,6 +499,8 @@ This isn’t a “perfect build” series — it’s a hands-on, problem-solving
 7. [Part 7: DIY UnRaid NAS "BY THE POWER OF UNRAID" THE SCRET REVEALED](https://www.youtube.com/watch?v=lSZPN5wfNEY)
 8. [Part 8: DIY UnRaid NAS: Preparing the Zero-Downtime NVMe Upgrade (512GB → 4TB)](https://www.youtube.com/watch?v=RsnFDzuDF80)
 9. [Outtake from Part 4: Blooper from Hancock's VMware Half Hour](https://www.youtube.com/watch?v=JxQPaKKyMVo)
+10. [Part 9: DIY UNRAID NAS – Dual 4TB NVMe Cache Upgrade with Live Btrfs RAID1 Rebalance Firmware Flash](https://youtu.be/M2w6ldAgcLE)
+11. [Part 10: DIY UNRAID NAS - Unraid VM Backups](https://youtu.be/8Tm2YLA-whA)
 
 ## **Minisforum MS-A2 Series**
 
@@ -513,6 +523,7 @@ This isn’t a “perfect build” series — it’s a hands-on, problem-solving
 17. [Minisforum MS-A2 Can it Play Nutanix AHV Minisforum MS-A2 Series Part 17 Ultimate #homelab](https://www.youtube.com/watch?v=vafxX6Mqy1E)  
 18. [Minisforum MS-A2 HOW TO: Install the NEW Realtek driver on ESXi 8.0](https://www.youtube.com/watch?v=B1TTVNoDc14)
 19. [Minisforum MS-A2 HOW TO: Install the NEW Realtek driver on ESXi 9.0](https://www.youtube.com/watch?v=dKFEG1NtdPs)
+20. [Minisforum MS-A2 HOW TO: Fix the Failed to Update CPU#0 Microcode PSOD with ESXi 8.0.3i ESXi 8.0u3i](https://youtu.be/lfCzUo0zs70)
 
 
 ## **HOW TO: Veeam Backup & Replication for VMware vSphere**
